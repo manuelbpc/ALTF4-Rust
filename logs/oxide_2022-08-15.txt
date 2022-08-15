@@ -160,3 +160,969 @@
 01:26 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
 01:26 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
 01:29 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+00:12 [Info] [Death Notes] Void killed a Boar using their Salvaged Axe.
+00:19 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+00:19 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+00:20 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+00:20 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+00:21 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+00:22 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+00:22 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:03 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:03 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:04 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:05 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:05 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:15 [Info] [Death Notes] Void blew up the Bradley APC with their High Velocity Rocket.
+01:16 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:16 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+01:20 [Info] [Death Notes] Void shot a Stag using their High Velocity Rocket over a distance of 22.8 meters.
+01:20 [Info] [Death Notes] Void shot a Stag using their High Velocity Rocket over a distance of 24.9 meters.
+01:24 [Info] [Death Notes] Void shot a Chicken using their High Velocity Rocket over a distance of 8.8 meters.
+08:07 [Warning] [DEBUG] Load requested for plugin which is already loading: BoxLooters
+08:07 [Warning] [DEBUG] Load requested for plugin which is already loading: AdminLogger
+08:07 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+08:07 [Error] Plugin filename AdminHammer_1.cs must match the main class AdminHammer (should be AdminHammer.cs)
+08:07 [Info] ServerRewards, PermsUI, BoxLooters, AutoStashTraps, AdminDeepCover, BodiesToBags, BetterResearching, BetterChat, AntiSpam, AutomaticPluginUpdater, AutoDecay, AdvertMessages, AdminLogger and NTeleportation were compiled successfully in 2277ms
+08:07 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+08:07 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+08:07 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+08:07 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+08:07 [Warning] [BoxLooters] Attempting to remove old log entries
+08:07 [Warning] [BoxLooters] Removed 0 old records from BoxData
+08:07 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+08:07 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:07 [Warning] [Auto Stash Traps] Generating new configuration file...
+08:07 [Warning] [Auto Stash Traps] Config Loaded
+08:07 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+08:07 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+08:07 [Info] [Admin Deep Cover] Data File Loaded
+08:07 [Warning] [Admin Deep Cover] Initialized
+08:07 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+08:07 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+08:07 [Warning] [Better Researching] Creating a new configuration file
+08:07 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+08:07 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+08:07 [Warning] [Anti Spam] Creating a new configuration file
+08:07 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+08:07 [Warning] [Automatic Plugin Updater] Default configuration has been loaded.
+08:07 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:07 [Warning] [Auto Decay] Creating a new configuration file
+08:07 [Warning] [Automatic Plugin Updater] Checking for new versions for AutoDecay (current version 1.3.0)
+08:07 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:07 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+08:07 [Warning] [Automatic Plugin Updater] Checking for new versions for AdvertMessages (current version 3.0.2)
+08:07 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+08:07 [Warning] [Automatic Plugin Updater] Checking for new versions for AdminLogger (current version 2.4.0)
+08:07 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+08:07 [Info] [NTeleportation] Loaded default configuration.
+08:07 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 258ms
+08:07 [Warning] [Automatic Plugin Updater] Checking for new versions for NTeleportation (current version 1.7.0)
+08:07 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+08:07 [Warning] [Automatic Plugin Updater] AutoDecay is up to date! (version: 1.3.0)
+08:07 [Warning] [Automatic Plugin Updater] AdvertMessages is up to date! (version: 3.0.2)
+08:07 [Warning] [Automatic Plugin Updater] NTeleportation is up to date! (version: 1.7.0)
+08:07 [Warning] [Automatic Plugin Updater] AdminLogger is up to date! (version: 2.4.0)
+08:07 [Info] Unloaded plugin Death Notes v6.3.7 by LaserHydra
+08:08 [Info] [Auto Stash Traps] 150 Traps Generated
+08:13 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+08:13 [Warning] [Automatic Plugin Updater] Checking for new versions for AdminPanel (current version 1.4.7)
+08:13 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+08:13 [Warning] [Automatic Plugin Updater] AdminPanel is up to date! (version: 1.4.7)
+08:13 [Info] AdminAntiHackFix, AdminRadar, BetterLoot, FurnaceSplitter, GatherManager, InfoPanel, Kits, RemoverTool, StackSizeController, Vanish, ZoneManager, PermsUI, BoxLooters, AutoStashTraps, AdminDeepCover, BodiesToBags, BetterResearching, BetterChat, AntiSpam, AutomaticPluginUpdater, AutoDecay, AdvertMessages, AdminLogger and NTeleportation were compiled successfully in 2426ms
+08:13 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:13 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+08:13 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 224ms
+08:13 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:13 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:13 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 241ms
+08:13 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+08:13 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:13 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+08:13 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:13 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+08:13 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:13 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+08:13 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+08:13 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+08:13 [Warning] [BoxLooters] Saved Boxlooters data
+08:13 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:13 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 222ms
+08:13 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+08:13 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+08:13 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+08:13 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+08:13 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+08:13 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+08:13 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:13 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:13 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+08:13 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+08:13 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+08:13 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:13 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+08:13 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:13 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+08:13 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:13 [Info] [BetterLoot] Updating internals ...
+08:13 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:13 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:13 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 213ms
+08:13 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+08:13 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1087ms
+08:13 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:13 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+08:13 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:13 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+08:13 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:13 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+08:13 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+08:13 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+08:13 [Warning] [BoxLooters] Attempting to remove old log entries
+08:13 [Warning] [BoxLooters] Removed 0 old records from BoxData
+08:13 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+08:13 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:13 [Warning] [Auto Stash Traps] Config Loaded
+08:13 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+08:13 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+08:13 [Info] [Admin Deep Cover] Data File Loaded
+08:13 [Warning] [Admin Deep Cover] Initialized
+08:13 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+08:13 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+08:13 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+08:13 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+08:13 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+08:13 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:13 [Warning] [Automatic Plugin Updater] Checking for new versions for AutoDecay (current version 1.3.0)
+08:13 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:13 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+08:13 [Warning] [Automatic Plugin Updater] Checking for new versions for AdvertMessages (current version 3.0.2)
+08:13 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+08:13 [Warning] [Automatic Plugin Updater] Checking for new versions for AdminLogger (current version 2.4.0)
+08:13 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+08:13 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+08:13 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 262ms
+08:13 [Warning] [Automatic Plugin Updater] Checking for new versions for NTeleportation (current version 1.7.0)
+08:13 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+08:13 [Info] [BetterLoot] Removed 9 stacked LootContainer
+08:13 [Info] [BetterLoot] Populated '8022' supported containers.
+08:13 [Warning] [Automatic Plugin Updater] AutoDecay is up to date! (version: 1.3.0)
+08:13 [Warning] [Automatic Plugin Updater] AdvertMessages is up to date! (version: 3.0.2)
+08:13 [Warning] [Automatic Plugin Updater] AdminLogger is up to date! (version: 2.4.0)
+08:13 [Warning] [Automatic Plugin Updater] NTeleportation is up to date! (version: 1.7.0)
+08:13 [Warning] Calling 'OnEntitySpawned' on 'InfoPanel v1.0.7' took average 1102ms
+08:13 [Info] [Auto Stash Traps] 150 Traps Generated
+08:14 [Info] [Admin Radar] Cached 17248/157585 entities in 19.6702203 seconds!
+08:14 [Info] InfoPanel was compiled successfully in 1957ms
+08:14 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:14 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1113ms
+08:14 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:14 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:14 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:15 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:15 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1119ms
+08:15 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:15 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:15 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:16 [Info] InfoPanel was compiled successfully in 1938ms
+08:16 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:16 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1130ms
+08:16 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:16 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:16 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:16 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:16 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1070ms
+08:16 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:16 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:16 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:17 [Warning] [BoxLooters] Saved Boxlooters data
+08:21 [Info] InfoPanel was compiled successfully in 1934ms
+08:21 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:21 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1233ms
+08:21 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:21 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:21 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:21 [Warning] Calling 'OnEntitySpawned' on 'InfoPanel v1.0.7' took average 1234ms
+08:21 [Error] Error while compiling: InfoPanel.cs(300,44): error CS1525: Unexpected symbol `.'
+08:23 [Info] InfoPanel was compiled successfully in 1875ms
+08:23 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:23 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1084ms
+08:23 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:23 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:23 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:23 [Warning] Calling 'OnEntitySpawned' on 'InfoPanel v1.0.7' took average 1088ms
+08:23 [Info] [Advert Messages] Welcome to our server, have fun!
+08:23 [Info] InfoPanel was compiled successfully in 191ms
+08:23 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:23 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1078ms
+08:23 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:23 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:23 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:23 [Info] InfoPanel was compiled successfully in 207ms
+08:23 [Warning] Calling 'Unload' on 'InfoPanel v1.0.7' took average 1079ms
+08:23 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:23 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1190ms
+08:23 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:23 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:23 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:24 [Info] InfoPanel was compiled successfully in 250ms
+08:24 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:24 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1074ms
+08:24 [Warning] [Automatic Plugin Updater] Checking for new versions for InfoPanel (current version 1.0.7)
+08:24 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:24 [Warning] [Automatic Plugin Updater] InfoPanel is up to date! (version: 1.0.7)
+08:24 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+08:24 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+08:24 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+08:24 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:24 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:24 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+08:24 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+08:24 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+08:24 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+08:24 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+08:24 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 245ms
+08:24 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+08:24 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+08:24 [Warning] [BoxLooters] Saved Boxlooters data
+08:24 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:24 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+08:24 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+08:24 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+08:24 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+08:24 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:24 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:24 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+08:24 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:24 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 213ms
+08:24 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+08:24 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:24 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 217ms
+08:24 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:24 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+08:24 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:24 [Info] Loading Oxide Core v2.0.4048...
+08:24 [Info] Loading extensions...
+08:24 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+08:24 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+08:24 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+08:24 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+08:24 [Info] Unity version: 2019.4.7f1
+08:24 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+08:24 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:24 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:24 [Info] Using Covalence provider for game 'Rust'
+08:24 [Info] Loading plugins...
+08:24 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+08:24 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+08:24 [Error] Plugin filename AdminHammer_1.cs must match the main class AdminHammer (should be AdminHammer.cs)
+08:24 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+08:24 [Info] AdminAntiHackFix, AdminDeepCover, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterLoot, BetterResearching, BodiesToBags, BoxLooters, FurnaceSplitter, GatherManager, InfoPanel, Kits, NTeleportation, PermsUI, RemoverTool, ServerRewards, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+08:24 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:24 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+08:24 [Info] [Admin Deep Cover] Data File Loaded
+08:24 [Warning] [Admin Deep Cover] Initialized
+08:24 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+08:24 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+08:24 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+08:24 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+08:24 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+08:24 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+08:24 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+08:24 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:24 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:24 [Warning] [Auto Stash Traps] Config Loaded
+08:24 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+08:24 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+08:24 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:24 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:24 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+08:24 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+08:24 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:24 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:24 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+08:24 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:24 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+08:24 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+08:24 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+08:24 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:24 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+08:24 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+08:24 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:24 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+08:24 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+08:27 [Info] Loading Oxide Core v2.0.4048...
+08:27 [Info] Loading extensions...
+08:27 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+08:27 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+08:27 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+08:27 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+08:27 [Info] Unity version: 2019.4.7f1
+08:27 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+08:27 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:27 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:27 [Info] Using Covalence provider for game 'Rust'
+08:27 [Info] Loading plugins...
+08:27 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+08:27 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+08:27 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+08:27 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterLoot, BetterResearching, BodiesToBags, BoxLooters, FurnaceSplitter, GatherManager, InfoPanel, Kits, NTeleportation, PermsUI, RemoverTool, ServerRewards, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+08:27 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:27 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+08:27 [Info] [Admin Deep Cover] Data File Loaded
+08:27 [Warning] [Admin Deep Cover] Initialized
+08:27 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+08:27 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+08:27 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+08:27 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+08:27 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+08:27 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+08:27 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+08:27 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+08:27 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:27 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:27 [Warning] [Auto Stash Traps] Config Loaded
+08:27 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+08:27 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+08:27 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:27 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:27 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+08:27 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+08:27 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:27 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:27 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+08:27 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:27 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+08:27 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+08:27 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+08:27 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:27 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+08:27 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+08:27 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:27 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+08:27 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+08:31 [Info] IP address from external API: 141.94.255.66
+08:31 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+08:31 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:31 [Info] [BetterLoot] Updating internals ...
+08:31 [Warning] [BoxLooters] Attempting to remove old log entries
+08:31 [Warning] [BoxLooters] Removed 0 old records from BoxData
+08:31 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+08:31 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 194ms
+08:31 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 973ms
+08:31 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+08:31 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 251ms
+08:31 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+08:31 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+08:31 [Info] [BetterLoot] No stacked LootContainer found.
+08:31 [Info] [BetterLoot] Populated '820' supported containers.
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <2801e73975484960819a556acb94461f>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:31 [Info] [Auto Stash Traps] 150 Traps Generated
+08:32 [Info] [Admin Radar] Cached 6546/148908 entities in 58.6364813 seconds!
+08:35 [Info] Loading Oxide Core v2.0.4048...
+08:35 [Info] Loading extensions...
+08:35 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+08:35 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+08:35 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+08:35 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+08:35 [Info] Unity version: 2019.4.7f1
+08:35 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+08:35 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:35 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:35 [Info] Using Covalence provider for game 'Rust'
+08:35 [Info] Loading plugins...
+08:35 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+08:35 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+08:35 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+08:35 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterLoot, BetterResearching, BodiesToBags, BoxLooters, FurnaceSplitter, GatherManager, InfoPanel, Kits, NTeleportation, PermsUI, RemoverTool, ServerRewards, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+08:35 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:35 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+08:35 [Info] [Admin Deep Cover] Data File Loaded
+08:35 [Warning] [Admin Deep Cover] Initialized
+08:35 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+08:35 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+08:35 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+08:35 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+08:35 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+08:35 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+08:35 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+08:35 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+08:35 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:35 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:35 [Warning] [Auto Stash Traps] Config Loaded
+08:35 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+08:35 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+08:35 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:35 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:35 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+08:35 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+08:35 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:35 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:35 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+08:35 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:35 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+08:35 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+08:35 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+08:35 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:35 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+08:35 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+08:35 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:35 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+08:35 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+08:41 [Info] Loading Oxide Core v2.0.4048...
+08:41 [Info] Loading extensions...
+08:41 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+08:41 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+08:41 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+08:41 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+08:41 [Info] Unity version: 2019.4.7f1
+08:41 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+08:41 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:41 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+08:41 [Info] Using Covalence provider for game 'Rust'
+08:41 [Info] Loading plugins...
+08:41 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+08:41 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+08:41 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+08:41 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterLoot, BetterResearching, BodiesToBags, BoxLooters, FurnaceSplitter, GatherManager, InfoPanel, Kits, NTeleportation, PermsUI, RemoverTool, ServerRewards, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+08:41 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+08:41 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+08:41 [Info] [Admin Deep Cover] Data File Loaded
+08:41 [Warning] [Admin Deep Cover] Initialized
+08:41 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+08:41 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+08:41 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+08:41 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+08:41 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+08:41 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+08:41 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+08:41 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+08:41 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+08:41 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+08:41 [Warning] [Auto Stash Traps] Config Loaded
+08:41 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+08:41 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+08:41 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:41 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+08:41 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+08:41 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+08:41 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+08:41 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+08:41 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+08:41 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:41 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+08:41 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+08:41 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+08:41 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+08:41 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+08:41 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+08:41 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+08:41 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+08:41 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+08:45 [Info] IP address from external API: 141.94.255.66
+08:45 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+08:45 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+08:45 [Info] [BetterLoot] Updating internals ...
+08:45 [Warning] [BoxLooters] Attempting to remove old log entries
+08:45 [Warning] [BoxLooters] Removed 0 old records from BoxData
+08:45 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+08:45 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 200ms
+08:45 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 964ms
+08:45 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+08:45 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 242ms
+08:45 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+08:45 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+08:45 [Info] [BetterLoot] No stacked LootContainer found.
+08:45 [Info] [BetterLoot] Populated '822' supported containers.
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:45 [Info] [Auto Stash Traps] 0 Traps Generated
+08:45 [Info] [Admin Radar] Cached 6561/148696 entities in 21.4351321 seconds!
+08:46 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:47 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:48 [Error] Failed to call hook 'OnPlayerConnected' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerConnected (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x005bb] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:48 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <b136ecd131594ed78f784799083a61a1>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:49 [Warning] [DEBUG] Reload requested for plugin which is already loading: ZoneManager
+08:49 [Info] ZoneManager was compiled successfully in 1927ms
+08:49 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+08:49 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+08:51 [Info] [Advert Messages] Welcome to our server, have fun!
+08:52 [Info] InfoPanel was compiled successfully in 1973ms
+08:52 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:52 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1056ms
+08:52 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Info] InfoPanel was compiled successfully in 2068ms
+08:53 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Error] Failed to call hook 'OnServerInitialized' on plugin 'InfoPanel v1.0.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.InfoPanel.InitializeGUI (BasePlayer player) [0x0023b] in <d1906c969446411aa36b59f88f33bf71>:0 
+  at Oxide.Plugins.InfoPanel.OnServerInitialized () [0x00132] in <d1906c969446411aa36b59f88f33bf71>:0 
+  at Oxide.Plugins.InfoPanel.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0046e] in <d1906c969446411aa36b59f88f33bf71>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:53 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Info] InfoPanel was compiled successfully in 216ms
+08:53 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Error] Failed to call hook 'OnServerInitialized' on plugin 'InfoPanel v1.0.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.InfoPanel.InitializeGUI (BasePlayer player) [0x0023b] in <075cb7d6b10641cab0d1ff9f299403be>:0 
+  at Oxide.Plugins.InfoPanel.OnServerInitialized () [0x00132] in <075cb7d6b10641cab0d1ff9f299403be>:0 
+  at Oxide.Plugins.InfoPanel.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0046e] in <075cb7d6b10641cab0d1ff9f299403be>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:53 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Info] InfoPanel was compiled successfully in 293ms
+08:53 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Error] Failed to call hook 'OnServerInitialized' on plugin 'InfoPanel v1.0.7' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.InfoPanel.InitializeGUI (BasePlayer player) [0x0023b] in <51637ea70450438da35e026d418190d5>:0 
+  at Oxide.Plugins.InfoPanel.OnServerInitialized () [0x00132] in <51637ea70450438da35e026d418190d5>:0 
+  at Oxide.Plugins.InfoPanel.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0046e] in <51637ea70450438da35e026d418190d5>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+08:53 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:53 [Error] Error while compiling: InfoPanel.cs(2874,64): error CS0103: The name `Bala' does not exist in the current context
+08:54 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:54 [Error] Unable to load InfoPanel. InfoPanel.cs(2874,64): error CS0103: The name `Bala' does not exist in the current context
+08:54 [Info] Previous version of plugin failed to load: InfoPanel
+08:54 [Info] InfoPanel was compiled successfully in 186ms
+08:54 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1052ms
+08:54 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:54 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:54 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1041ms
+08:54 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:55 [Warning] [BoxLooters] Saved Boxlooters data
+08:56 [Info] InfoPanel was compiled successfully in 1940ms
+08:56 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:56 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1060ms
+08:56 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:56 [Warning] Calling 'OnEntitySpawned' on 'InfoPanel v1.0.7' took average 1060ms
+08:58 [Info] InfoPanel was compiled successfully in 2015ms
+08:58 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1136ms
+08:58 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Info] InfoPanel was compiled successfully in 185ms
+08:58 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1161ms
+08:58 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Info] InfoPanel was compiled successfully in 263ms
+08:58 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1084ms
+08:58 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:58 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1054ms
+08:58 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+08:59 [Info] InfoPanel was compiled successfully in 2002ms
+08:59 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+08:59 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1453ms [GARBAGE COLLECT]
+08:59 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+09:00 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+09:00 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1059ms
+09:00 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+09:01 [Info] [Advert Messages] Please treat everybody respectfully.
+09:01 [Info] [Better Chat] [Global] [Player] sk1nny_tv: teste
+09:02 [Error] Could not load plugin 'InfoPanle' (no plugin found with that file name)
+09:02 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+09:02 [Error] Failed to call hook 'OnServerInitialized' on plugin 'InfoPanel v1.0.7' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.InfoPanel.LoadPanels (BasePlayer Player) [0x00070] in <097b577771c14395abcc59c2769ea589>:0 
+  at Oxide.Plugins.InfoPanel.OnServerInitialized () [0x0016b] in <097b577771c14395abcc59c2769ea589>:0 
+  at Oxide.Plugins.InfoPanel.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x0046e] in <097b577771c14395abcc59c2769ea589>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+09:02 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+09:03 [Error] Failed to call hook 'Unload' on plugin 'InfoPanel v1.0.7' (KeyNotFoundException: The given key was not present in the dictionary.)
+  at System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) [0x0001e] in <fb001e01371b4adca20013e0ac763896>:0 
+  at Oxide.Plugins.InfoPanel.DestroyGUI (BasePlayer player) [0x00000] in <097b577771c14395abcc59c2769ea589>:0 
+  at Oxide.Plugins.InfoPanel.Unload () [0x00018] in <097b577771c14395abcc59c2769ea589>:0 
+  at Oxide.Plugins.InfoPanel.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00669] in <097b577771c14395abcc59c2769ea589>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+09:03 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+09:06 [Warning] [BoxLooters] Saved Boxlooters data

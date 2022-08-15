@@ -1,0 +1,5 @@
+{
+  "InvalidArgs": "Usage: /{0} <*|plugin>",
+  "InvalidPlugin": "We couldn't find a plugin by the name of \"{0}\"",
+  "CheckingPlugin": "We have starting checking for updates on the plugin \"{0}\""
+}

@@ -16,55 +16,5 @@ InfoPanel.cs(1835,23): warning CS0414: The private field `Oxide.Plugins.InfoPane
 InfoPanel.cs(1879,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.CoordUpdater' is assigned but its value is never used
 InfoPanel.cs(1936,23): warning CS0414: The private field `Oxide.Plugins.InfoPanel.CompassUpdater' is assigned but its value is never used
 
-[SERVER v1.0.24] Got Message: Compile
-[SERVER v1.0.24] Console: NTeleportation.cs(4096,25): warning CS0219: The variable `num' is assigned but its value is never used
-Kits.cs(2084,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitData.max' is never assigned to, and will always have its default value `0'
-Kits.cs(2085,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKitData.cooldown' is never assigned to, and will always have its default value `0'
-Kits.cs(2090,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.itemid' is never assigned to, and will always have its default value `0'
-Kits.cs(2091,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.container' is never assigned to, and will always have its default value `null'
-Kits.cs(2092,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.amount' is never assigned to, and will always have its default value `0'
-Kits.cs(2093,26): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.skinid' is never assigned to, and will always have its default value `0'
-Kits.cs(2094,25): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.weapon' is never assigned to, and will always have its default value `false'
-Kits.cs(2095,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.blueprintTarget' is never assigned to, and will always have its default value `0'
-Kits.cs(2101,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.name' is never assigned to, and will always have its default value `null'
-Kits.cs(2102,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.description' is never assigned to, and will always have its default value `null'
-Kits.cs(2103,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.max' is never assigned to, and will always have its default value `0'
-Kits.cs(2104,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.cooldown' is never assigned to, and will always have its default value `0'
-Kits.cs(2105,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.authlevel' is never assigned to, and will always have its default value `0'
-Kits.cs(2106,25): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.hide' is never assigned to, and will always have its default value `false'
-Kits.cs(2107,25): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.npconly' is never assigned to, and will always have its default value `false'
-Kits.cs(2108,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.permission' is never assigned to, and will always have its default value `null'
-Kits.cs(2109,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.image' is never assigned to, and will always have its default value `null'
-Kits.cs(2110,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.building' is never assigned to, and will always have its default value `null'
-NTeleportation.cs(75,35): warning CS0169: The private field `Oxide.Plugins.NTeleportation.dataConvert' is never used
-StackSizeController.cs(20,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.GetToDaChoppa' is never assigned to, and will always have its default value `null'
-StackSizeController.cs(20,40): warning CS0649: Field `Oxide.Plugins.StackSizeController.VehicleVendorOptions' is never assigned to, and will always have its default value `null'
-StackSizeController.cs(80,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.Configuration.HidePrefixWithPluginNameInMessages' is never assigned to, and will always have its default value `false'
-
-[SERVER v1.0.24] Got Message: Compile
-[SERVER v1.0.24] Console: NTeleportation.cs(4096,25): warning CS0219: The variable `num' is assigned but its value is never used
-StackSizeController.cs(20,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.GetToDaChoppa' is never assigned to, and will always have its default value `null'
-StackSizeController.cs(20,40): warning CS0649: Field `Oxide.Plugins.StackSizeController.VehicleVendorOptions' is never assigned to, and will always have its default value `null'
-StackSizeController.cs(80,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.Configuration.HidePrefixWithPluginNameInMessages' is never assigned to, and will always have its default value `false'
-NTeleportation.cs(75,35): warning CS0169: The private field `Oxide.Plugins.NTeleportation.dataConvert' is never used
-Kits.cs(2084,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitData.max' is never assigned to, and will always have its default value `0'
-Kits.cs(2085,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKitData.cooldown' is never assigned to, and will always have its default value `0'
-Kits.cs(2090,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.itemid' is never assigned to, and will always have its default value `0'
-Kits.cs(2091,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.container' is never assigned to, and will always have its default value `null'
-Kits.cs(2092,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.amount' is never assigned to, and will always have its default value `0'
-Kits.cs(2093,26): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.skinid' is never assigned to, and will always have its default value `0'
-Kits.cs(2094,25): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.weapon' is never assigned to, and will always have its default value `false'
-Kits.cs(2095,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKitItem.blueprintTarget' is never assigned to, and will always have its default value `0'
-Kits.cs(2101,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.name' is never assigned to, and will always have its default value `null'
-Kits.cs(2102,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.description' is never assigned to, and will always have its default value `null'
-Kits.cs(2103,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.max' is never assigned to, and will always have its default value `0'
-Kits.cs(2104,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.cooldown' is never assigned to, and will always have its default value `0'
-Kits.cs(2105,24): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.authlevel' is never assigned to, and will always have its default value `0'
-Kits.cs(2106,25): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.hide' is never assigned to, and will always have its default value `false'
-Kits.cs(2107,25): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.npconly' is never assigned to, and will always have its default value `false'
-Kits.cs(2108,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.permission' is never assigned to, and will always have its default value `null'
-Kits.cs(2109,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.image' is never assigned to, and will always have its default value `null'
-Kits.cs(2110,27): warning CS0649: Field `Oxide.Plugins.Kits.OldKit.building' is never assigned to, and will always have its default value `null'
-
 [SERVER v1.0.24] Connection closed.
 [SERVER v1.0.24] Shutdown

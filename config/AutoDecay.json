@@ -1,0 +1,3300 @@
+{
+  "Check Cupboard Interval (Seconds)": 300.0,
+  "Not Protected Cupboard = No Cupboard": false,
+  "Notify Player That His Object Will Be Removed": true,
+  "Notify Interval": 10.0,
+  "Chat Settings": {
+    "Chat Prefix": "<color=#00FFFF>[AutoDecay]</color>: ",
+    "Chat SteamID Icon": 0
+  },
+  "Building Block Settings": {
+    "floor": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "floor.frame": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "floor.triangle": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "floor.triangle.frame": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "foundation": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "foundation.steps": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "foundation.triangle": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "ramp": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "roof": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "roof.triangle": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "block.stair.lshape": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "block.stair.spiral": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "block.stair.spiral.triangle": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "block.stair.ushape": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "wall": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "wall.doorway": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "wall.frame": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "wall.half": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "wall.low": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    },
+    "wall.window": {
+      "Twigs": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Wood": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Stone": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "Metal": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      },
+      "TopTier": {
+        "Enabled": true,
+        "Only Used For Player's Entity": true,
+        "Delay Time (Seconds)": 600.0,
+        "Destroy Time (Seconds)": 3600.0,
+        "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+      }
+    }
+  },
+  "Other Entity Settings": {
+    "fogmachine": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "strobelight": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "kayak": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.double.hinged.metal": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.double.hinged.toptier": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.double.hinged.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.hinged.metal": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.hinged.toptier": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.hinged.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "floor.grill": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "floor.ladder.hatch": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "floor.triangle.grill": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "floor.triangle.ladder.hatch": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "gates.external.high.stone": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "gates.external.high.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "ladder.wooden.wall": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.external.high.stone": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.external.high.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.cell.gate": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.cell": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.fence.gate": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.fence": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.garagedoor": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.netting": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.shopfront": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.frame.shopfront.metal": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.window.bars.metal": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.window.bars.toptier": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.window.bars.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "shutter.metal.embrasure.a": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "shutter.metal.embrasure.b": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.window.glass.reinforced": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "shutter.wood.a": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "watchtower.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.concrete": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.cover.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.metal": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.sandbags": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.stone": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "barricade.woodwire": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "bbq.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "beartrap": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "bed_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "campfire": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cardtable.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "ceilinglight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "chair.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "composter": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "computerstation.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "drone.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "dropbox.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "elevator": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "fireplace.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortarblue": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortarchampagne": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortargreen": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortarorange": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortarpattern": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortarred": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mortarviolet": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "romancandle-blue": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "romancandle-green": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "romancandle": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "romancandle-violet": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "volcanofirework": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "volcanofirework-red": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "volcanofirework-violet": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "spikes.floor": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "frankensteintable.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "fridge.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "furnace.large": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "furnace": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "hitchtrough.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "jackolantern.angry": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "jackolantern.happy": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "landmine": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "lantern.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "box.wooden.large": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "waterbarrel": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "locker.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mailbox.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mixingtable.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.modularcarlift.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mining.pumpjack": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "refinery_small_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "planter.large.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "planter.small.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "audioalarm": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "smartalarm": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "smartswitch": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "storagemonitor.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "large.rechargable.battery.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "medium.rechargable.battery.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "smallrechargablebattery.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "button": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "counter": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "hbhfsensor.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "laserdetector": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "pressurepad.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "doorcontroller.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.heater": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "fluid.combiner.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "fluidsplitter": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "fluidswitch": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "andswitch.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.blocker.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.branch.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.combiner.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.memorycell.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "orswitch.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electrical.random.switch.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rfbroadcaster": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rfreceiver": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "xorswitch.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "small_fuel_generator.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "generator.small": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "solarpanel.large.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "igniter.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electric.flasherlight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "simplelight": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electric.sirenlight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "poweredwaterpurifier.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "switch": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "splitter": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electric.sprinkler.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "teslacoil.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "timer": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cabletunnel": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "water.pump.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "mining_quarry": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "reactivetarget_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "repairbench_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "researchtable_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rug.bear.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rug.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "searchlight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "secretlabchair.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "shelves": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.hanging.banner.large": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.hanging": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.hanging.ornate": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.pictureframe.landscape": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.pictureframe.portrait": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.pictureframe.tall": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.pictureframe.xl": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.pictureframe.xxl": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.pole.banner.large": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.post.double": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.post.single": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.post.town": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.post.town.roof": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.huge.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.large.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.medium.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.small.wood": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "guntrap.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sleepingbag_leather_deployed": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "small_stash_deployed": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sofa.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sofa.pattern.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "spinner.wheel.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "survivalfishtrap.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "table.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "workbench1.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "workbench2.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "workbench3.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cupboard.tool.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "tunalight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "vendingmachine.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "water_catcher_large": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "water_catcher_small": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "waterpurifier.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "electric.windmill.small": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "woodbox_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "drumkit.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "piano.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "xylophone.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "chineselantern.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "dragondoorknocker.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "newyeargong.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skylantern.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skylantern.skylantern.green": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skylantern.skylantern.orange": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skylantern.skylantern.purple": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skylantern.skylantern.red": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "chippyarcademachine": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "easter_door_wreath_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rustigeegg_a.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rustigeegg_b.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rustigeegg_c.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rustigeegg_d.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rustigeegg_e.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "largecandleset": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "smallcandleset": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "carvable.pumpkin": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "coffinstorage": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cursedcauldron.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "gravestone.stone.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "gravestone.wood.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "graveyardfence": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "scarecrow.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skullspikes.candles.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skullspikes.pumpkin.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skullspikes.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skull_door_knocker.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skull_fire_pit": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "spiderweba": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "spookyspeaker": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skulltrophy.jar.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skulltrophy.jar2.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skulltrophy.table.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "skulltrophy.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.hinged.industrial.d": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "industrial.wall.lamp.green.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "industrial.wall.lamp.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "industrial.wall.lamp.red.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "abovegroundpool.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "beachchair.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "beachparasol.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "beachtable.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "beachtowel.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "boogieboard.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "innertube.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "innertube.horse.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "innertube.unicorn.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "paddlingpool.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "photoframe.landscape": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "photoframe.large": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "photoframe.portrait": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trophy.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "hobobarrel.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "door.hinged.industrial.a": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "advendcalendar.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "xmas.lightstring.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "doorgarland.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "double_doorgarland.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "giantcandycane.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "icewall": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "wall.external.high.ice": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "giantlollipops.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.neon.125x125": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.neon.125x215.animated": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.neon.125x215": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.neon.xl.animated": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sign.neon.xl": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "pookie_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sled.deployed.xmas": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sled.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "snowmachine": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "snowman.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "stocking_large_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "stocking_small_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "windowgarland.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "christmas_door_wreath_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "xmas_tree.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "autoturret_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "flameturret.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sam_site_turret_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "black_berry.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "blue_berry.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "green_berry.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "red_berry.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "white_berry.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "yellow_berry.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "corn.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "hemp.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "potato.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "pumpkin.entity": {
+      "Enabled": false,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cctv_deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "boombox.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "discoball.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "discofloor.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "discofloor.largetiles.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "connectedspeaker.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "laserlight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "microphonestand.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "soundlight.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "telephone.deployed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "chippyarcademachine.static": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rhib": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "rowboat": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "magnetcrane.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "locomotive.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "minicopter.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "2module_car_spawned.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "3module_car_spawned.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "4module_car_spawned.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "_base_car_chassis.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_01": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_02": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_03": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_04": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_05": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_06": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_07": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_2mod_08": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_01": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_02": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_03": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_04": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_05": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_06": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_07": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_08": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_09": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_10": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_11": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_3mod_12": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_01": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_02": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_03": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_04": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_05": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_06": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_07": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_08": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_09": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_10": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_4mod_11": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_chassis_2module.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_chassis_3module.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "car_chassis_4module.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_cockpit": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_cockpit_armored": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_cockpit_with_engine": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_engine": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_flatbed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_passengers_armored": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_rear_seats": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_storage": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "1module_taxi": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "2module_camper": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "2module_flatbed": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "2module_fuel_tank": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "2module_passengers": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "scraptransporthelicopter": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sedanrail.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "sedantest.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "_snowmobilebase": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "snowmobile": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "tomahasnowmobile": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "submarineduo.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "submarinesolo.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "_basetrainwagon.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trainwagona.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trainwagonb.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trainwagonc.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trainwagonunloadable.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trainwagonunloadablefuel.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "trainwagonunloadableloot.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "workcart.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "workcart_aboveground.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "workcart_aboveground2.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "_cardtable_base": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cardtable.static_configa": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cardtable.static_configa_hidden": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cardtable.static_configb": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cardtable.static_configc": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "cardtable.static_configd": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "ch47.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "ch47scientists.entity": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    },
+    "testridablehorse": {
+      "Enabled": true,
+      "Only Used For Player's Entity": true,
+      "Delay Time (Seconds)": 600.0,
+      "Destroy Time (Seconds)": 3600.0,
+      "Tick Rate (Damage Per Tick = Max Health / This)": 10.0
+    }
+  },
+  "Version": {
+    "Major": 1,
+    "Minor": 3,
+    "Patch": 0
+  }
+}

@@ -1,0 +1,153 @@
+17:46 [Info] Loading Oxide Core v2.0.4048...
+17:46 [Info] Loading extensions...
+17:46 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+17:46 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:46 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+17:46 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:46 [Info] Unity version: 2019.4.7f1
+17:46 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:46 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:46 [Info] Local compiler MD5: 0
+17:46 [Info] Compiler MD5 hash did not match, downloading latest
+17:46 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+17:46 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.exe, attempting download again
+17:46 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:46 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:46 [Info] Using Covalence provider for game 'Rust'
+17:46 [Info] Loading plugins...
+17:46 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+17:46 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:46 [Info] AdminAntiHackFix, AdminRadar, BetterLoot, DeathNotes, FurnaceSplitter, GatherManager, InfoPanel, Kits, RemoverTool, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+17:46 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:46 [Warning] [Admin Radar] Creating a new configuration file
+17:46 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+17:46 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+17:46 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:46 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:46 [Info] [BetterLoot] No Blacklist found, creating new file...
+17:46 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:46 [Info] Loaded plugin Death Notes v6.3.7 by LaserHydra
+17:46 [Warning] [Furnace Splitter] Creating default config for FurnaceSplitter.
+17:46 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:46 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:46 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+17:46 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+17:46 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:46 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+17:46 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+17:46 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+17:46 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+17:50 [Info] IP address from external API: 141.94.255.66
+17:50 [Warning] Covalence command alias already exists: radar
+17:50 [Warning] AdminRadar has replaced the 'radar' command previously registered by AdminRadar
+17:50 [Warning] Calling 'OnServerInitialized' on 'AdminRadar v5.1.9' took 286ms
+17:50 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+17:50 [Info] [BetterLoot] Exported 774 items to 'NamesList'
+17:50 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+17:50 [Info] [BetterLoot] Updating internals ...
+17:50 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 318ms
+17:50 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 1029ms
+17:50 [Info] [BetterLoot] No stacked LootContainer found.
+17:50 [Info] [BetterLoot] Populated '820' supported containers.
+17:50 [Info] [Admin Radar] Cached 6569/138540 entities in 20.7119557 seconds!
+17:53 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:53 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+17:53 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 235ms
+17:53 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+17:53 [Info] Unloaded plugin Death Notes v6.3.7 by LaserHydra
+17:53 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:53 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 203ms
+17:53 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+17:53 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+17:53 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+17:53 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:53 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+17:53 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+17:53 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+17:53 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+18:12 [Info] Loading Oxide Core v2.0.4048...
+18:12 [Info] Loading extensions...
+18:12 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+18:12 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+18:12 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+18:12 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+18:12 [Info] Unity version: 2019.4.7f1
+18:12 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+18:12 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:12 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+18:12 [Info] Using Covalence provider for game 'Rust'
+18:12 [Info] Loading plugins...
+18:12 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+18:12 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+18:12 [Info] AdminAntiHackFix, AdminRadar, BetterLoot, DeathNotes, FurnaceSplitter, GatherManager, InfoPanel, Kits, RemoverTool, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+18:12 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+18:12 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+18:12 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:12 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+18:12 [Info] Loaded plugin Death Notes v6.3.7 by LaserHydra
+18:12 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+18:12 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+18:12 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+18:12 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+18:12 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+18:12 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+18:12 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+18:12 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+18:12 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+18:16 [Info] IP address from external API: 141.94.255.66
+18:16 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+18:16 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+18:16 [Info] [BetterLoot] Updating internals ...
+18:16 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 194ms
+18:16 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 949ms
+18:16 [Info] [BetterLoot] No stacked LootContainer found.
+18:16 [Info] [BetterLoot] Populated '816' supported containers.
+18:16 [Info] [Admin Radar] Cached 6564/143174 entities in 21.7643459 seconds!
+18:21 [Info] [Death Notes] Void had enough of life.
+18:23 [Warning] [DEBUG] Load requested for plugin which is already loading: AdminPanel
+18:23 [Info] AdminPanel was compiled successfully in 1984ms
+18:23 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+18:24 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+18:24 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+18:26 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+18:27 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+18:28 [Info] AdminPanel was compiled successfully in 1877ms
+18:28 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+18:28 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+18:34 [Info] [Death Notes] Void fell to their death.
+19:21 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+19:22 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+19:22 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+19:22 [Info] Usage: oxide.grant <group|user> <name|id> <permission>
+19:23 [Info] Group 'admin' granted permission 'adminpanel.autotoggle.admin'
+19:23 [Info] Group 'admin' granted permission 'adminpanel.allowed'
+19:23 [Info] Group 'admin' granted permission 'adminradar.allowed'
+19:24 [Info] Permission 'vanish.use' doesn't exist
+19:24 [Info] Permission 'playeradministration.access.show' doesn't exist
+19:24 [Info] Group 'admin' granted permission 'vanish.allow'
+19:25 [Info] Group 'admin' granted permission 'vanish.unlock'
+22:32 [Info] [Death Notes] Void took out a Tunnel Dweller with their Double Barrel Shotgun.
+22:33 [Info] [Death Notes] Void took out a Tunnel Dweller with their Assault Rifle.
+22:33 [Info] [Death Notes] Void took out a Tunnel Dweller with their Assault Rifle.
+22:34 [Info] [Death Notes] Void took out a Tunnel Dweller with their Assault Rifle.
+22:34 [Info] [Death Notes] Void took out a Tunnel Dweller with their Assault Rifle.
+22:34 [Info] [Death Notes] Void took out a Tunnel Dweller with their Assault Rifle.
+22:36 [Info] [Death Notes] Void shot a Chicken using their Assault Rifle over a distance of 1.7 meters.
+22:36 [Info] [Death Notes] Void shot a Chicken using their Assault Rifle over a distance of 4 meters.
+22:36 [Info] [Death Notes] Void shot a Chicken using their Assault Rifle over a distance of 5.8 meters.
+22:36 [Info] [Death Notes] Void shot a Chicken using their Assault Rifle over a distance of 29.8 meters.
+22:36 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 0.7 meters.
+22:36 [Info] [Death Notes] Void did not want to be a part of the Scientist's experiments.
+22:37 [Info] [Death Notes] Void shot a Wolf using their Assault Rifle over a distance of 5 meters.
+22:39 [Info] [Death Notes] Void shot a Boar using their Assault Rifle over a distance of 10.2 meters.
+22:39 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 0.9 meters.
+22:39 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 3.6 meters.
+22:39 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 2.8 meters.
+22:39 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 4.3 meters.
+22:39 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 5.8 meters.
+22:39 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 11.9 meters.
+22:40 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 9 meters.
+22:41 [Info] [Death Notes] Void shot a Bear using their Assault Rifle over a distance of 56.2 meters.
+22:53 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+23:10 [Info] [Death Notes] irontweak6 did not want to be a part of the Scientist's experiments.
+23:11 [Info] [Death Notes] irontweak6 shot a Boar using their Hunting Bow over a distance of 5.5 meters.

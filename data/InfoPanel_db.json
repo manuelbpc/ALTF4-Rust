@@ -1,3 +1,11 @@
 {
-  "Players": {}
+  "Players": {
+    "76561198195416098": {
+      "UserId": "76561198195416098",
+      "Settings": {
+        "enable": "true"
+      },
+      "PanelSettings": {}
+    }
+  }
 }
