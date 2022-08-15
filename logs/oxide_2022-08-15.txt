@@ -1,0 +1,162 @@
+00:31 [Info] Loading Oxide Core v2.0.4048...
+00:31 [Info] Loading extensions...
+00:31 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+00:31 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:31 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+00:31 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:31 [Info] Unity version: 2019.4.7f1
+00:31 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:31 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:31 [Info] Local compiler MD5: 0
+00:31 [Info] Compiler MD5 hash did not match, downloading latest
+00:31 [Info] Downloading Compiler.exe for .cs (C#) plugin compilation
+00:31 [Info] Local MD5 hash did not match remote MD5 hash for Compiler.exe, attempting download again
+00:31 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:31 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:31 [Info] Using Covalence provider for game 'Rust'
+00:31 [Info] Loading plugins...
+00:31 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+00:31 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:38 [Info] Loading Oxide Core v2.0.4048...
+00:38 [Info] Loading extensions...
+00:38 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+00:38 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:38 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+00:38 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:38 [Info] Unity version: 2019.4.7f1
+00:38 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:38 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:38 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:38 [Info] Using Covalence provider for game 'Rust'
+00:38 [Info] Loading plugins...
+00:38 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+00:38 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:40 [Info] IP address from external API: 85.139.112.89
+01:16 [Info] ZoneManager, Vanish, StackSizeController, RemoverTool, GatherManager, NTeleportation, Kits, InfoPanel, DeathNotes and AdminAntiHackFix were compiled successfully in 1937ms
+01:16 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+01:16 [Warning] [Vanish] Configuration changes saved to Vanish.json
+01:16 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+01:16 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:16 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:16 [Warning] [Remover Tool] Creating a new configuration file
+01:16 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:16 [Warning] [Gather Manager] New configuration file created.
+01:16 [Warning] [Gather Manager] Configuration file updated.
+01:17 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 1306ms
+01:17 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:17 [Info] [NTeleportation] Loaded default configuration.
+01:17 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+01:17 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+01:17 [Warning] [InfoPanel] Default configuration file created.
+01:17 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 322ms
+01:17 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+01:17 [Warning] [Death Notes] Generating new configuration file...
+01:17 [Info] Loaded plugin Death Notes v6.3.7 by LaserHydra
+01:17 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:17 [Info] [Stack Size Controller] Populating Individual Item Stack Sizes in configuration.
+01:17 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:17 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:17 [Info] ZoneManager, Vanish, StackSizeController, RemoverTool, GatherManager, NTeleportation, Kits, InfoPanel and DeathNotes were compiled successfully in 283ms
+01:17 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+01:17 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+01:17 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+01:17 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:17 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:17 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+01:17 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+01:17 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+01:17 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+01:17 [Info] Unloaded plugin Death Notes v6.3.7 by LaserHydra
+01:17 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+01:17 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+01:17 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:17 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:17 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:17 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:17 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+01:17 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+01:17 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+01:17 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 310ms
+01:17 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+01:17 [Info] Loaded plugin Death Notes v6.3.7 by LaserHydra
+01:17 [Info] [Stack Size Controller] Adding new item rhib to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item rowboat to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item locomotive to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item snowmobile to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item snowmobiletomaha to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item wagon to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item hazmatsuit.arcticsuit to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item hazmatsuit_scientist_arctic to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item skylantern to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.green to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.orange to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.purple to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item skylantern.skylantern.red to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item hat.tigermask to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item bluedogtags to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item dogtagneutral to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item reddogtags to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item attire.egg.suit to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item trophy to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item spraycan to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item spraycandecal to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item weapon.mod.extendedmags to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item rifle.ak.ice to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item grenade.flashbang to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item hmlmg to IndividualItemStackSize in configuration.
+01:17 [Info] [Stack Size Controller] Adding new item grenade.molotov to IndividualItemStackSize in configuration.
+01:25 [Info] InfoPanel was compiled successfully in 1657ms
+01:25 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+01:25 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 368ms
+01:25 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+01:25 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+01:25 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 305ms
+01:25 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+01:25 [Info] DeathNotes, Kits, NTeleportation, GatherManager, RemoverTool, StackSizeController, Vanish, ZoneManager and AdminAntiHackFix were compiled successfully in 338ms
+01:25 [Info] Unloaded plugin Death Notes v6.3.7 by LaserHydra
+01:25 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+01:25 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+01:25 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+01:25 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:25 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+01:25 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:25 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+01:25 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+01:25 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:25 [Info] Loaded plugin Death Notes v6.3.7 by LaserHydra
+01:25 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+01:25 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+01:25 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+01:25 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:25 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:25 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:25 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:25 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+01:25 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+01:25 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:26 [Info] Unloaded plugin InfoPanel v1.0.7 by Gonzi
+01:26 [Warning] Calling 'OnServerInitialized' on 'InfoPanel v1.0.7' took 322ms
+01:26 [Info] Loaded plugin InfoPanel v1.0.7 by Gonzi
+01:26 [Info] Unloaded plugin Death Notes v6.3.7 by LaserHydra
+01:26 [Info] Loaded plugin Death Notes v6.3.7 by LaserHydra
+01:26 [Info] AdminAntiHackFix, ZoneManager, Vanish, StackSizeController, RemoverTool, GatherManager, NTeleportation and Kits were compiled successfully in 274ms
+01:26 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:26 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+01:26 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+01:26 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+01:26 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:26 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:26 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+01:26 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+01:26 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+01:26 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+01:26 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+01:26 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+01:26 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+01:26 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+01:26 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+01:26 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+01:26 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+01:26 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+01:26 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+01:29 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
