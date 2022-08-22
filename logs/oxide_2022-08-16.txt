@@ -1,0 +1,709 @@
+00:01 [Info] [Advert Messages] Please treat everybody respectfully.
+00:06 [Warning] [BoxLooters] Saved Boxlooters data
+00:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:16 [Warning] [BoxLooters] Saved Boxlooters data
+00:21 [Info] [Advert Messages] Welcome to our server, have fun!
+00:26 [Warning] [BoxLooters] Saved Boxlooters data
+00:30 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:30 [Info] [FancyDrop] Next timed Airdrop in 55 minutes
+00:31 [Info] [Advert Messages] Please treat everybody respectfully.
+00:36 [Warning] [BoxLooters] Saved Boxlooters data
+00:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:46 [Warning] [BoxLooters] Saved Boxlooters data
+00:51 [Info] [Advert Messages] Welcome to our server, have fun!
+00:56 [Warning] [BoxLooters] Saved Boxlooters data
+01:01 [Info] [Advert Messages] Please treat everybody respectfully.
+01:06 [Warning] [BoxLooters] Saved Boxlooters data
+01:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:16 [Warning] [BoxLooters] Saved Boxlooters data
+01:21 [Info] [Advert Messages] Welcome to our server, have fun!
+01:25 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:25 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+01:26 [Warning] [BoxLooters] Saved Boxlooters data
+01:31 [Info] [Advert Messages] Please treat everybody respectfully.
+01:36 [Warning] [BoxLooters] Saved Boxlooters data
+01:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:46 [Warning] [BoxLooters] Saved Boxlooters data
+01:51 [Info] [Advert Messages] Welcome to our server, have fun!
+01:56 [Warning] [BoxLooters] Saved Boxlooters data
+01:58 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:58 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+02:01 [Info] [Advert Messages] Please treat everybody respectfully.
+02:06 [Info] [Admin Logger] [08/16/2022 02:06:07] Void [76561198977454718] connected.
+02:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:06 [Info] [Admin Logger] [08/16/2022 02:06:08] Void [76561198977454718] enabled Godmode.
+02:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:06 [Info] [Admin Logger] [08/16/2022 02:06:18] Void [76561198977454718] enabled Noclip.
+02:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:06 [Warning] [BoxLooters] Saved Boxlooters data
+02:07 [Info] [Admin Logger] [08/16/2022 02:07:39] Void [76561198977454718] gave themselves 1 x hammer.
+02:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:07 [Info] [Admin Logger] [08/16/2022 02:07:53] Void [76561198977454718] gave themselves 1 x building.planner.
+02:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:07 [Info] [Admin Logger] [08/16/2022 02:07:58] Void [76561198977454718] gave themselves 1000 x wood.
+02:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1762.8, 4.4, -1579.1)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:08 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:08 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:09 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:09 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:09 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+02:09 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-1766.7, 4.4, -1577.4)
+02:09 [Info] [Better Chat] [Global] [Player] Void: nigga
+02:09 [Info] [Better Chat] [Global] [Player] Void: fuck
+02:09 [Info] [Better Chat] [Global] [Player] Void: aa
+02:09 [Info] [Better Chat] [Global] [Player] Void: aaa
+02:09 [Info] [Better Chat] [Global] [Player] Void: aaa
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:09 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: a
+02:10 [Info] [Better Chat] [Global] [Player] Void: ta
+02:10 [Info] [Admin Logger] [08/16/2022 02:10:57] Void [76561198977454718] gave themselves 1 x furnace.
+02:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:16 [Warning] [BoxLooters] Saved Boxlooters data
+02:21 [Info] [Advert Messages] Welcome to our server, have fun!
+02:26 [Warning] [BoxLooters] Saved Boxlooters data
+02:31 [Info] [Advert Messages] Please treat everybody respectfully.
+02:36 [Warning] [BoxLooters] Saved Boxlooters data
+02:40 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1269, 36, -707) grid area: I21
+02:40 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:40 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+02:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:46 [Warning] [BoxLooters] Saved Boxlooters data
+02:51 [Info] [Advert Messages] Welcome to our server, have fun!
+02:56 [Warning] [BoxLooters] Saved Boxlooters data
+03:01 [Info] [Advert Messages] Please treat everybody respectfully.
+03:06 [Warning] [BoxLooters] Saved Boxlooters data
+03:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:16 [Warning] [BoxLooters] Saved Boxlooters data
+03:21 [Info] [Advert Messages] Welcome to our server, have fun!
+03:23 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (266, 55, -189) grid area: S18
+03:23 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+03:23 [Info] [FancyDrop] Next timed Airdrop in 51 minutes
+03:26 [Warning] [BoxLooters] Saved Boxlooters data
+03:31 [Info] [Advert Messages] Please treat everybody respectfully.
+03:36 [Warning] [BoxLooters] Saved Boxlooters data
+03:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:46 [Warning] [BoxLooters] Saved Boxlooters data
+03:51 [Info] [Advert Messages] Welcome to our server, have fun!
+03:56 [Warning] [BoxLooters] Saved Boxlooters data
+04:01 [Info] [Advert Messages] Please treat everybody respectfully.
+04:06 [Warning] [BoxLooters] Saved Boxlooters data
+04:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:14 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1048, 46, -176) grid area: Y18
+04:14 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+04:14 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+04:16 [Warning] [BoxLooters] Saved Boxlooters data
+04:21 [Info] [Advert Messages] Welcome to our server, have fun!
+04:26 [Warning] [BoxLooters] Saved Boxlooters data
+04:31 [Info] [Advert Messages] Please treat everybody respectfully.
+04:36 [Warning] [BoxLooters] Saved Boxlooters data
+04:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:46 [Warning] [BoxLooters] Saved Boxlooters data
+04:51 [Info] [Advert Messages] Welcome to our server, have fun!
+04:55 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-254, 37, 337) grid area: P14
+04:55 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+04:55 [Info] [FancyDrop] Next timed Airdrop in 58 minutes
+04:56 [Warning] [BoxLooters] Saved Boxlooters data
+05:01 [Info] [Advert Messages] Please treat everybody respectfully.
+05:06 [Warning] [BoxLooters] Saved Boxlooters data
+05:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:16 [Warning] [BoxLooters] Saved Boxlooters data
+05:21 [Info] [Advert Messages] Welcome to our server, have fun!
+05:26 [Warning] [BoxLooters] Saved Boxlooters data
+05:31 [Info] [Advert Messages] Please treat everybody respectfully.
+05:36 [Warning] [BoxLooters] Saved Boxlooters data
+05:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:46 [Warning] [BoxLooters] Saved Boxlooters data
+05:51 [Info] [Advert Messages] Welcome to our server, have fun!
+05:53 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (963, 55, 1160) grid area: X9
+05:53 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+05:53 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+05:56 [Warning] [BoxLooters] Saved Boxlooters data
+06:01 [Info] [Advert Messages] Please treat everybody respectfully.
+06:06 [Warning] [BoxLooters] Saved Boxlooters data
+06:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:16 [Warning] [BoxLooters] Saved Boxlooters data
+06:21 [Info] [Advert Messages] Welcome to our server, have fun!
+06:24 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1094, 15, 1493) grid area: Y6
+06:24 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+06:24 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+06:26 [Warning] [BoxLooters] Saved Boxlooters data
+06:30 [Info] [Admin Logger] [08/16/2022 06:30:48] Void [76561198977454718] disconnected.
+06:30 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+06:31 [Info] [Advert Messages] Please treat everybody respectfully.
+06:36 [Warning] [BoxLooters] Saved Boxlooters data
+06:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:46 [Warning] [BoxLooters] Saved Boxlooters data
+06:51 [Info] [Advert Messages] Welcome to our server, have fun!
+06:56 [Warning] [BoxLooters] Saved Boxlooters data
+07:01 [Info] [Advert Messages] Please treat everybody respectfully.
+07:06 [Warning] [BoxLooters] Saved Boxlooters data
+07:09 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:09 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+07:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:16 [Warning] [BoxLooters] Saved Boxlooters data
+07:21 [Info] [Advert Messages] Welcome to our server, have fun!
+07:26 [Warning] [BoxLooters] Saved Boxlooters data
+07:31 [Info] [Advert Messages] Please treat everybody respectfully.
+07:36 [Warning] [BoxLooters] Saved Boxlooters data
+07:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:46 [Warning] [BoxLooters] Saved Boxlooters data
+07:51 [Info] [Advert Messages] Welcome to our server, have fun!
+07:52 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:52 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+07:56 [Warning] [BoxLooters] Saved Boxlooters data
+08:01 [Info] [Advert Messages] Please treat everybody respectfully.
+08:06 [Warning] [BoxLooters] Saved Boxlooters data
+08:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:16 [Warning] [BoxLooters] Saved Boxlooters data
+08:21 [Info] [Advert Messages] Welcome to our server, have fun!
+08:26 [Warning] [BoxLooters] Saved Boxlooters data
+08:29 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:29 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+08:31 [Info] [Advert Messages] Please treat everybody respectfully.
+08:36 [Warning] [BoxLooters] Saved Boxlooters data
+08:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:46 [Warning] [BoxLooters] Saved Boxlooters data
+08:51 [Info] [Advert Messages] Welcome to our server, have fun!
+08:56 [Warning] [BoxLooters] Saved Boxlooters data
+09:01 [Info] [Advert Messages] Please treat everybody respectfully.
+09:06 [Warning] [BoxLooters] Saved Boxlooters data
+09:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:13 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:13 [Info] [FancyDrop] Next timed Airdrop in 56 minutes
+09:16 [Warning] [BoxLooters] Saved Boxlooters data
+09:21 [Info] [Advert Messages] Welcome to our server, have fun!
+09:26 [Warning] [BoxLooters] Saved Boxlooters data
+09:31 [Info] [Advert Messages] Please treat everybody respectfully.
+09:36 [Warning] [BoxLooters] Saved Boxlooters data
+09:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:46 [Warning] [BoxLooters] Saved Boxlooters data
+09:51 [Info] [Advert Messages] Welcome to our server, have fun!
+09:56 [Warning] [BoxLooters] Saved Boxlooters data
+10:01 [Info] [Advert Messages] Please treat everybody respectfully.
+10:06 [Warning] [BoxLooters] Saved Boxlooters data
+10:09 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:09 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+10:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:16 [Warning] [BoxLooters] Saved Boxlooters data
+10:21 [Info] [Advert Messages] Welcome to our server, have fun!
+10:26 [Warning] [BoxLooters] Saved Boxlooters data
+10:31 [Info] [Advert Messages] Please treat everybody respectfully.
+10:36 [Warning] [BoxLooters] Saved Boxlooters data
+10:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:44 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:44 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+10:46 [Warning] [BoxLooters] Saved Boxlooters data
+10:51 [Info] [Advert Messages] Welcome to our server, have fun!
+10:56 [Warning] [BoxLooters] Saved Boxlooters data
+11:01 [Info] [Advert Messages] Please treat everybody respectfully.
+11:06 [Warning] [BoxLooters] Saved Boxlooters data
+11:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:16 [Warning] [BoxLooters] Saved Boxlooters data
+11:21 [Info] [Advert Messages] Welcome to our server, have fun!
+11:26 [Warning] [BoxLooters] Saved Boxlooters data
+11:31 [Info] [Advert Messages] Please treat everybody respectfully.
+11:33 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:33 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+11:36 [Warning] [BoxLooters] Saved Boxlooters data
+11:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:46 [Warning] [BoxLooters] Saved Boxlooters data
+11:51 [Info] [Advert Messages] Welcome to our server, have fun!
+11:56 [Warning] [BoxLooters] Saved Boxlooters data
+12:01 [Info] [Advert Messages] Please treat everybody respectfully.
+12:06 [Warning] [BoxLooters] Saved Boxlooters data
+12:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:16 [Warning] [BoxLooters] Saved Boxlooters data
+12:18 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:18 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+12:21 [Info] [Advert Messages] Welcome to our server, have fun!
+12:26 [Warning] [BoxLooters] Saved Boxlooters data
+12:31 [Info] [Advert Messages] Please treat everybody respectfully.
+12:36 [Warning] [BoxLooters] Saved Boxlooters data
+12:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:46 [Warning] [BoxLooters] Saved Boxlooters data
+12:51 [Info] [Advert Messages] Welcome to our server, have fun!
+12:56 [Warning] [BoxLooters] Saved Boxlooters data
+13:01 [Info] [Advert Messages] Please treat everybody respectfully.
+13:06 [Warning] [BoxLooters] Saved Boxlooters data
+13:06 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:06 [Info] [FancyDrop] Next timed Airdrop in 58 minutes
+13:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:16 [Warning] [BoxLooters] Saved Boxlooters data
+13:21 [Info] [Advert Messages] Welcome to our server, have fun!
+13:26 [Warning] [BoxLooters] Saved Boxlooters data
+13:31 [Info] [Advert Messages] Please treat everybody respectfully.
+13:36 [Warning] [BoxLooters] Saved Boxlooters data
+13:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:46 [Warning] [BoxLooters] Saved Boxlooters data
+13:51 [Info] [Advert Messages] Welcome to our server, have fun!
+13:56 [Warning] [BoxLooters] Saved Boxlooters data
+14:01 [Info] [Advert Messages] Please treat everybody respectfully.
+14:04 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:04 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+14:06 [Warning] [BoxLooters] Saved Boxlooters data
+14:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:16 [Warning] [BoxLooters] Saved Boxlooters data
+14:21 [Info] [Advert Messages] Welcome to our server, have fun!
+14:26 [Warning] [BoxLooters] Saved Boxlooters data
+14:31 [Info] [Advert Messages] Please treat everybody respectfully.
+14:36 [Warning] [BoxLooters] Saved Boxlooters data
+14:39 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:39 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+14:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:46 [Warning] [BoxLooters] Saved Boxlooters data
+14:51 [Info] [Advert Messages] Welcome to our server, have fun!
+14:56 [Warning] [BoxLooters] Saved Boxlooters data
+15:01 [Info] [Advert Messages] Please treat everybody respectfully.
+15:06 [Warning] [BoxLooters] Saved Boxlooters data
+15:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:16 [Warning] [BoxLooters] Saved Boxlooters data
+15:21 [Info] [Advert Messages] Welcome to our server, have fun!
+15:26 [Warning] [BoxLooters] Saved Boxlooters data
+15:29 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+15:29 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+15:31 [Info] [Advert Messages] Please treat everybody respectfully.
+15:36 [Warning] [BoxLooters] Saved Boxlooters data
+15:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:46 [Warning] [BoxLooters] Saved Boxlooters data
+15:51 [Info] [Advert Messages] Welcome to our server, have fun!
+15:56 [Warning] [BoxLooters] Saved Boxlooters data
+16:01 [Info] [Advert Messages] Please treat everybody respectfully.
+16:06 [Warning] [BoxLooters] Saved Boxlooters data
+16:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:12 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:12 [Info] [FancyDrop] Next timed Airdrop in 51 minutes
+16:16 [Warning] [BoxLooters] Saved Boxlooters data
+16:21 [Info] [Advert Messages] Welcome to our server, have fun!
+16:26 [Warning] [BoxLooters] Saved Boxlooters data
+16:31 [Info] [Advert Messages] Please treat everybody respectfully.
+16:36 [Warning] [BoxLooters] Saved Boxlooters data
+16:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:46 [Warning] [BoxLooters] Saved Boxlooters data
+16:51 [Info] [Advert Messages] Welcome to our server, have fun!
+16:56 [Warning] [BoxLooters] Saved Boxlooters data
+17:01 [Info] [Advert Messages] Please treat everybody respectfully.
+17:03 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+17:03 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+17:06 [Warning] [BoxLooters] Saved Boxlooters data
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:16 [Warning] [BoxLooters] Saved Boxlooters data
+17:21 [Info] [Advert Messages] Welcome to our server, have fun!
+17:26 [Warning] [BoxLooters] Saved Boxlooters data
+17:31 [Info] [Advert Messages] Please treat everybody respectfully.
+17:36 [Warning] [BoxLooters] Saved Boxlooters data
+17:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:46 [Warning] [BoxLooters] Saved Boxlooters data
+17:47 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+17:47 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+17:51 [Info] [Advert Messages] Welcome to our server, have fun!
+17:56 [Warning] [BoxLooters] Saved Boxlooters data
+18:01 [Info] [Advert Messages] Please treat everybody respectfully.
+18:06 [Warning] [BoxLooters] Saved Boxlooters data
+18:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:16 [Warning] [BoxLooters] Saved Boxlooters data
+18:21 [Info] [Advert Messages] Welcome to our server, have fun!
+18:22 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+18:22 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+18:26 [Warning] [BoxLooters] Saved Boxlooters data
+18:31 [Info] [Advert Messages] Please treat everybody respectfully.
+18:36 [Warning] [BoxLooters] Saved Boxlooters data
+18:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:46 [Warning] [BoxLooters] Saved Boxlooters data
+18:51 [Info] [Advert Messages] Welcome to our server, have fun!
+18:56 [Warning] [BoxLooters] Saved Boxlooters data
+19:01 [Info] [Advert Messages] Please treat everybody respectfully.
+19:06 [Warning] [BoxLooters] Saved Boxlooters data
+19:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:12 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:12 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+19:16 [Warning] [BoxLooters] Saved Boxlooters data
+19:21 [Info] [Advert Messages] Welcome to our server, have fun!
+19:26 [Warning] [BoxLooters] Saved Boxlooters data
+19:31 [Info] [Advert Messages] Please treat everybody respectfully.
+19:36 [Warning] [BoxLooters] Saved Boxlooters data
+19:41 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:46 [Warning] [BoxLooters] Saved Boxlooters data
+19:51 [Info] [Advert Messages] Welcome to our server, have fun!
+19:56 [Warning] [BoxLooters] Saved Boxlooters data
+20:00 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+20:00 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+20:01 [Info] [Advert Messages] Please treat everybody respectfully.
+20:06 [Warning] [BoxLooters] Saved Boxlooters data
+20:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:16 [Warning] [BoxLooters] Saved Boxlooters data
+20:20 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+20:20 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+20:20 [Warning] Calling 'Unload' on 'AdminHammer v1.13.0' took 243ms
+20:20 [Info] Unloaded plugin AdminHammer v1.13.0 by mvrb
+20:20 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+20:20 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+20:20 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+20:20 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+20:20 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+20:20 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+20:20 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+20:20 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 226ms
+20:20 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+20:20 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+20:20 [Warning] Calling 'Unload' on 'BetterLoot v3.5.8' took 221ms
+20:20 [Info] Unloaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:20 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+20:20 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+20:20 [Warning] [BoxLooters] Saved Boxlooters data
+20:20 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+20:20 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+20:20 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 220ms
+20:20 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+20:20 [Warning] Calling 'Unload' on 'FancyDrop v3.2.2' took 657ms
+20:20 [Info] Unloaded plugin FancyDrop v3.2.2 by FastBurst
+20:20 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+20:20 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+20:20 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+20:20 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+20:20 [Info] [Stack Size Controller] Reverting stack sizes to vanilla defaults.
+20:20 [Info] Unloaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+20:20 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+20:20 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+20:20 [Info] Loading Oxide Core v2.0.4048...
+20:20 [Info] Loading extensions...
+20:20 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+20:20 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+20:20 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+20:20 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+20:20 [Info] Unity version: 2019.4.7f1
+20:20 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+20:20 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:20 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+20:20 [Info] Using Covalence provider for game 'Rust'
+20:20 [Info] Loading plugins...
+20:20 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+20:20 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+20:20 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+20:20 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterLoot, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, FurnaceSplitter, GatherManager, Kits, NTeleportation, PermsUI, RemoverTool, ServerRewards, StackSizeController, Vanish and ZoneManager were compiled successfully in 0ms
+20:20 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+20:20 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+20:20 [Info] [Admin Deep Cover] Data File Loaded
+20:20 [Warning] [Admin Deep Cover] Initialized
+20:20 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+20:20 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+20:20 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+20:20 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+20:20 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+20:20 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+20:20 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+20:20 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+20:20 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+20:20 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+20:20 [Warning] [Auto Stash Traps] Config Loaded
+20:20 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+20:20 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+20:20 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:20 [Info] Loaded plugin BetterLoot v3.5.8 by Tryhard & Khan
+20:20 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+20:20 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+20:20 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+20:20 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+20:20 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+20:20 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+20:20 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+20:20 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+20:20 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+20:20 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+20:20 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+20:20 [Info] [Stack Size Controller] Acquiring vanilla defaults file from official GitHub repo and overwriting; https://raw.githubusercontent.com/AnExiledDev/StackSizeController/master/vanilla-defaults.json
+20:20 [Info] Loaded plugin Stack Size Controller v4.1.1 by AnExiledDev
+20:20 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+20:20 [Info] Loaded plugin Zone Manager v3.0.23 by k1lly0u
+20:24 [Info] IP address from external API: 141.94.255.66
+20:24 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+20:24 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:24 [Info] [BetterLoot] Updating internals ...
+20:24 [Warning] [BoxLooters] Attempting to remove old log entries
+20:24 [Warning] [BoxLooters] Removed 0 old records from BoxData
+20:24 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+20:24 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+20:24 [Info] [FancyDrop] Timed Airdrop activated with '1' players between '30' and '60' minutes
+20:24 [Info] [FancyDrop] Builtin Airdrop removed
+20:24 [Info] [FancyDrop] Next timed Airdrop in 56 minutes
+20:24 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v3.2.2' took 205ms
+20:24 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 198ms
+20:24 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+20:24 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 249ms
+20:24 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+20:24 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+20:24 [Info] [BetterLoot] No stacked LootContainer found.
+20:24 [Info] [BetterLoot] Populated '816' supported containers.
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:24 [Info] [Auto Stash Traps] 150 Traps Generated
+20:24 [Info] [Admin Radar] Cached 6534/154800 entities in 21.0068088 seconds!
+20:30 [Info] [Advert Messages] Welcome to our server, have fun!
+20:34 [Warning] [BoxLooters] Saved Boxlooters data
+20:40 [Info] [Advert Messages] Please treat everybody respectfully.
+20:44 [Warning] [BoxLooters] Saved Boxlooters data
+20:45 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <97141465529c4466877643b9b3c92101>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:54 [Warning] [BoxLooters] Saved Boxlooters data
+21:00 [Info] [Advert Messages] Welcome to our server, have fun!
+21:04 [Warning] [BoxLooters] Saved Boxlooters data
+21:10 [Info] [Advert Messages] Please treat everybody respectfully.
+21:14 [Warning] [BoxLooters] Saved Boxlooters data
+21:20 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:20 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+21:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:24 [Warning] [BoxLooters] Saved Boxlooters data
+21:30 [Info] [Advert Messages] Welcome to our server, have fun!
+21:34 [Warning] [BoxLooters] Saved Boxlooters data
+21:40 [Info] [Advert Messages] Please treat everybody respectfully.
+21:44 [Warning] [BoxLooters] Saved Boxlooters data
+21:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:54 [Warning] [BoxLooters] Saved Boxlooters data
+22:00 [Info] [Advert Messages] Welcome to our server, have fun!
+22:04 [Warning] [BoxLooters] Saved Boxlooters data
+22:08 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:08 [Info] [FancyDrop] Next timed Airdrop in 56 minutes
+22:10 [Info] [Advert Messages] Please treat everybody respectfully.
+22:14 [Warning] [BoxLooters] Saved Boxlooters data
+22:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:24 [Warning] [BoxLooters] Saved Boxlooters data
+22:30 [Info] [Advert Messages] Welcome to our server, have fun!
+22:34 [Warning] [BoxLooters] Saved Boxlooters data
+22:40 [Info] [Advert Messages] Please treat everybody respectfully.
+22:44 [Warning] [BoxLooters] Saved Boxlooters data
+22:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:54 [Warning] [BoxLooters] Saved Boxlooters data
+23:00 [Info] [Advert Messages] Welcome to our server, have fun!
+23:04 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:04 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+23:04 [Warning] [BoxLooters] Saved Boxlooters data
+23:10 [Info] [Advert Messages] Please treat everybody respectfully.
+23:14 [Warning] [BoxLooters] Saved Boxlooters data
+23:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:24 [Warning] [BoxLooters] Saved Boxlooters data
+23:30 [Info] [Advert Messages] Welcome to our server, have fun!
+23:34 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+23:34 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+23:34 [Warning] [BoxLooters] Saved Boxlooters data
+23:40 [Info] [Advert Messages] Please treat everybody respectfully.
+23:44 [Warning] [BoxLooters] Saved Boxlooters data
+23:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:54 [Warning] [BoxLooters] Saved Boxlooters data

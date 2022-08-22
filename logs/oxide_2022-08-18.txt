@@ -1,0 +1,274 @@
+00:00 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:00 [Info] [FancyDrop] Next timed Airdrop in 57 minutes
+00:00 [Info] [Advert Messages] Welcome to our server, have fun!
+00:04 [Warning] [BoxLooters] Saved Boxlooters data
+00:10 [Info] [Advert Messages] Please treat everybody respectfully.
+00:14 [Warning] [BoxLooters] Saved Boxlooters data
+00:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:24 [Warning] [BoxLooters] Saved Boxlooters data
+00:30 [Info] [Advert Messages] Welcome to our server, have fun!
+00:34 [Warning] [BoxLooters] Saved Boxlooters data
+00:40 [Info] [Advert Messages] Please treat everybody respectfully.
+00:44 [Warning] [BoxLooters] Saved Boxlooters data
+00:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:54 [Warning] [BoxLooters] Saved Boxlooters data
+00:57 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:57 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+01:00 [Info] [Advert Messages] Welcome to our server, have fun!
+01:04 [Warning] [BoxLooters] Saved Boxlooters data
+01:10 [Info] [Advert Messages] Please treat everybody respectfully.
+01:14 [Warning] [BoxLooters] Saved Boxlooters data
+01:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:24 [Warning] [BoxLooters] Saved Boxlooters data
+01:30 [Info] [Advert Messages] Welcome to our server, have fun!
+01:32 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:32 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+01:35 [Warning] [BoxLooters] Saved Boxlooters data
+01:40 [Info] [Advert Messages] Please treat everybody respectfully.
+01:45 [Warning] [BoxLooters] Saved Boxlooters data
+01:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:55 [Warning] [BoxLooters] Saved Boxlooters data
+02:00 [Info] [Advert Messages] Welcome to our server, have fun!
+02:05 [Warning] [BoxLooters] Saved Boxlooters data
+02:10 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+02:10 [Info] [FancyDrop] Next timed Airdrop in 51 minutes
+02:10 [Info] [Advert Messages] Please treat everybody respectfully.
+02:15 [Warning] [BoxLooters] Saved Boxlooters data
+02:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:25 [Warning] [BoxLooters] Saved Boxlooters data
+02:30 [Info] [Advert Messages] Welcome to our server, have fun!
+02:35 [Warning] [BoxLooters] Saved Boxlooters data
+02:40 [Info] [Advert Messages] Please treat everybody respectfully.
+02:45 [Warning] [BoxLooters] Saved Boxlooters data
+02:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:55 [Warning] [BoxLooters] Saved Boxlooters data
+03:00 [Info] [Advert Messages] Welcome to our server, have fun!
+03:01 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:01 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+03:05 [Warning] [BoxLooters] Saved Boxlooters data
+03:10 [Info] [Advert Messages] Please treat everybody respectfully.
+03:15 [Warning] [BoxLooters] Saved Boxlooters data
+03:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:25 [Warning] [BoxLooters] Saved Boxlooters data
+03:30 [Info] [Advert Messages] Welcome to our server, have fun!
+03:35 [Warning] [BoxLooters] Saved Boxlooters data
+03:40 [Info] [Advert Messages] Please treat everybody respectfully.
+03:45 [Warning] [BoxLooters] Saved Boxlooters data
+03:47 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:47 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+03:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:55 [Warning] [BoxLooters] Saved Boxlooters data
+04:00 [Info] [Advert Messages] Welcome to our server, have fun!
+04:05 [Warning] [BoxLooters] Saved Boxlooters data
+04:10 [Info] [Advert Messages] Please treat everybody respectfully.
+04:15 [Warning] [BoxLooters] Saved Boxlooters data
+04:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:25 [Warning] [BoxLooters] Saved Boxlooters data
+04:30 [Info] [Advert Messages] Welcome to our server, have fun!
+04:31 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:31 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+04:35 [Warning] [BoxLooters] Saved Boxlooters data
+04:40 [Info] [Advert Messages] Please treat everybody respectfully.
+04:45 [Warning] [BoxLooters] Saved Boxlooters data
+04:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:55 [Warning] [BoxLooters] Saved Boxlooters data
+05:00 [Info] [Advert Messages] Welcome to our server, have fun!
+05:05 [Warning] [BoxLooters] Saved Boxlooters data
+05:10 [Info] [Advert Messages] Please treat everybody respectfully.
+05:15 [Warning] [BoxLooters] Saved Boxlooters data
+05:19 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:19 [Info] [FancyDrop] Next timed Airdrop in 54 minutes
+05:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:25 [Warning] [BoxLooters] Saved Boxlooters data
+05:30 [Info] [Advert Messages] Welcome to our server, have fun!
+05:35 [Warning] [BoxLooters] Saved Boxlooters data
+05:40 [Info] [Advert Messages] Please treat everybody respectfully.
+05:45 [Warning] [BoxLooters] Saved Boxlooters data
+05:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:55 [Warning] [BoxLooters] Saved Boxlooters data
+06:00 [Info] [Advert Messages] Welcome to our server, have fun!
+06:05 [Warning] [BoxLooters] Saved Boxlooters data
+06:10 [Info] [Advert Messages] Please treat everybody respectfully.
+06:13 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+06:13 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+06:15 [Warning] [BoxLooters] Saved Boxlooters data
+06:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:25 [Warning] [BoxLooters] Saved Boxlooters data
+06:30 [Info] [Advert Messages] Welcome to our server, have fun!
+06:35 [Warning] [BoxLooters] Saved Boxlooters data
+06:40 [Info] [Advert Messages] Please treat everybody respectfully.
+06:45 [Warning] [BoxLooters] Saved Boxlooters data
+06:48 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+06:48 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+06:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:55 [Warning] [BoxLooters] Saved Boxlooters data
+07:00 [Info] [Advert Messages] Welcome to our server, have fun!
+07:05 [Warning] [BoxLooters] Saved Boxlooters data
+07:10 [Info] [Advert Messages] Please treat everybody respectfully.
+07:15 [Warning] [BoxLooters] Saved Boxlooters data
+07:20 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:20 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+07:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:25 [Warning] [BoxLooters] Saved Boxlooters data
+07:30 [Info] [Advert Messages] Welcome to our server, have fun!
+07:35 [Warning] [BoxLooters] Saved Boxlooters data
+07:40 [Info] [Advert Messages] Please treat everybody respectfully.
+07:45 [Warning] [BoxLooters] Saved Boxlooters data
+07:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:55 [Warning] [BoxLooters] Saved Boxlooters data
+08:00 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:00 [Info] [FancyDrop] Next timed Airdrop in 53 minutes
+08:00 [Info] [Advert Messages] Welcome to our server, have fun!
+08:05 [Warning] [BoxLooters] Saved Boxlooters data
+08:10 [Info] [Advert Messages] Please treat everybody respectfully.
+08:15 [Warning] [BoxLooters] Saved Boxlooters data
+08:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:25 [Warning] [BoxLooters] Saved Boxlooters data
+08:30 [Info] [Advert Messages] Welcome to our server, have fun!
+08:35 [Warning] [BoxLooters] Saved Boxlooters data
+08:40 [Info] [Advert Messages] Please treat everybody respectfully.
+08:45 [Warning] [BoxLooters] Saved Boxlooters data
+08:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:53 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+08:53 [Info] [FancyDrop] Next timed Airdrop in 53 minutes
+08:55 [Warning] [BoxLooters] Saved Boxlooters data
+09:00 [Info] [Advert Messages] Welcome to our server, have fun!
+09:05 [Warning] [BoxLooters] Saved Boxlooters data
+09:10 [Info] [Advert Messages] Please treat everybody respectfully.
+09:15 [Warning] [BoxLooters] Saved Boxlooters data
+09:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:25 [Warning] [BoxLooters] Saved Boxlooters data
+09:30 [Info] [Advert Messages] Welcome to our server, have fun!
+09:35 [Warning] [BoxLooters] Saved Boxlooters data
+09:40 [Info] [Advert Messages] Please treat everybody respectfully.
+09:45 [Warning] [BoxLooters] Saved Boxlooters data
+09:46 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+09:46 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+09:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:55 [Warning] [BoxLooters] Saved Boxlooters data
+10:00 [Info] [Advert Messages] Welcome to our server, have fun!
+10:05 [Warning] [BoxLooters] Saved Boxlooters data
+10:10 [Info] [Advert Messages] Please treat everybody respectfully.
+10:15 [Warning] [BoxLooters] Saved Boxlooters data
+10:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:25 [Warning] [BoxLooters] Saved Boxlooters data
+10:30 [Info] [Advert Messages] Welcome to our server, have fun!
+10:35 [Warning] [BoxLooters] Saved Boxlooters data
+10:38 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+10:38 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+10:40 [Info] [Advert Messages] Please treat everybody respectfully.
+10:45 [Warning] [BoxLooters] Saved Boxlooters data
+10:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:55 [Warning] [BoxLooters] Saved Boxlooters data
+11:00 [Info] [Advert Messages] Welcome to our server, have fun!
+11:05 [Warning] [BoxLooters] Saved Boxlooters data
+11:10 [Info] [Advert Messages] Please treat everybody respectfully.
+11:15 [Warning] [BoxLooters] Saved Boxlooters data
+11:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:22 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:22 [Info] [FancyDrop] Next timed Airdrop in 55 minutes
+11:25 [Warning] [BoxLooters] Saved Boxlooters data
+11:30 [Info] [Advert Messages] Welcome to our server, have fun!
+11:35 [Warning] [BoxLooters] Saved Boxlooters data
+11:40 [Info] [Advert Messages] Please treat everybody respectfully.
+11:45 [Warning] [BoxLooters] Saved Boxlooters data
+11:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:55 [Warning] [BoxLooters] Saved Boxlooters data
+12:00 [Info] [Advert Messages] Welcome to our server, have fun!
+12:05 [Warning] [BoxLooters] Saved Boxlooters data
+12:10 [Info] [Advert Messages] Please treat everybody respectfully.
+12:15 [Warning] [BoxLooters] Saved Boxlooters data
+12:17 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+12:17 [Info] [FancyDrop] Next timed Airdrop in 51 minutes
+12:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:25 [Warning] [BoxLooters] Saved Boxlooters data
+12:30 [Info] [Advert Messages] Welcome to our server, have fun!
+12:35 [Warning] [BoxLooters] Saved Boxlooters data
+12:40 [Info] [Advert Messages] Please treat everybody respectfully.
+12:45 [Warning] [BoxLooters] Saved Boxlooters data
+12:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:55 [Warning] [BoxLooters] Saved Boxlooters data
+13:00 [Info] [Advert Messages] Welcome to our server, have fun!
+13:05 [Warning] [BoxLooters] Saved Boxlooters data
+13:08 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:08 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+13:10 [Info] [Advert Messages] Please treat everybody respectfully.
+13:15 [Warning] [BoxLooters] Saved Boxlooters data
+13:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:25 [Warning] [BoxLooters] Saved Boxlooters data
+13:30 [Info] [Advert Messages] Welcome to our server, have fun!
+13:35 [Warning] [BoxLooters] Saved Boxlooters data
+13:40 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+13:40 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+13:40 [Info] [Advert Messages] Please treat everybody respectfully.
+13:45 [Warning] [BoxLooters] Saved Boxlooters data
+13:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:55 [Warning] [BoxLooters] Saved Boxlooters data
+14:00 [Info] [Advert Messages] Welcome to our server, have fun!
+14:05 [Warning] [BoxLooters] Saved Boxlooters data
+14:10 [Info] [Advert Messages] Please treat everybody respectfully.
+14:15 [Warning] [BoxLooters] Saved Boxlooters data
+14:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:21 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:21 [Info] [FancyDrop] Next timed Airdrop in 58 minutes
+14:25 [Warning] [BoxLooters] Saved Boxlooters data
+14:30 [Info] [Advert Messages] Welcome to our server, have fun!
+14:35 [Warning] [BoxLooters] Saved Boxlooters data
+14:40 [Info] [Advert Messages] Please treat everybody respectfully.
+14:45 [Warning] [BoxLooters] Saved Boxlooters data
+14:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:55 [Warning] [BoxLooters] Saved Boxlooters data
+15:00 [Info] [Advert Messages] Welcome to our server, have fun!
+15:05 [Warning] [BoxLooters] Saved Boxlooters data
+15:10 [Info] [Advert Messages] Please treat everybody respectfully.
+15:15 [Warning] [BoxLooters] Saved Boxlooters data
+15:19 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+15:19 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+15:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:25 [Warning] [BoxLooters] Saved Boxlooters data
+15:30 [Info] [Advert Messages] Welcome to our server, have fun!
+15:35 [Warning] [BoxLooters] Saved Boxlooters data
+15:40 [Info] [Advert Messages] Please treat everybody respectfully.
+15:45 [Warning] [BoxLooters] Saved Boxlooters data
+15:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:55 [Warning] [BoxLooters] Saved Boxlooters data
+16:00 [Info] [Advert Messages] Welcome to our server, have fun!
+16:04 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:04 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+16:05 [Warning] [BoxLooters] Saved Boxlooters data
+16:10 [Info] [Advert Messages] Please treat everybody respectfully.
+16:15 [Warning] [BoxLooters] Saved Boxlooters data
+16:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:25 [Warning] [BoxLooters] Saved Boxlooters data
+16:30 [Info] [Advert Messages] Welcome to our server, have fun!
+16:35 [Warning] [BoxLooters] Saved Boxlooters data
+16:40 [Info] [Advert Messages] Please treat everybody respectfully.
+16:44 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+16:44 [Info] [FancyDrop] Next timed Airdrop in 56 minutes
+16:45 [Warning] [BoxLooters] Saved Boxlooters data
+16:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:55 [Warning] [BoxLooters] Saved Boxlooters data
+17:00 [Info] [Advert Messages] Welcome to our server, have fun!
+17:05 [Warning] [BoxLooters] Saved Boxlooters data
+17:10 [Info] [Advert Messages] Please treat everybody respectfully.
+17:15 [Warning] [BoxLooters] Saved Boxlooters data
+17:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:25 [Warning] [BoxLooters] Saved Boxlooters data
+17:30 [Info] [Advert Messages] Welcome to our server, have fun!
+17:35 [Warning] [BoxLooters] Saved Boxlooters data
+17:40 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+17:40 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+17:40 [Info] [Advert Messages] Please treat everybody respectfully.
+17:45 [Warning] [BoxLooters] Saved Boxlooters data
+17:50 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:55 [Warning] [BoxLooters] Saved Boxlooters data
+18:00 [Info] [Advert Messages] Welcome to our server, have fun!
+18:05 [Warning] [BoxLooters] Saved Boxlooters data
+18:10 [Info] [Advert Messages] Please treat everybody respectfully.
+18:13 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+18:13 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+18:15 [Warning] [BoxLooters] Saved Boxlooters data
+18:20 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:25 [Warning] [BoxLooters] Saved Boxlooters data
+18:30 [Info] [Advert Messages] Welcome to our server, have fun!
+18:35 [Warning] [BoxLooters] Saved Boxlooters data

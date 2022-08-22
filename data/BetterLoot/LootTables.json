@@ -19,10 +19,7 @@
           "Max": 1,
           "Min": 1
         },
-        "burlap.gloves": {
-          "Max": 1,
-          "Min": 1
-        },
+        
         "electric.igniter": {
           "Max": 1,
           "Min": 1
@@ -83,10 +80,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants.shorts": {
-          "Max": 1,
-          "Min": 1
-        },
+    
         "planter.large": {
           "Max": 1,
           "Min": 1
@@ -101,14 +95,6 @@
         },
         "rope": {
           "Max": 3,
-          "Min": 1
-        },
-        "rug": {
-          "Max": 1,
-          "Min": 1
-        },
-        "rug.bear": {
-          "Max": 1,
           "Min": 1
         },
         "semibody": {
@@ -127,10 +113,7 @@
           "Max": 1,
           "Min": 1
         },
-        "shirt.tanktop": {
-          "Max": 1,
-          "Min": 1
-        },
+     
         "shutter.wood.a": {
           "Max": 1,
           "Min": 1
@@ -196,10 +179,7 @@
           "Max": 1,
           "Min": 1
         },
-        "burlap.gloves": {
-          "Max": 1,
-          "Min": 1
-        },
+        
         "electric.igniter": {
           "Max": 1,
           "Min": 1
@@ -260,10 +240,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants.shorts": {
-          "Max": 1,
-          "Min": 1
-        },
+    
         "planter.large": {
           "Max": 1,
           "Min": 1
@@ -278,14 +255,6 @@
         },
         "rope": {
           "Max": 3,
-          "Min": 1
-        },
-        "rug": {
-          "Max": 1,
-          "Min": 1
-        },
-        "rug.bear": {
-          "Max": 1,
           "Min": 1
         },
         "semibody": {
@@ -304,10 +273,7 @@
           "Max": 1,
           "Min": 1
         },
-        "shirt.tanktop": {
-          "Max": 1,
-          "Min": 1
-        },
+     
         "shutter.wood.a": {
           "Max": 1,
           "Min": 1
@@ -410,10 +376,7 @@
           "Max": 1,
           "Min": 1
         },
-        "burlap.gloves": {
-          "Max": 1,
-          "Min": 1
-        },
+        
         "electric.igniter": {
           "Max": 1,
           "Min": 1
@@ -454,19 +417,8 @@
           "Max": 1,
           "Min": 1
         },
-        "pants.shorts": {
-          "Max": 1,
-          "Min": 1
-        },
+    
         "planter.large": {
-          "Max": 1,
-          "Min": 1
-        },
-        "rug": {
-          "Max": 1,
-          "Min": 1
-        },
-        "rug.bear": {
           "Max": 1,
           "Min": 1
         },
@@ -474,10 +426,7 @@
           "Max": 1,
           "Min": 1
         },
-        "shirt.tanktop": {
-          "Max": 1,
-          "Min": 1
-        },
+     
         "shutter.wood.a": {
           "Max": 1,
           "Min": 1
@@ -1550,10 +1499,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pickaxe": {
           "Max": 1,
           "Min": 1
@@ -1586,10 +1532,7 @@
           "Max": 2,
           "Min": 1
         },
-        "shirt.collared": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "shotgun.double": {
           "Max": 1,
           "Min": 1
@@ -1618,14 +1561,8 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt": {
-          "Max": 1,
-          "Min": 1
-        },
-        "tshirt.long": {
-          "Max": 1,
-          "Min": 1
-        },
+
+ 
         "wall.external.high": {
           "Max": 1,
           "Min": 1
@@ -1853,10 +1790,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pickaxe": {
           "Max": 1,
           "Min": 1
@@ -1877,10 +1811,7 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt.long": {
-          "Max": 1,
-          "Min": 1
-        },
+ 
         "wood.armor.jacket": {
           "Max": 1,
           "Min": 1
@@ -2114,10 +2045,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pickaxe": {
           "Max": 1,
           "Min": 1
@@ -2162,10 +2090,7 @@
           "Max": 2,
           "Min": 1
         },
-        "shirt.collared": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "shotgun.double": {
           "Max": 1,
           "Min": 1
@@ -2194,14 +2119,8 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt": {
-          "Max": 1,
-          "Min": 1
-        },
-        "tshirt.long": {
-          "Max": 1,
-          "Min": 1
-        },
+
+ 
         "wall.external.high": {
           "Max": 1,
           "Min": 1
@@ -2379,10 +2298,7 @@
           "Max": 2,
           "Min": 1
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pickaxe": {
           "Max": 1,
           "Min": 1
@@ -2431,10 +2347,7 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt.long": {
-          "Max": 1,
-          "Min": 1
-        },
+ 
         "wood.armor.jacket": {
           "Max": 1,
           "Min": 1
@@ -2711,26 +2624,6 @@
           "Max": 1,
           "Min": 1
         },
-        "burlap.gloves": {
-          "Max": 1,
-          "Min": 1
-        },
-        "burlap.headwrap": {
-          "Max": 1,
-          "Min": 1
-        },
-        "burlap.shirt": {
-          "Max": 1,
-          "Min": 1
-        },
-        "burlap.shoes": {
-          "Max": 1,
-          "Min": 1
-        },
-        "burlap.trousers": {
-          "Max": 1,
-          "Min": 1
-        },
         "chainsaw": {
           "Max": 1,
           "Min": 1
@@ -2791,10 +2684,7 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "wood.armor.jacket": {
           "Max": 1,
           "Min": 1
@@ -3131,10 +3021,7 @@
           "Max": 1,
           "Min": 1
         },
-        "burlap.gloves": {
-          "Max": 1,
-          "Min": 1
-        },
+        
         "electric.igniter": {
           "Max": 1,
           "Min": 1
@@ -3195,10 +3082,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants.shorts": {
-          "Max": 1,
-          "Min": 1
-        },
+    
         "planter.large": {
           "Max": 1,
           "Min": 1
@@ -3213,14 +3097,6 @@
         },
         "rope": {
           "Max": 3,
-          "Min": 1
-        },
-        "rug": {
-          "Max": 1,
-          "Min": 1
-        },
-        "rug.bear": {
-          "Max": 1,
           "Min": 1
         },
         "semibody": {
@@ -3239,10 +3115,7 @@
           "Max": 1,
           "Min": 1
         },
-        "shirt.tanktop": {
-          "Max": 1,
-          "Min": 1
-        },
+     
         "shutter.wood.a": {
           "Max": 1,
           "Min": 1
@@ -3308,10 +3181,7 @@
           "Max": 1,
           "Min": 1
         },
-        "burlap.gloves": {
-          "Max": 1,
-          "Min": 1
-        },
+        
         "electric.igniter": {
           "Max": 1,
           "Min": 1
@@ -3372,10 +3242,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants.shorts": {
-          "Max": 1,
-          "Min": 1
-        },
+    
         "planter.large": {
           "Max": 1,
           "Min": 1
@@ -3390,14 +3257,6 @@
         },
         "rope": {
           "Max": 3,
-          "Min": 1
-        },
-        "rug": {
-          "Max": 1,
-          "Min": 1
-        },
-        "rug.bear": {
-          "Max": 1,
           "Min": 1
         },
         "semibody": {
@@ -3416,10 +3275,7 @@
           "Max": 1,
           "Min": 1
         },
-        "shirt.tanktop": {
-          "Max": 1,
-          "Min": 1
-        },
+     
         "shutter.wood.a": {
           "Max": 1,
           "Min": 1
@@ -4695,10 +4551,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pickaxe": {
           "Max": 1,
           "Min": 1
@@ -4731,10 +4584,7 @@
           "Max": 2,
           "Min": 1
         },
-        "shirt.collared": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "shotgun.double": {
           "Max": 1,
           "Min": 1
@@ -4763,14 +4613,8 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt": {
-          "Max": 1,
-          "Min": 1
-        },
-        "tshirt.long": {
-          "Max": 1,
-          "Min": 1
-        },
+
+ 
         "wall.external.high": {
           "Max": 1,
           "Min": 1
@@ -4928,10 +4772,7 @@
           "Max": 1,
           "Min": 1
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pickaxe": {
           "Max": 1,
           "Min": 1
@@ -4952,10 +4793,7 @@
           "Max": 1,
           "Min": 1
         },
-        "tshirt.long": {
-          "Max": 1,
-          "Min": 1
-        },
+ 
         "wood.armor.jacket": {
           "Max": 1,
           "Min": 1
@@ -6148,10 +5986,7 @@
           "Max": 6,
           "Min": 5
         },
-        "pants": {
-          "Max": 1,
-          "Min": 1
-        },
+
         "pistol.m92": {
           "Max": 1,
           "Min": 1

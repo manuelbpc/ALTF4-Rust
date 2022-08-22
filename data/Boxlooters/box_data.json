@@ -1,3 +1,22 @@
 {
-  "boxes": {}
+  "boxes": {
+    "2880175": {
+      "x": -1759.54529,
+      "y": 4.46668053,
+      "z": -1578.38428,
+      "killerId": null,
+      "killerName": null,
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "16/8 @ 02:11:00",
+            "lastLoot": "16/8 @ 02:11:00"
+          }
+        ]
+      },
+      "lastAccess": 1660641060.27305
+    }
+  }
 }

@@ -1,0 +1,8 @@
+[08/16/2022 02:06:07] Void [76561198977454718] connected.
+[08/16/2022 02:06:08] Void [76561198977454718] enabled Godmode.
+[08/16/2022 02:06:18] Void [76561198977454718] enabled Noclip.
+[08/16/2022 02:07:39] Void [76561198977454718] gave themselves 1 x hammer.
+[08/16/2022 02:07:53] Void [76561198977454718] gave themselves 1 x building.planner.
+[08/16/2022 02:07:58] Void [76561198977454718] gave themselves 1000 x wood.
+[08/16/2022 02:10:57] Void [76561198977454718] gave themselves 1 x furnace.
+[08/16/2022 06:30:48] Void [76561198977454718] disconnected.
