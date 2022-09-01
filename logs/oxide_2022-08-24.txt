@@ -1,0 +1,2269 @@
+00:04 [Warning] [BoxLooters] Saved Boxlooters data
+00:17 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+00:17 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+00:17 [Warning] Calling 'Unload' on 'AdminHammer v1.13.0' took 291ms
+00:17 [Info] Unloaded plugin AdminHammer v1.13.0 by mvrb
+00:17 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+00:17 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+00:17 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+00:17 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+00:17 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+00:17 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+00:17 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+00:17 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 235ms
+00:17 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+00:17 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+00:17 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+00:17 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+00:17 [Warning] [BoxLooters] Saved Boxlooters data
+00:17 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+00:17 [Warning] Calling 'Unload' on 'FancyDrop v3.2.2' took 859ms
+00:17 [Info] Unloaded plugin FancyDrop v3.2.2 by FastBurst
+00:17 [Info] Unloaded plugin Freeze v3.0.2 by Wulf
+00:17 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+00:17 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 290ms
+00:17 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+00:17 [Info] Unloaded plugin Inventory Viewer v4.0.5 by Whispers88
+00:17 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+00:17 [Info] Unloaded plugin Loot Multiplier v1.2.2 by Orange
+00:17 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+00:17 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+00:17 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+00:17 [Info] Unloaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+00:17 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+00:17 [Info] Unloaded plugin ServerPop v1.0.0 by Mabel
+00:17 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+00:17 [Info] Unloaded plugin Group Limits v3.0.3 by misticos
+00:18 [Info] Loading Oxide Core v2.0.4048...
+00:18 [Info] Loading extensions...
+00:18 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+00:18 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+00:18 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+00:18 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+00:18 [Info] Unity version: 2019.4.7f1
+00:18 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+00:18 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:18 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+00:18 [Info] Using Covalence provider for game 'Rust'
+00:18 [Info] Loading plugins...
+00:18 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+00:18 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+00:18 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+00:18 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, Freeze, FurnaceSplitter, GatherManager, GroupLimits, InventoryViewer, Kits, LootMultiplier, NoGiveNotices, NTeleportation, PermsUI, PlayerAdministration, RemoverTool, ServerPop, ServerRewards and Vanish were compiled successfully in 0ms
+00:18 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+00:18 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+00:18 [Info] [Admin Deep Cover] Data File Loaded
+00:18 [Warning] [Admin Deep Cover] Initialized
+00:18 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+00:18 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+00:18 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+00:18 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+00:18 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+00:18 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+00:18 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+00:18 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+00:18 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+00:18 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+00:18 [Warning] [Auto Stash Traps] Config Loaded
+00:18 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+00:18 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+00:18 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+00:18 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+00:18 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+00:18 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+00:18 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+00:18 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+00:18 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+00:18 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+00:18 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+00:18 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+00:18 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+00:18 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+00:18 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+00:18 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+00:18 [Info] Loaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+00:18 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+00:18 [Info] Loaded plugin ServerPop v1.0.0 by Mabel
+00:18 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+00:18 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+00:23 [Info] IP address from external API: 54.39.130.194
+00:23 [Warning] Calling 'OnServerInitialized' on 'AutoDecay v1.3.0' took 102ms
+00:23 [Warning] [BoxLooters] Attempting to remove old log entries
+00:23 [Warning] [BoxLooters] Removed 0 old records from BoxData
+00:23 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+00:23 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+00:23 [Info] [FancyDrop] Timed Airdrop activated with '1' players between '30' and '60' minutes
+00:23 [Info] [FancyDrop] Builtin Airdrop removed
+00:23 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+00:23 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v3.2.2' took 267ms
+00:23 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 215ms
+00:23 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 272ms
+00:23 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+00:23 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+00:23 [Info] [Auto Stash Traps] 150 Traps Generated
+00:23 [Info] [Admin Radar] Cached 5046/116530 entities in 19.7691143 seconds!
+00:28 [Info] [Advert Messages] Welcome to our server, have fun!
+00:29 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+00:34 [Warning] [BoxLooters] Saved Boxlooters data
+00:38 [Info] [Advert Messages] Please treat everybody respectfully.
+00:41 [Info] [Admin Logger] [08/24/2022 00:41:02] Void [76561198977454718] connected.
+00:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:41 [Info] [Admin Logger] [08/24/2022 00:41:05] Void [76561198977454718] disabled Godmode.
+00:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:41 [Info] [Better Chat] [Global] [Player] Void: wassup mofos
+00:41 [Info] [Better Chat] [Global] [Player] Void: did anyone lose loot?
+00:41 [Info] [Better Chat] [Global] [Player] Kickswitch: Hii
+00:41 [Info] [Better Chat] [Global] [Player] irontweak6: i had 5 diesel fuel in the ex but not there anymore
+00:42 [Info] [Admin Logger] [08/24/2022 00:42:24] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+00:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:42 [Info] [Admin Logger] [08/24/2022 00:42:24] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+00:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:42 [Info] [Admin Logger] [08/24/2022 00:42:25] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+00:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:42 [Info] [Admin Logger] [08/24/2022 00:42:25] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+00:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:42 [Info] [Admin Logger] [08/24/2022 00:42:26] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+00:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:42 [Info] [Admin Logger] [08/24/2022 00:42:32] Void [76561198977454718] viewed Inventory of player irontweak6 [76561199205921376] using Padmin.
+00:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:42 [Info] [Better Chat] [Global] [Player] Void: added 5 to your inventory
+00:42 [Info] [Better Chat] [Global] [Player] Void: fuck man
+00:42 [Info] [Better Chat] [Global] [Player] irontweak6: thx
+00:43 [Info] [Better Chat] [Global] [Player] irontweak6: you killed the pop
+00:43 [Info] [Better Chat] [Global] [Player] Void: the server was poppin too when the stupid fucking BOAR and STAG had to spawn inside a player base
+00:43 [Info] [Better Chat] [Global] [Player] irontweak6: there was 7 or 8 people on
+00:43 [Info] [Better Chat] [Global] [Player] Kickswitch: nah a lot of people had to go to bed its 3am lol
+00:43 [Info] [Better Chat] [Global] [Player] Void: thats true lol
+00:43 [Info] [Better Chat] [Global] [Player] Void: but server crashed
+00:43 [Info] [Better Chat] [Global] [Player] Kickswitch: it happens ;)
+00:44 [Info] [Better Chat] [Global] [Player] Void: yea lol
+00:44 [Info] [Better Chat] [Global] [Player] Void: i need sleep
+00:44 [Info] [Better Chat] [Global] [Player] Kickswitch: get some sleep game can wait sleep more important haha
+00:44 [Info] [Better Chat] [Global] [Player] Void: i was boutta syart touching shit with AI CFG but im too sleepy
+00:44 [Info] [Better Chat] [Global] [Player] Kickswitch: touch it in ur dreams
+00:45 [Warning] [BoxLooters] Saved Boxlooters data
+00:45 [Info] [Better Chat] [Global] [Player] Void: haha i might literally dream about code bc i spent 8 hours this morning on that UPDATE
+00:45 [Info] [Better Chat] [Global] [Player] Kickswitch: I feel that you deff are
+00:46 [Info] [Better Chat] [Global] [Player] Void: yepppp
+00:46 [Info] [Better Chat] [Global] [Player] Void: ill b dreaming of CFGing something completely new and make it a thing thats how imbeded that shit is in my brain rn
+00:47 [Info] [Admin Logger] [08/24/2022 00:47:10] Void [76561198977454718] closed Padmin Menu.
+00:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:47 [Info] [Admin Logger] [08/24/2022 00:47:17] Void [76561198977454718] closed Padmin Menu.
+00:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:50 [Info] [Better Chat] [Global] [Player] Void: does anyone wanna trade stone for something
+00:50 [Info] [Better Chat] [Global] [Player] Void: im too lazy to farm rn
+00:50 [Info] [Better Chat] [Global] [Player] irontweak6: you got a laucher and 1 rocket
+00:51 [Info] [Better Chat] [Global] [Player] Void: I need STONE
+00:51 [Info] [Better Chat] [Global] [Player] Void: not ROCKETS
+00:51 [Info] [Better Chat] [Team] [Player] Notwen: GOT A GARAGE DOOR?
+00:51 [Info] [Better Chat] [Global] [Player] irontweak6: ik i need rockets not stone
+00:51 [Info] [Better Chat] [Global] [Player] irontweak6: i just need 1 rocket and 1 launcher
+00:51 [Info] [Better Chat] [Global] [Player] Notwen: got a garage door void?
+00:51 [Info] [Better Chat] [Global] [Player] Void: ill give you 1 launcher and 1 rocket for two large boxes of stone
+00:52 [Info] [Better Chat] [Global] [Player] Void: ill have to make the rocket tho
+00:52 [Info] [Better Chat] [Global] [Player] Void: i do not
+00:52 [Info] [Better Chat] [Global] [Player] Void: need to scrap farm lol
+00:52 [Info] [Better Chat] [Global] [Player] irontweak6: ok bet
+00:53 [Info] [Admin Logger] [08/24/2022 00:53:35] Void [76561198977454718] closed Padmin Menu.
+00:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+00:55 [Warning] [BoxLooters] Saved Boxlooters data
+00:58 [Info] [Advert Messages] Welcome to our server, have fun!
+00:58 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1175, 43, 1207) grid area: X7
+00:58 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+00:58 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+01:05 [Warning] [BoxLooters] Saved Boxlooters data
+01:08 [Info] [Advert Messages] Please treat everybody respectfully.
+01:15 [Warning] [BoxLooters] Saved Boxlooters data
+01:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:21 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-266.2, 3.3, -1490.7)
+01:21 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-267.7, 3.3, -1492.8)
+01:21 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-267.9, 3.3, -1494.3)
+01:21 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-266.8, 3.3, -1496.6)
+01:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-272.6, 3.3, -1498.7)
+01:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-274.7, 3.3, -1497.2)
+01:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-279.4, 3.3, -1493.3)
+01:22 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-269.0, 6.3, -1491.9)
+01:22 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-268.1, 6.3, -1497.3)
+01:22 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-273.2, 6.3, -1497.4)
+01:22 [Info] [AdminHammer] This floor is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-280.4, 6.3, -1496.0)
+01:22 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-279.3, 6.3, -1491.8)
+01:22 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-279.0, 6.3, -1488.8)
+01:22 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-278.9, 6.3, -1487.3)
+01:22 [Info] [Better Chat] [Global] [Player] ZerkzAU: no ones on this bitch eaye
+01:23 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+01:23 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-265.6, 3.3, -1485.8)
+01:23 [Info] [Better Chat] [Global] [Player] ZerkzAU: anyone on this server?
+01:23 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+01:23 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-264.0, 3.3, -1488.8)
+01:23 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:23 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-266.5, 3.3, -1493.6)
+01:23 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198977454718
+01:23 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-266.5, 3.3, -1500.2)
+01:23 [Info] [Better Chat] [Global] [Player] irontweak6: yeah 3 others
+01:23 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:23 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-267.4, 3.3, -1501.4)
+01:23 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+01:23 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-268.7, 3.3, -1502.1)
+01:23 [Info] [Better Chat] [Global] [Player] irontweak6: 7 sleeping
+01:23 [Info] [Better Chat] [Global] [Player] Void: wheres my stone 26
+01:23 [Info] [Better Chat] [Global] [Player] ZerkzAU: is there only 10 on this server??
+01:23 [Info] [Better Chat] [Global] [Player] ZerkzAU: YOOOOOOOO HOG
+01:23 [Info] [Better Chat] [Global] [Player] irontweak6: i working on it
+01:23 [Info] [Better Chat] [Global] [Player] Void: yeerrrr
+01:23 [Info] [Better Chat] [Global] [Player] ZerkzAU: ITS MAX
+01:24 [Info] [Better Chat] [Global] [Player] Void: wassup
+01:24 [Info] [Better Chat] [Global] [Player] ZerkzAU: WUSS GOOD
+01:24 [Info] [AdminHammer] This door.hinged.toptier is owned by www.steamcommunity.com/profiles/76561198977454718
+01:24 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a door.hinged.toptier owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-269.2, 3.3, -1486.1)
+01:25 [Warning] [BoxLooters] Saved Boxlooters data
+01:28 [Info] [Advert Messages] Welcome to our server, have fun!
+01:33 [Info] [Admin Logger] [08/24/2022 01:33:51] Void [76561198977454718] closed Padmin Menu.
+01:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:33 [Info] [Admin Logger] [08/24/2022 01:33:57] Void [76561198977454718] enabled Noclip.
+01:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:33 [Info] [Admin Logger] [08/24/2022 01:33:58] Void [76561198977454718] teleported to ZerkzAU [76561199085025175] using Padmin.
+01:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:34 [Info] [Admin Logger] [08/24/2022 01:34:00] Void [76561198977454718] closed Padmin Menu.
+01:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:34 [Info] [Admin Logger] [08/24/2022 01:34:14] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+01:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:34 [Info] [Admin Logger] [08/24/2022 01:34:16] Void [76561198977454718] closed Padmin Menu.
+01:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:34 [Info] [Admin Logger] [08/24/2022 01:34:28] Void [76561198977454718] spawned bear at (-735.9, 9.4, -1430.5).
+01:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:34 [Info] [Admin Logger] [08/24/2022 01:34:41] Void [76561198977454718] spawned bear at (-710.1, 11.4, -1405.9).
+01:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:35 [Warning] [BoxLooters] Saved Boxlooters data
+01:35 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+01:36 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (723, 80, 1048) grid area: U8
+01:36 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+01:36 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+01:37 [Info] [Admin Logger] [08/24/2022 01:37:04] Void [76561198977454718] spawned bear at (-219.8, 8.4, -1277.3).
+01:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:37 [Info] [Admin Logger] [08/24/2022 01:37:21] Void [76561198977454718] spawned bear at (-222.3, 8.0, -1281.8).
+01:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:37 [Info] [Better Chat] [Global] [Player] ZerkzAU: YO hog are u on
+01:37 [Info] [Better Chat] [Global] [Player] Void: yea
+01:37 [Info] [Better Chat] [Global] [Player] ZerkzAU: why the frick is this map so big ?
+01:37 [Info] [Better Chat] [Global] [Player] Void: 4kkk
+01:37 [Info] [Admin Logger] [08/24/2022 01:37:58] Void [76561198977454718] spawned bear at (-226.9, 14.0, -1243.4).
+01:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:38 [Info] [Advert Messages] Please treat everybody respectfully.
+01:38 [Info] [Better Chat] [Global] [Player] Void: wya max
+01:38 [Info] [Admin Logger] [08/24/2022 01:38:54] Void [76561198977454718] spawned bear at (-133.9, 8.9, -1265.0).
+01:38 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:39 [Info] [Admin Logger] [08/24/2022 01:39:30] Void [76561198977454718] spawned wolf at (-74.2, 11.3, -1383.9).
+01:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:40 [Info] [Better Chat] [Global] [Player] Void: 26 where my stone at
+01:40 [Info] [Better Chat] [Global] [Player] ZerkzAU: me??
+01:40 [Info] [Better Chat] [Global] [Player] Void: nah 25
+01:40 [Info] [Better Chat] [Global] [Player] irontweak6: ill lyk
+01:40 [Info] [Better Chat] [Global] [Player] Void: put the stone in boxes i placed outside my base
+01:40 [Info] [Better Chat] [Global] [Player] ZerkzAU: void im at ab8
+01:40 [Info] [Better Chat] [Global] [Player] irontweak6: hog i just hacked a crate and only a jacket was in it
+01:41 [Info] [Better Chat] [Global] [Player] Void: fill those two boxes up
+01:41 [Info] [Better Chat] [Global] [Player] irontweak6: ok
+01:41 [Info] [Better Chat] [Global] [Player] Void: ill send you the code to that little out house to gain access to the rocket and launcher
+01:42 [Info] [Admin Logger] [08/24/2022 01:42:02] Void [76561198977454718] disabled Noclip.
+01:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:43 [Info] [Better Chat] [Global] [Player] Void: your at ab8
+01:43 [Info] [Better Chat] [Global] [Player] Void: thats far
+01:44 [Info] [Better Chat] [Global] [Player] ZerkzAU: no im movign wya
+01:44 [Info] [Better Chat] [Global] [Player] ZerkzAU: il come to you
+01:44 [Info] [Better Chat] [Global] [Player] Void: im based near train yard
+01:45 [Warning] [BoxLooters] Saved Boxlooters data
+01:45 [Info] [Better Chat] [Global] [Player] ZerkzAU: ok whats the locaiton number code htingy
+01:45 [Info] [Admin Logger] [08/24/2022 01:45:47] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+01:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:45 [Info] [Admin Logger] [08/24/2022 01:45:47] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+01:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:45 [Info] [Admin Logger] [08/24/2022 01:45:48] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+01:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:46 [Info] [Better Chat] [Global] [Player] ZerkzAU: SHIT
+01:46 [Info] [Better Chat] [Global] [Player] ZerkzAU: A PIG
+01:46 [Info] [Better Chat] [Global] [Player] ZerkzAU: SHIT THESE FUCKING PIGS
+01:47 [Info] [Admin Logger] [08/24/2022 01:47:16] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+01:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:47 [Info] [Admin Logger] [08/24/2022 01:47:17] Void [76561198977454718] closed Padmin Menu.
+01:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:49 [Info] [Admin Logger] [08/24/2022 01:49:17] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+01:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:49 [Info] [Admin Logger] [08/24/2022 01:49:17] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+01:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:49 [Info] [Admin Logger] [08/24/2022 01:49:17] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+01:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:49 [Info] [Admin Logger] [08/24/2022 01:49:18] Void [76561198977454718] closed Padmin Menu.
+01:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:50 [Info] [Admin Logger] [08/24/2022 01:50:32] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+01:50 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:50 [Info] [Admin Logger] [08/24/2022 01:50:33] Void [76561198977454718] closed Padmin Menu.
+01:50 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:51 [Info] [AdminHammer] This furnace.large is owned by www.steamcommunity.com/profiles/76561198977454718
+01:51 [Info] [AdminHammer] This furnace.large is owned by www.steamcommunity.com/profiles/76561198977454718
+01:51 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a furnace.large owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-274.4, 2.9, -1474.5)
+01:51 [Info] [Admin Logger] [08/24/2022 01:51:30] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+01:51 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:51 [Info] [Admin Logger] [08/24/2022 01:51:30] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+01:51 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:53 [Info] [Admin Logger] [08/24/2022 01:53:35] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+01:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:53 [Info] [Admin Logger] [08/24/2022 01:53:35] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+01:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:53 [Info] [Admin Logger] [08/24/2022 01:53:36] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+01:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:53 [Info] [Admin Logger] [08/24/2022 01:53:36] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+01:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:53 [Info] [Admin Logger] [08/24/2022 01:53:37] Void [76561198977454718] closed Padmin Menu.
+01:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+01:55 [Warning] [BoxLooters] Saved Boxlooters data
+01:58 [Info] [Advert Messages] Welcome to our server, have fun!
+02:03 [Info] [Admin Logger] [08/24/2022 02:03:50] Void [76561198977454718] closed Padmin Menu.
+02:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:05 [Warning] [BoxLooters] Saved Boxlooters data
+02:08 [Info] [Advert Messages] Please treat everybody respectfully.
+02:13 [Info] [Admin Logger] [08/24/2022 02:13:49] Void [76561198977454718] gave themselves 1 x ammo.rocket.basic.
+02:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:14 [Info] [Admin Logger] [08/24/2022 02:14:04] Void [76561198977454718] gave themselves 1 x rocket.launcher.
+02:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:15 [Warning] [BoxLooters] Saved Boxlooters data
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:02] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:03] Void [76561198977454718] closed Padmin Menu.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:24] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:25] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:26] Void [76561198977454718] closed Padmin Menu.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:31] Void [76561198977454718] hurt player irontweak6 [76561199205921376] for 75 points using Padmin.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:38] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 75 points using Padmin.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:38] Void [76561198977454718] hurt player irontweak6 [76561199205921376] for 25 points using Padmin.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:16 [Info] [Admin Logger] [08/24/2022 02:16:39] Void [76561198977454718] closed Padmin Menu.
+02:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:17] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:17] Void [76561198977454718] closed Padmin Menu.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:22] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:23] Void [76561198977454718] closed Padmin Menu.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:47] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:48] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:49] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:17 [Info] [Admin Logger] [08/24/2022 02:17:49] Void [76561198977454718] closed Padmin Menu.
+02:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:08] Void [76561198977454718] enabled Noclip.
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:52] Void [76561198977454718] spawned wolf at (-580.5, 10.8, -1345.7).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:52] Void [76561198977454718] spawned wolf at (-581.9, 11.7, -1345.4).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:52] Void [76561198977454718] spawned wolf at (-583.3, 12.5, -1345.1).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:52] Void [76561198977454718] spawned wolf at (-583.3, 12.5, -1345.1).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:52] Void [76561198977454718] spawned wolf at (-583.3, 12.5, -1345.1).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:52] Void [76561198977454718] spawned wolf at (-583.3, 12.5, -1345.1).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:53] Void [76561198977454718] spawned wolf at (-583.3, 12.5, -1345.1).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:53] Void [76561198977454718] spawned wolf at (-583.3, 12.5, -1345.1).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:53] Void [76561198977454718] spawned wolf at (-583.1, 12.4, -1345.2).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:18 [Info] [Admin Logger] [08/24/2022 02:18:53] Void [76561198977454718] spawned wolf at (-583.1, 12.4, -1345.2).
+02:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:18] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:18] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:18] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:18] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:19] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:20] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:20] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:20] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:20] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:20] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:31] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:32] Void [76561198977454718] closed Padmin Menu.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:19 [Info] [Admin Logger] [08/24/2022 02:19:43] Void [76561198977454718] disabled Noclip.
+02:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:20 [Info] [Admin Logger] [08/24/2022 02:20:33] Void [76561198977454718] enabled Noclip.
+02:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:20 [Info] [Admin Logger] [08/24/2022 02:20:58] Void [76561198977454718] disabled Noclip.
+02:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:21 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-280.4, 3.3, -1489.4)
+02:21 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-280.6, 3.3, -1492.4)
+02:21 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-282.6, 3.3, -1497.9)
+02:21 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a foundation.triangle owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-280.2, 3.3, -1499.6)
+02:21 [Info] [AdminHammer] This wall.half is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall.half owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-270.3, 6.3, -1490.3)
+02:21 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-277.7, 6.3, -1488.2)
+02:21 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:21 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-276.0, 6.3, -1486.8)
+02:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-273.0, 6.3, -1487.1)
+02:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-270.1, 6.3, -1487.3)
+02:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-268.7, 6.3, -1488.9)
+02:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-273.8, 6.3, -1496.0)
+02:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-270.8, 6.3, -1496.3)
+02:22 [Info] [AdminHammer] This floor is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a floor owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-273.7, 9.3, -1494.5)
+02:22 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:22 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-269.0, 9.3, -1491.9)
+02:24 [Info] [AdminHammer] This wall.frame is owned by www.steamcommunity.com/profiles/76561198977454718
+02:24 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall.frame owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-274.9, 3.3, -1491.4)
+02:24 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198977454718
+02:24 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a wall owned by <color=green> Void </color> (76561198977454718) [76561198977454718] located at (-270.3, 3.3, -1490.3)
+02:25 [Warning] [BoxLooters] Saved Boxlooters data
+02:26 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1483, 22, -526) grid area: Z18
+02:26 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:26 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+02:28 [Info] [Advert Messages] Welcome to our server, have fun!
+02:31 [Info] [Admin Logger] [08/24/2022 02:31:58] Void [76561198977454718] enabled Noclip.
+02:31 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:35 [Warning] [BoxLooters] Saved Boxlooters data
+02:36 [Info] [Admin Logger] [08/24/2022 02:36:02] Void [76561198977454718] closed Padmin Menu.
+02:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:36 [Info] [Admin Logger] [08/24/2022 02:36:17] Void [76561198977454718] disconnected.
+02:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+02:38 [Info] [Advert Messages] Please treat everybody respectfully.
+02:45 [Warning] [BoxLooters] Saved Boxlooters data
+02:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:55 [Warning] [BoxLooters] Saved Boxlooters data
+02:58 [Info] [Advert Messages] Welcome to our server, have fun!
+02:59 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+02:59 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+03:05 [Warning] [BoxLooters] Saved Boxlooters data
+03:08 [Info] [Advert Messages] Please treat everybody respectfully.
+03:15 [Warning] [BoxLooters] Saved Boxlooters data
+03:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:25 [Warning] [BoxLooters] Saved Boxlooters data
+03:28 [Info] [Advert Messages] Welcome to our server, have fun!
+03:35 [Warning] [BoxLooters] Saved Boxlooters data
+03:38 [Info] [Advert Messages] Please treat everybody respectfully.
+03:45 [Warning] [BoxLooters] Saved Boxlooters data
+03:46 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:46 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+03:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:55 [Warning] [BoxLooters] Saved Boxlooters data
+03:58 [Info] [Advert Messages] Welcome to our server, have fun!
+04:05 [Warning] [BoxLooters] Saved Boxlooters data
+04:08 [Info] [Advert Messages] Please treat everybody respectfully.
+04:15 [Warning] [BoxLooters] Saved Boxlooters data
+04:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:25 [Warning] [BoxLooters] Saved Boxlooters data
+04:28 [Info] [Advert Messages] Welcome to our server, have fun!
+04:31 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:31 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+04:35 [Warning] [BoxLooters] Saved Boxlooters data
+04:38 [Info] [Advert Messages] Please treat everybody respectfully.
+04:45 [Warning] [BoxLooters] Saved Boxlooters data
+04:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:55 [Warning] [BoxLooters] Saved Boxlooters data
+04:58 [Info] [Advert Messages] Welcome to our server, have fun!
+05:05 [Warning] [BoxLooters] Saved Boxlooters data
+05:08 [Info] [Advert Messages] Please treat everybody respectfully.
+05:15 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:15 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+05:15 [Warning] [BoxLooters] Saved Boxlooters data
+05:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:24 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+05:25 [Warning] [BoxLooters] Saved Boxlooters data
+05:28 [Info] [Advert Messages] Welcome to our server, have fun!
+05:35 [Warning] [BoxLooters] Saved Boxlooters data
+05:38 [Info] [Advert Messages] Please treat everybody respectfully.
+05:45 [Warning] [BoxLooters] Saved Boxlooters data
+05:46 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-306, 48, 609) grid area: N11
+05:46 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+05:46 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+05:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:48 [Info] [Better Chat] [Global] [Player] VGTxSavage: okay
+05:48 [Info] [Better Chat] [Global] [Player] VGTxSavage: hello anyone
+05:55 [Warning] [BoxLooters] Saved Boxlooters data
+05:58 [Info] [Advert Messages] Welcome to our server, have fun!
+06:05 [Warning] [BoxLooters] Saved Boxlooters data
+06:08 [Info] [Advert Messages] Please treat everybody respectfully.
+06:15 [Warning] [BoxLooters] Saved Boxlooters data
+06:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:25 [Warning] [BoxLooters] Saved Boxlooters data
+06:28 [Info] [Advert Messages] Welcome to our server, have fun!
+06:35 [Warning] [BoxLooters] Saved Boxlooters data
+06:38 [Info] [Advert Messages] Please treat everybody respectfully.
+06:38 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-412, 60, 725) grid area: M10
+06:38 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+06:38 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+06:45 [Warning] [BoxLooters] Saved Boxlooters data
+06:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:55 [Warning] [BoxLooters] Saved Boxlooters data
+06:57 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+06:58 [Info] [Advert Messages] Welcome to our server, have fun!
+07:05 [Warning] [BoxLooters] Saved Boxlooters data
+07:08 [Info] [Advert Messages] Please treat everybody respectfully.
+07:15 [Warning] [BoxLooters] Saved Boxlooters data
+07:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:23 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (579, 11, -1309) grid area: T24
+07:23 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+07:23 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+07:25 [Warning] [BoxLooters] Saved Boxlooters data
+07:28 [Info] [Advert Messages] Welcome to our server, have fun!
+07:35 [Warning] [BoxLooters] Saved Boxlooters data
+07:38 [Info] [Advert Messages] Please treat everybody respectfully.
+07:45 [Warning] [BoxLooters] Saved Boxlooters data
+07:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:48 [Info] [Better Chat] [Global] [Player] VGTxSavage: hello
+07:53 [Info] [Better Chat] [Global] [Player] VGTxSavage: can you distroy a wall after placing it?
+07:53 [Info] [Better Chat] [Team] [Player] tram: yeah ofc man
+07:55 [Warning] [BoxLooters] Saved Boxlooters data
+07:57 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+07:58 [Info] [Advert Messages] Welcome to our server, have fun!
+08:01 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-212, 83, -885) grid area: N21
+08:01 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+08:01 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+08:05 [Warning] [BoxLooters] Saved Boxlooters data
+08:08 [Info] [Advert Messages] Please treat everybody respectfully.
+08:09 [Info] [FancyDrop] tram (76561199013423444) looted the Drop at: (-212, 83, -885) grid area: N21
+08:15 [Warning] [BoxLooters] Saved Boxlooters data
+08:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:25 [Warning] [BoxLooters] Saved Boxlooters data
+08:28 [Info] [Advert Messages] Welcome to our server, have fun!
+08:28 [Info] [Better Chat] [Global] [Player] Nate: hello
+08:35 [Warning] [BoxLooters] Saved Boxlooters data
+08:38 [Info] [Advert Messages] Please treat everybody respectfully.
+08:38 [Info] [Better Chat] [Global] [Player] LO Mein: eeeee
+08:40 [Info] [Better Chat] [Global] [Player] VGTxSavage: yeah gg
+08:40 [Info] [Better Chat] [Global] [Player] LO Mein: gg
+08:40 [Info] [Better Chat] [Global] [Player] VGTxSavage: i just died to a wolf kek
+08:45 [Warning] [BoxLooters] Saved Boxlooters data
+08:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:48 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1222, 35, -1100) grid area: H22
+08:48 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+08:48 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+08:51 [Info] [Better Chat] [Team] [Player] tram: come on man lol
+08:55 [Warning] [BoxLooters] Saved Boxlooters data
+08:56 [Info] [Better Chat] [Global] [Player] LO Mein: e
+08:58 [Info] [Advert Messages] Welcome to our server, have fun!
+09:02 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+09:05 [Warning] [BoxLooters] Saved Boxlooters data
+09:08 [Info] [Advert Messages] Please treat everybody respectfully.
+09:15 [Warning] [BoxLooters] Saved Boxlooters data
+09:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:25 [Warning] [BoxLooters] Saved Boxlooters data
+09:28 [Info] [Advert Messages] Welcome to our server, have fun!
+09:35 [Warning] [BoxLooters] Saved Boxlooters data
+09:36 [Info] [Better Chat] [Global] [Player] LO Mein: eeeeeeeeeeeeeeee
+09:38 [Info] [Advert Messages] Please treat everybody respectfully.
+09:45 [Warning] [BoxLooters] Saved Boxlooters data
+09:47 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1233, 62, 895) grid area: G9
+09:47 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+09:47 [Info] [FancyDrop] Next timed Airdrop in 55 minutes
+09:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:55 [Warning] [BoxLooters] Saved Boxlooters data
+09:58 [Info] [Advert Messages] Welcome to our server, have fun!
+10:04 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+10:05 [Warning] [BoxLooters] Saved Boxlooters data
+10:08 [Info] [Advert Messages] Please treat everybody respectfully.
+10:12 [Info] [Better Chat] [Global] [Player] LO Mein: G
+10:15 [Warning] [BoxLooters] Saved Boxlooters data
+10:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:25 [Warning] [BoxLooters] Saved Boxlooters data
+10:28 [Info] [Advert Messages] Welcome to our server, have fun!
+10:35 [Warning] [BoxLooters] Saved Boxlooters data
+10:38 [Info] [Advert Messages] Please treat everybody respectfully.
+10:42 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1260, 15, 980) grid area: X8
+10:42 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+10:42 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+10:45 [Warning] [BoxLooters] Saved Boxlooters data
+10:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:55 [Warning] [BoxLooters] Saved Boxlooters data
+10:58 [Info] [Advert Messages] Welcome to our server, have fun!
+11:05 [Warning] [BoxLooters] Saved Boxlooters data
+11:08 [Info] [Advert Messages] Please treat everybody respectfully.
+11:13 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+11:15 [Warning] [BoxLooters] Saved Boxlooters data
+11:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:25 [Warning] [BoxLooters] Saved Boxlooters data
+11:28 [Info] [Advert Messages] Welcome to our server, have fun!
+11:32 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (887, 28, 1332) grid area: V6
+11:32 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+11:32 [Info] [FancyDrop] Next timed Airdrop in 38 minutes
+11:35 [Warning] [BoxLooters] Saved Boxlooters data
+11:38 [Info] [Advert Messages] Please treat everybody respectfully.
+11:45 [Warning] [BoxLooters] Saved Boxlooters data
+11:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:55 [Warning] [BoxLooters] Saved Boxlooters data
+11:58 [Info] [Advert Messages] Welcome to our server, have fun!
+12:05 [Warning] [BoxLooters] Saved Boxlooters data
+12:08 [Info] [Advert Messages] Please treat everybody respectfully.
+12:10 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-757, 24, -1299) grid area: K24
+12:10 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+12:10 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+12:15 [Warning] [BoxLooters] Saved Boxlooters data
+12:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:25 [Warning] [BoxLooters] Saved Boxlooters data
+12:28 [Info] [Advert Messages] Welcome to our server, have fun!
+12:35 [Warning] [BoxLooters] Saved Boxlooters data
+12:37 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+12:38 [Info] [Advert Messages] Please treat everybody respectfully.
+12:45 [Warning] [BoxLooters] Saved Boxlooters data
+12:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:49 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1178, 14, 249) grid area: H13
+12:49 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+12:49 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+12:55 [Warning] [BoxLooters] Saved Boxlooters data
+12:58 [Info] [Advert Messages] Welcome to our server, have fun!
+13:05 [Warning] [BoxLooters] Saved Boxlooters data
+13:08 [Info] [Advert Messages] Please treat everybody respectfully.
+13:15 [Warning] [BoxLooters] Saved Boxlooters data
+13:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:25 [Warning] [BoxLooters] Saved Boxlooters data
+13:25 [Info] [Better Chat] [Global] [Player] Nate: yo
+13:26 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-680, 37, -527) grid area: K18
+13:26 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+13:26 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+13:26 [Info] [Better Chat] [Global] [Player] Nate: anyone here
+13:28 [Info] [Advert Messages] Welcome to our server, have fun!
+13:35 [Warning] [BoxLooters] Saved Boxlooters data
+13:38 [Info] [Advert Messages] Please treat everybody respectfully.
+13:45 [Warning] [BoxLooters] Saved Boxlooters data
+13:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:49 [Info] [Better Chat] [Global] [Player] Kickswitch: Boo
+13:55 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+13:55 [Warning] [BoxLooters] Saved Boxlooters data
+13:58 [Info] [Advert Messages] Welcome to our server, have fun!
+14:05 [Warning] [BoxLooters] Saved Boxlooters data
+14:07 [Info] [Better Chat] [Global] [Player] Nate: hello
+14:07 [Info] [Better Chat] [Global] [Player] Kickswitch: hello
+14:08 [Info] [Advert Messages] Please treat everybody respectfully.
+14:15 [Warning] [BoxLooters] Saved Boxlooters data
+14:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:18 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1252, 21, -162) grid area: X16
+14:18 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+14:18 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+14:25 [Warning] [BoxLooters] Saved Boxlooters data
+14:28 [Info] [Advert Messages] Welcome to our server, have fun!
+14:32 [Info] [Better Chat] [Global] [Player] Nate: who wants the smoke
+14:32 [Info] [Better Chat] [Global] [Player] Nate: gimme cords
+14:32 [Info] [Better Chat] [Global] [Player] Kickswitch: if you lookin to kill theres a scientest at E14
+14:33 [Info] [Better Chat] [Global] [Player] Nate: fuck that i already got hella t3 guns
+14:33 [Info] [Better Chat] [Global] [Player] Nate: i want ur bases
+14:33 [Info] [Better Chat] [Global] [Player] Nate: gimme coords
+14:33 [Info] [Better Chat] [Global] [Player] Kickswitch: nothing in it so you would waste ur time ;)
+14:34 [Info] [Better Chat] [Global] [Player] Nate: yall new?
+14:34 [Info] [Better Chat] [Global] [Player] Kickswitch: yur
+14:34 [Info] [Better Chat] [Global] [Player] Nate: ok i dont have a consience ill kill a naked any day
+14:35 [Info] [Better Chat] [Global] [Player] Kickswitch: wowwww im hurt haha
+14:35 [Info] [Better Chat] [Global] [Player] Kickswitch: i mean that scientest done killed me twice now so whats a third LOL
+14:35 [Info] [Better Chat] [Global] [Player] Nate: need help?
+14:35 [Warning] [BoxLooters] Saved Boxlooters data
+14:35 [Info] [Better Chat] [Global] [Player] Kickswitch: i gave up wanted my stuff back but its pointless without a gun haha
+14:36 [Info] [Better Chat] [Global] [Player] Nate: u from fivem?
+14:36 [Info] [Better Chat] [Global] [Player] Kickswitch: yeah
+14:36 [Info] [Better Chat] [Global] [Player] Nate: wats ur name
+14:38 [Info] [Advert Messages] Please treat everybody respectfully.
+14:39 [Info] [Better Chat] [Global] [Player] Kickswitch: Allison
+14:39 [Info] [Better Chat] [Global] [Player] MR. Perfect: nate is that the nate from steppas
+14:39 [Info] [Better Chat] [Global] [Player] Nate: yessir
+14:40 [Info] [Better Chat] [Global] [Player] Nate: oh its jack
+14:40 [Info] [Better Chat] [Global] [Player] Nate: and allison
+14:40 [Info] [Better Chat] [Global] [Player] MR. Perfect: yes sir
+14:40 [Info] [Better Chat] [Global] [Player] Kickswitch: Big Certfied Yak Shit
+14:40 [Info] [Better Chat] [Global] [Player] Nate: yall live with turtle?
+14:40 [Info] [Better Chat] [Global] [Player] MR. Perfect: noo
+14:40 [Info] [Better Chat] [Global] [Player] Nate: cuz his base gonna be blown up in a bit
+14:40 [Info] [Better Chat] [Global] [Player] Kickswitch: no with Bobby and Angie
+14:40 [Info] [Better Chat] [Global] [Player] Kickswitch: Come bring us guns hook us up fam
+14:40 [Info] [Better Chat] [Global] [Player] Kickswitch: im tired of dyin :(
+14:40 [Info] [Better Chat] [Global] [Player] Nate: hitting oil rig after
+14:41 [Info] [Better Chat] [Global] [Player] MR. Perfect: you live with ciber right
+14:41 [Info] [Better Chat] [Global] [Player] Nate: yup
+14:41 [Info] [Better Chat] [Global] [Player] Kickswitch: where yall base at
+14:41 [Info] [Better Chat] [Global] [Player] Nate: lol
+14:41 [Info] [Better Chat] [Global] [Player] MR. Perfect: ciber K bro
+14:42 [Info] [Better Chat] [Global] [Player] Nate: if yall aint with us u against us
+14:43 [Info] [Better Chat] [Global] [Player] MR. Perfect: nah nah nah
+14:43 [Info] [Better Chat] [Global] [Player] MR. Perfect: we dont do that come on now
+14:45 [Warning] [BoxLooters] Saved Boxlooters data
+14:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:55 [Warning] [BoxLooters] Saved Boxlooters data
+14:58 [Info] [Advert Messages] Welcome to our server, have fun!
+15:01 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1493, 15, -442) grid area: F18
+15:01 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:01 [Info] [FancyDrop] Next timed Airdrop in 54 minutes
+15:03 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+15:05 [Warning] [BoxLooters] Saved Boxlooters data
+15:08 [Info] [Advert Messages] Please treat everybody respectfully.
+15:15 [Warning] [BoxLooters] Saved Boxlooters data
+15:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:22 [Info] [Better Chat] [Global] [Player] MR. Perfect: hello
+15:22 [Info] [Better Chat] [Global] [Player] Nate: yo
+15:22 [Info] [Better Chat] [Global] [Player] MR. Perfect: is that you at the store
+15:22 [Info] [Better Chat] [Global] [Player] fluikas: yo
+15:22 [Info] [Better Chat] [Global] [Player] Nate: ummm
+15:22 [Info] [Better Chat] [Global] [Player] Nate: maybe
+15:22 [Info] [Better Chat] [Global] [Player] Kickswitch: theres a guy with a gun there be careful LOL
+15:22 [Info] [Better Chat] [Global] [Player] Nate: im out of here lmao
+15:25 [Warning] [BoxLooters] Saved Boxlooters data
+15:28 [Info] [Advert Messages] Welcome to our server, have fun!
+15:35 [Warning] [BoxLooters] Saved Boxlooters data
+15:38 [Info] [Advert Messages] Please treat everybody respectfully.
+15:45 [Warning] [BoxLooters] Saved Boxlooters data
+15:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:55 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (578, 9, -1375) grid area: T24
+15:55 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:55 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+15:55 [Warning] [BoxLooters] Saved Boxlooters data
+15:58 [Info] [Advert Messages] Welcome to our server, have fun!
+16:05 [Warning] [BoxLooters] Saved Boxlooters data
+16:08 [Info] [Advert Messages] Please treat everybody respectfully.
+16:12 [Info] [Better Chat] [Global] [Player] You Stupid?: yo
+16:12 [Info] [Better Chat] [Global] [Player] You Stupid?: whos on
+16:12 [Info] [Better Chat] [Global] [Player] MR. Perfect: ciber
+16:12 [Info] [Better Chat] [Global] [Player] Nate: not yet
+16:13 [Info] [Better Chat] [Global] [Player] Nate: he getting on
+16:13 [Info] [Better Chat] [Global] [Player] You Stupid?: nate
+16:13 [Info] [Better Chat] [Global] [Player] Nate: yo
+16:13 [Info] [Better Chat] [Global] [Player] You Stupid?: you wanne make out?
+16:13 [Info] [Better Chat] [Global] [Player] You Stupid?: i mean
+16:13 [Info] [Better Chat] [Global] [Player] Nate: im down
+16:13 [Info] [Better Chat] [Global] [Player] You Stupid?: you got aks yet
+16:13 [Info] [Better Chat] [Global] [Player] MR. Perfect: whos you stupid
+16:13 [Info] [Better Chat] [Global] [Player] Nate: got mp5
+16:13 [Info] [Better Chat] [Global] [Player] Kickswitch: LOL
+16:13 [Info] [Better Chat] [Global] [Player] Nate: not ak
+16:13 [Info] [Better Chat] [Global] [Player] You Stupid?: its me
+16:13 [Info] [Better Chat] [Global] [Player] You Stupid?: im you stupid
+16:13 [Info] [Better Chat] [Global] [Player] MR. Perfect: ong if this is one of the steppas
+16:14 [Info] [Better Chat] [Global] [Player] You Stupid?: nah
+16:14 [Info] [Better Chat] [Global] [Player] You Stupid?: im not from five5
+16:14 [Info] [Better Chat] [Global] [Player] You Stupid?: fivem
+16:14 [Info] [Better Chat] [Global] [Player] Nate: it aint a steppa
+16:14 [Info] [Better Chat] [Global] [Player] Nate: this dude random
+16:14 [Info] [Better Chat] [Global] [Player] MR. Perfect: alr bet
+16:14 [Info] [Better Chat] [Global] [Player] MR. Perfect: steppa K
+16:14 [Info] [Better Chat] [Global] [Player] Nate: i know where ur base is
+16:14 [Info] [Better Chat] [Global] [Player] Nate: dont try me
+16:14 [Info] [Better Chat] [Global] [Player] You Stupid?: i go back with void
+16:15 [Info] [Better Chat] [Global] [Player] You Stupid?: b4 fivem
+16:15 [Warning] [BoxLooters] Saved Boxlooters data
+16:15 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+16:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:19 [Info] [Better Chat] [Global] [Player] You Stupid?: someone on cargo?
+16:25 [Warning] [BoxLooters] Saved Boxlooters data
+16:28 [Info] [Advert Messages] Welcome to our server, have fun!
+16:28 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (216, 22, -150) grid area: Q16
+16:28 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+16:28 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+16:29 [Info] [Better Chat] [Global] [Player] iixjell0: gang gang
+16:33 [Info] [FancyDrop] Nate (76561198301679972) looted the Drop at: (216, 22, -146) grid area: Q16
+16:33 [Info] [Better Chat] [Global] [Player] Oregano: hello
+16:33 [Info] [Better Chat] [Global] [Player] iixjell0: hey
+16:33 [Info] [Better Chat] [Global] [Player] You Stupid?: yo
+16:33 [Info] [Better Chat] [Global] [Player] Oregano: im here to role play
+16:33 [Info] [Better Chat] [Global] [Player] You Stupid?: oh oh
+16:33 [Info] [Better Chat] [Global] [Player] You Stupid?: well its rust
+16:33 [Info] [Better Chat] [Global] [Player] iixjell0: same
+16:33 [Info] [Better Chat] [Global] [Player] You Stupid?: gl ig xD
+16:33 [Info] [Better Chat] [Global] [Player] iixjell0: altf4 rust
+16:33 [Info] [Better Chat] [Global] [Player] You Stupid?: yh yh but still tho
+16:34 [Info] [Better Chat] [Global] [Player] MR. Perfect: oregano
+16:34 [Info] [Better Chat] [Global] [Player] MR. Perfect: hiii bitch
+16:34 [Info] [Better Chat] [Global] [Player] Kickswitch: haha
+16:35 [Warning] [BoxLooters] Saved Boxlooters data
+16:35 [Info] [Better Chat] [Global] [Player] You Stupid?: any non roleplayers on xD
+16:38 [Info] [Advert Messages] Please treat everybody respectfully.
+16:38 [Info] [Better Chat] [Global] [Player] iixjell0: fuck you rust
+16:38 [Info] [Better Chat] [Global] [Player] MR. Perfect: nah jello K bro
+16:38 [Info] [Better Chat] [Global] [Player] Oregano: im coming to raid you
+16:38 [Info] [Better Chat] [Global] [Player] MR. Perfect: why me fuck
+16:38 [Info] [Better Chat] [Global] [Player] MR. Perfect: go fot tutrle
+16:38 [Info] [Better Chat] [Global] [Player] MR. Perfect: he has mgs and shit
+16:42 [Info] [Better Chat] [Global] [Player] Kickswitch: p13 come raid and get nothing
+16:45 [Info] [Better Chat] [Global] [Player] Oregano: im coming to raid to jack
+16:45 [Info] [Better Chat] [Global] [Player] iixjell0: turtle is raiding you
+16:45 [Warning] [BoxLooters] Saved Boxlooters data
+16:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:48 [Info] [Advert Messages] Welcome to our server, have fun!
+16:55 [Info] [Admin Logger] [08/24/2022 16:55:31] 2k [76561198141581757] connected.
+16:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+16:55 [Info] [Admin Logger] [08/24/2022 16:55:33] 2k [76561198141581757] disabled Godmode.
+16:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+16:56 [Warning] [BoxLooters] Saved Boxlooters data
+16:56 [Info] [Admin Logger] [08/24/2022 16:56:38] 2k [76561198141581757] enabled Noclip.
+16:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+16:58 [Info] [Admin Logger] [08/24/2022 16:58:02] 2k [76561198141581757] disconnected.
+16:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:11 [Info] [Advert Messages] Welcome to our server, have fun!
+17:11 [Info] [Advert Messages] Please treat everybody respectfully.
+17:11 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:12 [Warning] [BoxLooters] Saved Boxlooters data
+17:12 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:12 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+17:12 [Warning] Calling 'Unload' on 'AdminHammer v1.13.0' took 223ms
+17:12 [Info] Unloaded plugin AdminHammer v1.13.0 by mvrb
+17:12 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+17:12 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+17:12 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+17:12 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+17:12 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+17:12 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:12 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:12 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 295ms
+17:12 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+17:12 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+17:12 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+17:12 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+17:12 [Warning] [BoxLooters] Saved Boxlooters data
+17:12 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:12 [Warning] Calling 'Unload' on 'FancyDrop v3.2.2' took 697ms
+17:12 [Info] Unloaded plugin FancyDrop v3.2.2 by FastBurst
+17:12 [Info] Unloaded plugin Freeze v3.0.2 by Wulf
+17:12 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:12 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 222ms
+17:12 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+17:12 [Info] Unloaded plugin Group Limits v3.0.3 by misticos
+17:12 [Info] Unloaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:12 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+17:12 [Info] Unloaded plugin Loot Multiplier v1.2.2 by Orange
+17:12 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:12 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+17:12 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+17:12 [Info] Unloaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:12 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:12 [Info] Unloaded plugin ServerPop v1.0.0 by Mabel
+17:12 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+17:16 [Info] Loading Oxide Core v2.0.4048...
+17:16 [Info] Loading extensions...
+17:16 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+17:16 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:16 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+17:16 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:16 [Info] Unity version: 2019.4.7f1
+17:16 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:16 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:16 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:16 [Info] Using Covalence provider for game 'Rust'
+17:16 [Info] Loading plugins...
+17:16 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+17:16 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:16 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+17:16 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, Freeze, FurnaceSplitter, GatherManager, GroupLimits, InventoryViewer, Kits, LootMultiplier, NoGiveNotices, NTeleportation, PermsUI, PlayerAdministration, RemoverTool, ServerPop, ServerRewards and Vanish were compiled successfully in 0ms
+17:16 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:16 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+17:16 [Info] [Admin Deep Cover] Data File Loaded
+17:16 [Warning] [Admin Deep Cover] Initialized
+17:16 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+17:16 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+17:16 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+17:16 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+17:16 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+17:16 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+17:16 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:16 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+17:16 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:16 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:16 [Warning] [Auto Stash Traps] Config Loaded
+17:16 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+17:16 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+17:16 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+17:16 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+17:16 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:16 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+17:16 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+17:16 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:16 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:16 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+17:16 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:16 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+17:16 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+17:16 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:16 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+17:16 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+17:16 [Info] Loaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:16 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:16 [Info] Loaded plugin ServerPop v1.0.0 by Mabel
+17:16 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:16 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+17:23 [Info] IP address from external API: 54.39.130.194
+17:23 [Warning] [BoxLooters] Attempting to remove old log entries
+17:23 [Warning] [BoxLooters] Removed 44 old records from BoxData
+17:23 [Warning] [BoxLooters] Removed 1 old records from PlayerData
+17:23 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:23 [Info] [FancyDrop] Timed Airdrop activated with '1' players between '30' and '60' minutes
+17:23 [Info] [FancyDrop] Builtin Airdrop removed
+17:23 [Info] [FancyDrop] Next timed Airdrop in 41 minutes
+17:23 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v3.2.2' took 217ms
+17:23 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 212ms
+17:23 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 296ms
+17:23 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+17:23 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:23 [Info] [Auto Stash Traps] 150 Traps Generated
+17:23 [Info] [Admin Radar] Cached 5049/118431 entities in 19.1551024 seconds!
+17:26 [Info] [Advert Messages] Welcome to our server, have fun!
+17:27 [Info] [Admin Logger] [08/24/2022 17:27:31] 2k [76561198141581757] connected.
+17:27 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:27 [Info] [Admin Logger] [08/24/2022 17:27:35] 2k [76561198141581757] enabled Noclip.
+17:27 [Info] [Admin Logger] [08/24/2022 17:27:35] 2k [76561198141581757] disabled Godmode.
+17:27 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:27 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:27 [Info] [Admin Logger] [08/24/2022 17:27:50] 2k [76561198141581757] disabled Noclip.
+17:27 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:28 [Info] [Admin Logger] [08/24/2022 17:28:00] 2k [76561198141581757] enabled Noclip.
+17:28 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:28 [Info] [Admin Logger] [08/24/2022 17:28:10] 2k [76561198141581757] disabled Noclip.
+17:28 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:28 [Info] [Admin Logger] [08/24/2022 17:28:21] 2k [76561198141581757] enabled Noclip.
+17:28 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:29 [Info] [Admin Logger] [08/24/2022 17:29:47] Void [76561198977454718] connected.
+17:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:29 [Info] [Admin Logger] [08/24/2022 17:29:47] Void [76561198977454718] enabled Noclip.
+17:29 [Info] [Admin Logger] [08/24/2022 17:29:47] Void [76561198977454718] disabled Godmode.
+17:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:29 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+17:29 [Info] [Admin Logger] [08/24/2022 17:29:57] Void [76561198977454718] disabled Noclip.
+17:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:30 [Info] [Admin Logger] [08/24/2022 17:30:12] Void [76561198977454718] enabled Noclip.
+17:30 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:30 [Info] [Admin Logger] [08/24/2022 17:30:19] Void [76561198977454718] closed Padmin Menu.
+17:30 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:33 [Warning] [BoxLooters] Saved Boxlooters data
+17:34 [Info] [Admin Logger] [08/24/2022 17:34:19] 2k [76561198141581757] teleported to You Stupid? [76561199006288737] using Padmin.
+17:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:34 [Info] [Admin Logger] [08/24/2022 17:34:20] 2k [76561198141581757] closed Padmin Menu.
+17:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:36 [Info] [Advert Messages] Please treat everybody respectfully.
+17:40 [Info] [Admin Logger] [08/24/2022 17:40:10] 2k [76561198141581757] gave themselves 1 x metal.facemask.
+17:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:40 [Info] [Admin Logger] [08/24/2022 17:40:11] 2k [76561198141581757] gave themselves 1 x metal.plate.torso.
+17:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:40 [Info] [Admin Logger] [08/24/2022 17:40:46] 2k [76561198141581757] gave themselves 1 x rifle.ak.
+17:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:41 [Info] [Admin Logger] [08/24/2022 17:41:09] 2k [76561198141581757] gave themselves 1 x rifle.bolt.
+17:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:41 [Info] [Admin Logger] [08/24/2022 17:41:37] Void [76561198977454718] viewed Inventory of player 2k [76561198141581757] using Padmin.
+17:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:41 [Info] [Admin Logger] [08/24/2022 17:41:52] 2k [76561198141581757] gave themselves 1 x roadsign.kilt.
+17:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:42 [Info] [Admin Logger] [08/24/2022 17:42:35] 2k [76561198141581757] gave themselves 1 x burlap.gloves.
+17:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:43 [Info] [Admin Logger] [08/24/2022 17:43:23] 2k [76561198141581757] gave themselves 1 x hoodie.
+17:43 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:43 [Warning] [BoxLooters] Saved Boxlooters data
+17:44 [Info] [Admin Logger] [08/24/2022 17:44:04] 2k [76561198141581757] viewed Inventory of player You Stupid? [76561199006288737] using Padmin.
+17:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:44 [Info] [Admin Logger] [08/24/2022 17:44:17] 2k [76561198141581757] closed Padmin Menu.
+17:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:44 [Info] [Admin Logger] [08/24/2022 17:44:23] 2k [76561198141581757] viewed Inventory of player You Stupid? [76561199006288737] using Padmin.
+17:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:44 [Info] [Admin Logger] [08/24/2022 17:44:59] 2k [76561198141581757] closed Padmin Menu.
+17:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:45 [Info] [Admin Logger] [08/24/2022 17:45:30] 2k [76561198141581757] gave themselves 1 x lmg.m249.
+17:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:46 [Info] [Admin Logger] [08/24/2022 17:46:34] 2k [76561198141581757] gave themselves 1 x supply.signal.
+17:46 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:46 [Info] [Admin Logger] [08/24/2022 17:46:34] 2k [76561198141581757] gave themselves 1 x supply.signal.
+17:46 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:47 [Info] [Admin Logger] [08/24/2022 17:47:05] 2k [76561198141581757] gave themselves 1 x shoes.boots.
+17:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:47 [Info] [Admin Logger] [08/24/2022 17:47:14] 2k [76561198141581757] gave themselves 1 x pants.
+17:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:47 [Info] [Admin Logger] [08/24/2022 17:47:24] 2k [76561198141581757] viewed Inventory of player You Stupid? [76561199006288737] using Padmin.
+17:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:47 [Info] [Admin Logger] [08/24/2022 17:47:33] 2k [76561198141581757] closed Padmin Menu.
+17:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:47 [Info] [Admin Logger] [08/24/2022 17:47:37] 2k [76561198141581757] viewed Inventory of player You Stupid? [76561199006288737] using Padmin.
+17:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:48 [Info] [FancyDrop] SupplySignal thrown by 'You Stupid?' at: (-273.1, 3.4, -1491.8)
+17:48 [Info] [FancyDrop] SupplySignal thrown by 'You Stupid?' at: (-273.1, 3.4, -1491.8)
+17:48 [Info] [Admin Logger] [08/24/2022 17:48:29] 2k [76561198141581757] disconnected.
+17:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:53 [Info] [FancyDrop] You Stupid? (76561199006288737) looted the Drop at: (-267, 5, -1471) grid area: N25
+17:53 [Info] [FancyDrop] You Stupid? (76561199006288737) looted the Drop at: (-283, 4, -1472) grid area: N25
+17:53 [Warning] [BoxLooters] Saved Boxlooters data
+17:56 [Info] [Advert Messages] Welcome to our server, have fun!
+18:03 [Info] [Better Chat] [Team] [Player] You Stupid?: sorry
+18:03 [Info] [Better Chat] [Global] [Player] You Stupid?: sorry
+18:03 [Info] [Better Chat] [Global] [Player] You Stupid?: i only took half ur cloth
+18:03 [Warning] [BoxLooters] Saved Boxlooters data
+18:04 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (738, 34, -574) grid area: U19
+18:04 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:04 [Info] [FancyDrop] Next timed Airdrop in 55 minutes
+18:06 [Info] [Advert Messages] Please treat everybody respectfully.
+18:10 [Info] [Admin Logger] [08/24/2022 18:10:34] Void [76561198977454718] closed Padmin Menu.
+18:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:10 [Info] [Admin Logger] [08/24/2022 18:10:38] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+18:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:10 [Info] [Admin Logger] [08/24/2022 18:10:39] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+18:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:10 [Info] [Admin Logger] [08/24/2022 18:10:40] Void [76561198977454718] closed Padmin Menu.
+18:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:10 [Info] [Better Chat] [Global] [Player] You Stupid?: tram man why
+18:10 [Info] [Better Chat] [Team] [Player] tram: you some cringe guy
+18:11 [Info] [Better Chat] [Global] [Player] You Stupid?: why do you try to do me dirty like that
+18:11 [Info] [Better Chat] [Global] [Player] tram: you some cringe guy man
+18:11 [Info] [Better Chat] [Global] [Player] You Stupid?: left ur shit again
+18:12 [Info] [Better Chat] [Global] [Player] You Stupid?: why cringe?
+18:12 [Info] [Better Chat] [Global] [Player] LO Mein: penis
+18:12 [Info] [Better Chat] [Global] [Player] Void: oop
+18:12 [Info] [Better Chat] [Global] [Player] You Stupid?: tram why cringe lol
+18:12 [Info] [Better Chat] [Global] [Player] You Stupid?: i left ur stuff
+18:13 [Warning] [BoxLooters] Saved Boxlooters data
+18:14 [Info] [Better Chat] [Global] [Player] You Stupid?: tram?
+18:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:23 [Warning] [BoxLooters] Saved Boxlooters data
+18:26 [Info] [Advert Messages] Welcome to our server, have fun!
+18:27 [Info] [Admin Logger] [08/24/2022 18:27:32] Void [76561198977454718] disconnected.
+18:27 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:30 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+18:33 [Warning] [BoxLooters] Saved Boxlooters data
+18:34 [Info] [Better Chat] [Global] [Player] Notwen: HELLO WORLD
+18:36 [Info] [Better Chat] [Global] [Player] You Stupid?: wassup
+18:36 [Info] [Advert Messages] Please treat everybody respectfully.
+18:36 [Info] [Better Chat] [Global] [Player] LO Mein: aaaaaaaaaaaaaaaaaaaa
+18:43 [Info] [Better Chat] [Global] [Player] Notwen: where u at jack boy
+18:43 [Warning] [BoxLooters] Saved Boxlooters data
+18:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+18:47 [Info] [Better Chat] [Global] [Player] LO Mein: turtleeee
+18:47 [Info] [Better Chat] [Global] [Player] LO Mein: im blowing throughh
+18:53 [Warning] [BoxLooters] Saved Boxlooters data
+18:56 [Info] [Advert Messages] Welcome to our server, have fun!
+18:59 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1150, 37, -1323) grid area: X24
+18:59 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:59 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+19:03 [Info] [Better Chat] [Global] [Player] LO Mein: JACK U IN?
+19:03 [Warning] [BoxLooters] Saved Boxlooters data
+19:04 [Info] [Better Chat] [Global] [Player] Kickswitch: he not
+19:06 [Info] [Advert Messages] Please treat everybody respectfully.
+19:13 [Warning] [BoxLooters] Saved Boxlooters data
+19:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:23 [Warning] [BoxLooters] Saved Boxlooters data
+19:26 [Info] [Advert Messages] Welcome to our server, have fun!
+19:28 [Info] [Better Chat] [Team] [Player] iixjell0: turtle this means war you want that???
+19:28 [Info] [Better Chat] [Global] [Player] iixjell0: turtle this means war... you want that???
+19:28 [Info] [Better Chat] [Global] [Player] Oregano: ahhhhhhhh
+19:29 [Info] [Better Chat] [Global] [Player] Notwen: YOU THREW BOOM AT MY  DOOR
+19:29 [Info] [Better Chat] [Global] [Player] Oregano: not true
+19:29 [Info] [Better Chat] [Global] [Player] iixjell0: would never
+19:29 [Info] [Better Chat] [Global] [Player] Notwen: WE EVEN NOW
+19:30 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+19:32 [Info] [Admin Logger] [08/24/2022 19:32:08] Void [76561198977454718] connected.
+19:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:32 [Info] [Admin Logger] [08/24/2022 19:32:10] Void [76561198977454718] enabled Noclip.
+19:32 [Info] [Admin Logger] [08/24/2022 19:32:10] Void [76561198977454718] disabled Godmode.
+19:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:32 [Info] [Admin Logger] [08/24/2022 19:32:30] Void [76561198977454718] disabled Noclip.
+19:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:32 [Info] [Admin Logger] [08/24/2022 19:32:35] Void [76561198977454718] enabled Noclip.
+19:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:32 [Info] [Admin Logger] [08/24/2022 19:32:39] Void [76561198977454718] closed Padmin Menu.
+19:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:33 [Info] [Better Chat] [Global] [Player] Nate: this is war
+19:33 [Info] [Better Chat] [Team] [Player] Void: uh oh
+19:33 [Info] [Better Chat] [Global] [Player] Void: uh oh
+19:33 [Info] [Admin Logger] [08/24/2022 19:33:36] Void [76561198977454718] gave themselves 100 x arrow.wooden.
+19:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:33 [Info] [Better Chat] [Global] [Player] Nate: ill door camp u all day
+19:33 [Warning] [BoxLooters] Saved Boxlooters data
+19:33 [Info] [Better Chat] [Global] [Player] Nate: take our mini we take ur base
+19:33 [Info] [Admin Logger] [08/24/2022 19:33:55] Void [76561198977454718] gave themselves 1 x sparkplug1.
+19:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:00] Void [76561198977454718] gave themselves 1 x valve1.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:03] Void [76561198977454718] gave themselves 1 x carburetor1.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:06] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:06] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:07] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:07] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:07] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:08] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:08] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:08] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:08] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:08] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:08] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:09] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:09] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:09] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:10] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:10] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:11] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:11] Void [76561198977454718] gave themselves 1 x gunpowder.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:22] Void [76561198977454718] gave themselves 1 x can.beans.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:23] Void [76561198977454718] gave themselves 1 x can.beans.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:25] Void [76561198977454718] gave themselves 1 x chocholate.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:26] Void [76561198977454718] gave themselves 1 x chocholate.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:26] Void [76561198977454718] gave themselves 1 x chocholate.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:27] Void [76561198977454718] gave themselves 1 x chocholate.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:31] Void [76561198977454718] gave themselves 1 x metalpipe.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:31] Void [76561198977454718] gave themselves 1 x metalpipe.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:36] Void [76561198977454718] gave themselves 1 x stone.pickaxe.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:38] Void [76561198977454718] gave themselves 1 x hatchet.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:34 [Info] [Admin Logger] [08/24/2022 19:34:44] Void [76561198977454718] gave themselves 1 x bow.hunting.
+19:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:03] Void [76561198977454718] gave themselves 1 x mace.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:09] Void [76561198977454718] gave themselves 1 x tshirt.long.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:10] Void [76561198977454718] gave themselves 1 x wood.armor.pants.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:12] Void [76561198977454718] gave themselves 1 x wood.armor.jacket.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:20] Void [76561198977454718] gave themselves 1 x pistol.revolver.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:22] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:23] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:24] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:25] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:25] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:25] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:25] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:25] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:25] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:26] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:26] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:26] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:26] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:26] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:26] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:27] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:27] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:27] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:28] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:29] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:29] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:30] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:30] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:31] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:31] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:32] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:33] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:39] Void [76561198977454718] gave themselves 1 x syringe.medical.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:39] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Admin Logger] [08/24/2022 19:35:40] Void [76561198977454718] gave themselves 1 x bandage.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:36 [Info] [Advert Messages] Please treat everybody respectfully.
+19:37 [Info] [Admin Logger] [08/24/2022 19:37:12] Void [76561198977454718] viewed Inventory of player MR. Perfect [76561199091778433] using Padmin.
+19:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:37 [Info] [Admin Logger] [08/24/2022 19:37:21] Void [76561198977454718] closed Padmin Menu.
+19:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:37 [Info] [Admin Logger] [08/24/2022 19:37:25] Void [76561198977454718] viewed Inventory of player MR. Perfect [76561199091778433] using Padmin.
+19:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:37 [Info] [Better Chat] [Team] [Player] LO Mein: farm scrap were gon craft tier 3 n get rockets.
+19:37 [Info] [Admin Logger] [08/24/2022 19:37:40] Void [76561198977454718] closed Padmin Menu.
+19:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:37 [Info] [Admin Logger] [08/24/2022 19:37:44] Void [76561198977454718] teleported to MR. Perfect [76561199091778433] using Padmin.
+19:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:37 [Info] [Admin Logger] [08/24/2022 19:37:45] Void [76561198977454718] closed Padmin Menu.
+19:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:38 [Info] [Admin Logger] [08/24/2022 19:38:20] Void [76561198977454718] disabled Noclip.
+19:38 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:39 [Info] [Admin Logger] [08/24/2022 19:39:10] Void [76561198977454718] enabled Noclip.
+19:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:39 [Info] [Admin Logger] [08/24/2022 19:39:20] Void [76561198977454718] disabled Noclip.
+19:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:39 [Info] [Admin Logger] [08/24/2022 19:39:30] Void [76561198977454718] enabled Noclip.
+19:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:39 [Info] [Admin Logger] [08/24/2022 19:39:57] Void [76561198977454718] closed Padmin Menu.
+19:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:41 [Info] [Better Chat] [Global] [Player] Yoco: yo
+19:41 [Info] [Better Chat] [Global] [Player] Void: yo yo
+19:41 [Info] [Better Chat] [Global] [Player] Void: ong who wants Tims loot
+19:41 [Info] [Better Chat] [Global] [Player] Yoco: John Johnson up in this bitch
+19:41 [Info] [Better Chat] [Global] [Player] Yoco: best rust player NA
+19:42 [Info] [Better Chat] [Global] [Player] Void: ong?
+19:42 [Info] [Better Chat] [Global] [Player] MR. Perfect: ciberK
+19:42 [Info] [Better Chat] [Global] [Player] Yoco: nah i got 12 hours i suck at this game
+19:42 [Info] [Better Chat] [Global] [Player] LO Mein: shash
+19:43 [Warning] [BoxLooters] Saved Boxlooters data
+19:44 [Info] [Better Chat] [Global] [Player] Yoco: who that in x21
+19:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:47 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1359, 39, 369) grid area: Y12
+19:47 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+19:47 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+19:47 [Info] [Admin Logger] [08/24/2022 19:47:56] Void [76561198977454718] teleported to Yoco [76561198153188452] using Padmin.
+19:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:47 [Info] [Admin Logger] [08/24/2022 19:47:57] Void [76561198977454718] closed Padmin Menu.
+19:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:48 [Info] [Admin Logger] [08/24/2022 19:48:11] Void [76561198977454718] disabled Noclip.
+19:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:49 [Info] [Admin Logger] [08/24/2022 19:49:41] Void [76561198977454718] gave themselves 1 x stonehatchet.
+19:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:49 [Info] [Admin Logger] [08/24/2022 19:49:41] Void [76561198977454718] gave themselves 1 x stone.pickaxe.
+19:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:50 [Info] [Admin Logger] [08/24/2022 19:50:51] Void [76561198977454718] gave themselves 1 x torch.
+19:50 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:51 [Info] [Better Chat] [Global] [Player] Nate: omw
+19:51 [Info] [Better Chat] [Global] [Player] Notwen: lo main goin deep lmao
+19:53 [Warning] [BoxLooters] Saved Boxlooters data
+19:54 [Info] [Better Chat] [Global] [Player] Void: wanna fite me
+19:54 [Info] [Admin Logger] [08/24/2022 19:54:33] Void [76561198977454718] gave themselves 1 x rock.
+19:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:55 [Info] [Admin Logger] [08/24/2022 19:55:12] Void [76561198977454718] closed Padmin Menu.
+19:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:56 [Info] [Advert Messages] Welcome to our server, have fun!
+19:57 [Info] [Admin Logger] [08/24/2022 19:57:06] Void [76561198977454718] gave themselves 1000 x scrap.
+19:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:01 [Info] [Admin Logger] [08/24/2022 20:01:53] Void [76561198977454718] teleported to Yoco [76561198153188452] using Padmin.
+20:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:01 [Info] [Admin Logger] [08/24/2022 20:01:54] Void [76561198977454718] closed Padmin Menu.
+20:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:02 [Info] [Admin Logger] [08/24/2022 20:02:08] Void [76561198977454718] viewed Inventory of player Yoco [76561198153188452] using Padmin.
+20:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:02 [Info] [Admin Logger] [08/24/2022 20:02:41] Void [76561198977454718] enabled Noclip.
+20:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:03 [Info] [Admin Logger] [08/24/2022 20:03:17] Void [76561198977454718] closed Padmin Menu.
+20:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:03 [Info] [Admin Logger] [08/24/2022 20:03:23] Void [76561198977454718] teleported to Kickswitch [76561198428236457] using Padmin.
+20:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:03 [Info] [Admin Logger] [08/24/2022 20:03:24] Void [76561198977454718] closed Padmin Menu.
+20:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:03 [Info] [Admin Logger] [08/24/2022 20:03:40] Void [76561198977454718] gave themselves 1 x hammer.
+20:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:03 [Info] [AdminHammer] This box.wooden.large is owned by www.steamcommunity.com/profiles/76561199082517499
+20:03 [Info] [AdminHammer] This box.wooden.large is owned by www.steamcommunity.com/profiles/76561199082517499
+20:03 [Info] [AdminHammer] Void [76561198977454718] used AdminHammer on a box.wooden.large owned by <color=red> Kondog </color> (76561199082517499) [76561199082517499] located at (-1312.4, 27.7, -681.8)
+20:03 [Warning] [BoxLooters] Saved Boxlooters data
+20:04 [Info] [Admin Logger] [08/24/2022 20:04:36] Void [76561198977454718] disabled Noclip.
+20:04 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:04 [Info] [Admin Logger] [08/24/2022 20:04:57] Void [76561198977454718] gave themselves 1000 x scrap.
+20:04 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:06 [Info] [Better Chat] [Team] [Player] LO Mein: jello
+20:06 [Info] [Better Chat] [Team] [Player] LO Mein: oregano
+20:06 [Info] [Advert Messages] Please treat everybody respectfully.
+20:06 [Info] [Better Chat] [Global] [Player] Notwen: I GOT A PET CYBER IN MY BASE
+20:07 [Info] [Better Chat] [Global] [Player] Notwen: CAN I KEEP HIM
+20:07 [Info] [Better Chat] [Global] [Player] LO Mein: say dat
+20:07 [Info] [Admin Logger] [08/24/2022 20:07:13] Void [76561198977454718] gave themselves 1 x halloween.mummysuit.
+20:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:07 [Info] [Better Chat] [Global] [Player] MR. Perfect: keep him there he a good dog ong
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:20] Void [76561198977454718] gave themselves 1 x sheetmetal.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:21] Void [76561198977454718] gave themselves 1 x metalblade.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:23] Void [76561198977454718] gave themselves 1 x semibody.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:24] Void [76561198977454718] gave themselves 1 x riflebody.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:25] Void [76561198977454718] gave themselves 1 x sewingkit.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:26] Void [76561198977454718] gave themselves 1 x sewingkit.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:27] Void [76561198977454718] gave themselves 1 x sewingkit.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:27] Void [76561198977454718] gave themselves 1 x sewingkit.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:30] Void [76561198977454718] gave themselves 1 x propanetank.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:35] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:35] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:35] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:35] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:36] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:37] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:37] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:37] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:37] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:38] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:38] Void [76561198977454718] gave themselves 1 x metal.refined.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:45] Void [76561198977454718] gave themselves 1 x pistol.revolver.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:49] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:49] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:49] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:49] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:50] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:50] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:51] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:51] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:51] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:52] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:53] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:54] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:54] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:54] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:54] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:54] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:54] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:55] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:55] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:55] Void [76561198977454718] gave themselves 1 x ammo.pistol.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:57] Void [76561198977454718] gave themselves 1 x syringe.medical.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:08 [Info] [Admin Logger] [08/24/2022 20:08:59] Void [76561198977454718] gave themselves 1 x bandage.
+20:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:00] Void [76561198977454718] gave themselves 1 x bandage.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:21] Void [76561198977454718] viewed Inventory of player Kickswitch [76561198428236457] using Padmin.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:33] Void [76561198977454718] closed Padmin Menu.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:09 [Info] [Admin Logger] [08/24/2022 20:09:37] Void [76561198977454718] viewed Inventory of player Kickswitch [76561198428236457] using Padmin.
+20:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:11 [Info] [Admin Logger] [08/24/2022 20:11:11] Void [76561198977454718] enabled Noclip.
+20:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:11 [Info] [Admin Logger] [08/24/2022 20:11:26] Void [76561198977454718] disabled Noclip.
+20:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:13 [Info] [Admin Logger] [08/24/2022 20:13:32] Void [76561198977454718] closed Padmin Menu.
+20:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:13 [Info] [Admin Logger] [08/24/2022 20:13:41] Void [76561198977454718] teleported Angieeee [76561198200695794] to themselves using Padmin.
+20:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:13 [Info] [Admin Logger] [08/24/2022 20:13:42] Void [76561198977454718] closed Padmin Menu.
+20:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:13 [Warning] [BoxLooters] Saved Boxlooters data
+20:13 [Info] [Admin Logger] [08/24/2022 20:13:56] Void [76561198977454718] enabled Noclip.
+20:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:14 [Info] [Admin Logger] [08/24/2022 20:14:01] Void [76561198977454718] disabled Noclip.
+20:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:14 [Info] [Admin Logger] [08/24/2022 20:14:05] Void [76561198977454718] teleported Angieeee [76561198200695794] to themselves using Padmin.
+20:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:14 [Info] [Admin Logger] [08/24/2022 20:14:06] Void [76561198977454718] closed Padmin Menu.
+20:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:14 [Info] [Admin Logger] [08/24/2022 20:14:52] Void [76561198977454718] teleported MR. Perfect [76561199091778433] to themselves using Padmin.
+20:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:14 [Info] [Admin Logger] [08/24/2022 20:14:53] Void [76561198977454718] closed Padmin Menu.
+20:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:15 [Info] [Admin Logger] [08/24/2022 20:15:16] Void [76561198977454718] enabled Noclip.
+20:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:15 [Info] [Admin Logger] [08/24/2022 20:15:30] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+20:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:15 [Info] [Admin Logger] [08/24/2022 20:15:33] Void [76561198977454718] teleported MR. Perfect [76561199091778433] to themselves using Padmin.
+20:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:15 [Info] [Admin Logger] [08/24/2022 20:15:33] Void [76561198977454718] closed Padmin Menu.
+20:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:17 [Info] [Admin Logger] [08/24/2022 20:17:25] Void [76561198977454718] healed player Kickswitch [76561198428236457] for 100 points using Padmin.
+20:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:17 [Info] [Admin Logger] [08/24/2022 20:17:26] Void [76561198977454718] recovered the metabolism of player Kickswitch [76561198428236457] using Padmin.
+20:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:17 [Info] [Admin Logger] [08/24/2022 20:17:26] Void [76561198977454718] closed Padmin Menu.
+20:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:17 [Info] [Admin Logger] [08/24/2022 20:17:41] Void [76561198977454718] teleported MR. Perfect [76561199091778433] to themselves using Padmin.
+20:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:17 [Info] [Admin Logger] [08/24/2022 20:17:41] Void [76561198977454718] closed Padmin Menu.
+20:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:18 [Info] [Better Chat] [Team] [Player] LO Mein: HELP
+20:22 [Info] [Admin Logger] [08/24/2022 20:22:12] Void [76561198977454718] disabled Noclip.
+20:22 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:23 [Warning] [BoxLooters] Saved Boxlooters data
+20:24 [Info] [Admin Logger] [08/24/2022 20:24:36] Void [76561198977454718] hurt player irontweak6 [76561199205921376] for 50 points using Padmin.
+20:24 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:24 [Info] [Admin Logger] [08/24/2022 20:24:41] Void [76561198977454718] hurt player irontweak6 [76561199205921376] for 50 points using Padmin.
+20:24 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:24 [Info] [Admin Logger] [08/24/2022 20:24:42] Void [76561198977454718] closed Padmin Menu.
+20:24 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:25 [Info] [Admin Logger] [08/24/2022 20:25:10] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+20:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:25 [Info] [Admin Logger] [08/24/2022 20:25:11] Void [76561198977454718] closed Padmin Menu.
+20:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:26 [Info] [Admin Logger] [08/24/2022 20:26:22] Void [76561198977454718] enabled Noclip.
+20:26 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:26 [Info] [Admin Logger] [08/24/2022 20:26:31] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+20:26 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:26 [Info] [Admin Logger] [08/24/2022 20:26:32] Void [76561198977454718] closed Padmin Menu.
+20:26 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:26 [Info] [Advert Messages] Welcome to our server, have fun!
+20:26 [Info] [Better Chat] [Global] [Player] Oregano: CHEATER
+20:26 [Info] [Better Chat] [Global] [Player] Yoco: rip bozo
+20:26 [Info] [Better Chat] [Global] [Player] MR. Perfect: wtf
+20:26 [Info] [Better Chat] [Global] [Player] Kickswitch: LOL
+20:26 [Info] [Better Chat] [Global] [Player] MR. Perfect: LMAO
+20:26 [Info] [Better Chat] [Global] [Player] Nate: L bozo
+20:27 [Info] [Better Chat] [Global] [Player] Void: L
+20:27 [Info] [Better Chat] [Global] [Player] Kickswitch: that man went YEET
+20:29 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1358, 4, -1074) grid area: Y22
+20:29 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+20:29 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+20:29 [Info] [Admin Logger] [08/24/2022 20:29:12] Void [76561198977454718] disabled Noclip.
+20:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:29 [Info] [Admin Logger] [08/24/2022 20:29:22] Void [76561198977454718] enabled Noclip.
+20:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:29 [Info] [Admin Logger] [08/24/2022 20:29:37] Void [76561198977454718] disabled Noclip.
+20:29 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:30 [Info] [Admin Logger] [08/24/2022 20:30:53] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+20:30 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:30 [Info] [Admin Logger] [08/24/2022 20:30:53] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+20:30 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:30 [Info] [Admin Logger] [08/24/2022 20:30:54] Void [76561198977454718] closed Padmin Menu.
+20:30 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:31 [Info] [Better Chat] [Global] [Player] bde maka ska: hi
+20:31 [Info] [Better Chat] [Global] [Player] Void: hola
+20:31 [Info] [Better Chat] [Global] [Player] Yoco: hi
+20:31 [Info] [Admin Logger] [08/24/2022 20:31:46] Void [76561198977454718] gave themselves 1 x frankensteins.monster.01.head.
+20:31 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:32 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+20:32 [Info] [Admin Logger] [08/24/2022 20:32:41] Void [76561198977454718] teleported to Kickswitch [76561198428236457] using Padmin.
+20:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:32 [Info] [Admin Logger] [08/24/2022 20:32:42] Void [76561198977454718] closed Padmin Menu.
+20:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:33 [Info] [Admin Logger] [08/24/2022 20:33:13] Void [76561198977454718] closed Padmin Menu.
+20:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:33 [Info] [Admin Deep Cover] [Global] [Player] garry: 11
+20:33 [Info] [Better Chat] [Global] [Player] Void: 11
+20:33 [Warning] [BoxLooters] Saved Boxlooters data
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:10] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:11] Void [76561198977454718] closed Padmin Menu.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:37] Void [76561198977454718] enabled Noclip.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:42] Void [76561198977454718] disabled Noclip.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:51] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:52] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:34 [Info] [Admin Logger] [08/24/2022 20:34:53] Void [76561198977454718] closed Padmin Menu.
+20:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:02] Void [76561198977454718] enabled Godmode.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Better Chat] [Global] [Player] iixjell0: void you got boom
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:22] Void [76561198977454718] enabled Noclip.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:37] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:38] Void [76561198977454718] closed Padmin Menu.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:48] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:48] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:35 [Info] [Admin Logger] [08/24/2022 20:35:49] Void [76561198977454718] closed Padmin Menu.
+20:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:36 [Info] [Admin Logger] [08/24/2022 20:36:08] Void [76561198977454718] spawned horse at (-1087.9, 27.8, -1212.5).
+20:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:36 [Info] [Advert Messages] Please treat everybody respectfully.
+20:37 [Info] [Better Chat] [Global] [Player] irontweak6: void not yet
+20:37 [Info] [Better Chat] [Global] [Player] Notwen: these shitters cant even raid a 1x2
+20:37 [Info] [Better Chat] [Global] [Player] Void: HUHHHH
+20:37 [Info] [Better Chat] [Global] [Player] iixjell0: lmao
+20:37 [Info] [Better Chat] [Global] [Player] Void: whos raiding where
+20:37 [Info] [Better Chat] [Global] [Player] LO Mein: lmao
+20:37 [Info] [Better Chat] [Global] [Player] Void: lol
+20:37 [Info] [Better Chat] [Global] [Player] iixjell0: we deep and we dry raiding lmao
+20:37 [Info] [Better Chat] [Global] [Player] LO Mein: turtle u seem mad
+20:37 [Info] [Better Chat] [Global] [Player] LO Mein: is it cus im one door away from ur tc rn
+20:37 [Info] [Better Chat] [Global] [Player] LO Mein: by using a gun to go deep
+20:37 [Info] [Better Chat] [Global] [Player] LO Mein: dry deeping is crazy
+20:38 [Info] [Better Chat] [Global] [Player] LO Mein: lol
+20:38 [Info] [Better Chat] [Global] [Player] Notwen: i just trapped you in a airlock have fun starving lol
+20:38 [Info] [Better Chat] [Global] [Player] LO Mein: i have a row of medsticks?
+20:38 [Info] [Better Chat] [Global] [Player] Notwen: but no food it will only last so long
+20:38 [Info] [Better Chat] [Global] [Player] LO Mein: well see
+20:38 [Info] [Admin Logger] [08/24/2022 20:38:50] Void [76561198977454718] viewed Inventory of player LO Mein [76561199169977600] using Padmin.
+20:38 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:39 [Info] [Better Chat] [Global] [Player] LO Mein: medsticks dont let u die lol
+20:39 [Info] [Better Chat] [Global] [Player] LO Mein: been doin this for ages
+20:39 [Info] [Admin Logger] [08/24/2022 20:39:19] Void [76561198977454718] closed Padmin Menu.
+20:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:39 [Info] [Admin Logger] [08/24/2022 20:39:23] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+20:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:39 [Info] [Admin Logger] [08/24/2022 20:39:25] Void [76561198977454718] closed Padmin Menu.
+20:39 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:39 [Info] [Better Chat] [Global] [Player] Void: hes hacking ong
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:20] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:20] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:21] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:21] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:21] Void [76561198977454718] gave themselves 1 x diesel_barrel.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:30] Void [76561198977454718] closed Padmin Menu.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:35] Void [76561198977454718] teleported to Kickswitch [76561198428236457] using Padmin.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:40 [Info] [Admin Logger] [08/24/2022 20:40:36] Void [76561198977454718] closed Padmin Menu.
+20:40 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:41 [Info] [Admin Logger] [08/24/2022 20:41:35] Void [76561198977454718] gave themselves 1 x hazmatsuit.arcticsuit.
+20:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:41 [Info] [Admin Logger] [08/24/2022 20:41:42] Void [76561198977454718] disabled Noclip.
+20:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:42 [Info] [Admin Logger] [08/24/2022 20:42:07] Void [76561198977454718] enabled Noclip.
+20:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:42 [Info] [Admin Logger] [08/24/2022 20:42:12] Void [76561198977454718] disabled Noclip.
+20:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:42 [Info] [Admin Logger] [08/24/2022 20:42:17] Void [76561198977454718] enabled Noclip.
+20:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:42 [Info] [Admin Logger] [08/24/2022 20:42:47] Void [76561198977454718] disabled Noclip.
+20:42 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:43 [Info] [Admin Logger] [08/24/2022 20:43:02] Void [76561198977454718] enabled Noclip.
+20:43 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:43 [Info] [Admin Logger] [08/24/2022 20:43:07] Void [76561198977454718] disabled Noclip.
+20:43 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:43 [Warning] [BoxLooters] Saved Boxlooters data
+20:44 [Info] [Admin Logger] [08/24/2022 20:44:24] Void [76561198977454718] gave themselves 1 x pistol.python.
+20:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:44 [Info] [Admin Logger] [08/24/2022 20:44:27] Void [76561198977454718] gave themselves 1000 x ammo.pistol.
+20:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:44 [Info] [Admin Logger] [08/24/2022 20:44:32] Void [76561198977454718] gave themselves 1 x weapon.mod.flashlight.
+20:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:44 [Info] [Admin Logger] [08/24/2022 20:44:47] Void [76561198977454718] enabled Noclip.
+20:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:44 [Info] [Admin Logger] [08/24/2022 20:44:52] Void [76561198977454718] disabled Noclip.
+20:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:45 [Info] [Admin Logger] [08/24/2022 20:45:27] Void [76561198977454718] enabled Noclip.
+20:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:45 [Info] [Admin Logger] [08/24/2022 20:45:29] Void [76561198977454718] closed Padmin Menu.
+20:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:45 [Info] [Admin Logger] [08/24/2022 20:45:32] Void [76561198977454718] disabled Noclip.
+20:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:46 [Info] [Admin Logger] [08/24/2022 20:46:07] Void [76561198977454718] enabled Noclip.
+20:46 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:46 [Info] [Admin Logger] [08/24/2022 20:46:11] Void [76561198977454718] teleported to LO Mein [76561199169977600] using Padmin.
+20:46 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:46 [Info] [Admin Logger] [08/24/2022 20:46:12] Void [76561198977454718] closed Padmin Menu.
+20:46 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:46 [Info] [Better Chat] [Global] [Player] bde maka ska: hog ryda do you plan on making the map small?
+20:46 [Info] [Better Chat] [Global] [Player] Void: yes after test wipe
+20:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:46 [Info] [Better Chat] [Global] [Player] Void: i made it 4k on purpose
+20:47 [Info] [Admin Logger] [08/24/2022 20:47:04] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:47 [Info] [Admin Logger] [08/24/2022 20:47:05] Void [76561198977454718] closed Padmin Menu.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:47 [Info] [Better Chat] [Global] [Player] bde maka ska: ok nice
+20:47 [Info] [Admin Logger] [08/24/2022 20:47:37] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:47 [Info] [Admin Logger] [08/24/2022 20:47:38] Void [76561198977454718] closed Padmin Menu.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:48 [Info] [Admin Logger] [08/24/2022 20:48:19] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+20:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:48 [Info] [Admin Logger] [08/24/2022 20:48:20] Void [76561198977454718] closed Padmin Menu.
+20:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:48 [Info] [Admin Logger] [08/24/2022 20:48:42] Void [76561198977454718] disabled Noclip.
+20:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:48 [Info] [Better Chat] [Global] [Player] bde maka ska: weekly wipe?
+20:48 [Info] [Better Chat] [Global] [Player] Void: bi weekly
+20:49 [Info] [Better Chat] [Global] [Player] LO Mein: void helpp
+20:49 [Info] [Better Chat] [Global] [Player] LO Mein: plsss
+20:49 [Info] [Admin Logger] [08/24/2022 20:49:33] Void [76561198977454718] gave themselves 1 x scarecrowhead.
+20:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:49 [Info] [Admin Logger] [08/24/2022 20:49:56] Void [76561198977454718] healed player Nate [76561198301679972] for 100 points using Padmin.
+20:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:49 [Info] [Admin Logger] [08/24/2022 20:49:57] Void [76561198977454718] closed Padmin Menu.
+20:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:50 [Info] [Admin Logger] [08/24/2022 20:50:32] Void [76561198977454718] enabled Noclip.
+20:50 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:52 [Info] [Admin Logger] [08/24/2022 20:52:53] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+20:52 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:52 [Info] [Admin Logger] [08/24/2022 20:52:53] Void [76561198977454718] closed Padmin Menu.
+20:52 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:53 [Info] [Admin Logger] [08/24/2022 20:53:26] Void [76561198977454718] healed player Kickswitch [76561198428236457] for 100 points using Padmin.
+20:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:53 [Info] [Admin Logger] [08/24/2022 20:53:27] Void [76561198977454718] closed Padmin Menu.
+20:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:53 [Info] [Better Chat] [Global] [Player] Sexipants: where da bitches @
+20:53 [Info] [Better Chat] [Global] [Player] bde maka ska: pipe down
+20:53 [Info] [Better Chat] [Global] [Player] Sexipants: nice pfp
+20:53 [Info] [Better Chat] [Global] [Player] Void: lmao
+20:53 [Warning] [BoxLooters] Saved Boxlooters data
+20:53 [Info] [Better Chat] [Global] [Player] bde maka ska: nice probably stole if from me
+20:53 [Info] [Better Chat] [Global] [Player] Void: sexualpants
+20:53 [Info] [Better Chat] [Global] [Player] Kickswitch: danggggg
+20:54 [Info] [Better Chat] [Global] [Player] Sexipants: mr mayor to u sir
+20:54 [Info] [Better Chat] [Global] [Player] Kickswitch: wait i want my suit back :(
+20:54 [Info] [Better Chat] [Global] [Player] LO Mein: fuck sexipants
+20:54 [Info] [Better Chat] [Global] [Player] Oregano: i have it
+20:54 [Info] [Better Chat] [Global] [Player] Void: im the mayor in this town son
+20:54 [Info] [Better Chat] [Global] [Player] Oregano: kickswitch
+20:54 [Info] [Better Chat] [Global] [Player] Sexipants: where da erp at hog
+20:54 [Info] [Better Chat] [Global] [Player] Sexipants: u promised me
+20:54 [Info] [Better Chat] [Global] [Player] bde maka ska: if anyone wants to meet me in outpost in 20 for an erp session let me know
+20:54 [Info] [Better Chat] [Global] [Player] Void: OKAY fine
+20:54 [Info] [Better Chat] [Global] [Player] Nate: on my way
+20:54 [Info] [Better Chat] [Global] [Player] Void: mr. sexualPants
+20:54 [Info] [Better Chat] [Global] [Player] Sexipants: yes mayor
+20:54 [Info] [Better Chat] [Global] [Player] LO Mein: big sexipants k
+20:55 [Info] [Admin Logger] [08/24/2022 20:55:37] Void [76561198977454718] disabled Noclip.
+20:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:56 [Info] [Better Chat] [Global] [Player] Sexipants: how tf i set up my esp in here void??
+20:56 [Info] [Admin Logger] [08/24/2022 20:56:18] Void [76561198977454718] enabled Noclip.
+20:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:56 [Info] [Better Chat] [Global] [Player] Oregano: i have it set up rn he helped me
+20:56 [Info] [Admin Logger] [08/24/2022 20:56:28] Void [76561198977454718] teleported to Sexipants [76561199172849729] using Padmin.
+20:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:56 [Info] [Admin Logger] [08/24/2022 20:56:29] Void [76561198977454718] closed Padmin Menu.
+20:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:56 [Info] [Better Chat] [Global] [Player] LO Mein: fr
+20:56 [Info] [Admin Logger] [08/24/2022 20:56:33] Void [76561198977454718] disabled Noclip.
+20:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:56 [Info] [Better Chat] [Global] [Player] LO Mein: big esp shi
+20:56 [Info] [Better Chat] [Global] [Player] Sexipants: lucky man guess ill open a support ticket
+20:56 [Info] [Advert Messages] Welcome to our server, have fun!
+20:57 [Info] [Better Chat] [Global] [Player] LO Mein: void u like the content u see big airlock stuff
+20:57 [Info] [Better Chat] [Global] [Player] Void: lol
+20:59 [Info] [Admin Logger] [08/24/2022 20:59:33] Void [76561198977454718] gave themselves 1 x halloween.mummysuit.
+20:59 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:59 [Info] [Admin Logger] [08/24/2022 20:59:53] Void [76561198977454718] enabled Noclip.
+20:59 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:59 [Info] [Admin Logger] [08/24/2022 20:59:57] Void [76561198977454718] teleported to LO Mein [76561199169977600] using Padmin.
+20:59 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:59 [Info] [Admin Logger] [08/24/2022 20:59:58] Void [76561198977454718] closed Padmin Menu.
+20:59 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:00 [Info] [Admin Logger] [08/24/2022 21:00:12] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:00 [Info] [Admin Logger] [08/24/2022 21:00:12] Void [76561198977454718] closed Padmin Menu.
+21:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:00 [Info] [Better Chat] [Global] [Player] bde maka ska: erp starting soon
+21:00 [Info] [Better Chat] [Global] [Player] bde maka ska: come outpost
+21:00 [Info] [Better Chat] [Global] [Player] bde maka ska: you won't want to miss out
+21:00 [Info] [Admin Logger] [08/24/2022 21:00:48] Void [76561198977454718] disabled Noclip.
+21:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:00 [Info] [Better Chat] [Global] [Player] Kondog: daddys home
+21:01 [Info] [Admin Logger] [08/24/2022 21:01:01] Void [76561198977454718] healed player Sexipants [76561199172849729] for 100 points using Padmin.
+21:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:01 [Info] [Admin Logger] [08/24/2022 21:01:02] Void [76561198977454718] recovered the metabolism of player Sexipants [76561199172849729] using Padmin.
+21:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:01 [Info] [Admin Logger] [08/24/2022 21:01:02] Void [76561198977454718] closed Padmin Menu.
+21:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:01 [Info] [Admin Logger] [08/24/2022 21:01:23] Void [76561198977454718] gave themselves 1 x lmg.m249.
+21:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:02 [Info] [Admin Logger] [08/24/2022 21:02:08] Void [76561198977454718] enabled Noclip.
+21:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:03 [Info] [Admin Logger] [08/24/2022 21:03:40] Void [76561198977454718] spawned bear at (-167.8, 71.6, -70.1).
+21:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:03 [Info] [Admin Logger] [08/24/2022 21:03:49] Void [76561198977454718] spawned bear at (-160.0, 67.6, -67.5).
+21:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:03 [Warning] [BoxLooters] Saved Boxlooters data
+21:05 [Info] [Better Chat] [Global] [Player] Kickswitch: Void ... Can I have that suit again :(
+21:05 [Info] [Better Chat] [Global] [Player] Sexipants: STEPPAS DROP LO IM SLIDIN
+21:05 [Info] [Better Chat] [Global] [Player] Nate: come find us
+21:05 [Info] [Better Chat] [Global] [Player] Void: sure
+21:05 [Info] [Better Chat] [Global] [Player] Oregano: g19
+21:05 [Info] [Better Chat] [Global] [Player] Sexipants: MY ESP DOWN CMON
+21:05 [Info] [Better Chat] [Global] [Player] Sexipants: GLOOKS
+21:05 [Info] [Better Chat] [Global] [Player] Nate: z101
+21:05 [Info] [Better Chat] [Global] [Player] Kondog: yo Void
+21:05 [Info] [Better Chat] [Global] [Player] Kondog: can you make group BP sharing a thing my man
+21:06 [Info] [Better Chat] [Global] [Player] Sexipants: WE ERPIN RN HE BUSY
+21:06 [Info] [Better Chat] [Global] [Player] Sexipants: big yyd
+21:06 [Info] [Better Chat] [Global] [Player] Void: group bp sharing would be considered modded server but im open for it honestly
+21:06 [Info] [Advert Messages] Please treat everybody respectfully.
+21:06 [Info] [Better Chat] [Global] [Player] Void: saves scrap per team
+21:06 [Info] [Better Chat] [Global] [Player] Kondog: this isnt a modded server?
+21:06 [Info] [Better Chat] [Global] [Player] Oregano: void give me my wood
+21:07 [Info] [Admin Logger] [08/24/2022 21:07:11] Void [76561198977454718] viewed Inventory of player Sexipants [76561199172849729] using Padmin.
+21:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:07 [Info] [Admin Logger] [08/24/2022 21:07:21] Void [76561198977454718] closed Padmin Menu.
+21:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:07 [Info] [Admin Logger] [08/24/2022 21:07:27] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:07 [Info] [Admin Logger] [08/24/2022 21:07:28] Void [76561198977454718] closed Padmin Menu.
+21:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:07 [Info] [Admin Logger] [08/24/2022 21:07:52] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:07 [Info] [Admin Logger] [08/24/2022 21:07:52] Void [76561198977454718] closed Padmin Menu.
+21:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:08 [Info] [Better Chat] [Team] [Player] Sexipants: they jumped me
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:01] Void [76561198977454718] spawned bear at (-160.9, 79.4, -88.2).
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:20] Void [76561198977454718] teleported to Kickswitch [76561198428236457] using Padmin.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:21] Void [76561198977454718] closed Padmin Menu.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:29] Void [76561198977454718] closed Padmin Menu.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:39] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:40] Void [76561198977454718] closed Padmin Menu.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:52] Void [76561198977454718] healed player Sexipants [76561199172849729] for 100 points using Padmin.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:53] Void [76561198977454718] recovered the metabolism of player Sexipants [76561199172849729] using Padmin.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:09 [Info] [Admin Logger] [08/24/2022 21:09:53] Void [76561198977454718] closed Padmin Menu.
+21:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:10 [Info] [Admin Logger] [08/24/2022 21:10:03] Void [76561198977454718] disabled Noclip.
+21:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:11 [Info] [Admin Logger] [08/24/2022 21:11:29] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:11 [Info] [Admin Logger] [08/24/2022 21:11:30] Void [76561198977454718] closed Padmin Menu.
+21:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:12] Void [76561198977454718] healed player Sexipants [76561199172849729] for 100 points using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:13] Void [76561198977454718] recovered the metabolism of player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:14] Void [76561198977454718] closed Padmin Menu.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:23] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:24] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:25] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:25] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:26] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:26] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:27] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:27] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:27] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:27] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:28] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:28] Void [76561198977454718] Froze player Sexipants [76561199172849729] using Padmin.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:30] Void [76561198977454718] closed Padmin Menu.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:35] Void [76561198977454718] gave themselves 1 x snowballgun.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:12 [Info] [Admin Logger] [08/24/2022 21:12:36] Void [76561198977454718] gave themselves 1000 x snowball.
+21:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:13 [Info] [Admin Logger] [08/24/2022 21:13:05] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+21:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:13 [Info] [Admin Logger] [08/24/2022 21:13:06] Void [76561198977454718] closed Padmin Menu.
+21:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:13 [Info] [Admin Logger] [08/24/2022 21:13:18] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+21:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:13 [Info] [Admin Logger] [08/24/2022 21:13:19] Void [76561198977454718] closed Padmin Menu.
+21:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:13 [Warning] [BoxLooters] Saved Boxlooters data
+21:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:16 [Info] [Better Chat] [Team] [Player] Kondog: allsion
+21:16 [Info] [Better Chat] [Team] [Player] Kondog: is that you shooting
+21:17 [Info] [Better Chat] [Global] [Player] bde maka ska: that is a really big house in L15
+21:17 [Info] [Admin Logger] [08/24/2022 21:17:16] Void [76561198977454718] spawned bradley at (-1294.7, 12.4, -906.5).
+21:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:17 [Info] [Better Chat] [Global] [Player] Sexipants: scientist dropped bobcat card
+21:17 [Info] [Admin Logger] [08/24/2022 21:17:23] Void [76561198977454718] spawned bradleyapc at (-1294.7, 12.4, -906.5).
+21:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:17 [Info] [Better Chat] [Global] [Player] bde maka ska: really?
+21:17 [Info] [Admin Logger] [08/24/2022 21:17:36] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:17 [Info] [Admin Logger] [08/24/2022 21:17:37] Void [76561198977454718] closed Padmin Menu.
+21:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:18 [Info] [Admin Logger] [08/24/2022 21:18:01] Void [76561198977454718] used *kill* on ent: bradleyapc at position (-1283.3, 12.6, -900.1).
+21:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:18 [Info] [Better Chat] [Global] [Player] bde maka ska: holy the L15 house has a tank even
+21:18 [Info] [Admin Logger] [08/24/2022 21:18:13] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:18 [Info] [Admin Logger] [08/24/2022 21:18:14] Void [76561198977454718] closed Padmin Menu.
+21:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:18 [Info] [Better Chat] [Global] [Player] Kickswitch: i was not expecting that LOL
+21:18 [Info] [Admin Logger] [08/24/2022 21:18:21] Void [76561198977454718] teleported Kickswitch [76561198428236457] to themselves using Padmin.
+21:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:18 [Info] [Admin Logger] [08/24/2022 21:18:22] Void [76561198977454718] closed Padmin Menu.
+21:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:19 [Info] [Admin Logger] [08/24/2022 21:19:24] Void [76561198977454718] teleported bde maka ska [76561198901309969] to themselves using Padmin.
+21:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:19 [Info] [Admin Logger] [08/24/2022 21:19:26] Void [76561198977454718] closed Padmin Menu.
+21:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:19 [Info] [Admin Logger] [08/24/2022 21:19:52] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:19 [Info] [Admin Logger] [08/24/2022 21:19:53] Void [76561198977454718] closed Padmin Menu.
+21:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:21 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-488, 25, -892) grid area: M21
+21:21 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+21:21 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+21:21 [Info] [Better Chat] [Global] [Player] Kickswitch: tortle ?
+21:21 [Info] [Admin Logger] [08/24/2022 21:21:35] Void [76561198977454718] teleported Kondog [76561199082517499] to themselves using Padmin.
+21:21 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:21 [Info] [Admin Logger] [08/24/2022 21:21:36] Void [76561198977454718] closed Padmin Menu.
+21:21 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:22 [Info] [Better Chat] [Global] [Player] bde maka ska: admin tp
+21:22 [Info] [Admin Logger] [08/24/2022 21:22:39] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:22 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:22 [Info] [Admin Logger] [08/24/2022 21:22:43] Void [76561198977454718] teleported bde maka ska [76561198901309969] to themselves using Padmin.
+21:22 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:22 [Info] [Admin Logger] [08/24/2022 21:22:44] Void [76561198977454718] closed Padmin Menu.
+21:22 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:22 [Info] [Better Chat] [Global] [Player] Sexipants: was rdm by chief of police
+21:23 [Info] [Admin Logger] [08/24/2022 21:23:23] Void [76561198977454718] gave themselves 1000 x rifle.l96.
+21:23 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:23 [Warning] [BoxLooters] Saved Boxlooters data
+21:23 [Info] [Admin Logger] [08/24/2022 21:23:54] Void [76561198977454718] gave themselves 1000 x pistol.revolver.
+21:23 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:24 [Info] [Admin Logger] [08/24/2022 21:24:17] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+21:24 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:24 [Info] [Admin Logger] [08/24/2022 21:24:18] Void [76561198977454718] closed Padmin Menu.
+21:24 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:25 [Info] [Admin Logger] [08/24/2022 21:25:24] Void [76561198977454718] healed player Sexipants [76561199172849729] for 100 points using Padmin.
+21:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:25 [Info] [Admin Logger] [08/24/2022 21:25:24] Void [76561198977454718] recovered the metabolism of player Sexipants [76561199172849729] using Padmin.
+21:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:25 [Info] [Admin Logger] [08/24/2022 21:25:25] Void [76561198977454718] closed Padmin Menu.
+21:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:25 [Info] [Admin Logger] [08/24/2022 21:25:43] Void [76561198977454718] enabled Noclip.
+21:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:25 [Info] [Admin Logger] [08/24/2022 21:25:48] Void [76561198977454718] disabled Noclip.
+21:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:25 [Info] [Admin Logger] [08/24/2022 21:25:53] Void [76561198977454718] enabled Noclip.
+21:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:26 [Info] [Advert Messages] Welcome to our server, have fun!
+21:28 [Info] [Better Chat] [Global] [Player] Kickswitch: where did you go
+21:28 [Info] [Better Chat] [Global] [Player] Sexipants: ileft ur stuff
+21:29 [Info] [Better Chat] [Global] [Player] Kickswitch: yeah i got it
+21:29 [Info] [Better Chat] [Global] [Player] Kickswitch: thankz
+21:29 [Info] [Better Chat] [Global] [Player] Sexipants: no worrrries
+21:32 [Info] [Admin Logger] [08/24/2022 21:32:00] Void [76561198977454718] disconnected.
+21:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:32 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+21:33 [Warning] [BoxLooters] Saved Boxlooters data
+21:36 [Info] [Advert Messages] Please treat everybody respectfully.
+21:39 [Info] [Better Chat] [Team] [Player] Angieeee: i have no idea
+21:39 [Info] [Better Chat] [Team] [Player] Angieeee: left one
+21:40 [Info] [Better Chat] [Team] [Player] Angieeee: ok
+21:40 [Info] [Better Chat] [Global] [Player] Kondog: DAYTIME?
+21:41 [Info] [Better Chat] [Team] [Player] Kickswitch: Void left btw he went in city for b-day party
+21:41 [Info] [Better Chat] [Team] [Player] Kondog: damn
+21:43 [Warning] [BoxLooters] Saved Boxlooters data
+21:45 [Info] [Better Chat] [Global] [Player] Kickswitch: Steppas still in ?
+21:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:53 [Warning] [BoxLooters] Saved Boxlooters data
+21:54 [Info] [Better Chat] [Team] [Player] Kickswitch: how you die
+21:55 [Info] [Better Chat] [Team] [Player] Kondog: im doing mil base
+21:55 [Info] [Better Chat] [Team] [Player] Kickswitch: ohhh by urself ? you crazy ?
+21:55 [Info] [Better Chat] [Team] [Player] Kondog: its hard cause im out of meds lmao
+21:56 [Info] [Better Chat] [Team] [Player] Kickswitch: i did it with steppas LOL
+21:56 [Info] [Better Chat] [Team] [Player] Kondog: its ez
+21:56 [Info] [Advert Messages] Welcome to our server, have fun!
+21:56 [Info] [Better Chat] [Team] [Player] MR. Perfect: back on the grind
+21:58 [Info] [Better Chat] [Team] [Player] MR. Perfect: i think me and angie are doing the same thing lol
+21:58 [Info] [Better Chat] [Team] [Player] Kondog: i did it solo
+21:58 [Info] [Better Chat] [Team] [Player] Kondog: tell steppas they are dog
+22:00 [Info] [Better Chat] [Team] [Player] Kondog: this place sucks cock
+22:00 [Info] [Better Chat] [Team] [Player] Angieeee: what are you shooting?
+22:00 [Info] [Better Chat] [Team] [Player] MR. Perfect: killed him
+22:01 [Info] [Better Chat] [Team] [Player] Kondog: who
+22:01 [Info] [Better Chat] [Team] [Player] MR. Perfect: it was this thing with a gun
+22:03 [Warning] [BoxLooters] Saved Boxlooters data
+22:05 [Info] [Better Chat] [Global] [Player] irontweak6: yo void
+22:05 [Info] [Better Chat] [Global] [Player] Angieeee: hes not here
+22:05 [Info] [Better Chat] [Global] [Player] Kickswitch: void left
+22:05 [Info] [Better Chat] [Global] [Player] Kickswitch: he had a birthday party to go to
+22:05 [Info] [Better Chat] [Global] [Player] irontweak6: do yall know if next wipe we keep bps
+22:06 [Info] [Advert Messages] Please treat everybody respectfully.
+22:13 [Warning] [BoxLooters] Saved Boxlooters data
+22:15 [Info] [Better Chat] [Team] [Player] Angieeee: what happened?
+22:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:17 [Info] [Better Chat] [Team] [Player] MR. Perfect: i going to gas rq
+22:20 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-974, 33, 765) grid area: I10
+22:20 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+22:20 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+22:23 [Warning] [BoxLooters] Saved Boxlooters data
+22:26 [Info] [Advert Messages] Welcome to our server, have fun!
+22:33 [Warning] [BoxLooters] Saved Boxlooters data
+22:36 [Info] [Advert Messages] Please treat everybody respectfully.
+22:37 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+22:43 [Warning] [BoxLooters] Saved Boxlooters data
+22:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:53 [Warning] [BoxLooters] Saved Boxlooters data
+22:56 [Info] [Advert Messages] Welcome to our server, have fun!
+22:59 [Info] [Better Chat] [Team] [Player] MR. Perfect: AFK at home
+23:03 [Warning] [BoxLooters] Saved Boxlooters data
+23:05 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-94, 34, -559) grid area: O19
+23:05 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+23:05 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+23:06 [Info] [Advert Messages] Please treat everybody respectfully.
+23:13 [Warning] [BoxLooters] Saved Boxlooters data
+23:14 [Info] [Better Chat] [Team] [Player] Angieeee: did you hear me
+23:14 [Info] [Better Chat] [Team] [Player] MR. Perfect: i hear you all the way here
+23:14 [Info] [Better Chat] [Team] [Player] MR. Perfect: yes
+23:14 [Info] [Better Chat] [Team] [Player] Angieeee: lmaoo
+23:14 [Info] [Better Chat] [Team] [Player] MR. Perfect: LMAO
+23:14 [Info] [Better Chat] [Team] [Player] MR. Perfect: did you say something
+23:14 [Info] [Better Chat] [Team] [Player] Angieeee: i said have a safe trip
+23:15 [Info] [Better Chat] [Team] [Player] Kondog: jack im making you a new toy
+23:15 [Info] [Better Chat] [Team] [Player] MR. Perfect: bet
+23:15 [Info] [Better Chat] [Team] [Player] Kondog: when you come back you can have it
+23:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:23 [Warning] [BoxLooters] Saved Boxlooters data
+23:25 [Info] [Better Chat] [Team] [Player] Kickswitch: 6
+23:26 [Info] [Better Chat] [Global] [Player] Kickswitch: Ayo whose all here ... ROLL call
+23:26 [Info] [Better Chat] [Global] [Player] Kondog: shush
+23:26 [Info] [Better Chat] [Global] [Player] Angieeee: not me
+23:26 [Info] [Better Chat] [Global] [Player] MR. Perfect: yeah bozo
+23:26 [Info] [Better Chat] [Global] [Player] Kickswitch: kinda wanna smash my way into Turtles house for stealin my mummy suit
+23:26 [Info] [Better Chat] [Global] [Player] Angieeee: woah thats mean
+23:26 [Info] [Advert Messages] Welcome to our server, have fun!
+23:26 [Info] [Better Chat] [Global] [Player] Kondog: thats illegal
+23:26 [Info] [Better Chat] [Global] [Player] Kickswitch: i want it back :( It was a gift :(
+23:28 [Info] [Better Chat] [Team] [Player] MR. Perfect: bobby i found a cave
+23:28 [Info] [Better Chat] [Team] [Player] Kondog: noice
+23:28 [Info] [Better Chat] [Team] [Player] MR. Perfect: its dark in here
+23:29 [Info] [Better Chat] [Team] [Player] MR. Perfect: umm feel in the things and it poked me
+23:30 [Info] [Better Chat] [Team] [Player] Angieeee: are you dying
+23:30 [Info] [Better Chat] [Team] [Player] MR. Perfect: going back to h 22 to get my stuff
+23:30 [Info] [Better Chat] [Team] [Player] Angieeee: lol
+23:33 [Warning] [BoxLooters] Saved Boxlooters data
+23:34 [Info] [Better Chat] [Global] [Player] ZerkzAU: YO
+23:34 [Info] [Better Chat] [Global] [Player] ZerkzAU: I HAVE A JOKE
+23:34 [Info] [Better Chat] [Global] [Player] Kickswitch: Lets hear it
+23:34 [Info] [Better Chat] [Global] [Player] ZerkzAU: so today the police came and took my dog away
+23:35 [Info] [Better Chat] [Global] [Player] ZerkzAU: he had unpaid barking tickets
+23:36 [Info] [Advert Messages] Please treat everybody respectfully.
+23:40 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+23:41 [Info] [Better Chat] [Team] [Player] MR. Perfect: alr i going bed
+23:41 [Info] [Better Chat] [Team] [Player] Angieeee: goodnight
+23:42 [Info] [Better Chat] [Team] [Player] MR. Perfect: goodnight
+23:43 [Warning] [BoxLooters] Saved Boxlooters data
+23:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:53 [Info] [Better Chat] [Global] [Player] ZerkzAU: HOLY SHIT
+23:53 [Info] [Better Chat] [Global] [Player] ZerkzAU: I JUST GOT AN AK
+23:53 [Warning] [BoxLooters] Saved Boxlooters data
+23:56 [Info] [Advert Messages] Welcome to our server, have fun!

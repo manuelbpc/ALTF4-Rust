@@ -1,0 +1,2128 @@
+[08/30/2022 12:04:07] Void [76561198977454718] connected.
+[08/30/2022 12:04:10] Void [76561198977454718] disabled Godmode.
+[08/30/2022 12:04:20] Void [76561198977454718] enabled Noclip.
+[08/30/2022 12:04:23] Void [76561198977454718] teleported to Javi [76561199057993097] using Padmin.
+[08/30/2022 12:04:24] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 12:04:31] Void [76561198977454718] teleported to Faithless [76561198118985215] using Padmin.
+[08/30/2022 12:04:31] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 12:08:08] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 12:08:25] Void [76561198977454718] disabled Noclip.
+[08/30/2022 12:10:00] Void [76561198977454718] enabled Noclip.
+[08/30/2022 12:14:15] Void [76561198977454718] gave themselves 1 x hammer.
+[08/30/2022 12:14:30] Void [76561198977454718] disabled Noclip.
+[08/30/2022 13:38:55] Void [76561198977454718] enabled Noclip.
+[08/30/2022 13:39:14] Void [76561198977454718] teleported to Nate [76561198301679972] using Padmin.
+[08/30/2022 13:39:15] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 13:40:00] Void [76561198977454718] disabled Noclip.
+[08/30/2022 13:46:40] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 13:46:41] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 13:46:41] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 13:49:15] Void [76561198977454718] enabled Noclip.
+[08/30/2022 13:49:40] Void [76561198977454718] disabled Noclip.
+[08/30/2022 13:59:29] ~q~Daisy [76561198104600220] connected.
+[08/30/2022 13:59:30] ~q~Daisy [76561198104600220] disabled Godmode.
+[08/30/2022 14:01:54] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 14:01:55] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 14:01:55] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 14:02:24] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 14:02:25] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 14:02:26] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 14:02:26] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 14:02:26] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 14:17:58] Void [76561198977454718] used *kill* on ent: recycler_static at position (292.3, 21.8, -51.8).
+[08/30/2022 14:18:12] Void [76561198977454718] spawned recelyer at (290.9, 21.6, -51.4).
+[08/30/2022 14:18:16] Void [76561198977454718] spawned rec at (290.9, 21.6, -51.4).
+[08/30/2022 14:18:23] Void [76561198977454718] spawned recycler_static at (290.9, 21.6, -51.4).
+[08/30/2022 14:18:29] Void [76561198977454718] used *kill* on ent: recycler_static at position (291.5, 21.6, -50.5).
+[08/30/2022 14:18:32] Void [76561198977454718] spawned recycler_static at (291.0, 21.6, -51.9).
+[08/30/2022 14:34:54] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 14:34:55] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 14:34:57] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 14:34:59] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 14:35:00] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 14:35:03] Void [76561198977454718] gave themselves 1 x hazmatsuit.
+[08/30/2022 14:38:11] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 14:38:24] ~q~Daisy [76561198104600220] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 14:38:25] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 14:40:06] Void [76561198977454718] gave themselves 1 x hat.candle.
+[08/30/2022 14:42:15] Void [76561198977454718] enabled Noclip.
+[08/30/2022 14:42:55] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 14:48:56] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 14:49:04] ~q~Daisy [76561198104600220] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 14:49:05] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 14:49:26] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 14:49:38] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 14:49:39] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 14:49:42] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 14:49:46] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 14:50:06] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 14:50:10] Void [76561198977454718] disabled Noclip.
+[08/30/2022 14:54:35] Void [76561198977454718] used *kill* on cupboard.tool.deployed owned by Void [76561198977454718] at position (-273.0, 24.1, 593.1).
+[08/30/2022 14:54:41] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 14:55:02] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 14:55:02] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 14:55:04] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:55:04] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:55:04] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:55:05] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:55:07] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:55:07] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 14:55:10] Void [76561198977454718] gave themselves 100 x sulfur.ore.
+[08/30/2022 14:55:13] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 14:55:13] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 14:55:25] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:25] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:25] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:25] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:25] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:25] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:26] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:27] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:27] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:28] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:28] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:29] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:29] Void [76561198977454718] gave themselves 1 x lowgradefuel.
+[08/30/2022 14:55:31] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:31] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:31] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:31] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:31] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:32] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:32] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:32] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:32] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:32] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:32] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:33] Void [76561198977454718] gave themselves 1 x crude.oil.
+[08/30/2022 14:55:39] Void [76561198977454718] gave themselves 100 x fat.animal.
+[08/30/2022 14:55:40] Void [76561198977454718] gave themselves 100 x leather.
+[08/30/2022 14:55:42] Void [76561198977454718] gave themselves 100 x cloth.
+[08/30/2022 14:55:42] Void [76561198977454718] gave themselves 100 x cloth.
+[08/30/2022 14:55:42] Void [76561198977454718] gave themselves 100 x cloth.
+[08/30/2022 14:55:42] Void [76561198977454718] gave themselves 100 x cloth.
+[08/30/2022 14:55:43] Void [76561198977454718] gave themselves 100 x cloth.
+[08/30/2022 14:55:45] Void [76561198977454718] used *kill* on cupboard.tool.deployed owned by Void [76561198977454718] at position (-273.1, 24.1, 593.1).
+[08/30/2022 14:55:52] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 14:56:09] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 14:56:10] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 14:56:10] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 14:56:11] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 14:56:12] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 14:56:13] Void [76561198977454718] gave themselves 100 x sulfur.ore.
+[08/30/2022 14:56:14] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:56:14] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:56:14] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:56:15] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 14:56:15] Void [76561198977454718] gave themselves 100 x scrap.
+[08/30/2022 15:08:10] Void [76561198977454718] gave themselves 1 x sign.wooden.small.
+[08/30/2022 16:07:49] Marine [76561199028553807] connected.
+[08/30/2022 16:07:50] Marine [76561199028553807] disabled Godmode.
+[08/30/2022 16:21:37] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:29:44] Void [76561198977454718] teleported You Stupid? [76561199006288737] to themselves using Padmin.
+[08/30/2022 16:29:45] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:30:09] Void [76561198977454718] teleported You Stupid? [76561199006288737] to themselves using Padmin.
+[08/30/2022 16:30:09] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:31:28] Void [76561198977454718] healed player You Stupid? [76561199006288737] for 100 points using Padmin.
+[08/30/2022 16:31:28] Void [76561198977454718] recovered the metabolism of player You Stupid? [76561199006288737] using Padmin.
+[08/30/2022 16:31:29] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:36:55] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 16:37:01] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 16:37:04] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 16:37:06] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 16:37:09] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 16:48:46] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 16:48:50] Void [76561198977454718] enabled Noclip.
+[08/30/2022 16:48:59] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 16:49:01] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 16:49:01] Void [76561198977454718] teleported to VGTxSavage [76561198391674705] using Padmin.
+[08/30/2022 16:49:02] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 16:49:02] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:49:06] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 16:49:20] Void [76561198977454718] disabled Noclip.
+[08/30/2022 16:51:20] Void [76561198977454718] enabled Noclip.
+[08/30/2022 16:51:23] Void [76561198977454718] gave themselves 1 x nightvisiongoggles.
+[08/30/2022 16:52:24] Void [76561198977454718] teleported to Nate [76561198301679972] using Padmin.
+[08/30/2022 16:52:25] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:52:43] Void [76561198977454718] gave themselves 1 x spookyspeaker.
+[08/30/2022 16:52:55] Void [76561198977454718] gave themselves 1 x spookyspeaker.
+[08/30/2022 16:52:55] Void [76561198977454718] gave themselves 1 x spookyspeaker.
+[08/30/2022 16:52:55] Void [76561198977454718] gave themselves 1 x spookyspeaker.
+[08/30/2022 16:52:55] Void [76561198977454718] gave themselves 1 x spookyspeaker.
+[08/30/2022 16:53:14] Void [76561198977454718] gave themselves 1 x rustige_egg_b.
+[08/30/2022 16:53:14] Void [76561198977454718] gave themselves 1 x rustige_egg_e.
+[08/30/2022 16:53:15] Void [76561198977454718] gave themselves 1 x rustige_egg_d.
+[08/30/2022 16:53:15] Void [76561198977454718] gave themselves 1 x rustige_egg_c.
+[08/30/2022 16:53:15] Void [76561198977454718] gave themselves 1 x rustige_egg_a.
+[08/30/2022 16:57:30] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:57:50] Void [76561198977454718] disabled Noclip.
+[08/30/2022 16:58:10] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 16:58:45] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 16:58:52] Void [76561198977454718] teleported to Faithless [76561198118985215] using Padmin.
+[08/30/2022 16:58:52] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 16:58:58] Marine [76561199028553807] teleported to Faithless [76561198118985215] using Padmin.
+[08/30/2022 16:59:00] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 16:59:45] Void [76561198977454718] enabled Noclip.
+[08/30/2022 17:00:20] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:00:30] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:00:55] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:01:50] Marine [76561199028553807] enabled Godmode.
+[08/30/2022 17:01:55] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:02:45] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:03:13] Marine [76561199028553807] started spectating player Void [76561198977454718] using Padmin.
+[08/30/2022 17:03:14] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:03:40] Marine [76561199028553807] started spectating player Void [76561198977454718] using Padmin.
+[08/30/2022 17:04:02] Marine [76561199028553807] started spectating player Faithless [76561198118985215] using Padmin.
+[08/30/2022 17:04:23] Marine [76561199028553807] started spectating player Faithless [76561198118985215] using Padmin.
+[08/30/2022 17:04:39] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:05:43] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:06:20] Marine [76561199028553807] disabled Spectate mode.
+[08/30/2022 17:06:30] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:12:10] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:12:23] Marine [76561199028553807] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 17:12:28] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:12:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:13:27] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:28] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:29] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:29] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:29] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:29] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:29] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:29] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:13:38] Marine [76561199028553807] added 1 x hammer to their belt.
+[08/30/2022 17:15:21] Void [76561198977454718] teleported Marine [76561199028553807] to themselves using Padmin.
+[08/30/2022 17:15:24] Void [76561198977454718] teleported ~q~Daisy [76561198104600220] to themselves using Padmin.
+[08/30/2022 17:15:25] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 17:15:59] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:16:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:16:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:16:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:16:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:16:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:16:01] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:16:01] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:16:01] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:16:02] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:16:02] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 17:16:06] Void [76561198977454718] gave themselves 1 x building.planner.
+[08/30/2022 17:16:07] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 17:16:09] Void [76561198977454718] gave themselves 1 x wall.window.bars.toptier.
+[08/30/2022 17:16:11] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 17:16:16] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 17:16:20] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 17:16:24] Void [76561198977454718] gave themselves 1 x hammer.
+[08/30/2022 17:16:55] Void [76561198977454718] disabled Noclip.
+[08/30/2022 17:17:31] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-983.5, 3.0, -687.1).
+[08/30/2022 17:17:46] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 17:17:56] Void [76561198977454718] teleported Marine [76561199028553807] to themselves using Padmin.
+[08/30/2022 17:17:56] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 17:18:04] ~q~Daisy [76561198104600220] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 17:18:10] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 17:18:13] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 17:18:14] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 17:18:23] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 17:18:25] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 17:19:15] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:20:32] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:20:33] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:20:33] Void [76561198977454718] gave themselves 1 x metal.refined.
+[08/30/2022 17:20:34] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:20:34] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:20:51] ~q~Daisy [76561198104600220] gave themselves 1 x hammer.
+[08/30/2022 17:21:07] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:21:08] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:21:08] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:21:08] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:21:08] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:21:21] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:21:21] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:22:18] ~q~Daisy [76561198104600220] gave themselves 1000 x wood.
+[08/30/2022 17:22:18] ~q~Daisy [76561198104600220] gave themselves 1000 x wood.
+[08/30/2022 17:22:19] ~q~Daisy [76561198104600220] gave themselves 1000 x wood.
+[08/30/2022 17:22:19] ~q~Daisy [76561198104600220] gave themselves 1000 x wood.
+[08/30/2022 17:22:19] ~q~Daisy [76561198104600220] gave themselves 1000 x wood.
+[08/30/2022 17:22:20] ~q~Daisy [76561198104600220] gave themselves 1000 x wood.
+[08/30/2022 17:23:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:23:40] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:24:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:24:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:24:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:24:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:24:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:25:05] Void [76561198977454718] enabled Noclip.
+[08/30/2022 17:25:19] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:25:19] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:25:20] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:25:25] Void [76561198977454718] disabled Noclip.
+[08/30/2022 17:28:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:28:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:28:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:28:58] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:28:58] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:28:58] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:00] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:01] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:01] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:01] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:29:10] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 17:29:11] Void [76561198977454718] healed player Void [76561198977454718] for 0 points using Padmin.
+[08/30/2022 17:29:11] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 17:29:12] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 17:30:20] Void [76561198977454718] enabled Noclip.
+[08/30/2022 17:31:20] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:31:20] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:32:10] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:32:15] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:32:20] ~q~Daisy [76561198104600220] gave themselves 1 x attire.bunny.onesie.
+[08/30/2022 17:32:24] ~q~Daisy [76561198104600220] gave themselves 1 x attire.bunnyears.
+[08/30/2022 17:33:05] Marine [76561199028553807] added 1 x frankensteins.monster.01.head to their belt.
+[08/30/2022 17:33:06] Marine [76561199028553807] added 1 x frankensteins.monster.01.legs to their belt.
+[08/30/2022 17:33:06] Marine [76561199028553807] added 1 x frankensteins.monster.01.torso to their belt.
+[08/30/2022 17:33:24] Marine [76561199028553807] added 1 x scarecrow.suit to their belt.
+[08/30/2022 17:34:21] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:34:21] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:34:21] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:34:21] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:34:22] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:34:25] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:34:30] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:34:30] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:34:31] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:34:31] ~q~Daisy [76561198104600220] gave themselves 1000 x metal.refined.
+[08/30/2022 17:34:49] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:34:58] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:58] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:34:59] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:35:00] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:36:49] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 17:36:50] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 17:36:55] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 17:36:55] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 17:37:21] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 17:37:25] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 17:37:40] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:37:44] Void [76561198977454718] used *kill* on ent: testridablehorse at position (-964.5, 2.6, -674.2).
+[08/30/2022 17:38:25] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:38:29] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 17:38:30] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 17:38:44] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:46] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:46] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:46] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:46] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:46] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:38:46] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:39:12] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 17:39:15] Marine [76561199028553807] added 1 x building.planner to their belt.
+[08/30/2022 17:39:15] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 17:39:40] Marine [76561199028553807] gave themselves 1 x wood.
+[08/30/2022 17:39:42] Marine [76561199028553807] gave themselves 1000 x wood.
+[08/30/2022 17:40:10] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:41:12] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:12] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:12] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:12] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:12] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:12] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:13] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:13] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:41:13] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:43:23] Void [76561198977454718] used *kill* on wall.half owned by Void [76561198977454718] at position (-981.3, 3.2, -685.9).
+[08/30/2022 17:44:13] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:44:13] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:44:13] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:44:19] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:19] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:19] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:19] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:19] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:19] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:20] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:20] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:20] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:44:53] Marine [76561199028553807] recovered the metabolism of player Marine [76561199028553807] using Padmin.
+[08/30/2022 17:44:55] Marine [76561199028553807] healed player Marine [76561199028553807] for 0 points using Padmin.
+[08/30/2022 17:44:58] Marine [76561199028553807] healed player Marine [76561199028553807] for 100 points using Padmin.
+[08/30/2022 17:44:59] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:45:17] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:45:17] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:45:17] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:45:17] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:45:17] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:45:17] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 17:45:41] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:41] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:41] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:41] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:41] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:41] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:42] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:42] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:42] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 17:45:50] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:46:24] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 17:46:25] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 17:46:41] Marine [76561199028553807] gave themselves 1000 x wood.
+[08/30/2022 17:46:43] garry [76561198141581757] connected.
+[08/30/2022 17:46:45] garry [76561198141581757] disabled Godmode.
+[08/30/2022 17:47:09] 2k [76561198141581757] disconnected.
+[08/30/2022 17:47:09] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 17:47:10] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 17:47:10] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:47:15] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:47:45] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:47:58] 2k [76561198141581757] connected.
+[08/30/2022 17:48:00] 2k [76561198141581757] disabled Godmode.
+[08/30/2022 17:48:14] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:48:15] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:48:15] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:48:15] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:48:15] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:48:19] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:48:19] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:48:19] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:48:19] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:48:19] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:48:20] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 17:48:20] 2k [76561198141581757] enabled Noclip.
+[08/30/2022 17:49:01] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:01] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:02] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:02] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:02] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:32] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/30/2022 17:49:33] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/30/2022 17:49:33] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 17:49:38] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:38] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:38] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:56] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:56] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:56] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:49:56] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:50:00] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:00] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:00] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:00] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:01] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:01] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:01] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:01] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:01] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:01] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:50:25] 2k [76561198141581757] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 17:50:27] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 17:51:15] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:15] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:16] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:17] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:17] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:17] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 17:51:23] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:51:23] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:51:24] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:51:24] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:51:24] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:51:40] 2k [76561198141581757] disabled Noclip.
+[08/30/2022 17:52:20] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:52:20] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:52:20] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:52:25] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:52:29] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 17:52:30] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 17:52:45] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:52:50] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 17:52:50] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 17:53:30] 2k [76561198141581757] enabled Noclip.
+[08/30/2022 17:54:04] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:04] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:04] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:04] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:04] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:05] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:05] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:05] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:54:05] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 17:55:17] ~q~Daisy [76561198104600220] enabled AdminRadar.
+[08/30/2022 17:55:32] Void [76561198977454718] teleported to iixjell0 [76561198929205548] using Padmin.
+[08/30/2022 17:55:33] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 17:55:40] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 17:55:43] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:43] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:43] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:44] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:44] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:44] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:44] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:44] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:45] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:45] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:45] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:45] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:46] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:46] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:46] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:55:47] 2k [76561198141581757] gave themselves 1000 x metal.refined.
+[08/30/2022 17:56:02] 2k [76561198141581757] gave themselves 1 x hammer.
+[08/30/2022 17:56:11] Marine [76561199028553807] added 1 x ghostsheet to their belt.
+[08/30/2022 17:56:20] Void [76561198977454718] teleported to 2k [76561198141581757] using Padmin.
+[08/30/2022 17:56:20] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 17:56:21] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 17:56:27] ~q~Daisy [76561198104600220] disabled AdminRadar.
+[08/30/2022 17:56:30] Void [76561198977454718] disabled Noclip.
+[08/30/2022 17:56:35] Void [76561198977454718] enabled Noclip.
+[08/30/2022 17:57:20] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:20] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:20] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:20] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:21] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:21] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:21] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:21] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:57:21] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 17:58:16] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 17:58:55] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:00:37] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 18:00:40] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 18:00:51] 2k [76561198141581757] gave themselves 1 x autoturret.
+[08/30/2022 18:00:51] 2k [76561198141581757] gave themselves 1 x autoturret.
+[08/30/2022 18:00:51] 2k [76561198141581757] gave themselves 1 x autoturret.
+[08/30/2022 18:00:51] 2k [76561198141581757] gave themselves 1 x autoturret.
+[08/30/2022 18:00:52] 2k [76561198141581757] gave themselves 1 x autoturret.
+[08/30/2022 18:01:05] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 18:01:05] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 18:01:12] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 18:01:15] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 18:01:36] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 18:01:40] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 18:01:41] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 18:01:42] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 18:01:44] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 18:01:45] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 18:01:50] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 18:01:50] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 18:01:51] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 18:02:07] ~q~Daisy [76561198104600220] gave themselves 1 x sign.wooden.huge.
+[08/30/2022 18:02:18] 2k [76561198141581757] gave themselves 1 x wall.frame.cell.gate.
+[08/30/2022 18:02:18] 2k [76561198141581757] gave themselves 1 x wall.frame.cell.gate.
+[08/30/2022 18:02:19] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 18:02:20] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 18:02:20] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:02:27] 2k [76561198141581757] gave themselves 1 x wall.frame.cell.gate.
+[08/30/2022 18:02:27] 2k [76561198141581757] gave themselves 1 x wall.frame.cell.gate.
+[08/30/2022 18:02:27] 2k [76561198141581757] gave themselves 1 x wall.frame.cell.gate.
+[08/30/2022 18:02:27] 2k [76561198141581757] gave themselves 1 x wall.frame.cell.gate.
+[08/30/2022 18:04:06] Void [76561198977454718] used *kill* on sign.huge.wood owned by ~q~Daisy [76561198104600220] at position (-965.3, 6.4, -681.8).
+[08/30/2022 18:05:20] ~q~Daisy [76561198104600220] gave themselves 1 x sign.wooden.huge.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:25] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:26] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:27] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:27] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:27] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:27] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:27] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:27] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:28] Void [76561198977454718] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:45] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:05:48] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:51] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:51] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:51] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:52] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:52] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:52] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:52] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:52] 2k [76561198141581757] gave themselves 1 x wall.external.high.stone.
+[08/30/2022 18:05:57] 2k [76561198141581757] gave themselves 100 x wall.external.high.stone.
+[08/30/2022 18:08:04] Void [76561198977454718] gave themselves 1 x wood.
+[08/30/2022 18:08:04] Void [76561198977454718] gave themselves 1 x wood.
+[08/30/2022 18:08:04] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:04] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:04] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:05] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:05] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:05] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:05] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:05] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:05] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:06] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:06] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:06] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:08:16] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-999.6, 2.4, -696.0).
+[08/30/2022 18:08:17] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1002.6, 2.5, -686.8).
+[08/30/2022 18:08:18] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1003.9, 2.4, -682.6).
+[08/30/2022 18:08:18] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1001.8, 1.6, -678.5).
+[08/30/2022 18:08:19] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1000.9, 1.3, -673.3).
+[08/30/2022 18:08:20] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-997.5, 1.4, -668.4).
+[08/30/2022 18:08:20] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-996.9, 1.7, -661.7).
+[08/30/2022 18:08:21] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-998.0, 2.0, -656.0).
+[08/30/2022 18:08:24] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1001.6, 4.6, -640.1).
+[08/30/2022 18:08:24] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1001.6, 4.5, -640.5).
+[08/30/2022 18:08:25] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-1001.9, 5.1, -634.2).
+[08/30/2022 18:08:28] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-996.3, 2.2, -626.7).
+[08/30/2022 18:08:34] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-965.6, 5.2, -622.8).
+[08/30/2022 18:08:35] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-968.0, 5.4, -620.8).
+[08/30/2022 18:08:35] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-972.3, 5.3, -620.2).
+[08/30/2022 18:08:36] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-978.0, 5.0, -619.4).
+[08/30/2022 18:08:36] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-996.4, 5.2, -622.7).
+[08/30/2022 18:08:36] Void [76561198977454718] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-983.7, 4.0, -619.8).
+[08/30/2022 18:08:41] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-956.8, 7.5, -622.4).
+[08/30/2022 18:08:41] 2k [76561198141581757] used *kill* on wall.frame owned by Void [76561198977454718] at position (-956.6, 7.4, -623.4).
+[08/30/2022 18:08:41] 2k [76561198141581757] used *kill* on wall owned by Void [76561198977454718] at position (-955.6, 7.3, -624.1).
+[08/30/2022 18:08:41] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-954.0, 7.3, -624.1).
+[08/30/2022 18:08:42] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-948.5, 7.6, -623.7).
+[08/30/2022 18:08:55] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:09:59] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:10:00] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:10:00] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:10:00] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:10:00] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:10:02] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/30/2022 18:10:03] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/30/2022 18:10:03] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:14] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:15] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:15] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:15] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:15] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:15] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:15] Void [76561198977454718] gave themselves 1 x floor.triangle.grill.
+[08/30/2022 18:10:18] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 18:10:20] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 18:12:00] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:12:06] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 18:12:10] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 18:12:14] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-951.9, 10.7, -735.8).
+[08/30/2022 18:12:38] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-970.0, 8.1, -748.8).
+[08/30/2022 18:12:38] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-966.4, 7.8, -744.8).
+[08/30/2022 18:12:42] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-957.0, 7.5, -738.7).
+[08/30/2022 18:12:43] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-957.1, 7.8, -736.2).
+[08/30/2022 18:12:43] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-952.3, 6.6, -733.7).
+[08/30/2022 18:12:48] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-944.7, 12.4, -735.1).
+[08/30/2022 18:12:48] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-941.6, 12.5, -734.9).
+[08/30/2022 18:12:58] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/30/2022 18:12:58] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/30/2022 18:12:59] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 18:14:25] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:14:30] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:14:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:15:18] 2k [76561198141581757] gave themselves 100 x wall.external.high.stone.
+[08/30/2022 18:15:25] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:16:00] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/30/2022 18:16:00] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/30/2022 18:16:00] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:16:01] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 18:16:12] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:16:12] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:16:13] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:16:13] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:16:55] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:17:18] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:18] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:18] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:19] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:20] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:55] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:55] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:55] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:55] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:56] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:56] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:17:56] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:00] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:18:02] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/30/2022 18:18:03] Void [76561198977454718] used *kill* on door.hinged.toptier owned by Void [76561198977454718] at position (-983.2, 18.5, -696.6).
+[08/30/2022 18:18:04] Void [76561198977454718] used *kill* on floor owned by Void [76561198977454718] at position (-983.2, 18.5, -696.6).
+[08/30/2022 18:18:05] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:18:06] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/30/2022 18:18:06] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 18:18:34] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:34] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:34] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:34] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:34] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:35] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:35] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:35] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:35] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:18:47] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/30/2022 18:18:48] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/30/2022 18:18:48] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 18:18:56] Void [76561198977454718] used *kill* on door.hinged.toptier owned by Void [76561198977454718] at position (-960.9, 17.8, -686.8).
+[08/30/2022 18:18:57] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:57] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:57] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:57] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:58] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:18:58] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:11] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:11] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:11] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:11] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:12] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:23] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:23] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:23] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:23] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:19:23] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:20:08] Void [76561198977454718] used *kill* on floor.triangle owned by Void [76561198977454718] at position (-964.0, 21.2, -683.2).
+[08/30/2022 18:20:40] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:20:48] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:48] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:49] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:50] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:50] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:20:50] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:21:15] Marine [76561199028553807] gave themselves 1000 x wood.
+[08/30/2022 18:21:40] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:21:45] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:22:41] Marine [76561199028553807] gave themselves 100 x wood.
+[08/30/2022 18:23:05] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:05] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:05] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:05] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:05] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:05] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:06] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 18:23:38] Marine [76561199028553807] gave themselves 1000 x wood.
+[08/30/2022 18:23:58] Marine [76561199028553807] added 1 x rifle.ak to their belt.
+[08/30/2022 18:24:03] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:21] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:22] Void [76561198977454718] gave themselves 1 x wall.frame.garagedoor.
+[08/30/2022 18:24:25] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:24:27] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 18:24:30] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:24:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:24:55] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:25:03] Marine [76561199028553807] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 18:25:06] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 18:25:10] Void [76561198977454718] gave themselves 1 x wall.window.bars.toptier.
+[08/30/2022 18:25:19] Void [76561198977454718] gave themselves 1 x wall.window.bars.toptier.
+[08/30/2022 18:25:34] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:25:40] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:26:20] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:26:22] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:26:22] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:26:22] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:26:23] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:27:10] Void [76561198977454718] used *kill* on bed_deployed owned by Void [76561198977454718] at position (-981.8, 3.3, -676.7).
+[08/30/2022 18:27:12] Void [76561198977454718] used *kill* on bed_deployed owned by Void [76561198977454718] at position (-980.8, 3.3, -675.9).
+[08/30/2022 18:27:16] Void [76561198977454718] gave themselves 1 x sleepingbag.
+[08/30/2022 18:27:17] Void [76561198977454718] gave themselves 1 x sleepingbag.
+[08/30/2022 18:27:17] Void [76561198977454718] gave themselves 1 x sleepingbag.
+[08/30/2022 18:27:17] Void [76561198977454718] gave themselves 1 x sleepingbag.
+[08/30/2022 18:27:17] Void [76561198977454718] gave themselves 1 x sleepingbag.
+[08/30/2022 18:27:47] Void [76561198977454718] gave themselves 1 x locker.
+[08/30/2022 18:28:10] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:28:10] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:28:11] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:28:11] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:28:12] Void [76561198977454718] gave themselves 1 x roadsign.kilt.
+[08/30/2022 18:28:12] Void [76561198977454718] gave themselves 1 x roadsign.kilt.
+[08/30/2022 18:28:13] Void [76561198977454718] gave themselves 1 x hoodie.
+[08/30/2022 18:28:14] Void [76561198977454718] gave themselves 1 x hoodie.
+[08/30/2022 18:28:15] Void [76561198977454718] gave themselves 1 x pants.
+[08/30/2022 18:28:15] Void [76561198977454718] gave themselves 1 x pants.
+[08/30/2022 18:28:18] Void [76561198977454718] gave themselves 1 x tactical.gloves.
+[08/30/2022 18:28:19] Void [76561198977454718] gave themselves 1 x tactical.gloves.
+[08/30/2022 18:28:22] Void [76561198977454718] gave themselves 1 x shoes.boots.
+[08/30/2022 18:28:22] Void [76561198977454718] gave themselves 1 x shoes.boots.
+[08/30/2022 18:28:45] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:28:45] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:28:46] Void [76561198977454718] gave themselves 1 x roadsign.kilt.
+[08/30/2022 18:28:47] Void [76561198977454718] gave themselves 1 x pants.
+[08/30/2022 18:28:48] Void [76561198977454718] gave themselves 1 x hoodie.
+[08/30/2022 18:28:49] Void [76561198977454718] gave themselves 1 x tactical.gloves.
+[08/30/2022 18:28:50] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:28:51] Void [76561198977454718] gave themselves 1 x shoes.boots.
+[08/30/2022 18:29:04] Void [76561198977454718] gave themselves 1 x lmg.m249.
+[08/30/2022 18:29:05] Void [76561198977454718] gave themselves 1 x lmg.m249.
+[08/30/2022 18:29:05] Void [76561198977454718] gave themselves 1 x lmg.m249.
+[08/30/2022 18:29:07] Void [76561198977454718] gave themselves 1 x rifle.ak.
+[08/30/2022 18:29:09] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 18:29:10] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 18:29:10] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 18:29:18] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:29:18] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:29:19] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:29:22] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 18:29:22] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 18:29:23] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 18:29:24] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 18:29:25] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 18:29:25] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 18:30:04] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 18:30:05] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 18:30:05] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 18:30:25] Void [76561198977454718] gave themselves 1 x weapon.mod.small.scope.
+[08/30/2022 18:30:27] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 18:30:30] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 18:30:31] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 18:30:32] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 18:30:33] Void [76561198977454718] gave themselves 1 x weapon.mod.small.scope.
+[08/30/2022 18:30:33] Void [76561198977454718] gave themselves 1 x weapon.mod.small.scope.
+[08/30/2022 18:30:35] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 18:30:35] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 18:30:52] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 18:30:52] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 18:30:53] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 18:30:54] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 18:30:54] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 18:30:55] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 18:31:05] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:31:08] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:31:08] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:31:09] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:31:09] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:31:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:31:57] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:57] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:57] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:57] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:58] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:58] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:58] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:58] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:31:58] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:32:00] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:32:16] 2k [76561198141581757] gave themselves 100 x lock.code.
+[08/30/2022 18:32:32] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:32:32] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:32:32] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:32:33] Void [76561198977454718] gave themselves 1 x door.double.hinged.toptier.
+[08/30/2022 18:32:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:32:51] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 18:32:52] Void [76561198977454718] gave themselves 1 x autoturret.
+[08/30/2022 18:32:56] Void [76561198977454718] gave themselves 1 x wall.frame.cell.
+[08/30/2022 18:33:34] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:35] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:36] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:36] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:36] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:36] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:36] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:36] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:38] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:33:38] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:34:04] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 18:34:05] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:21] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:22] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:23] Void [76561198977454718] gave themselves 1 x wall.window.bars.metal.
+[08/30/2022 18:34:24] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:24] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:24] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:24] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:24] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:24] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:25] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:26] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:27] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:27] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:27] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:27] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:34:27] Void [76561198977454718] gave themselves 1 x shutter.metal.embrasure.b.
+[08/30/2022 18:35:25] Marine [76561199028553807] added 1 x box.wooden.large to their belt.
+[08/30/2022 18:35:31] Marine [76561199028553807] added 1 x box.wooden.large to their belt.
+[08/30/2022 18:36:01] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:01] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:02] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:03] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:04] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:07] ~q~Daisy [76561198104600220] gave themselves 1 x sign.wooden.huge.
+[08/30/2022 18:36:08] ~q~Daisy [76561198104600220] gave themselves 1 x sign.wooden.huge.
+[08/30/2022 18:36:08] ~q~Daisy [76561198104600220] gave themselves 1 x sign.wooden.huge.
+[08/30/2022 18:36:33] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:34] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:35] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:35] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:35] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:35] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:35] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/30/2022 18:36:42] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:44] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:47] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:47] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:49] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:36:50] Void [76561198977454718] gave themselves 1000 x floor.triangle.grill.
+[08/30/2022 18:37:22] Void [76561198977454718] gave themselves 1000 x door.double.hinged.toptier.
+[08/30/2022 18:37:23] Void [76561198977454718] gave themselves 1000 x wall.frame.garagedoor.
+[08/30/2022 18:37:23] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 18:37:27] Void [76561198977454718] gave themselves 1000 x wall.frame.shopfront.metal.
+[08/30/2022 18:38:32] Void [76561198977454718] used *kill* on door.double.hinged.toptier owned by Void [76561198977454718] at position (-978.3, 15.3, -675.7).
+[08/30/2022 18:38:51] Void [76561198977454718] gave themselves 1000 x autoturret.
+[08/30/2022 18:39:02] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:39:02] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:39:02] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:39:03] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:39:03] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:39:07] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:07] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:07] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:07] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:07] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:08] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:08] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:08] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:08] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:08] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:39:08] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:40:39] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:40:39] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:40:40] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:40:40] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:40:40] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:40:40] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:40:40] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:41:17] Void [76561198977454718] gave themselves 1 x samsite.
+[08/30/2022 18:41:17] Void [76561198977454718] gave themselves 1 x samsite.
+[08/30/2022 18:41:18] Void [76561198977454718] gave themselves 1 x samsite.
+[08/30/2022 18:41:37] Void [76561198977454718] gave themselves 1000 x ammo.rocket.sam.
+[08/30/2022 18:41:47] Void [76561198977454718] gave themselves 1000 x ammo.rocket.sam.
+[08/30/2022 18:41:47] Void [76561198977454718] gave themselves 1000 x ammo.rocket.sam.
+[08/30/2022 18:41:47] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:47] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:47] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:48] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:49] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:41:49] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:42:26] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:42:26] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:42:27] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:42:27] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:42:27] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:42:27] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:42:27] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:43:07] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-981.6, 9.2, -676.7).
+[08/30/2022 18:43:11] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-973.6, 8.9, -678.0).
+[08/30/2022 18:43:13] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-977.3, 9.4, -674.4).
+[08/30/2022 18:43:15] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-975.1, 9.2, -681.9).
+[08/30/2022 18:43:16] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-978.4, 9.2, -683.8).
+[08/30/2022 18:43:18] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-982.6, 9.2, -681.0).
+[08/30/2022 18:43:28] Void [76561198977454718] used *kill* on floor.triangle owned by Void [76561198977454718] at position (-977.8, 9.1, -676.0).
+[08/30/2022 18:43:39] Void [76561198977454718] used *kill* on wall.frame owned by Void [76561198977454718] at position (-978.8, 10.2, -675.5).
+[08/30/2022 18:43:43] Void [76561198977454718] used *kill* on wall.frame owned by Void [76561198977454718] at position (-977.7, 9.4, -678.8).
+[08/30/2022 18:44:10] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:44:11] Void [76561198977454718] gave themselves 1000 x electric.generator.small.
+[08/30/2022 18:44:25] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:26] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:26] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:26] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:27] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:27] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:27] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:27] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:27] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:44:40] Void [76561198977454718] gave themselves 1000 x electric.splitter.
+[08/30/2022 18:45:20] Void [76561198977454718] gave themselves 1 x wiretool.
+[08/30/2022 18:45:21] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:45:21] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:45:21] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:45:21] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:45:21] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:45:44] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:44] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:44] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:44] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:44] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:45] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:45] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:45:45] Marine [76561199028553807] added 1 x rifle.bolt to their belt.
+[08/30/2022 18:46:42] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:42] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:42] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:42] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:46:43] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:47:34] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 18:47:34] Void [76561198977454718] healed player Void [76561198977454718] for 0 points using Padmin.
+[08/30/2022 18:47:35] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 18:47:36] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 18:47:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:37] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:38] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:38] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:47:38] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:48:10] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:48:20] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:48:26] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:26] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:26] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:26] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:26] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:26] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:48:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:10] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:50:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:27] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:50:42] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:43] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:43] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:43] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:43] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:43] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:44] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:44] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:50:44] Marine [76561199028553807] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:51:20] Marine [76561199028553807] added 1 x ammo.rifle to their belt.
+[08/30/2022 18:51:20] Marine [76561199028553807] added 1 x ammo.rifle to their belt.
+[08/30/2022 18:51:20] Marine [76561199028553807] added 1 x ammo.rifle to their belt.
+[08/30/2022 18:51:22] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:22] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:22] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:22] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:22] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:22] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:23] Marine [76561199028553807] added 1 x lmg.m249 to their belt.
+[08/30/2022 18:51:34] Void [76561198977454718] gave themselves 1 x building.planner.
+[08/30/2022 18:51:35] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 18:51:36] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 18:51:36] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 18:51:36] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 18:51:36] Void [76561198977454718] gave themselves 1 x cupboard.tool.
+[08/30/2022 18:52:59] Marine [76561199028553807] used *kill* on box.wooden.large owned by Marine [76561199028553807] at position (-998.0, 2.8, -662.0).
+[08/30/2022 18:53:43] Void [76561198977454718] gave themselves 1 x gates.external.high.stone.
+[08/30/2022 18:53:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:53:45] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 18:53:46] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:47] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:47] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:47] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:47] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:47] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:47] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 18:53:57] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:53:58] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:53:58] Void [76561198977454718] gave themselves 1 x door.hinged.toptier.
+[08/30/2022 18:54:03] Void [76561198977454718] gave themselves 1 x hammer.
+[08/30/2022 18:54:33] Marine [76561199028553807] added 1 x weapon.mod.muzzlebrake to their belt.
+[08/30/2022 18:54:35] Marine [76561199028553807] added 1 x weapon.mod.holosight to their belt.
+[08/30/2022 18:54:53] Marine [76561199028553807] added 1 x weapon.mod.lasersight to their belt.
+[08/30/2022 18:55:20] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:55:36] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 18:55:45] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:55:59] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:56:00] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:56:00] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:56:00] Void [76561198977454718] gave themselves 1 x bed.
+[08/30/2022 18:56:25] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 18:56:37] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:56:37] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:56:37] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:56:38] Void [76561198977454718] gave themselves 1 x coffin.storage.
+[08/30/2022 18:57:02] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:03] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:03] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:03] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:03] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:03] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:04] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:04] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:04] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:05] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:11] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:12] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 18:57:15] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:15] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:16] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:16] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:16] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:16] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:16] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:17] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:17] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:17] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:17] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:18] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:18] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 18:57:26] Void [76561198977454718] gave themselves 1000 x metal.plate.torso.
+[08/30/2022 18:57:27] Void [76561198977454718] gave themselves 1000 x metal.facemask.
+[08/30/2022 18:57:28] Void [76561198977454718] gave themselves 1000 x hoodie.
+[08/30/2022 18:57:29] Void [76561198977454718] gave themselves 1000 x pants.
+[08/30/2022 18:57:31] Void [76561198977454718] gave themselves 1000 x tactical.gloves.
+[08/30/2022 18:57:36] Void [76561198977454718] gave themselves 1000 x shoes.boots.
+[08/30/2022 18:57:51] Void [76561198977454718] gave themselves 1000 x roadsign.kilt.
+[08/30/2022 18:57:55] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 18:58:19] Void [76561198977454718] gave themselves 1000 x rifle.ak.ice.
+[08/30/2022 18:58:21] Void [76561198977454718] gave themselves 1000 x lmg.m249.
+[08/30/2022 18:58:37] Void [76561198977454718] gave themselves 1000 x weapon.mod.holosight.
+[08/30/2022 18:58:39] Void [76561198977454718] gave themselves 1000 x weapon.mod.lasersight.
+[08/30/2022 18:58:40] Void [76561198977454718] gave themselves 1000 x weapon.mod.flashlight.
+[08/30/2022 18:58:42] Void [76561198977454718] gave themselves 1000 x weapon.mod.small.scope.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:04] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:16] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:16] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:16] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:17] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:17] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:17] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 18:59:33] Void [76561198977454718] gave themselves 100 x ammo.grenadelauncher.smoke.
+[08/30/2022 18:59:44] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 18:59:44] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 18:59:44] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 18:59:44] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 18:59:45] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 18:59:50] Void [76561198977454718] gave themselves 100 x ammo.grenadelauncher.he.
+[08/30/2022 18:59:57] Void [76561198977454718] gave themselves 100 x explosive.timed.
+[08/30/2022 19:00:07] Void [76561198977454718] gave themselves 1000 x ammo.rocket.basic.
+[08/30/2022 19:00:20] Void [76561198977454718] gave themselves 1000 x rocket.launcher.
+[08/30/2022 19:00:20] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:00:35] Void [76561198977454718] gave themselves 1000 x box.wooden.large.
+[08/30/2022 19:00:59] Void [76561198977454718] gave themselves 1000 x door.hinged.toptier.
+[08/30/2022 19:01:11] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:01:15] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:01:25] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:01:32] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 19:01:33] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 19:01:35] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:02:09] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 19:02:39] Void [76561198977454718] gave themselves 1000 x bed.
+[08/30/2022 19:04:51] Void [76561198977454718] teleported AkRecoil- [76561199050072314] to themselves using Padmin.
+[08/30/2022 19:04:55] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:05:06] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 19:05:09] Void [76561198977454718] teleported Torque [76561198101204919] to themselves using Padmin.
+[08/30/2022 19:05:11] Void [76561198977454718] teleported YouMadBro382 [76561199119664159] to themselves using Padmin.
+[08/30/2022 19:05:14] Void [76561198977454718] teleported fluikas [76561198316740147] to themselves using Padmin.
+[08/30/2022 19:05:16] Void [76561198977454718] teleported VGTxSavage [76561198391674705] to themselves using Padmin.
+[08/30/2022 19:05:18] Void [76561198977454718] teleported Faithless [76561198118985215] to themselves using Padmin.
+[08/30/2022 19:05:21] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:06:25] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:06:28] Marine [76561199028553807] teleported to 2k [76561198141581757] using Padmin.
+[08/30/2022 19:06:30] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 19:07:00] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:07:08] Marine [76561199028553807] added 1 x wiretool to their belt.
+[08/30/2022 19:07:09] Void [76561198977454718] gave themselves 1000 x wall.external.high.stone.
+[08/30/2022 19:07:11] 2k [76561198141581757] recovered the metabolism of player YouMadBro382 [76561199119664159] using Padmin.
+[08/30/2022 19:07:12] 2k [76561198141581757] closed Padmin Menu.
+[08/30/2022 19:07:36] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-842.4, 14.2, -649.7).
+[08/30/2022 19:07:56] Void [76561198977454718] teleported Blueberry [76561199190415457] to themselves using Padmin.
+[08/30/2022 19:08:03] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 19:08:04] Void [76561198977454718] healed player Void [76561198977454718] for 0 points using Padmin.
+[08/30/2022 19:08:04] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 19:08:05] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:09:52] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 19:09:55] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 19:10:23] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:11:25] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:11:25] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:11:26] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:11:26] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:11:51] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 19:11:55] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 19:14:19] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-871.0, 12.9, -663.1).
+[08/30/2022 19:14:20] 2k [76561198141581757] used *kill* on wall.external.high.stone owned by 2k [76561198141581757] at position (-870.5, 11.8, -659.1).
+[08/30/2022 19:14:30] Marine [76561199028553807] added 1 x electrical.branch to their belt.
+[08/30/2022 19:15:00] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 19:15:05] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 19:15:59] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 19:16:00] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 19:16:19] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 19:16:29] ~q~Daisy [76561198104600220] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 19:16:34] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 19:16:36] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 19:16:38] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 19:16:39] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 19:17:49] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:19:01] Void [76561198977454718] enabled Godmode.
+[08/30/2022 19:19:08] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 19:19:08] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:09] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:09] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:09] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:09] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:09] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:09] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:10] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:19:57] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:19:57] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:19:57] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:19:57] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:19:57] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:19:58] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:19:58] Void [76561198977454718] gave themselves 1 x ammo.grenadelauncher.he.
+[08/30/2022 19:20:50] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:20:54] Marine [76561199028553807] teleported VGTxSavage [76561198391674705] to themselves using Padmin.
+[08/30/2022 19:20:55] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 19:21:36] Void [76561198977454718] gave themselves 1000 x weapon.mod.muzzlebrake.
+[08/30/2022 19:21:36] Void [76561198977454718] gave themselves 1000 x weapon.mod.muzzleboost.
+[08/30/2022 19:21:40] Void [76561198977454718] gave themselves 1000 x weapon.mod.8x.scope.
+[08/30/2022 19:22:20] Void [76561198977454718] spawned mini at (-865.3, 8.6, -674.3).
+[08/30/2022 19:22:25] Void [76561198977454718] spawned minicopter.entity at (-865.3, 8.6, -674.3).
+[08/30/2022 19:22:29] Void [76561198977454718] spawned minicopter.entity at (-873.8, 8.9, -657.1).
+[08/30/2022 19:22:40] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:22:40] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:22:40] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:22:40] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:22:40] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:22:41] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:23:31] Void [76561198977454718] disabled Noclip.
+[08/30/2022 19:23:32] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 19:23:41] Void [76561198977454718] enabled Noclip.
+[08/30/2022 19:23:46] Void [76561198977454718] disabled Noclip.
+[08/30/2022 19:23:52] Marine [76561199028553807] added 1 x electric.generator.small to their belt.
+[08/30/2022 19:23:53] Marine [76561199028553807] added 1 x electric.generator.small to their belt.
+[08/30/2022 19:24:26] Void [76561198977454718] enabled Noclip.
+[08/30/2022 19:24:26] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:24:27] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:24:55] Void [76561198977454718] spawned minicopter.entity at (-868.4, 8.8, -670.8).
+[08/30/2022 19:24:56] Void [76561198977454718] spawned minicopter.entity at (-867.4, 8.7, -673.5).
+[08/30/2022 19:24:59] Void [76561198977454718] spawned minicopter.entity at (-871.6, 10.4, -668.2).
+[08/30/2022 19:25:36] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:25:36] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:25:36] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:26:26] Void [76561198977454718] disabled Noclip.
+[08/30/2022 19:26:31] Void [76561198977454718] enabled Noclip.
+[08/30/2022 19:26:35] Marine [76561199028553807] added 1 x electric.generator.small to their belt.
+[08/30/2022 19:26:35] Marine [76561199028553807] added 1 x electric.generator.small to their belt.
+[08/30/2022 19:26:35] Marine [76561199028553807] added 1 x electric.generator.small to their belt.
+[08/30/2022 19:26:36] Marine [76561199028553807] added 1 x electric.generator.small to their belt.
+[08/30/2022 19:26:37] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:26:37] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:26:37] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:27:37] Void [76561198977454718] gave themselves 1 x researchpaper.
+[08/30/2022 19:27:37] Void [76561198977454718] gave themselves 1 x researchpaper.
+[08/30/2022 19:27:37] Void [76561198977454718] gave themselves 1 x researchpaper.
+[08/30/2022 19:27:38] Void [76561198977454718] gave themselves 1 x researchpaper.
+[08/30/2022 19:27:38] Void [76561198977454718] gave themselves 1 x researchpaper.
+[08/30/2022 19:27:38] Void [76561198977454718] gave themselves 1 x researchpaper.
+[08/30/2022 19:27:49] Void [76561198977454718] gave themselves 1 x pistol.python.
+[08/30/2022 19:27:50] Void [76561198977454718] gave themselves 1 x rocket.launcher.
+[08/30/2022 19:27:50] Void [76561198977454718] gave themselves 1 x salvaged.cleaver.
+[08/30/2022 19:27:50] Void [76561198977454718] gave themselves 1 x salvaged.sword.
+[08/30/2022 19:27:50] Void [76561198977454718] gave themselves 1 x pistol.semiauto.
+[08/30/2022 19:27:50] Void [76561198977454718] gave themselves 1 x weapon.mod.silencer.
+[08/30/2022 19:27:50] Void [76561198977454718] gave themselves 1 x snowballgun.
+[08/30/2022 19:27:51] Void [76561198977454718] gave themselves 1 x shotgun.spas12.
+[08/30/2022 19:27:51] Void [76561198977454718] gave themselves 1 x gun.water.
+[08/30/2022 19:27:51] Void [76561198977454718] gave themselves 1 x shotgun.waterpipe.
+[08/30/2022 19:27:51] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 19:27:52] Void [76561198977454718] gave themselves 1000 x shotgun.waterpipe.
+[08/30/2022 19:27:53] Void [76561198977454718] gave themselves 1000 x pistol.nailgun.
+[08/30/2022 19:27:54] Void [76561198977454718] gave themselves 1000 x pistol.eoka.
+[08/30/2022 19:27:55] Void [76561198977454718] gave themselves 1000 x rifle.ak.ice.
+[08/30/2022 19:27:55] Void [76561198977454718] gave themselves 1000 x rifle.ak.
+[08/30/2022 19:28:15] Void [76561198977454718] gave themselves 1000 x rifle.semiauto.
+[08/30/2022 19:28:16] Void [76561198977454718] gave themselves 1000 x rifle.semiauto.
+[08/30/2022 19:28:16] Void [76561198977454718] gave themselves 1000 x rifle.semiauto.
+[08/30/2022 19:28:16] Void [76561198977454718] gave themselves 1000 x rifle.semiauto.
+[08/30/2022 19:28:27] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:27] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:27] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:27] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:28] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:28] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:28] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:28] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:28] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:33] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:33] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:33] Void [76561198977454718] gave themselves 1000 x scrap.
+[08/30/2022 19:28:33] Void [76561198977454718] gave themselves 1 x stones.
+[08/30/2022 19:28:33] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 19:28:34] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 19:28:34] Void [76561198977454718] gave themselves 1000 x stones.
+[08/30/2022 19:28:34] Void [76561198977454718] added 1 x sulfur to their belt.
+[08/30/2022 19:28:34] Void [76561198977454718] gave themselves 1 x sulfur.ore.
+[08/30/2022 19:28:34] Void [76561198977454718] gave themselves 1 x sulfur.
+[08/30/2022 19:28:34] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:35] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:36] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:36] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:36] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:36] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:36] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:36] Void [76561198977454718] gave themselves 1000 x sulfur.
+[08/30/2022 19:28:57] Void [76561198977454718] teleported Torque [76561198101204919] to themselves using Padmin.
+[08/30/2022 19:28:58] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:29:28] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 19:29:29] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:30:10] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 19:30:11] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/30/2022 19:30:13] Void [76561198977454718] gave themselves 1 x building.planner.
+[08/30/2022 19:30:15] Void [76561198977454718] gave themselves 1 x hammer.
+[08/30/2022 19:30:47] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:30:47] Marine [76561199028553807] added 1 x electric.splitter to their belt.
+[08/30/2022 19:31:32] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:32:51] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:33:01] Marine [76561199028553807] disabled Godmode.
+[08/30/2022 19:33:03] Void [76561198977454718] spawned repair at (-871.3, 8.8, -667.1).
+[08/30/2022 19:33:08] Void [76561198977454718] spawned repairbench_static at (-871.5, 10.7, -668.8).
+[08/30/2022 19:33:13] Void [76561198977454718] spawned repairbench_static at (-869.8, 8.8, -662.7).
+[08/30/2022 19:33:18] Void [76561198977454718] spawned repairbench_static at (-866.0, 8.5, -666.7).
+[08/30/2022 19:33:29] Marine [76561199028553807] healed player Marine [76561199028553807] for 100 points using Padmin.
+[08/30/2022 19:33:32] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 19:33:35] Void [76561198977454718] gave themselves 1000 x rocket.launcher.
+[08/30/2022 19:33:41] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:33:56] Void [76561198977454718] spawned mini at (-884.9, 9.2, -671.3).
+[08/30/2022 19:34:09] Void [76561198977454718] spawned minigelipassenger at (-884.9, 9.2, -671.3).
+[08/30/2022 19:34:16] Void [76561198977454718] spawned minihelipassenger at (-884.9, 9.2, -671.3).
+[08/30/2022 19:34:31] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:34:31] Marine [76561199028553807] gave themselves 1000 x syringe.medical.
+[08/30/2022 19:34:48] Marine [76561199028553807] added 1 x roadsign.jacket to their belt.
+[08/30/2022 19:34:49] Marine [76561199028553807] added 1 x roadsign.kilt to their belt.
+[08/30/2022 19:34:50] Marine [76561199028553807] added 1 x roadsign.gloves to their belt.
+[08/30/2022 19:34:57] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 19:34:57] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:35:15] Void [76561198977454718] used *kill* on ent: repairbench_static at position (-872.4, 10.1, -667.6).
+[08/30/2022 19:35:17] Marine [76561199028553807] added 1 x frankensteins.monster.03.torso to their belt.
+[08/30/2022 19:35:22] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 19:35:23] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:35:32] Marine [76561199028553807] added 1 x shirt.tanktop to their belt.
+[08/30/2022 19:35:52] Marine [76561199028553807] added 1 x pants to their belt.
+[08/30/2022 19:36:08] Marine [76561199028553807] added 1 x tshirt.long to their belt.
+[08/30/2022 19:36:24] Marine [76561199028553807] added 1 x coffeecan.helmet to their belt.
+[08/30/2022 19:36:35] Marine [76561199028553807] added 1 x shoes.boots to their belt.
+[08/30/2022 19:37:06] Marine [76561199028553807] enabled Godmode.
+[08/30/2022 19:37:11] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:37:33] Void [76561198977454718] gave themselves 1 x hoodie.
+[08/30/2022 19:37:34] Void [76561198977454718] gave themselves 1 x pants.
+[08/30/2022 19:37:34] Void [76561198977454718] gave themselves 1 x tactical.gloves.
+[08/30/2022 19:37:36] Void [76561198977454718] gave themselves 1 x shoes.boots.
+[08/30/2022 19:37:36] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 19:37:36] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 19:37:37] Void [76561198977454718] gave themselves 1 x roadsign.kilt.
+[08/30/2022 19:38:17] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:38:20] Marine [76561199028553807] added 1 x weapon.mod.8x.scope to their belt.
+[08/30/2022 19:38:31] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:38:36] Marine [76561199028553807] added 1 x weapon.mod.lasersight to their belt.
+[08/30/2022 19:38:38] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 19:38:38] Marine [76561199028553807] added 1 x weapon.mod.muzzlebrake to their belt.
+[08/30/2022 19:38:39] Void [76561198977454718] gave themselves 1000 x ammo.grenadelauncher.he.
+[08/30/2022 19:38:39] Void [76561198977454718] gave themselves 1000 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:38:56] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:38:58] Void [76561198977454718] teleported to 2k [76561198141581757] using Padmin.
+[08/30/2022 19:38:59] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:39:02] Marine [76561199028553807] added 1 x building.planner to their belt.
+[08/30/2022 19:39:14] Marine [76561199028553807] gave themselves 100 x wood.
+[08/30/2022 19:39:15] Marine [76561199028553807] gave themselves 100 x wood.
+[08/30/2022 19:39:25] Marine [76561199028553807] added 1 x hammer to their belt.
+[08/30/2022 19:39:33] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 19:39:59] Marine [76561199028553807] added 1 x weapon.mod.small.scope to their belt.
+[08/30/2022 19:40:51] Void [76561198977454718] gave themselves 1 x keycard_green.
+[08/30/2022 19:40:53] Void [76561198977454718] gave themselves 1 x lmg.m249.
+[08/30/2022 19:40:56] Void [76561198977454718] gave themselves 1 x weapon.mod.small.scope.
+[08/30/2022 19:40:57] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 19:41:01] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 19:41:03] Marine [76561199028553807] added 1 x rocket.launcher to their belt.
+[08/30/2022 19:41:09] Marine [76561199028553807] gave themselves 100 x ammo.rocket.basic.
+[08/30/2022 19:41:14] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 19:41:16] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 19:41:34] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 19:41:36] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 19:42:22] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 19:42:40] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 19:42:41] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 19:42:41] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 19:42:41] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 19:42:41] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 19:42:42] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 19:42:43] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 19:42:43] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 19:42:43] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 19:42:44] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 19:42:46] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 19:42:46] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 19:42:50] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 19:43:03] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 19:43:06] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 19:43:06] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 19:43:06] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 19:43:08] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:09] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:09] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:09] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:09] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:09] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:10] Marine [76561199028553807] added 1 x rifle.lr300 to their belt.
+[08/30/2022 19:43:13] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:13] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:13] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:14] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:14] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:14] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:14] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:21] Void [76561198977454718] gave themselves 1 x black.raspberries.
+[08/30/2022 19:43:22] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:43:22] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:43:22] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:43:22] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:43:22] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:26] Marine [76561199028553807] added 1 x rifle.l96 to their belt.
+[08/30/2022 19:43:33] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 19:43:36] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 19:43:37] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:43:38] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:43:38] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:43:38] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:43:47] Marine [76561199028553807] gave themselves 1000 x metal.ore.
+[08/30/2022 19:43:47] Marine [76561199028553807] gave themselves 1000 x metal.ore.
+[08/30/2022 19:43:47] Marine [76561199028553807] gave themselves 1000 x metal.ore.
+[08/30/2022 19:43:47] Marine [76561199028553807] gave themselves 1000 x metal.ore.
+[08/30/2022 19:43:47] Marine [76561199028553807] gave themselves 1000 x metal.ore.
+[08/30/2022 19:43:49] Marine [76561199028553807] gave themselves 1000 x hq.metal.ore.
+[08/30/2022 19:43:49] Marine [76561199028553807] gave themselves 1000 x hq.metal.ore.
+[08/30/2022 19:43:50] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 19:43:50] Marine [76561199028553807] gave themselves 1000 x metal.refined.
+[08/30/2022 19:43:53] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 19:44:04] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:04] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:04] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:04] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:04] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:04] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:05] Marine [76561199028553807] gave themselves 1000 x metal.fragments.
+[08/30/2022 19:44:08] ~q~Daisy [76561198104600220] teleported to Void [76561198977454718] using Padmin.
+[08/30/2022 19:44:14] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 19:44:15] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 19:44:16] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 19:44:18] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 19:44:41] Marine [76561199028553807] added 1 x wiretool to their belt.
+[08/30/2022 19:45:07] ~q~Daisy [76561198104600220] gave themselves 1 x attire.ninja.suit.
+[08/30/2022 19:45:18] Void [76561198977454718] gave themselves 1 x weapon.mod.muzzlebrake.
+[08/30/2022 19:45:35] 2k [76561198141581757] disconnected.
+[08/30/2022 19:45:36] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:45:46] Marine [76561199028553807] gave themselves 100 x ammo.rocket.fire.
+[08/30/2022 19:45:53] Marine [76561199028553807] gave themselves 100 x ammo.grenadelauncher.he.
+[08/30/2022 19:45:58] Marine [76561199028553807] gave themselves 100 x ammo.grenadelauncher.smoke.
+[08/30/2022 19:46:03] Marine [76561199028553807] added 1 x multiplegrenadelauncher to their belt.
+[08/30/2022 19:46:10] ~q~Daisy [76561198104600220] gave themselves 1 x hat.oxmask.
+[08/30/2022 19:46:18] ~q~Daisy [76561198104600220] gave themselves 1 x attire.bunny.onesie.
+[08/30/2022 19:46:46] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:47:06] Void [76561198977454718] disabled Noclip.
+[08/30/2022 19:47:11] Void [76561198977454718] disabled Godmode.
+[08/30/2022 19:47:16] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:47:21] Marine [76561199028553807] disabled Godmode.
+[08/30/2022 19:49:01] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:49:06] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:53:06] Void [76561198977454718] enabled Noclip.
+[08/30/2022 19:53:11] Void [76561198977454718] disabled Noclip.
+[08/30/2022 19:53:36] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:53:41] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:54:00] Void [76561198977454718] gave themselves 1 x weapon.mod.muzzlebrake.
+[08/30/2022 19:54:41] Void [76561198977454718] enabled Noclip.
+[08/30/2022 19:54:46] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 19:54:47] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 19:54:56] Void [76561198977454718] disabled Noclip.
+[08/30/2022 19:55:26] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 19:55:31] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 19:59:21] Void [76561198977454718] used *kill* on floor.triangle owned by Void [76561198977454718] at position (-981.9, 4.8, -679.3).
+[08/30/2022 19:59:43] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 19:59:43] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:00:01] Marine [76561199028553807] added 1 x weapon.mod.holosight to their belt.
+[08/30/2022 20:00:03] Marine [76561199028553807] added 1 x weapon.mod.lasersight to their belt.
+[08/30/2022 20:01:31] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:01:34] Void [76561198977454718] teleported to ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:01:34] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:01:46] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:02:10] Void [76561198977454718] gave themselves 1 x multiplegrenadelauncher.
+[08/30/2022 20:03:37] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:03:38] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:03:47] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 20:03:47] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:05:21] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:05:26] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:08:31] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:08:51] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:09:52] Void [76561198977454718] gave themselves 1 x hammer.
+[08/30/2022 20:10:54] Void [76561198977454718] gave themselves 1 x building.planner.
+[08/30/2022 20:10:57] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 20:10:58] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 20:10:58] Void [76561198977454718] gave themselves 1000 x metal.fragments.
+[08/30/2022 20:11:13] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 20:11:13] Void [76561198977454718] gave themselves 1000 x wood.
+[08/30/2022 20:11:58] Marine [76561199028553807] added 1 x weapon.mod.holosight to their belt.
+[08/30/2022 20:12:28] Marine [76561199028553807] recovered the metabolism of player Marine [76561199028553807] using Padmin.
+[08/30/2022 20:12:31] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 20:15:31] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:15:36] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:15:53] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:15:54] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:16:12] ~q~Daisy [76561198104600220] added 1 x flashlight.held to their belt.
+[08/30/2022 20:16:16] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:16:26] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:16:37] Void [76561198977454718] gave themselves 1 x nightvisiongoggles.
+[08/30/2022 20:16:47] ~q~Daisy [76561198104600220] gave themselves 1 x nightvisiongoggles.
+[08/30/2022 20:18:28] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:18:29] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:18:37] Void [76561198977454718] gave themselves 1 x nightvisiongoggles.
+[08/30/2022 20:18:42] Void [76561198977454718] gave themselves 1 x heavy.plate.jacket.
+[08/30/2022 20:18:43] Void [76561198977454718] gave themselves 1 x heavy.plate.pants.
+[08/30/2022 20:18:49] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 20:18:50] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 20:18:51] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 20:18:53] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 20:18:58] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 20:18:58] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 20:18:58] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 20:18:58] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 20:18:59] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 20:19:02] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 20:19:02] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 20:19:13] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 20:19:15] Marine [76561199028553807] added 1 x nightvisiongoggles to their belt.
+[08/30/2022 20:19:17] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 20:19:18] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:19:20] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 20:20:31] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 20:20:31] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 20:20:37] Void [76561198977454718] gave themselves 1 x lmg.m249.
+[08/30/2022 20:20:40] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 20:20:41] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 20:20:45] Void [76561198977454718] gave themselves 1 x weapon.mod.flashlight.
+[08/30/2022 20:20:53] Void [76561198977454718] gave themselves 1 x heavy.plate.helmet.
+[08/30/2022 20:20:53] Void [76561198977454718] gave themselves 1 x heavy.plate.jacket.
+[08/30/2022 20:20:54] Void [76561198977454718] gave themselves 1 x heavy.plate.pants.
+[08/30/2022 20:21:18] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:21:19] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:22:05] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:22:10] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 20:22:11] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 20:22:12] Void [76561198977454718] gave themselves 1 x weapon.mod.flashlight.
+[08/30/2022 20:22:13] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 20:22:18] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 20:22:19] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 20:22:24] Void [76561198977454718] gave themselves 1 x scientistsuit_heavy.
+[08/30/2022 20:22:32] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 20:22:33] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 20:22:36] Void [76561198977454718] gave themselves 1 x black.raspberries.
+[08/30/2022 20:22:36] Void [76561198977454718] gave themselves 1000 x black.raspberries.
+[08/30/2022 20:22:41] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:22:46] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:22:47] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:23:11] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:24:08] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:24:08] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:25:11] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 20:25:31] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 20:25:35] Void [76561198977454718] gave themselves 1 x nightvisiongoggles.
+[08/30/2022 20:25:36] Void [76561198977454718] gave themselves 1 x metal.plate.torso.
+[08/30/2022 20:25:36] Void [76561198977454718] gave themselves 1 x metal.facemask.
+[08/30/2022 20:25:38] Void [76561198977454718] gave themselves 1 x hoodie.
+[08/30/2022 20:25:39] Void [76561198977454718] gave themselves 1 x pants.
+[08/30/2022 20:25:40] Void [76561198977454718] gave themselves 1 x tactical.gloves.
+[08/30/2022 20:25:41] Void [76561198977454718] gave themselves 1 x shoes.boots.
+[08/30/2022 20:25:44] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 20:25:45] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 20:25:46] Void [76561198977454718] gave themselves 1 x weapon.mod.flashlight.
+[08/30/2022 20:25:47] Void [76561198977454718] gave themselves 1 x weapon.mod.lasersight.
+[08/30/2022 20:25:48] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 20:25:49] Void [76561198977454718] gave themselves 1000 x ammo.rifle.incendiary.
+[08/30/2022 20:25:52] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 20:25:52] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 20:26:11] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:26:16] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:26:41] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:26:44] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:26:45] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:27:01] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:27:21] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 20:27:40] Marine [76561199028553807] teleported to ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:27:41] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 20:27:56] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 20:28:24] Void [76561198977454718] gave themselves 1000 x syringe.medical.
+[08/30/2022 20:28:24] Void [76561198977454718] gave themselves 1000 x largemedkit.
+[08/30/2022 20:28:29] Void [76561198977454718] gave themselves 1 x rifle.ak.ice.
+[08/30/2022 20:28:30] Void [76561198977454718] gave themselves 1 x weapon.mod.extendedmags.
+[08/30/2022 20:28:31] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/30/2022 20:28:33] Void [76561198977454718] gave themselves 1 x weapon.mod.flashlight.
+[08/30/2022 20:28:39] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/30/2022 20:28:49] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:28:51] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:28:51] Void [76561198977454718] teleported to Marine [76561199028553807] using Padmin.
+[08/30/2022 20:28:52] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:28:56] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:28:58] Void [76561198977454718] teleported to ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:28:58] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:29:01] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 20:29:04] Marine [76561199028553807] teleported to ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:29:05] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 20:29:16] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:29:26] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 20:30:06] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 20:30:11] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 20:30:26] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 20:30:31] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 20:30:51] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:31:06] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:32:36] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:32:36] Marine [76561199028553807] enabled Noclip.
+[08/30/2022 20:32:46] Marine [76561199028553807] disabled Noclip.
+[08/30/2022 20:33:21] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:34:01] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:34:11] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:34:31] Void [76561198977454718] gave themselves 1 x hammer.
+[08/30/2022 20:36:41] Void [76561198977454718] healed player Void [76561198977454718] for 25 points using Padmin.
+[08/30/2022 20:36:42] Void [76561198977454718] healed player Void [76561198977454718] for 0 points using Padmin.
+[08/30/2022 20:36:42] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:37:01] Marine [76561199028553807] teleported to Faithless [76561198118985215] using Padmin.
+[08/30/2022 20:37:02] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 20:37:16] Marine [76561199028553807] healed player Marine [76561199028553807] for 100 points using Padmin.
+[08/30/2022 20:37:17] Marine [76561199028553807] closed Padmin Menu.
+[08/30/2022 20:38:33] Marine [76561199028553807] disconnected.
+[08/30/2022 20:39:49] Void [76561198977454718] teleported to AkRecoil- [76561199050072314] using Padmin.
+[08/30/2022 20:39:49] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:39:56] Void [76561198977454718] enabled Noclip.
+[08/30/2022 20:40:22] Void [76561198977454718] used *kill* on ent: minicopter.entity at position (-966.4, 18.8, -687.2).
+[08/30/2022 20:40:35] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 20:40:36] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 20:40:36] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:42:05] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 20:42:06] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:44:18] Void [76561198977454718] teleported Torque [76561198101204919] to themselves using Padmin.
+[08/30/2022 20:44:19] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:45:36] ~q~Daisy [76561198104600220] gave themselves 1 x attire.bunny.onesie.
+[08/30/2022 20:45:49] ~q~Daisy [76561198104600220] gave themselves 1 x halloween.mummysuit.
+[08/30/2022 20:46:08] ~q~Daisy [76561198104600220] gave themselves 1 x scarecrow.suit.
+[08/30/2022 20:46:18] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 20:46:21] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 20:46:48] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:46:56] Void [76561198977454718] viewed Inventory of player AkRecoil- [76561199050072314] using Padmin.
+[08/30/2022 20:47:13] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:47:21] Void [76561198977454718] viewed Inventory of player YouMadBro382 [76561199119664159] using Padmin.
+[08/30/2022 20:47:55] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:48:03] Void [76561198977454718] viewed Inventory of player Blueberry [76561199190415457] using Padmin.
+[08/30/2022 20:48:21] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:48:25] Void [76561198977454718] viewed Inventory of player Sexipants [76561199172849729] using Padmin.
+[08/30/2022 20:49:00] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:49:06] Void [76561198977454718] viewed Inventory of player Blueberry [76561199190415457] using Padmin.
+[08/30/2022 20:49:28] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-979.0, 2.3, -675.3).
+[08/30/2022 20:49:29] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-979.0, 2.3, -675.3).
+[08/30/2022 20:49:30] Void [76561198977454718] used *kill* on ent: item_drop at position (-979.0, 2.3, -675.3).
+[08/30/2022 20:49:34] Void [76561198977454718] used *kill* on locker.deployed owned by Void [76561198977454718] at position (-980.4, 2.5, -675.9).
+[08/30/2022 20:49:35] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-980.4, 2.5, -675.9).
+[08/30/2022 20:49:40] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-981.6, 2.4, -679.6).
+[08/30/2022 20:49:42] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-982.7, 2.1, -680.3).
+[08/30/2022 20:49:42] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-982.7, 2.1, -680.3).
+[08/30/2022 20:49:42] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-983.8, 1.6, -680.9).
+[08/30/2022 20:49:42] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-984.3, 1.5, -681.3).
+[08/30/2022 20:49:42] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.2, 1.3, -682.2).
+[08/30/2022 20:49:43] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.5, 1.2, -682.4).
+[08/30/2022 20:49:43] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.5, 1.2, -682.4).
+[08/30/2022 20:49:43] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-985.7, 1.2, -682.9).
+[08/30/2022 20:49:43] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-986.0, 1.3, -684.0).
+[08/30/2022 20:49:43] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.2, 1.3, -684.7).
+[08/30/2022 20:49:44] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.4, 1.3, -685.6).
+[08/30/2022 20:49:44] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.6, 1.3, -686.2).
+[08/30/2022 20:49:44] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.3, 1.2, -687.1).
+[08/30/2022 20:49:44] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.5, 1.2, -688.1).
+[08/30/2022 20:49:44] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-984.4, 1.1, -688.7).
+[08/30/2022 20:49:45] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-982.5, 1.0, -690.0).
+[08/30/2022 20:49:45] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.9, 1.0, -691.3).
+[08/30/2022 20:49:45] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-979.5, 1.0, -691.8).
+[08/30/2022 20:49:45] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-978.9, 1.1, -691.8).
+[08/30/2022 20:49:46] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-977.3, 1.2, -691.5).
+[08/30/2022 20:49:46] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-977.1, 1.2, -691.4).
+[08/30/2022 20:49:46] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-976.3, 1.3, -690.9).
+[08/30/2022 20:49:46] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-975.1, 1.3, -690.4).
+[08/30/2022 20:49:46] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 20:49:46] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-973.1, 1.5, -689.6).
+[08/30/2022 20:49:47] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-972.0, 1.5, -689.4).
+[08/30/2022 20:49:47] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-971.6, 1.5, -689.3).
+[08/30/2022 20:49:47] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-971.5, 1.5, -689.3).
+[08/30/2022 20:49:47] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-970.3, 1.5, -688.8).
+[08/30/2022 20:49:47] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-968.9, 1.6, -687.9).
+[08/30/2022 20:49:48] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-967.9, 1.6, -687.0).
+[08/30/2022 20:49:48] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-967.5, 1.7, -686.7).
+[08/30/2022 20:49:48] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-967.4, 1.7, -686.6).
+[08/30/2022 20:49:48] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-968.4, 1.6, -685.6).
+[08/30/2022 20:49:49] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-969.3, 1.6, -685.2).
+[08/30/2022 20:49:49] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-970.3, 1.4, -686.2).
+[08/30/2022 20:49:50] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-968.1, 1.2, -688.7).
+[08/30/2022 20:49:50] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-967.2, 1.2, -688.4).
+[08/30/2022 20:49:51] Void [76561198977454718] used *kill* on ent: player at position (-965.8, 1.1, -687.5).
+[08/30/2022 20:49:51] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 20:49:51] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-964.9, 1.3, -686.6).
+[08/30/2022 20:49:51] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-964.4, 1.4, -685.6).
+[08/30/2022 20:49:51] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-964.1, 1.4, -684.3).
+[08/30/2022 20:49:52] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-964.2, 1.2, -682.6).
+[08/30/2022 20:49:52] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-965.3, 0.9, -680.8).
+[08/30/2022 20:49:52] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-966.0, 0.7, -679.2).
+[08/30/2022 20:49:52] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-966.1, 0.7, -678.5).
+[08/30/2022 20:49:52] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-966.2, 0.6, -677.5).
+[08/30/2022 20:49:53] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-964.7, 0.4, -676.9).
+[08/30/2022 20:49:53] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-964.5, 0.3, -674.2).
+[08/30/2022 20:49:54] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-965.1, 0.2, -673.1).
+[08/30/2022 20:49:54] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-964.9, 0.2, -672.0).
+[08/30/2022 20:49:55] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-965.0, 0.1, -671.0).
+[08/30/2022 20:49:55] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-965.3, 0.1, -671.1).
+[08/30/2022 20:49:55] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-966.8, 0.1, -671.5).
+[08/30/2022 20:49:55] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-967.3, 0.1, -671.9).
+[08/30/2022 20:49:56] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-967.4, 0.2, -672.1).
+[08/30/2022 20:49:56] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-967.4, 0.2, -672.1).
+[08/30/2022 20:49:56] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-967.8, 0.2, -672.8).
+[08/30/2022 20:49:56] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-968.5, 0.2, -675.0).
+[08/30/2022 20:49:56] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-968.7, 0.2, -675.5).
+[08/30/2022 20:49:57] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-968.8, 0.2, -675.8).
+[08/30/2022 20:49:57] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-969.1, 0.2, -677.2).
+[08/30/2022 20:49:57] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-969.6, 0.2, -680.0).
+[08/30/2022 20:49:58] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-969.2, 0.1, -683.9).
+[08/30/2022 20:49:58] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-969.0, 0.1, -687.9).
+[08/30/2022 20:49:59] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-969.7, 0.1, -690.0).
+[08/30/2022 20:49:59] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-971.6, 0.2, -692.9).
+[08/30/2022 20:49:59] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-973.4, 0.2, -693.8).
+[08/30/2022 20:49:59] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-974.6, 0.2, -694.2).
+[08/30/2022 20:49:59] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-976.7, 0.3, -694.5).
+[08/30/2022 20:50:00] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-980.9, 0.2, -694.2).
+[08/30/2022 20:50:00] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-984.7, 0.2, -693.3).
+[08/30/2022 20:50:00] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.4, 0.1, -692.6).
+[08/30/2022 20:50:01] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-988.1, 0.1, -691.7).
+[08/30/2022 20:50:01] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-989.1, 0.1, -690.8).
+[08/30/2022 20:50:01] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-991.7, 0.1, -687.8).
+[08/30/2022 20:50:01] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-992.3, 0.0, -685.8).
+[08/30/2022 20:50:02] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-992.5, -0.1, -684.5).
+[08/30/2022 20:50:02] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-992.6, -0.1, -682.4).
+[08/30/2022 20:50:02] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-992.7, -0.2, -679.8).
+[08/30/2022 20:50:02] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-992.8, -0.2, -678.1).
+[08/30/2022 20:50:02] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-993.1, -0.2, -676.1).
+[08/30/2022 20:50:03] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-993.3, -0.3, -674.4).
+[08/30/2022 20:50:03] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-993.1, -0.3, -672.6).
+[08/30/2022 20:50:03] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-992.0, -0.4, -670.6).
+[08/30/2022 20:50:03] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-990.9, -0.4, -669.3).
+[08/30/2022 20:50:03] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-988.8, -0.2, -667.4).
+[08/30/2022 20:50:04] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-987.4, -0.1, -666.7).
+[08/30/2022 20:50:04] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-983.6, 0.0, -665.2).
+[08/30/2022 20:50:04] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-981.4, 0.1, -664.2).
+[08/30/2022 20:50:04] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-979.7, 0.3, -663.8).
+[08/30/2022 20:50:05] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-977.9, 0.5, -663.4).
+[08/30/2022 20:50:05] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-976.0, 0.6, -663.1).
+[08/30/2022 20:50:05] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-973.7, 0.6, -664.1).
+[08/30/2022 20:50:05] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-972.2, 0.8, -665.2).
+[08/30/2022 20:50:05] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-970.3, 0.9, -666.3).
+[08/30/2022 20:50:06] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-965.9, 0.8, -670.5).
+[08/30/2022 20:50:06] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-966.4, 0.5, -672.1).
+[08/30/2022 20:50:06] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-968.6, 0.2, -673.2).
+[08/30/2022 20:50:07] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-970.4, 0.1, -672.7).
+[08/30/2022 20:50:07] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-969.5, 0.2, -667.1).
+[08/30/2022 20:50:08] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-970.8, 0.3, -666.4).
+[08/30/2022 20:50:08] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-972.5, 0.4, -666.9).
+[08/30/2022 20:50:08] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-974.6, 0.4, -667.9).
+[08/30/2022 20:50:08] Void [76561198977454718] used *kill* on foundation.triangle owned by Marine [76561199028553807] at position (-976.3, 0.2, -667.4).
+[08/30/2022 20:50:08] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-977.9, 0.1, -666.7).
+[08/30/2022 20:50:09] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-980.2, 0.0, -666.2).
+[08/30/2022 20:50:09] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-981.9, 0.0, -666.0).
+[08/30/2022 20:50:09] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.1, 0.0, -667.0).
+[08/30/2022 20:50:09] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-987.5, -0.1, -668.8).
+[08/30/2022 20:50:10] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-988.3, -0.2, -670.5).
+[08/30/2022 20:50:10] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-989.5, -0.2, -672.5).
+[08/30/2022 20:50:10] Void [76561198977454718] used *kill* on foundation.triangle owned by Marine [76561199028553807] at position (-991.0, -0.3, -674.6).
+[08/30/2022 20:50:11] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-993.6, -0.3, -679.9).
+[08/30/2022 20:50:11] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-992.2, -0.2, -681.4).
+[08/30/2022 20:50:11] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-990.6, 0.0, -682.6).
+[08/30/2022 20:50:12] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-987.0, 0.0, -685.5).
+[08/30/2022 20:50:12] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-981.2, 0.0, -691.6).
+[08/30/2022 20:50:14] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-977.3, -0.2, -694.9).
+[08/30/2022 20:50:14] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-978.1, 0.0, -693.2).
+[08/30/2022 20:50:14] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-977.4, 0.3, -690.8).
+[08/30/2022 20:50:15] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-976.7, 0.5, -689.0).
+[08/30/2022 20:50:15] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-976.5, 0.6, -688.5).
+[08/30/2022 20:50:15] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-977.9, 0.4, -687.5).
+[08/30/2022 20:50:15] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-979.9, 0.0, -686.3).
+[08/30/2022 20:50:15] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.4, -0.1, -684.7).
+[08/30/2022 20:50:16] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.2, 0.0, -683.7).
+[08/30/2022 20:50:16] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-979.7, 0.0, -683.1).
+[08/30/2022 20:50:16] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-976.0, 0.5, -681.7).
+[08/30/2022 20:50:17] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-974.5, 0.6, -680.2).
+[08/30/2022 20:50:17] Void [76561198977454718] used *kill* on ent: bear at position (-973.8, 0.3, -677.9).
+[08/30/2022 20:50:17] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-973.4, 0.3, -676.8).
+[08/30/2022 20:50:17] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-973.2, 0.4, -674.6).
+[08/30/2022 20:50:17] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-973.5, 0.5, -672.4).
+[08/30/2022 20:50:18] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-973.8, 0.5, -671.1).
+[08/30/2022 20:50:18] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-974.4, 0.6, -670.6).
+[08/30/2022 20:50:18] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-975.9, 0.7, -670.2).
+[08/30/2022 20:50:19] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.3, 0.6, -666.7).
+[08/30/2022 20:50:19] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-981.4, 0.5, -665.5).
+[08/30/2022 20:50:19] Void [76561198977454718] used *kill* on ent: item_drop at position (-983.3, 0.5, -666.2).
+[08/30/2022 20:50:19] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-984.7, 0.5, -667.9).
+[08/30/2022 20:50:20] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-985.1, 0.5, -669.7).
+[08/30/2022 20:50:20] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.2, 0.5, -670.0).
+[08/30/2022 20:50:20] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.5, 0.5, -671.4).
+[08/30/2022 20:50:20] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-985.7, 0.4, -673.1).
+[08/30/2022 20:50:20] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.3, 0.4, -675.4).
+[08/30/2022 20:50:21] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-986.5, 0.3, -676.2).
+[08/30/2022 20:50:21] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-986.5, 0.3, -676.3).
+[08/30/2022 20:50:21] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-986.5, 0.3, -676.3).
+[08/30/2022 20:50:22] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-987.0, 0.3, -679.1).
+[08/30/2022 20:50:22] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-988.3, 0.1, -682.6).
+[08/30/2022 20:50:23] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-985.2, 0.5, -684.3).
+[08/30/2022 20:50:23] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-983.7, 0.6, -684.6).
+[08/30/2022 20:50:23] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-982.2, 0.6, -684.5).
+[08/30/2022 20:50:23] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-981.1, 0.6, -683.6).
+[08/30/2022 20:50:24] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.8, 0.7, -682.5).
+[08/30/2022 20:50:24] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.8, 0.7, -681.1).
+[08/30/2022 20:50:24] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-980.3, 0.6, -676.8).
+[08/30/2022 20:50:25] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.0, 0.5, -673.9).
+[08/30/2022 20:50:26] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.9, 0.5, -673.2).
+[08/30/2022 20:50:26] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.9, 0.5, -673.2).
+[08/30/2022 20:50:26] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-980.3, 0.5, -673.3).
+[08/30/2022 20:50:26] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-979.2, 0.6, -673.4).
+[08/30/2022 20:50:29] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-970.2, 2.5, -683.2).
+[08/30/2022 20:50:30] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-969.1, 1.9, -684.5).
+[08/30/2022 20:50:30] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-966.8, 1.4, -685.7).
+[08/30/2022 20:50:31] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-965.5, 1.6, -686.3).
+[08/30/2022 20:50:31] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-964.3, 1.7, -687.6).
+[08/30/2022 20:50:32] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-967.3, 1.5, -689.5).
+[08/30/2022 20:50:33] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-967.7, 1.5, -682.3).
+[08/30/2022 20:50:37] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-968.1, 2.7, -692.9).
+[08/30/2022 20:50:38] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-968.1, 2.7, -693.0).
+[08/30/2022 20:50:39] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-970.2, 1.9, -690.4).
+[08/30/2022 20:50:39] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-970.2, 1.9, -690.4).
+[08/30/2022 20:50:40] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-970.2, 1.9, -690.4).
+[08/30/2022 20:50:41] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-977.6, 1.3, -689.3).
+[08/30/2022 20:50:41] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-981.8, 0.9, -690.6).
+[08/30/2022 20:50:42] Void [76561198977454718] used *kill* on ent: item_drop at position (-982.1, 0.9, -690.7).
+[08/30/2022 20:50:42] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-983.6, 1.1, -686.3).
+[08/30/2022 20:50:47] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-976.1, 1.9, -688.6).
+[08/30/2022 20:50:50] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-960.6, 3.4, -683.0).
+[08/30/2022 20:50:51] Void [76561198977454718] used *kill* on ent: item_drop at position (-961.4, 2.5, -683.0).
+[08/30/2022 20:50:51] Void [76561198977454718] used *kill* on ent: item_drop at position (-961.4, 2.5, -683.0).
+[08/30/2022 20:50:51] Void [76561198977454718] used *kill* on ent: item_drop at position (-961.8, 2.3, -683.1).
+[08/30/2022 20:50:52] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-961.9, 2.0, -681.2).
+[08/30/2022 20:50:52] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-961.4, 2.0, -680.8).
+[08/30/2022 20:50:57] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-986.9, 1.2, -683.6).
+[08/30/2022 20:50:58] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-981.3, 1.7, -685.8).
+[08/30/2022 20:50:59] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-978.6, 1.7, -685.2).
+[08/30/2022 20:51:14] Void [76561198977454718] used *kill* on ent: repairbench_static at position (-864.5, 8.9, -666.8).
+[08/30/2022 20:51:15] Void [76561198977454718] used *kill* on ent: repairbench_static at position (-867.6, 8.3, -664.4).
+[08/30/2022 20:51:18] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-954.8, 3.1, -682.2).
+[08/30/2022 20:51:20] Void [76561198977454718] used *kill* on ent: item_drop_backpack at position (-966.0, 2.0, -659.2).
+[08/30/2022 20:52:15] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:52:19] Void [76561198977454718] teleported to Sexipants [76561199172849729] using Padmin.
+[08/30/2022 20:52:20] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 20:52:37] Void [76561198977454718] spawned scientistnpc_roam at (-857.7, 10.4, -666.5).
+[08/30/2022 20:52:46] Void [76561198977454718] spawned scientistnpc_roam at (-856.7, 10.3, -667.1).
+[08/30/2022 20:52:46] Void [76561198977454718] spawned scientistnpc_roam at (-856.8, 10.4, -667.1).
+[08/30/2022 20:52:46] Void [76561198977454718] spawned scientistnpc_roam at (-856.9, 10.5, -667.1).
+[08/30/2022 20:52:46] Void [76561198977454718] spawned scientistnpc_roam at (-857.0, 10.5, -667.1).
+[08/30/2022 20:52:46] Void [76561198977454718] spawned scientistnpc_roam at (-857.1, 10.6, -667.2).
+[08/30/2022 20:52:46] Void [76561198977454718] spawned scientistnpc_roam at (-857.2, 10.7, -667.2).
+[08/30/2022 20:52:51] Void [76561198977454718] spawned scientistnpc_roam at (-856.3, 10.6, -666.6).
+[08/30/2022 20:52:51] Void [76561198977454718] spawned scientistnpc_roam at (-856.4, 10.8, -666.5).
+[08/30/2022 20:52:51] Void [76561198977454718] spawned scientistnpc_roam at (-856.5, 10.9, -666.5).
+[08/30/2022 20:52:51] Void [76561198977454718] spawned scientistnpc_roam at (-856.6, 11.0, -666.4).
+[08/30/2022 20:52:51] Void [76561198977454718] spawned scientistnpc_roam at (-856.7, 11.2, -666.4).
+[08/30/2022 20:52:52] Void [76561198977454718] spawned scientistnpc_roam at (-856.8, 11.3, -666.3).
+[08/30/2022 20:52:52] Void [76561198977454718] spawned scientistnpc_roam at (-856.9, 11.4, -666.3).
+[08/30/2022 20:52:52] Void [76561198977454718] spawned scientistnpc_roam at (-857.0, 11.5, -666.2).
+[08/30/2022 20:52:52] Void [76561198977454718] spawned scientistnpc_roam at (-857.1, 11.6, -666.2).
+[08/30/2022 20:52:52] Void [76561198977454718] spawned scientistnpc_roam at (-857.2, 11.8, -666.1).
+[08/30/2022 20:52:52] Void [76561198977454718] spawned scientistnpc_roam at (-857.3, 11.9, -666.1).
+[08/30/2022 20:52:53] Void [76561198977454718] spawned scientistnpc_roam at (-857.3, 11.9, -666.1).
+[08/30/2022 20:52:53] Void [76561198977454718] spawned scientistnpc_roam at (-857.2, 11.7, -666.1).
+[08/30/2022 20:52:53] Void [76561198977454718] spawned scientistnpc_roam at (-857.3, 11.9, -666.1).
+[08/30/2022 20:52:53] Void [76561198977454718] spawned scientistnpc_roam at (-857.3, 11.9, -666.1).
+[08/30/2022 20:52:53] Void [76561198977454718] spawned scientistnpc_roam at (-857.3, 11.9, -666.1).
+[08/30/2022 20:52:53] Void [76561198977454718] spawned scientistnpc_roam at (-856.8, 11.3, -666.3).
+[08/30/2022 20:52:54] Void [76561198977454718] spawned scientistnpc_roam at (-856.9, 11.4, -666.3).
+[08/30/2022 20:53:11] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 20:53:16] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 20:53:31] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 20:53:35] ~q~Daisy [76561198104600220] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/30/2022 20:53:36] ~q~Daisy [76561198104600220] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/30/2022 20:53:41] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 20:53:42] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:53:43] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 20:54:02] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-854.7, 8.5, -665.3).
+[08/30/2022 20:54:02] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-854.7, 8.3, -665.0).
+[08/30/2022 20:54:02] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-854.1, 8.3, -665.3).
+[08/30/2022 20:54:03] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-854.0, 8.2, -665.3).
+[08/30/2022 20:54:03] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-854.0, 8.2, -665.5).
+[08/30/2022 20:54:03] Void [76561198977454718] used *kill* on foundation.triangle owned by Void [76561198977454718] at position (-853.3, 8.1, -667.9).
+[08/30/2022 20:54:04] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-853.5, 8.0, -669.2).
+[08/30/2022 20:54:04] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-852.4, 7.8, -669.9).
+[08/30/2022 20:54:04] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-851.5, 7.7, -670.3).
+[08/30/2022 20:54:04] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-851.3, 7.6, -670.3).
+[08/30/2022 20:54:04] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-850.2, 7.7, -669.6).
+[08/30/2022 20:54:04] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-849.9, 7.8, -669.4).
+[08/30/2022 20:54:05] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-849.7, 7.8, -669.0).
+[08/30/2022 20:54:05] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-848.7, 7.9, -667.8).
+[08/30/2022 20:54:05] Void [76561198977454718] used *kill* on ent: item_drop at position (-848.1, 8.0, -667.2).
+[08/30/2022 20:54:06] Void [76561198977454718] used *kill* on ent: item_drop at position (-848.1, 8.0, -667.2).
+[08/30/2022 20:54:06] Void [76561198977454718] used *kill* on ent: item_drop at position (-848.1, 8.0, -667.2).
+[08/30/2022 20:54:07] Void [76561198977454718] used *kill* on ent: item_drop at position (-848.1, 8.0, -667.2).
+[08/30/2022 20:54:07] Void [76561198977454718] used *kill* on ent: item_drop at position (-846.8, 7.7, -668.6).
+[08/30/2022 20:54:11] Void [76561198977454718] used *kill* on ent: item_drop at position (-851.3, 9.1, -668.0).
+[08/30/2022 20:54:12] Void [76561198977454718] used *kill* on ent: item_drop at position (-852.1, 8.2, -667.7).
+[08/30/2022 20:54:15] Void [76561198977454718] used *kill* on ent: item_drop at position (-852.8, 8.4, -669.6).
+[08/30/2022 20:54:24] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-858.5, 11.7, -685.9).
+[08/30/2022 20:54:24] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-857.7, 12.0, -687.5).
+[08/30/2022 20:54:24] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-857.1, 12.1, -687.7).
+[08/30/2022 20:54:25] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-849.1, 12.0, -685.8).
+[08/30/2022 20:54:25] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-841.3, 12.1, -681.7).
+[08/30/2022 20:54:25] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-840.1, 12.1, -680.9).
+[08/30/2022 20:54:26] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-834.3, 11.3, -667.7).
+[08/30/2022 20:54:26] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-833.5, 10.9, -665.5).
+[08/30/2022 20:54:27] Void [76561198977454718] used *kill* on wall.external.high.stone owned by Void [76561198977454718] at position (-836.8, 12.3, -650.5).
+[08/30/2022 20:55:48] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 20:55:51] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 20:56:16] Void [76561198977454718] disabled Noclip.
+[08/30/2022 20:56:28] ~q~Daisy [76561198104600220] opened Padmin Menu.
+[08/30/2022 20:56:32] ~q~Daisy [76561198104600220] recovered the metabolism of player ~q~Daisy [76561198104600220] using Padmin.
+[08/30/2022 20:56:33] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 0 points using Padmin.
+[08/30/2022 20:56:34] ~q~Daisy [76561198104600220] healed player ~q~Daisy [76561198104600220] for 100 points using Padmin.
+[08/30/2022 20:56:36] ~q~Daisy [76561198104600220] closed Padmin Menu.
+[08/30/2022 20:58:16] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 20:58:21] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 21:00:51] Void [76561198977454718] spawned minicopter.entity at (-868.0, 8.7, -667.4).
+[08/30/2022 21:00:55] Void [76561198977454718] spawned minicopter.entity at (-871.0, 9.4, -665.8).
+[08/30/2022 21:00:59] Void [76561198977454718] spawned minicopter.entity at (-864.0, 8.4, -668.5).
+[08/30/2022 21:01:01] Void [76561198977454718] spawned minicopter.entity at (-860.0, 8.5, -669.1).
+[08/30/2022 21:01:04] Void [76561198977454718] spawned minicopter.entity at (-856.6, 8.7, -669.6).
+[08/30/2022 21:01:10] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 21:01:11] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 21:01:11] Void [76561198977454718] gave themselves 1000 x lowgradefuel.
+[08/30/2022 21:01:49] Void [76561198977454718] spawned minicopter.entity at (-863.1, 8.4, -668.8).
+[08/30/2022 21:02:43] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 21:02:44] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 21:02:52] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/30/2022 21:02:53] Void [76561198977454718] closed Padmin Menu.
+[08/30/2022 21:03:11] Void [76561198977454718] enabled Godmode.
+[08/30/2022 21:05:46] Void [76561198977454718] enabled Noclip.
+[08/30/2022 21:06:02] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:04] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:04] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:04] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:05] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:05] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:05] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:05] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:05] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:05] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:06] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:06] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:06] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:06] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:06] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:06] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:07] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:07] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:07] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:07] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:07] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:08] Void [76561198977454718] spawned horse at (41.7, 25.9, 435.2).
+[08/30/2022 21:06:36] Void [76561198977454718] disabled Noclip.
+[08/30/2022 21:07:59] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 21:08:01] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 21:08:06] ~q~Daisy [76561198104600220] enabled Vanish.
+[08/30/2022 21:08:11] ~q~Daisy [76561198104600220] enabled Noclip.
+[08/30/2022 21:10:46] ~q~Daisy [76561198104600220] disabled Vanish.
+[08/30/2022 21:10:51] ~q~Daisy [76561198104600220] disabled Noclip.
+[08/30/2022 21:11:01] Void [76561198977454718] enabled Noclip.
+[08/30/2022 21:14:09] ~q~Daisy [76561198104600220] disconnected.
+[08/30/2022 21:14:11] Void [76561198977454718] disabled Noclip.
+[08/30/2022 21:14:17] Void [76561198977454718] disconnected.

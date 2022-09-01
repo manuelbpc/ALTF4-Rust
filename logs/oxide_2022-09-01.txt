@@ -1,0 +1,120 @@
+00:04 [Warning] [BoxLooters] Saved Boxlooters data
+00:04 [Warning] Calling 'OnServerSave' on 'BoxLooters v0.3.5' took 148ms
+00:14 [Warning] [BoxLooters] Saved Boxlooters data
+00:16 [Info] [Advert Messages] Welcome to our server, have fun!
+00:24 [Warning] [BoxLooters] Saved Boxlooters data
+00:29 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (255, 8, -620) grid area: L14
+00:29 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+00:29 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+00:34 [Warning] [BoxLooters] Saved Boxlooters data
+00:44 [Warning] [BoxLooters] Saved Boxlooters data
+00:46 [Info] [Advert Messages] Please treat everybody respectfully.
+00:54 [Warning] [BoxLooters] Saved Boxlooters data
+01:03 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:03 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+01:04 [Warning] [BoxLooters] Saved Boxlooters data
+01:14 [Warning] [BoxLooters] Saved Boxlooters data
+01:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:24 [Warning] [BoxLooters] Saved Boxlooters data
+01:34 [Warning] [BoxLooters] Saved Boxlooters data
+01:44 [Warning] [BoxLooters] Saved Boxlooters data
+01:46 [Info] [Advert Messages] Welcome to our server, have fun!
+01:50 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+01:50 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+01:54 [Warning] [BoxLooters] Saved Boxlooters data
+02:04 [Warning] [BoxLooters] Saved Boxlooters data
+02:14 [Warning] [BoxLooters] Saved Boxlooters data
+02:16 [Info] [Advert Messages] Please treat everybody respectfully.
+02:24 [Warning] [BoxLooters] Saved Boxlooters data
+02:29 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+02:32 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-829, 8, 531) grid area: E6
+02:32 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:32 [Info] [FancyDrop] Next timed Airdrop in 30 minutes
+02:34 [Warning] [BoxLooters] Saved Boxlooters data
+02:36 [Info] [FancyDrop] jermonster4 (76561199184574453) looted the Drop at: (-828, 8, 532) grid area: E6
+02:44 [Warning] [BoxLooters] Saved Boxlooters data
+02:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:54 [Warning] [BoxLooters] Saved Boxlooters data
+03:02 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (427, 43, -102) grid area: N10
+03:02 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+03:02 [Info] [FancyDrop] Next timed Airdrop in 56 minutes
+03:04 [Warning] [BoxLooters] Saved Boxlooters data
+03:14 [Warning] [BoxLooters] Saved Boxlooters data
+03:16 [Info] [Advert Messages] Welcome to our server, have fun!
+03:16 [Info] [Better Chat] [Global] [Player] jermonster4: HELLO
+03:16 [Info] [Better Chat] [Global] [Player] jermonster4: whos online???
+03:24 [Warning] [BoxLooters] Saved Boxlooters data
+03:34 [Warning] [BoxLooters] Saved Boxlooters data
+03:44 [Warning] [BoxLooters] Saved Boxlooters data
+03:46 [Info] [Advert Messages] Please treat everybody respectfully.
+03:54 [Warning] [BoxLooters] Saved Boxlooters data
+03:58 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+03:58 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+04:04 [Warning] [BoxLooters] Saved Boxlooters data
+04:14 [Warning] [BoxLooters] Saved Boxlooters data
+04:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:24 [Warning] [BoxLooters] Saved Boxlooters data
+04:34 [Warning] [BoxLooters] Saved Boxlooters data
+04:44 [Warning] [BoxLooters] Saved Boxlooters data
+04:46 [Info] [Advert Messages] Welcome to our server, have fun!
+04:48 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:48 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+04:54 [Warning] [BoxLooters] Saved Boxlooters data
+05:04 [Warning] [BoxLooters] Saved Boxlooters data
+05:14 [Warning] [BoxLooters] Saved Boxlooters data
+05:16 [Info] [Advert Messages] Please treat everybody respectfully.
+05:22 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:22 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+05:24 [Warning] [BoxLooters] Saved Boxlooters data
+05:33 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+05:34 [Warning] [BoxLooters] Saved Boxlooters data
+05:39 [Info] [Better Chat] [Team] [Player] VGTxSavage: yo
+05:39 [Info] [Better Chat] [Global] [Player] VGTxSavage: to
+05:39 [Info] [Better Chat] [Global] [Player] VGTxSavage: yo
+05:39 [Info] [Better Chat] [Global] [Player] jermonster4: hi sava
+05:39 [Info] [Better Chat] [Global] [Player] VGTxSavage: i guess i think i got raided lol
+05:39 [Info] [Better Chat] [Global] [Player] jermonster4: hey sava want to do cargo?
+05:40 [Info] [Better Chat] [Global] [Player] VGTxSavage: yeah but im stuck on the other side of the map
+05:40 [Info] [Better Chat] [Global] [Player] jermonster4: wait i need to get my stuff back was doing mill tunnels
+05:40 [Info] [Better Chat] [Global] [Player] jermonster4: i will bag you
+05:40 [Info] [Better Chat] [Global] [Player] VGTxSavage: okay
+05:40 [Info] [Better Chat] [Global] [Player] jermonster4: sava ur solo right
+05:40 [Info] [Better Chat] [Global] [Player] VGTxSavage: yes and no lol most the time yes
+05:41 [Info] [Better Chat] [Global] [Player] jermonster4: want to team?
+05:41 [Info] [Better Chat] [Global] [Player] jermonster4: dis lag
+05:41 [Info] [Better Chat] [Global] [Player] VGTxSavage: sure we are always on
+05:41 [Info] [Better Chat] [Global] [Player] VGTxSavage: at the same time
+05:41 [Info] [Better Chat] [Global] [Player] VGTxSavage: let me go see if i got raided first
+05:43 [Info] [Better Chat] [Global] [Player] jermonster4: FUCKING HELLLLLLLLLLLLLLLL
+05:43 [Info] [Better Chat] [Global] [Player] jermonster4: im sorry man i got to fucking go
+05:43 [Info] [Better Chat] [Global] [Player] VGTxSavage: all good
+05:43 [Info] [Better Chat] [Global] [Player] jermonster4: just lost my ak kit
+05:43 [Info] [Better Chat] [Global] [Player] jermonster4: fuckkkkkkk
+05:43 [Info] [Better Chat] [Global] [Player] VGTxSavage: nah your chilling
+05:43 [Info] [Better Chat] [Global] [Player] jermonster4: i HAE mill tunnels
+05:43 [Info] [Better Chat] [Global] [Player] VGTxSavage: its just a kit
+05:43 [Info] [Better Chat] [Global] [Player] VGTxSavage: you will get another
+05:43 [Info] [Better Chat] [Global] [Player] jermonster4: i hope
+05:44 [Info] [Better Chat] [Global] [Player] VGTxSavage: ezz
+05:44 [Warning] [BoxLooters] Saved Boxlooters data
+05:44 [Info] [Better Chat] [Global] [Player] jermonster4: DIS LAGG
+05:44 [Info] [Better Chat] [Global] [Player] jermonster4: well im logging off cya
+05:45 [Info] [Better Chat] [Global] [Player] VGTxSavage: :{
+05:45 [Info] [Better Chat] [Global] [Player] jermonster4: sorry man
+05:45 [Info] [Better Chat] [Global] [Player] VGTxSavage: all good
+05:45 [Info] [Better Chat] [Global] [Player] jermonster4: cya
+05:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:47 [Info] [Better Chat] [Global] [Player] VGTxSavage: well i have no base haha
+05:54 [Warning] [BoxLooters] Saved Boxlooters data
+06:02 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-272, 57, -302) grid area: I12
+06:02 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+06:02 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+06:04 [Warning] [BoxLooters] Saved Boxlooters data
+06:14 [Warning] [BoxLooters] Saved Boxlooters data
+06:16 [Info] [Advert Messages] Welcome to our server, have fun!
+06:24 [Warning] [BoxLooters] Saved Boxlooters data
+06:34 [Warning] [BoxLooters] Saved Boxlooters data
+06:37 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (104, 10, -949) grid area: K16
+06:37 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+06:37 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+06:42 [Info] [FancyDrop] VGTxSavage (76561198391674705) looted the Drop at: (104, 10, -949) grid area: K16

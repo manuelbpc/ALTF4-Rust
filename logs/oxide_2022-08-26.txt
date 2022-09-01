@@ -1,0 +1,1406 @@
+00:04 [Warning] [BoxLooters] Saved Boxlooters data
+00:06 [Info] [Advert Messages] Please treat everybody respectfully.
+00:06 [Info] [Better Chat] [Global] [Player] jermonster4: hello guys?
+00:14 [Warning] [BoxLooters] Saved Boxlooters data
+00:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:17 [Info] [Better Chat] [Global] [Player] jermonster4: HEY GUYS
+00:17 [Info] [Better Chat] [Global] [Player] jermonster4: is some1 online
+00:24 [Info] [Better Chat] [Global] [Player] jermonster4: hey some1 here
+00:24 [Warning] [BoxLooters] Saved Boxlooters data
+00:26 [Info] [Advert Messages] Welcome to our server, have fun!
+00:26 [Info] [Better Chat] [Global] [Player] jermonster4: fuck
+00:26 [Info] [Better Chat] [Global] [Player] jermonster4: fuck
+00:26 [Info] [Better Chat] [Global] [Player] jermonster4: fuck
+00:26 [Info] [Better Chat] [Global] [Player] jermonster4: fuck
+00:34 [Warning] [BoxLooters] Saved Boxlooters data
+00:36 [Info] [Advert Messages] Please treat everybody respectfully.
+00:44 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-887, 50, -10) grid area: J15
+00:44 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+00:44 [Info] [FancyDrop] Next timed Airdrop in 32 minutes
+00:44 [Warning] [BoxLooters] Saved Boxlooters data
+00:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+00:54 [Warning] [BoxLooters] Saved Boxlooters data
+00:56 [Info] [Advert Messages] Welcome to our server, have fun!
+00:57 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+01:04 [Warning] [BoxLooters] Saved Boxlooters data
+01:06 [Info] [Advert Messages] Please treat everybody respectfully.
+01:14 [Warning] [BoxLooters] Saved Boxlooters data
+01:16 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-73, 6, -1447) grid area: O25
+01:16 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+01:16 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+01:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:24 [Warning] [BoxLooters] Saved Boxlooters data
+01:26 [Info] [Advert Messages] Welcome to our server, have fun!
+01:26 [Info] [Better Chat] [Global] [Player] jermonster4: hello
+01:34 [Warning] [BoxLooters] Saved Boxlooters data
+01:36 [Info] [Advert Messages] Please treat everybody respectfully.
+01:44 [Warning] [BoxLooters] Saved Boxlooters data
+01:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:47 [Info] [Nav Mesh Error Fix] Located & Killed Stuck assets/rust.ai/agents/chicken/chicken.prefab at (-185.9, 104.3, -795.8)
+01:49 [Info] [Nav Mesh Error Fix] Located & Killed Stuck assets/rust.ai/agents/chicken/chicken.prefab at (-201.4, 104.8, -796.5)
+01:54 [Warning] [BoxLooters] Saved Boxlooters data
+01:56 [Info] [Advert Messages] Welcome to our server, have fun!
+02:00 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+02:01 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-198, 45, 187) grid area: O14
+02:01 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:01 [Info] [FancyDrop] Next timed Airdrop in 58 minutes
+02:04 [Info] [Nav Mesh Error Fix] Located & Killed Stuck assets/rust.ai/agents/chicken/chicken.prefab at (-200.2, 104.9, -791.0)
+02:04 [Warning] [BoxLooters] Saved Boxlooters data
+02:06 [Info] [Better Chat] [Global] [Player] Kondog: roll call whos on
+02:06 [Info] [Better Chat] [Global] [Player] jermonster4: ME
+02:06 [Info] [Advert Messages] Please treat everybody respectfully.
+02:07 [Info] [Better Chat] [Global] [Player] VGTxSavage: yo
+02:09 [Info] [Better Chat] [Global] [Player] jermonster4: dude wtf
+02:12 [Info] [Better Chat] [Global] [Player] VGTxSavage: ?
+02:12 [Info] [Better Chat] [Global] [Player] jermonster4: i cnt find the daily air drop
+02:13 [Info] [Better Chat] [Global] [Player] jermonster4: yoooooo
+02:13 [Info] [Better Chat] [Global] [Player] jermonster4: i fond a big base
+02:14 [Info] [Better Chat] [Global] [Player] Kondog: where
+02:14 [Info] [Better Chat] [Global] [Player] jermonster4: o13
+02:14 [Info] [Better Chat] [Global] [Player] Kondog: uhhh
+02:14 [Info] [Better Chat] [Global] [Player] Kondog: raid em
+02:14 [Info] [Better Chat] [Global] [Player] jermonster4: i cant
+02:14 [Info] [Better Chat] [Global] [Player] jermonster4: i dont got boom
+02:14 [Info] [Better Chat] [Global] [Player] Kondog: i can :D
+02:14 [Info] [Better Chat] [Global] [Player] jermonster4: some1 where in o13
+02:14 [Warning] [BoxLooters] Saved Boxlooters data
+02:15 [Info] [Better Chat] [Global] [Player] Kondog: okay noted
+02:15 [Info] [Better Chat] [Global] [Player] jermonster4: can i help you raid?
+02:15 [Info] [Better Chat] [Global] [Player] Kondog: no
+02:15 [Info] [Better Chat] [Global] [Player] jermonster4: i wont back stade you
+02:15 [Info] [Better Chat] [Global] [Player] jermonster4: i got a fucking rock and a hazzy on me
+02:16 [Info] [Better Chat] [Global] [Player] jermonster4: can i pls help
+02:16 [Info] [Better Chat] [Global] [Player] jermonster4: im new to rust and like to learn to raid
+02:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:16 [Info] [Better Chat] [Global] [Player] jermonster4: allso its a big base ur going to need a lot of boom
+02:17 [Info] [Better Chat] [Global] [Player] jermonster4: are you raiding
+02:17 [Info] [Better Chat] [Global] [Player] Kondog: yes
+02:17 [Info] [Better Chat] [Global] [Player] jermonster4: can i pls come?
+02:17 [Info] [Better Chat] [Global] [Player] jermonster4: i want kill you
+02:17 [Info] [Better Chat] [Global] [Player] jermonster4: im on a horse
+02:18 [Info] [Better Chat] [Global] [Player] jermonster4: kon im coming ok
+02:18 [Info] [Better Chat] [Global] [Player] jermonster4: kon?
+02:19 [Info] [Better Chat] [Global] [Player] Kondog: no
+02:19 [Info] [Better Chat] [Global] [Player] jermonster4: im here
+02:19 [Info] [Better Chat] [Global] [Player] jermonster4: i want to help
+02:19 [Info] [FancyDrop] Kondog (76561199082517499) looted the Drop at: (-200, 48, 187) grid area: O14
+02:23 [Info] [Better Chat] [Global] [Player] jermonster4: we got like 3 min left of night
+02:23 [Info] [Better Chat] [Global] [Player] Kondog: yea
+02:24 [Warning] [BoxLooters] Saved Boxlooters data
+02:26 [Info] [Advert Messages] Welcome to our server, have fun!
+02:34 [Warning] [BoxLooters] Saved Boxlooters data
+02:36 [Info] [Advert Messages] Please treat everybody respectfully.
+02:44 [Warning] [BoxLooters] Saved Boxlooters data
+02:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:52 [Info] [Better Chat] [Global] [Player] jermonster4: hey
+02:52 [Info] [Better Chat] [Global] [Player] Kondog: ?
+02:52 [Info] [Better Chat] [Global] [Player] jermonster4: can we blow a wall
+02:52 [Info] [Better Chat] [Global] [Player] Kondog: bet
+02:52 [Info] [Better Chat] [Global] [Player] jermonster4: its got a m2 guy in it
+02:52 [Info] [Better Chat] [Global] [Player] Kondog: dont kill em
+02:53 [Info] [Better Chat] [Global] [Player] Kondog: i want to
+02:53 [Info] [Better Chat] [Global] [Player] jermonster4: k
+02:53 [Info] [Better Chat] [Global] [Player] jermonster4: ur back?
+02:53 [Info] [Better Chat] [Global] [Player] Kondog: not yet gotta go all the way to my base
+02:53 [Info] [Better Chat] [Global] [Player] jermonster4: ok
+02:53 [Info] [Better Chat] [Global] [Player] jermonster4: im taking some stuff
+02:53 [Info] [Better Chat] [Global] [Player] Kondog: its all yours
+02:54 [Info] [Better Chat] [Global] [Player] jermonster4: what happed to the other horse
+02:54 [Info] [Better Chat] [Global] [Player] Kondog: despawned maybe
+02:54 [Info] [Better Chat] [Global] [Player] jermonster4: shit
+02:54 [Info] [Better Chat] [Global] [Player] jermonster4: well i wait untill you come back so i take it
+02:54 [Warning] [BoxLooters] Saved Boxlooters data
+02:56 [Info] [Advert Messages] Welcome to our server, have fun!
+02:57 [Info] [Better Chat] [Global] [Player] jermonster4: dude its going to be funny wen base onwers come and see there base got raided xd
+02:57 [Info] [Better Chat] [Global] [Player] Kondog: ik them so im just gonna send them a picture
+02:57 [Info] [Better Chat] [Global] [Player] jermonster4: LOL
+02:59 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1239, 61, 897) grid area: G9
+02:59 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:59 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+03:01 [Info] [Better Chat] [Global] [Player] jermonster4: you allmost here?
+03:01 [Info] [Better Chat] [Global] [Player] Kondog: making it still
+03:02 [Info] [Better Chat] [Global] [Player] jermonster4: like 1 sleeper whit m249
+03:02 [Info] [Better Chat] [Global] [Player] jermonster4: the wall it the wrong waye
+03:03 [Info] [Better Chat] [Global] [Player] jermonster4: can i kill 1 sleeper?
+03:03 [Info] [Better Chat] [Global] [Player] Kondog: nooo
+03:03 [Info] [Better Chat] [Global] [Player] jermonster4: k
+03:03 [Info] [Better Chat] [Global] [Player] jermonster4: you can have the sulfer if you want
+03:04 [Info] [Better Chat] [Global] [Player] Kondog: all you
+03:04 [Info] [Better Chat] [Global] [Player] jermonster4: k
+03:04 [Info] [Better Chat] [Global] [Player] jermonster4: im base is legit 2by2
+03:04 [Info] [Better Chat] [Global] [Player] jermonster4: no 1by2
+03:04 [Info] [Better Chat] [Global] [Player] jermonster4: and now im the most stacked played xD
+03:04 [Warning] [BoxLooters] Saved Boxlooters data
+03:04 [Info] [Better Chat] [Global] [Player] jermonster4: g20 is ur base right?
+03:05 [Info] [Better Chat] [Global] [Player] Kondog: yeah we only probably raided the biggest base on the server
+03:05 [Info] [Better Chat] [Global] [Player] Kondog: yuh
+03:05 [Info] [Better Chat] [Global] [Player] jermonster4: do you have a mini?
+03:06 [Info] [Better Chat] [Global] [Player] jermonster4: where is ur base?
+03:06 [Info] [Better Chat] [Global] [Player] Kondog: no mini
+03:06 [Info] [Advert Messages] Please treat everybody respectfully.
+03:07 [Info] [Better Chat] [Global] [Player] jermonster4: i put a bag down for me
+03:07 [Info] [Better Chat] [Global] [Player] Kondog: im omw now
+03:09 [Info] [Better Chat] [Global] [Player] jermonster4: you coming
+03:09 [Info] [Better Chat] [Global] [Player] Kondog: yeah
+03:09 [Info] [Better Chat] [Global] [Player] jermonster4: ok
+03:09 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+03:14 [Warning] [BoxLooters] Saved Boxlooters data
+03:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:19 [Info] [Better Chat] [Global] [Player] Kondog: if you can find another jack hammer ya would be a legend
+03:19 [Info] [Better Chat] [Global] [Player] jermonster4: its full broke
+03:19 [Info] [Better Chat] [Global] [Player] Kondog: you can repair it
+03:19 [Info] [Better Chat] [Global] [Player] jermonster4: ok
+03:19 [Info] [Better Chat] [Global] [Player] jermonster4: idk i dont have
+03:19 [Info] [Better Chat] [Global] [Player] Kondog: i got it dw
+03:24 [Warning] [BoxLooters] Saved Boxlooters data
+03:26 [Info] [Advert Messages] Welcome to our server, have fun!
+03:30 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-565, 26, 1403) grid area: L5
+03:30 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+03:30 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+03:34 [Warning] [BoxLooters] Saved Boxlooters data
+03:36 [Info] [Advert Messages] Please treat everybody respectfully.
+03:40 [Info] [Better Chat] [Team] [Player] jermonster4: make code lock
+03:40 [Info] [Better Chat] [Global] [Player] Kondog: im out of metal frags
+03:40 [Info] [Better Chat] [Team] [Player] jermonster4: shit
+03:41 [Info] [Better Chat] [Team] [Player] jermonster4: leave the door open no1 will find it
+03:41 [Info] [Better Chat] [Team] [Player] jermonster4: i will put a lock on it
+03:41 [Info] [Better Chat] [Team] [Player] Kondog: i dont have enough for a door either lol
+03:41 [Info] [Better Chat] [Team] [Player] Kondog: i made a code lock
+03:41 [Info] [Better Chat] [Team] [Player] jermonster4: ok
+03:42 [Info] [Better Chat] [Team] [Player] jermonster4: i need to break tc
+03:42 [Info] [Better Chat] [Team] [Player] jermonster4: to get some metal
+03:44 [Warning] [BoxLooters] Saved Boxlooters data
+03:46 [Info] [Better Chat] [Team] [Player] Kondog: i need a tc
+03:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+03:54 [Warning] [BoxLooters] Saved Boxlooters data
+03:55 [Info] [Better Chat] [Team] [Player] jermonster4: ima depo
+03:56 [Info] [Advert Messages] Welcome to our server, have fun!
+04:01 [Info] [Better Chat] [Team] [Player] jermonster4: hey
+04:01 [Info] [Better Chat] [Team] [Player] Kondog: yeah
+04:01 [Info] [Better Chat] [Team] [Player] jermonster4: will you still play?
+04:01 [Info] [Better Chat] [Team] [Player] Kondog: ehh idk
+04:01 [Info] [Better Chat] [Team] [Player] jermonster4: ok
+04:01 [Info] [Better Chat] [Team] [Player] jermonster4: like ima give most the boom to stupid
+04:01 [Info] [Better Chat] [Team] [Player] jermonster4: so he raid you mabye?
+04:01 [Info] [Better Chat] [Team] [Player] Kondog: eh if he wants to idc
+04:01 [Info] [Better Chat] [Team] [Player] jermonster4: ikd ;)
+04:01 [Info] [Better Chat] [Team] [Player] Kondog: i dont have much
+04:02 [Info] [Better Chat] [Team] [Player] jermonster4: well nice to play wiht you
+04:02 [Info] [Better Chat] [Team] [Player] jermonster4: thxs for the loot
+04:02 [Info] [Better Chat] [Team] [Player] Kondog: ofc
+04:02 [Info] [Better Chat] [Team] [Player] jermonster4: tell the ppl we radied whem
+04:02 [Info] [Better Chat] [Team] [Player] Kondog: already did
+04:04 [Info] [Better Chat] [Team] [Player] jermonster4: bye
+04:04 [Info] [Better Chat] [Team] [Player] jermonster4: i got to go
+04:04 [Info] [Better Chat] [Team] [Player] Kondog: goodnight mane
+04:04 [Warning] [BoxLooters] Saved Boxlooters data
+04:06 [Info] [Advert Messages] Please treat everybody respectfully.
+04:14 [Warning] [BoxLooters] Saved Boxlooters data
+04:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:22 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+04:22 [Info] [FancyDrop] Next timed Airdrop in 44 minutes
+04:24 [Warning] [BoxLooters] Saved Boxlooters data
+04:26 [Info] [Advert Messages] Welcome to our server, have fun!
+04:34 [Warning] [BoxLooters] Saved Boxlooters data
+04:36 [Info] [Advert Messages] Please treat everybody respectfully.
+04:44 [Warning] [BoxLooters] Saved Boxlooters data
+04:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:54 [Warning] [BoxLooters] Saved Boxlooters data
+04:56 [Info] [Advert Messages] Welcome to our server, have fun!
+05:04 [Warning] [BoxLooters] Saved Boxlooters data
+05:06 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:06 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+05:06 [Info] [Advert Messages] Please treat everybody respectfully.
+05:14 [Warning] [BoxLooters] Saved Boxlooters data
+05:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:24 [Warning] [BoxLooters] Saved Boxlooters data
+05:26 [Info] [Advert Messages] Welcome to our server, have fun!
+05:34 [Warning] [BoxLooters] Saved Boxlooters data
+05:36 [Info] [Advert Messages] Please treat everybody respectfully.
+05:44 [Warning] [BoxLooters] Saved Boxlooters data
+05:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:53 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-1474, 24, -1418) grid area: F25
+05:53 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+05:53 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+05:54 [Warning] [BoxLooters] Saved Boxlooters data
+05:56 [Info] [Better Chat] [Team] [Player] You Stupid?: yo
+05:56 [Info] [Better Chat] [Global] [Player] You Stupid?: yo
+05:56 [Info] [Better Chat] [Global] [Player] You Stupid?: who is on?
+05:56 [Info] [Advert Messages] Welcome to our server, have fun!
+06:00 [Info] [FancyDrop] Mayz (76561199013423444) looted the Drop at: (-1474, 24, -1418) grid area: F25
+06:05 [Warning] [BoxLooters] Saved Boxlooters data
+06:06 [Info] [Advert Messages] Please treat everybody respectfully.
+06:15 [Warning] [BoxLooters] Saved Boxlooters data
+06:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:25 [Warning] [BoxLooters] Saved Boxlooters data
+06:26 [Info] [Advert Messages] Welcome to our server, have fun!
+06:32 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (389, 58, 440) grid area: S12
+06:32 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+06:32 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+06:35 [Warning] [BoxLooters] Saved Boxlooters data
+06:36 [Info] [Advert Messages] Please treat everybody respectfully.
+06:45 [Warning] [BoxLooters] Saved Boxlooters data
+06:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+06:55 [Warning] [BoxLooters] Saved Boxlooters data
+06:56 [Info] [Advert Messages] Welcome to our server, have fun!
+07:05 [Warning] [BoxLooters] Saved Boxlooters data
+07:06 [Info] [Advert Messages] Please treat everybody respectfully.
+07:09 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1138, 40, 1234) grid area: X6
+07:09 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+07:09 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+07:15 [Warning] [BoxLooters] Saved Boxlooters data
+07:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:25 [Warning] [BoxLooters] Saved Boxlooters data
+07:26 [Info] [Advert Messages] Welcome to our server, have fun!
+07:35 [Warning] [BoxLooters] Saved Boxlooters data
+07:36 [Info] [Advert Messages] Please treat everybody respectfully.
+07:45 [Warning] [BoxLooters] Saved Boxlooters data
+07:46 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (142, 75, 649) grid area: Q10
+07:46 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+07:46 [Info] [FancyDrop] Next timed Airdrop in 52 minutes
+07:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:53 [Info] [Better Chat] [Team] [Player] LO Mein: sad
+07:53 [Info] [Better Chat] [Team] [Player] LO Mein: ASD
+07:55 [Warning] [BoxLooters] Saved Boxlooters data
+07:56 [Info] [Advert Messages] Welcome to our server, have fun!
+08:04 [Info] [Better Chat] [Global] [Player] jermonster4: stupid you online?
+08:05 [Warning] [BoxLooters] Saved Boxlooters data
+08:06 [Info] [Advert Messages] Please treat everybody respectfully.
+08:10 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+08:15 [Warning] [BoxLooters] Saved Boxlooters data
+08:15 [Info] [Better Chat] [Team] [Player] LO Mein: g['qaswdewwqw
+08:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:25 [Warning] [BoxLooters] Saved Boxlooters data
+08:26 [Info] [Advert Messages] Welcome to our server, have fun!
+08:35 [Warning] [BoxLooters] Saved Boxlooters data
+08:36 [Info] [Advert Messages] Please treat everybody respectfully.
+08:38 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (500, 63, -356) grid area: S17
+08:38 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+08:38 [Info] [FancyDrop] Next timed Airdrop in 31 minutes
+08:45 [Warning] [BoxLooters] Saved Boxlooters data
+08:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:51 [Info] [Better Chat] [Team] [Player] LO Mein: dont say anything but look
+08:55 [Warning] [BoxLooters] Saved Boxlooters data
+08:56 [Info] [Advert Messages] Welcome to our server, have fun!
+08:57 [Info] [Better Chat] [Global] [Player] jermonster4: hello
+08:57 [Info] [Better Chat] [Global] [Player] jermonster4: who is online?
+09:01 [Info] [Better Chat] [Global] [Player] Nate: who in here
+09:01 [Info] [Better Chat] [Global] [Player] LO Mein: he;;p
+09:01 [Info] [Better Chat] [Global] [Player] LO Mein: big
+09:02 [Info] [Better Chat] [Global] [Player] LO Mein: c1ber sh
+09:05 [Warning] [BoxLooters] Saved Boxlooters data
+09:06 [Info] [Advert Messages] Please treat everybody respectfully.
+09:09 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (545, 28, -521) grid area: T18
+09:09 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+09:09 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+09:15 [Warning] [BoxLooters] Saved Boxlooters data
+09:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:25 [Warning] [BoxLooters] Saved Boxlooters data
+09:26 [Info] [Advert Messages] Welcome to our server, have fun!
+09:32 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+09:35 [Warning] [BoxLooters] Saved Boxlooters data
+09:36 [Info] [Advert Messages] Please treat everybody respectfully.
+09:39 [Info] [Better Chat] [Global] [Player] jermonster4: hallo
+09:39 [Info] [Better Chat] [Global] [Player] Nate: yo
+09:39 [Info] [Better Chat] [Global] [Player] jermonster4: nate
+09:40 [Info] [Better Chat] [Global] [Player] jermonster4: ur from o13 right
+09:40 [Info] [Better Chat] [Global] [Player] Nate: ye
+09:40 [Info] [Better Chat] [Global] [Player] jermonster4: its got raided
+09:40 [Info] [Better Chat] [Global] [Player] Nate: ur from g20 right?
+09:40 [Info] [Better Chat] [Global] [Player] Nate: it got raided
+09:40 [Info] [Better Chat] [Global] [Player] Nate: sry
+09:40 [Info] [Better Chat] [Global] [Player] jermonster4: no
+09:40 [Info] [Better Chat] [Global] [Player] jermonster4: i want to say that i leeked the coords of ur base
+09:40 [Info] [Better Chat] [Global] [Player] jermonster4: cuz no1 was online at the time
+09:41 [Info] [Better Chat] [Global] [Player] Nate: oh well we raided the people who raided us
+09:41 [Info] [Better Chat] [Global] [Player] jermonster4: so i just said
+09:41 [Info] [Better Chat] [Global] [Player] Nate: and they quit
+09:41 [Info] [Better Chat] [Global] [Player] jermonster4: funny g20 ppl raided you
+09:41 [Info] [Better Chat] [Global] [Player] jermonster4: im sorry for ur lose
+09:41 [Info] [Better Chat] [Global] [Player] Nate: we got it all back + more
+09:42 [Info] [Better Chat] [Global] [Player] Nate: all good
+09:42 [Info] [Better Chat] [Global] [Player] jermonster4: fr
+09:42 [Info] [Better Chat] [Global] [Player] jermonster4: i got ur stuff
+09:42 [Info] [Better Chat] [Global] [Player] Nate: oh where u live
+09:42 [Info] [Better Chat] [Global] [Player] jermonster4: not elling i dont want to get raided
+09:43 [Info] [Better Chat] [Global] [Player] Nate: k
+09:43 [Info] [Better Chat] [Global] [Player] jermonster4: do you know some1 named you stupid?
+09:43 [Info] [Better Chat] [Global] [Player] Nate: yea
+09:43 [Info] [Better Chat] [Global] [Player] jermonster4: okey
+09:43 [Info] [Better Chat] [Global] [Player] jermonster4: ggs
+09:44 [Info] [Better Chat] [Global] [Player] jermonster4: i helped in the raided
+09:44 [Info] [Better Chat] [Global] [Player] jermonster4: i helped raid
+09:44 [Info] [Better Chat] [Global] [Player] jermonster4: its was my first raid ever
+09:44 [Info] [Better Chat] [Global] [Player] jermonster4: so ggs
+09:44 [Info] [Better Chat] [Global] [Player] jermonster4: i hope ur not mad
+09:44 [Info] [Better Chat] [Global] [Player] jermonster4: like im still learning rust
+09:44 [Info] [Better Chat] [Global] [Player] Nate: ur g
+09:45 [Info] [Better Chat] [Global] [Player] Nate: u play with kondog right?
+09:45 [Warning] [BoxLooters] Saved Boxlooters data
+09:45 [Info] [Better Chat] [Global] [Player] Nate: get him back on
+09:45 [Info] [Better Chat] [Global] [Player] Nate: idk why he quit
+09:45 [Info] [Better Chat] [Global] [Player] jermonster4: i helped kondog with raiding you
+09:45 [Info] [Better Chat] [Global] [Player] Nate: and you stupid?
+09:45 [Info] [Better Chat] [Global] [Player] Nate: they both raided us?
+09:45 [Info] [Better Chat] [Global] [Player] jermonster4: no he was offline
+09:45 [Info] [Better Chat] [Global] [Player] jermonster4: just me and kondog
+09:45 [Info] [Better Chat] [Global] [Player] Nate: so why u say you stupid?
+09:46 [Info] [Better Chat] [Global] [Player] Nate: u raided him?
+09:46 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (891, 28, 371) grid area: V12
+09:46 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+09:46 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+09:46 [Info] [Better Chat] [Global] [Player] jermonster4: no
+09:46 [Info] [Better Chat] [Global] [Player] jermonster4: just wanted to see if you knew him
+09:46 [Info] [Better Chat] [Global] [Player] Nate: ah
+09:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+09:46 [Info] [Better Chat] [Global] [Player] jermonster4: allso all ur comps got me 3 and a half rows of hqm
+09:47 [Info] [Better Chat] [Global] [Player] jermonster4: so tysm
+09:48 [Info] [Better Chat] [Global] [Player] jermonster4: well gl on the wipe and ggs ps why did you not but shells in ur shotgun trap lo
+09:48 [Info] [Better Chat] [Global] [Player] jermonster4: afk
+09:48 [Info] [Better Chat] [Global] [Player] Nate: whats ur cords bud
+09:48 [Info] [Better Chat] [Global] [Player] jermonster4: not telling
+09:48 [Info] [Better Chat] [Global] [Player] Nate: k i already know dw
+09:48 [Info] [Better Chat] [Global] [Player] jermonster4: i dont want to get raided
+09:48 [Info] [Better Chat] [Global] [Player] jermonster4: where is it
+09:49 [Info] [Better Chat] [Global] [Player] Nate: dw
+09:49 [Info] [Better Chat] [Global] [Player] Nate: youll see us soon
+09:49 [Info] [Better Chat] [Global] [Player] jermonster4: pls dont raid me :(
+09:49 [Info] [Better Chat] [Global] [Player] Nate: kondog already got raided
+09:49 [Info] [Better Chat] [Global] [Player] Nate: now its ur turn
+09:49 [Info] [Better Chat] [Global] [Player] jermonster4: pls
+09:49 [Info] [Better Chat] [Global] [Player] jermonster4: plsssss
+09:49 [Info] [Better Chat] [Global] [Player] jermonster4: you can have ur stuff
+09:49 [Info] [Better Chat] [Global] [Player] jermonster4: plss
+09:49 [Info] [Better Chat] [Global] [Player] jermonster4: im new
+09:49 [Info] [Better Chat] [Global] [Player] Nate: give us our m2 and aks back
+09:50 [Info] [Better Chat] [Global] [Player] jermonster4: i got 1 ak and 1 m2
+09:50 [Info] [Better Chat] [Global] [Player] jermonster4: i will give if you dont raid me
+09:50 [Info] [Better Chat] [Global] [Player] Nate: give it back and we cool
+09:50 [Info] [Better Chat] [Global] [Player] jermonster4: bandite
+09:51 [Info] [Better Chat] [Global] [Player] Nate: how yall get so much boom anyway
+09:51 [Info] [Better Chat] [Global] [Player] jermonster4: i didt get it
+09:51 [Info] [Better Chat] [Global] [Player] jermonster4: it was most kondog
+09:51 [Info] [Better Chat] [Global] [Player] Nate: ah
+09:52 [Info] [Better Chat] [Global] [Player] jermonster4: i just played alow
+09:52 [Info] [Better Chat] [Global] [Player] jermonster4: you here
+09:52 [Info] [Better Chat] [Global] [Player] jermonster4: im at bandite
+09:52 [Info] [Better Chat] [Global] [Player] Nate: nah ill get it later
+09:52 [Info] [Better Chat] [Global] [Player] jermonster4: well i got to go
+09:52 [Info] [Better Chat] [Global] [Player] Nate: its fine ill get it another time
+09:53 [Info] [Better Chat] [Global] [Player] jermonster4: and i dont want to get raided
+09:53 [Info] [Better Chat] [Global] [Player] Nate: ur fine dw
+09:53 [Info] [Better Chat] [Global] [Player] jermonster4: irl
+09:53 [Info] [Better Chat] [Global] [Player] jermonster4: he mostly wanted to raid you guys
+09:53 [Info] [Better Chat] [Global] [Player] Nate: tell kondog and all them to get back on tho
+09:53 [Info] [Better Chat] [Global] [Player] Nate: idk why they quit
+09:53 [Info] [Better Chat] [Global] [Player] jermonster4: so ur cool?
+09:53 [Info] [Better Chat] [Global] [Player] jermonster4: we cool?
+09:53 [Info] [Better Chat] [Global] [Player] Nate: ye
+09:53 [Info] [Better Chat] [Global] [Player] jermonster4: k
+09:54 [Info] [Better Chat] [Global] [Player] jermonster4: afk bye
+09:55 [Warning] [BoxLooters] Saved Boxlooters data
+09:56 [Info] [Advert Messages] Welcome to our server, have fun!
+10:05 [Warning] [BoxLooters] Saved Boxlooters data
+10:06 [Info] [Advert Messages] Please treat everybody respectfully.
+10:15 [Warning] [BoxLooters] Saved Boxlooters data
+10:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:22 [Info] [Better Chat] [Global] [Player] jermonster4: nate
+10:23 [Info] [Better Chat] [Global] [Player] jermonster4: any1
+10:23 [Info] [Better Chat] [Global] [Player] jermonster4: any1 hello
+10:24 [Info] [Better Chat] [Global] [Player] jermonster4: guys
+10:24 [Info] [Better Chat] [Global] [Player] jermonster4: nate are you going to raid me
+10:25 [Warning] [BoxLooters] Saved Boxlooters data
+10:25 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-157, 8, -1233) grid area: O23
+10:25 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+10:25 [Info] [FancyDrop] Next timed Airdrop in 57 minutes
+10:26 [Info] [Advert Messages] Welcome to our server, have fun!
+10:35 [Warning] [BoxLooters] Saved Boxlooters data
+10:35 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+10:36 [Info] [Advert Messages] Please treat everybody respectfully.
+10:44 [Info] [Better Chat] [Global] [Player] VGTxSavage: who is online?
+10:45 [Warning] [BoxLooters] Saved Boxlooters data
+10:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:55 [Warning] [BoxLooters] Saved Boxlooters data
+10:56 [Info] [Advert Messages] Welcome to our server, have fun!
+11:05 [Warning] [BoxLooters] Saved Boxlooters data
+11:06 [Info] [Advert Messages] Please treat everybody respectfully.
+11:15 [Warning] [BoxLooters] Saved Boxlooters data
+11:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:22 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (50, 30, -341) grid area: P17
+11:22 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+11:22 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+11:23 [Info] [Better Chat] [Team] [Player] fluikas: hi
+11:23 [Info] [Better Chat] [Global] [Player] fluikas: anyone here
+11:25 [Warning] [BoxLooters] Saved Boxlooters data
+11:26 [Info] [Advert Messages] Welcome to our server, have fun!
+11:35 [Warning] [BoxLooters] Saved Boxlooters data
+11:36 [Info] [Advert Messages] Please treat everybody respectfully.
+11:43 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+11:45 [Warning] [BoxLooters] Saved Boxlooters data
+11:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:55 [Warning] [BoxLooters] Saved Boxlooters data
+11:56 [Info] [Advert Messages] Welcome to our server, have fun!
+12:02 [Info] [Better Chat] [Global] [Player] Nate: yo flux
+12:02 [Info] [Better Chat] [Global] [Player] Nate: u in here
+12:05 [Warning] [BoxLooters] Saved Boxlooters data
+12:05 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-488, 14, -1151) grid area: M23
+12:05 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+12:05 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+12:06 [Info] [Advert Messages] Please treat everybody respectfully.
+12:15 [Warning] [BoxLooters] Saved Boxlooters data
+12:15 [Info] [Better Chat] [Global] [Player] Nate: who here
+12:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:25 [Warning] [BoxLooters] Saved Boxlooters data
+12:26 [Info] [Advert Messages] Welcome to our server, have fun!
+12:35 [Warning] [BoxLooters] Saved Boxlooters data
+12:36 [Info] [Advert Messages] Please treat everybody respectfully.
+12:45 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-977, 28, -884) grid area: I21
+12:45 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+12:45 [Info] [FancyDrop] Next timed Airdrop in 33 minutes
+12:45 [Warning] [BoxLooters] Saved Boxlooters data
+12:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+12:46 [Info] [Better Chat] [Global] [Player] Mayz: yo tim
+12:46 [Info] [Better Chat] [Global] [Player] Mayz: why you kill me boss
+12:47 [Info] [Better Chat] [Global] [Player] Mayz: ?
+12:47 [Info] [Better Chat] [Global] [Player] Nate: he not in
+12:49 [Info] [FancyDrop] Mayz (76561199013423444) looted the Drop at: (-978, 28, -884) grid area: I21
+12:54 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+12:55 [Warning] [BoxLooters] Saved Boxlooters data
+12:56 [Info] [Advert Messages] Welcome to our server, have fun!
+13:05 [Warning] [BoxLooters] Saved Boxlooters data
+13:06 [Info] [Advert Messages] Please treat everybody respectfully.
+13:06 [Info] [Better Chat] [Global] [Player] Nate: yo mayz
+13:06 [Info] [Better Chat] [Global] [Player] Nate: where u live
+13:15 [Warning] [BoxLooters] Saved Boxlooters data
+13:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:17 [Info] [Better Chat] [Global] [Player] fluikas: WHO
+13:18 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1321, 23, -1406) grid area: Y24
+13:18 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+13:18 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+13:25 [Warning] [BoxLooters] Saved Boxlooters data
+13:26 [Info] [Advert Messages] Welcome to our server, have fun!
+13:35 [Warning] [BoxLooters] Saved Boxlooters data
+13:36 [Info] [Advert Messages] Please treat everybody respectfully.
+13:45 [Warning] [BoxLooters] Saved Boxlooters data
+13:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:55 [Warning] [BoxLooters] Saved Boxlooters data
+13:56 [Info] [Advert Messages] Welcome to our server, have fun!
+14:01 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:01 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+14:05 [Warning] [BoxLooters] Saved Boxlooters data
+14:06 [Info] [Advert Messages] Please treat everybody respectfully.
+14:15 [Warning] [BoxLooters] Saved Boxlooters data
+14:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:25 [Warning] [BoxLooters] Saved Boxlooters data
+14:26 [Info] [Advert Messages] Welcome to our server, have fun!
+14:35 [Warning] [BoxLooters] Saved Boxlooters data
+14:36 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+14:36 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+14:36 [Info] [Advert Messages] Please treat everybody respectfully.
+14:45 [Warning] [BoxLooters] Saved Boxlooters data
+14:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:55 [Warning] [BoxLooters] Saved Boxlooters data
+14:56 [Info] [Advert Messages] Welcome to our server, have fun!
+15:05 [Warning] [BoxLooters] Saved Boxlooters data
+15:06 [Info] [Advert Messages] Please treat everybody respectfully.
+15:15 [Warning] [BoxLooters] Saved Boxlooters data
+15:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:19 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+15:22 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (19, 29, -1147) grid area: P23
+15:22 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:22 [Info] [FancyDrop] Next timed Airdrop in 54 minutes
+15:25 [Warning] [BoxLooters] Saved Boxlooters data
+15:26 [Info] [Advert Messages] Welcome to our server, have fun!
+15:29 [Info] [Better Chat] [Team] [Player] iixjell0: 1
+15:29 [Info] [Better Chat] [Global] [Player] iixjell0: 1
+15:31 [Info] [Better Chat] [Team] [Player] LO Mein: G
+15:35 [Warning] [BoxLooters] Saved Boxlooters data
+15:36 [Info] [Advert Messages] Please treat everybody respectfully.
+15:45 [Warning] [BoxLooters] Saved Boxlooters data
+15:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+15:55 [Warning] [BoxLooters] Saved Boxlooters data
+15:56 [Info] [Advert Messages] Welcome to our server, have fun!
+16:05 [Warning] [BoxLooters] Saved Boxlooters data
+16:06 [Info] [Advert Messages] Please treat everybody respectfully.
+16:15 [Warning] [BoxLooters] Saved Boxlooters data
+16:16 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (1365, 29, -800) grid area: Y20
+16:16 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+16:16 [Info] [FancyDrop] Next timed Airdrop in 40 minutes
+16:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:25 [Warning] [BoxLooters] Saved Boxlooters data
+16:26 [Info] [Advert Messages] Welcome to our server, have fun!
+16:27 [Info] [FancyDrop] SupplySignal thrown by 'LO Mein' at: (152.7, 57.0, 1154.5)
+16:27 [Info] [FancyDrop] SupplySignal thrown by 'LO Mein' at: (153.2, 57.0, 1156.2)
+16:32 [Info] [FancyDrop] LO Mein (76561199169977600) looted the Drop at: (150, 57, 1162) grid area: Q7
+16:32 [Info] [FancyDrop] LO Mein (76561199169977600) looted the Drop at: (134, 57, 1162) grid area: Q7
+16:35 [Warning] [BoxLooters] Saved Boxlooters data
+16:36 [Info] [Advert Messages] Please treat everybody respectfully.
+16:45 [Warning] [BoxLooters] Saved Boxlooters data
+16:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:51 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+16:51 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+16:51 [Warning] Calling 'Unload' on 'AdminHammer v1.13.0' took 278ms
+16:51 [Info] Unloaded plugin AdminHammer v1.13.0 by mvrb
+16:51 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+16:51 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+16:51 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+16:51 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+16:51 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+16:51 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+16:51 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+16:51 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 236ms
+16:51 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+16:51 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+16:51 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+16:51 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+16:51 [Warning] [BoxLooters] Saved Boxlooters data
+16:51 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+16:51 [Warning] Calling 'Unload' on 'FancyDrop v3.2.2' took 822ms
+16:51 [Info] Unloaded plugin FancyDrop v3.2.2 by FastBurst
+16:51 [Info] Unloaded plugin Freeze v3.0.2 by Wulf
+16:51 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+16:51 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 236ms
+16:51 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+16:51 [Info] Unloaded plugin Group Limits v3.0.3 by misticos
+16:51 [Info] Unloaded plugin Inventory Viewer v4.0.5 by Whispers88
+16:51 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+16:51 [Info] Unloaded plugin Loot Multiplier v1.2.2 by Orange
+16:51 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+16:51 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+16:51 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+16:51 [Info] Unloaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+16:51 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+16:51 [Info] Unloaded plugin ServerPop v1.0.0 by Mabel
+16:51 [Info] Unloaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+16:51 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+17:02 [Info] Loading Oxide Core v2.0.4048...
+17:02 [Info] Loading extensions...
+17:02 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+17:02 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:02 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+17:02 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:02 [Info] Unity version: 2019.4.7f1
+17:02 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:02 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:02 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:02 [Info] Using Covalence provider for game 'Rust'
+17:02 [Info] Loading plugins...
+17:02 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+17:02 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:02 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+17:02 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, Freeze, FurnaceSplitter, GatherManager, GroupLimits, InventoryViewer, Kits, LootMultiplier, NavMeshErrorFix, NoGiveNotices, NTeleportation, PermsUI, PlayerAdministration, RemoverTool, ServerPop, ServerRewards and Vanish were compiled successfully in 0ms
+17:02 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:02 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+17:02 [Info] [Admin Deep Cover] Data File Loaded
+17:02 [Warning] [Admin Deep Cover] Initialized
+17:02 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+17:02 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+17:02 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+17:02 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+17:02 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+17:02 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+17:02 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:02 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+17:02 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:02 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:02 [Warning] [Auto Stash Traps] Config Loaded
+17:02 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+17:02 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+17:02 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+17:02 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+17:02 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:02 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+17:02 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+17:02 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:02 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:03 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+17:03 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:03 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+17:03 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+17:03 [Info] Loaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+17:03 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:03 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+17:03 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+17:03 [Info] Loaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:03 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:03 [Info] Loaded plugin ServerPop v1.0.0 by Mabel
+17:03 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:03 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+17:07 [Info] Loading Oxide Core v2.0.4048...
+17:07 [Info] Loading extensions...
+17:07 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+17:07 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:07 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+17:07 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:07 [Info] Unity version: 2019.4.7f1
+17:07 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:07 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:07 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:07 [Info] Using Covalence provider for game 'Rust'
+17:07 [Info] Loading plugins...
+17:07 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+17:07 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:07 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+17:07 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, Freeze, FurnaceSplitter, GatherManager, GroupLimits, InventoryViewer, Kits, LootMultiplier, NavMeshErrorFix, NoGiveNotices, NTeleportation, PermsUI, PlayerAdministration, RemoverTool, ServerPop, ServerRewards and Vanish were compiled successfully in 0ms
+17:07 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:07 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+17:07 [Info] [Admin Deep Cover] Data File Loaded
+17:07 [Warning] [Admin Deep Cover] Initialized
+17:07 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+17:07 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+17:07 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+17:07 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+17:07 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+17:07 [Info] [Advert Messages] Advert Messages is showing adverts every 10 minutes.
+17:07 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:07 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+17:07 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:07 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:07 [Warning] [Auto Stash Traps] Config Loaded
+17:07 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+17:07 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+17:07 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+17:07 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+17:07 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:07 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+17:07 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+17:07 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:07 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:07 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+17:07 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:07 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+17:07 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+17:07 [Info] Loaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+17:07 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:07 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+17:07 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+17:07 [Info] Loaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:07 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:07 [Info] Loaded plugin ServerPop v1.0.0 by Mabel
+17:07 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:07 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+17:27 [Info] Loading Oxide Core v2.0.4048...
+17:27 [Info] Loading extensions...
+17:27 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+17:27 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:27 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+17:27 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:27 [Info] Unity version: 2019.4.7f1
+17:27 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:27 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:27 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:27 [Info] Using Covalence provider for game 'Rust'
+17:27 [Info] Loading plugins...
+17:27 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+17:27 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:27 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+17:27 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdminToggle, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, Freeze, FurnaceSplitter, GatherManager, GroupLimits, InventoryViewer, Kits, LootMultiplier, NavMeshErrorFix, NoGiveNotices, NTeleportation, PermsUI, PlayerAdministration, RemoverTool, ServerPop, ServerRewards and Vanish were compiled successfully in 0ms
+17:27 [Error] Error while compiling: AdminMap.cs(96,43): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+17:27 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:27 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+17:27 [Info] [Admin Deep Cover] Data File Loaded
+17:27 [Warning] [Admin Deep Cover] Initialized
+17:27 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+17:27 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+17:27 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+17:27 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+17:27 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+17:27 [Info] Loaded plugin Admin Toggle v1.0.6 by Talha
+17:27 [Info] [Advert Messages] Advert Messages is showing adverts every 30 minutes.
+17:27 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:27 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+17:27 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:27 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:27 [Warning] [Auto Stash Traps] Config Loaded
+17:27 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+17:27 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+17:27 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+17:27 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+17:27 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:27 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+17:27 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+17:27 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:27 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:27 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+17:27 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:27 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+17:27 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+17:27 [Info] Loaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+17:27 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:27 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+17:27 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+17:27 [Info] Loaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:27 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:27 [Info] Loaded plugin ServerPop v1.0.0 by Mabel
+17:27 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:27 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+17:32 [Info] IP address from external API: 54.39.130.194
+17:32 [Warning] [BoxLooters] Detected map wipe, resetting loot data!
+17:32 [Warning] [BoxLooters] Saved Boxlooters data
+17:32 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:32 [Info] [FancyDrop] Timed Airdrop activated with '1' players between '30' and '60' minutes
+17:32 [Info] [FancyDrop] Builtin Airdrop removed
+17:32 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+17:32 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v3.2.2' took 110ms
+17:32 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 101ms
+17:32 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+17:32 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 151ms
+17:32 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+17:32 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:32 [Info] [Admin Radar] Cached 5142/28816 entities in 6.575998 seconds!
+17:32 [Info] [Auto Stash Traps] 150 Traps Generated
+17:42 [Warning] [BoxLooters] Saved Boxlooters data
+17:45 [Info] Unloaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:45 [Info] Unloaded plugin Admin Deep Cover v2.2.8 by Dana
+17:45 [Warning] Calling 'Unload' on 'AdminHammer v1.13.0' took 108ms
+17:45 [Info] Unloaded plugin AdminHammer v1.13.0 by mvrb
+17:45 [Info] Unloaded plugin Admin Logger v2.4.0 by AK
+17:45 [Info] Unloaded plugin Admin Panel v1.4.7 by nivex
+17:45 [Info] Unloaded plugin Admin Radar v5.1.9 by nivex
+17:45 [Info] Unloaded plugin Admin Toggle v1.0.6 by Talha
+17:45 [Info] Unloaded plugin Advert Messages v3.0.2 by LaserHydra
+17:45 [Info] Unloaded plugin Anti Spam v2.0.2 by MON@H
+17:45 [Info] Unloaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:45 [Info] Unloaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:45 [Warning] Calling 'Unload' on 'AutoStashTraps v0.2.9' took 153ms
+17:45 [Info] Unloaded plugin Auto Stash Traps v0.2.9 by Dana
+17:45 [Info] Unloaded plugin Better Chat v5.2.10 by LaserHydra
+17:45 [Info] Unloaded plugin Better Researching v1.1.4 by Arainrr
+17:45 [Info] Unloaded plugin Bodies to Bags v1.0.1 by Ryan
+17:45 [Warning] [BoxLooters] Saved Boxlooters data
+17:45 [Info] Unloaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:45 [Warning] Calling 'Unload' on 'FancyDrop v3.2.2' took 372ms
+17:45 [Info] Unloaded plugin FancyDrop v3.2.2 by FastBurst
+17:45 [Info] Unloaded plugin Freeze v3.0.2 by Wulf
+17:45 [Info] Unloaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:45 [Warning] Calling 'Unload' on 'GatherManager v2.2.78' took 111ms
+17:45 [Info] Unloaded plugin Gather Manager v2.2.78 by Mughisi
+17:45 [Info] Unloaded plugin Group Limits v3.0.3 by misticos
+17:45 [Info] Unloaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:45 [Info] Unloaded plugin Kits v4.2.0 by k1lly0u
+17:45 [Info] Unloaded plugin Loot Multiplier v1.2.2 by Orange
+17:45 [Info] Unloaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+17:45 [Info] Unloaded plugin No Give Notices v0.3.0 by Wulf
+17:45 [Info] Unloaded plugin NTeleportation v1.7.0 by nivex
+17:45 [Info] Unloaded plugin Perms UI v1.3.0 by Camoec
+17:45 [Info] Unloaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:45 [Info] Unloaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:45 [Info] Unloaded plugin ServerPop v1.0.0 by Mabel
+17:45 [Info] Unloaded plugin Vanish v1.6.6 by Whispers88
+17:46 [Info] Loading Oxide Core v2.0.4048...
+17:46 [Info] Loading extensions...
+17:46 [Info] Loaded extension CSharp v2.0.4056 by Oxide Team and Contributors
+17:46 [Info] Loaded extension MySql v2.0.3772 by Oxide Team and Contributors
+17:46 [Info] Loaded extension Rust v2.0.5625 by Oxide Team and Contributors
+17:46 [Info] Loaded extension SQLite v2.0.3804 by Oxide Team and Contributors
+17:46 [Info] Unity version: 2019.4.7f1
+17:46 [Info] Loaded extension Unity v2.0.3777 by Oxide Team and Contributors
+17:46 [Info] Latest compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:46 [Info] Local compiler MD5: 5fbca0bf39b1c09ddf2fb3686b869242
+17:46 [Info] Using Covalence provider for game 'Rust'
+17:46 [Info] Loading plugins...
+17:46 [Info] Loaded plugin Rust v2.0.5625 by Oxide Team and Contributors
+17:46 [Info] Loaded plugin Unity v2.0.3777 by Oxide Team and Contributors
+17:46 [Error] BetterChatFilter plugin requires missing dependency: BetterChatMute
+17:46 [Info] AdminAntiHackFix, AdminDeepCover, AdminHammer, AdminLogger, AdminPanel, AdminRadar, AdminToggle, AdvertMessages, AntiSpam, AutoDecay, AutomaticPluginUpdater, AutoStashTraps, BetterChat, BetterResearching, BodiesToBags, BoxLooters, FancyDrop, Freeze, FurnaceSplitter, GatherManager, GroupLimits, InventoryViewer, Kits, LootMultiplier, NavMeshErrorFix, NoGiveNotices, NTeleportation, PermsUI, PlayerAdministration, RemoverTool, ServerPop, ServerRewards and Vanish were compiled successfully in 0ms
+17:46 [Error] Error while compiling: AdminMap.cs(96,43): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+17:46 [Info] Loaded plugin Admin AntiHack Fix v1.0.0 by Solarix
+17:46 [Warning] Duplicate permission registered 'admindeepcover.use' (by plugin 'Admin Deep Cover')
+17:46 [Info] [Admin Deep Cover] Data File Loaded
+17:46 [Warning] [Admin Deep Cover] Initialized
+17:46 [Info] Loaded plugin Admin Deep Cover v2.2.8 by Dana
+17:46 [Info] Loaded plugin AdminHammer v1.13.0 by mvrb
+17:46 [Info] Loaded plugin Admin Logger v2.4.0 by AK
+17:46 [Info] Loaded plugin Admin Panel v1.4.7 by nivex
+17:46 [Info] Loaded plugin Admin Radar v5.1.9 by nivex
+17:46 [Info] Loaded plugin Admin Toggle v1.0.6 by Talha
+17:46 [Info] [Advert Messages] Advert Messages is showing adverts every 30 minutes.
+17:46 [Info] Loaded plugin Advert Messages v3.0.2 by LaserHydra
+17:46 [Info] Loaded plugin Anti Spam v2.0.2 by MON@H
+17:46 [Info] Loaded plugin Auto Decay v1.3.0 by Hougan/Arainrr
+17:46 [Info] Loaded plugin Automatic Plugin Updater v1.5.5 by birthdates
+17:46 [Warning] [Auto Stash Traps] Config Loaded
+17:46 [Info] Loaded plugin Auto Stash Traps v0.2.9 by Dana
+17:46 [Info] Loaded plugin Better Chat v5.2.10 by LaserHydra
+17:46 [Info] Loaded plugin Better Researching v1.1.4 by Arainrr
+17:46 [Info] Loaded plugin Bodies to Bags v1.0.1 by Ryan
+17:46 [Info] Loaded plugin BoxLooters v0.3.5 by 4seti / k1lly0u
+17:46 [Info] Loaded plugin FancyDrop v3.2.2 by FastBurst
+17:46 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+17:46 [Info] Loaded plugin Furnace Splitter v2.4.1 by FastBurst
+17:46 [Info] Loaded plugin Gather Manager v2.2.78 by Mughisi
+17:46 [Info] Loaded plugin Group Limits v3.0.3 by misticos
+17:46 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+17:46 [Info] Loaded plugin Kits v4.2.0 by k1lly0u
+17:46 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+17:46 [Info] Loaded plugin Nav Mesh Error Fix v1.1.1 by Ryz0r
+17:46 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+17:46 [Info] Loaded plugin NTeleportation v1.7.0 by nivex
+17:46 [Info] Loaded plugin Perms UI v1.3.0 by Camoec
+17:46 [Info] Loaded plugin PlayerAdministration v1.6.7 by ThibmoRozier
+17:46 [Info] Loaded plugin Remover Tool v4.3.35 by Reneb/Fuji/Arainrr
+17:46 [Info] Loaded plugin ServerPop v1.0.0 by Mabel
+17:46 [Info] Loaded plugin Server Rewards v0.4.73 by k1lly0u
+17:46 [Info] Loaded plugin Vanish v1.6.6 by Whispers88
+17:48 [Info] IP address from external API: 54.39.130.194
+17:48 [Warning] [BoxLooters] Attempting to remove old log entries
+17:48 [Warning] [BoxLooters] Removed 0 old records from BoxData
+17:48 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+17:48 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+17:48 [Info] [FancyDrop] Timed Airdrop activated with '1' players between '30' and '60' minutes
+17:48 [Info] [FancyDrop] Builtin Airdrop removed
+17:48 [Info] [FancyDrop] Next timed Airdrop in 56 minutes
+17:48 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v3.2.2' took 106ms
+17:48 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 102ms
+17:48 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+17:48 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 163ms
+17:48 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+17:48 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+17:49 [Info] [Admin Radar] Cached 1128/30453 entities in 6.8993446 seconds!
+17:49 [Info] [Auto Stash Traps] 150 Traps Generated
+17:56 [Info] [Admin Logger] [08/26/2022 17:56:15] Helk [76561198977454718] connected.
+17:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:56 [Info] [Admin Logger] [08/26/2022 17:56:18] Helk [76561198977454718] disabled Godmode.
+17:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:57 [Info] [Admin Logger] [08/26/2022 17:57:05] Void [76561198977454718] gave themselves 1 x rifle.ak.
+17:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:57 [Info] [Admin Logger] [08/26/2022 17:57:15] Void [76561198977454718] opened Padmin Menu.
+17:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:57 [Info] [Admin Logger] [08/26/2022 17:57:17] Void [76561198977454718] closed Padmin Menu.
+17:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:57 [Info] [Admin Logger] [08/26/2022 17:57:38] Void [76561198977454718] opened Padmin Menu.
+17:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:57 [Info] [Admin Logger] [08/26/2022 17:57:42] Void [76561198977454718] closed Padmin Menu.
+17:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+17:59 [Warning] [BoxLooters] Saved Boxlooters data
+18:01 [Info] [Admin Logger] [08/26/2022 18:01:08] Void [76561198977454718] disconnected.
+18:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:01 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+18:01 [Info] [Better Chat] [Global] [Player] ZerkzAU: Hallo
+18:02 [Info] [Admin Logger] [08/26/2022 18:02:42] Void [76561198977454718] connected.
+18:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:02 [Info] [Admin Logger] [08/26/2022 18:02:43] Void [76561198977454718] disabled Godmode.
+18:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:04 [Info] [Admin Logger] [08/26/2022 18:04:44] Void [76561198977454718] closed Padmin Menu.
+18:04 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:04 [Info] [Admin Logger] [08/26/2022 18:04:55] Void [76561198977454718] closed Padmin Menu.
+18:04 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:05 [Info] Group 'admin' granted permission 'admintoggle.use'
+18:08 [Info] [Admin Logger] [08/26/2022 18:08:25] Void [76561198977454718] enabled Noclip.
+18:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:08 [Info] [Admin Logger] [08/26/2022 18:08:30] Void [76561198977454718] disabled Noclip.
+18:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:08 [Info] Unloaded plugin Admin Toggle v1.0.6 by Talha
+18:08 [Info] [Admin Logger] [08/26/2022 18:08:43] Void [76561198977454718] disconnected.
+18:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:09 [Warning] [BoxLooters] Saved Boxlooters data
+18:12 [Info] [Admin Logger] [08/26/2022 18:12:27] Void [76561198977454718] connected.
+18:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:12 [Info] [Admin Logger] [08/26/2022 18:12:28] Void [76561198977454718] disabled Godmode.
+18:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:12 [Info] [Admin Logger] [08/26/2022 18:12:48] Void [76561198977454718] enabled Noclip.
+18:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:12 [Info] [Admin Logger] [08/26/2022 18:12:56] Void [76561198977454718] Froze player ZerkzAU [76561199085025175] using Padmin.
+18:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:12 [Info] [Admin Logger] [08/26/2022 18:12:58] Void [76561198977454718] viewed Inventory of player ZerkzAU [76561199085025175] using Padmin.
+18:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:14 [Info] [Admin Logger] [08/26/2022 18:14:08] Void [76561198977454718] closed Padmin Menu.
+18:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:14 [Info] [Admin Logger] [08/26/2022 18:14:12] Void [76561198977454718] teleported to ZerkzAU [76561199085025175] using Padmin.
+18:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:14 [Info] [Admin Logger] [08/26/2022 18:14:13] Void [76561198977454718] closed Padmin Menu.
+18:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:16 [Info] [Advert Messages] Welcome to our server, have fun!
+18:19 [Info] [Admin Logger] [08/26/2022 18:19:21] Void [76561198977454718] disconnected.
+18:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:20 [Warning] [BoxLooters] Saved Boxlooters data
+18:30 [Warning] [BoxLooters] Saved Boxlooters data
+18:38 [Info] [Better Chat] [Global] [Player] LO Mein: AHHH
+18:38 [Info] [Better Chat] [Global] [Player] Nate: yo
+18:38 [Info] [Better Chat] [Global] [Player] LO Mein: BIG C1BER SHI
+18:38 [Info] [Better Chat] [Global] [Player] LO Mein: fuc u nate
+18:39 [Info] [Better Chat] [Global] [Player] LO Mein: tak u in here gangster?
+18:39 [Info] [Better Chat] [Global] [Player] ZerkzAU: i dont think he is
+18:39 [Info] [Better Chat] [Global] [Player] ZerkzAU: guys if we see pinapple please all agree to not kill eachother and focus on him?
+18:40 [Info] [Better Chat] [Global] [Player] ZerkzAU: YAY CRATES ARE UP
+18:40 [Info] [Better Chat] [Global] [Player] LO Mein: for what
+18:40 [Info] [Better Chat] [Global] [Player] LO Mein: oil?
+18:40 [Info] [Better Chat] [Global] [Player] Hudson: how many people in here?
+18:40 [Info] [Better Chat] [Global] [Player] LO Mein: 4 atm
+18:40 [Info] [Better Chat] [Global] [Player] ZerkzAU: well im at harbor and there is a mil crate here
+18:41 [Info] [Better Chat] [Global] [Player] Hudson: i might make an rp base  until pop spikes
+18:41 [Info] [Better Chat] [Global] [Player] ZerkzAU: how big
+18:41 [Info] [Better Chat] [Global] [Player] Hudson: how big what
+18:42 [Info] [Better Chat] [Global] [Player] Hudson: the base or pop
+18:42 [Info] [Better Chat] [Global] [Player] ZerkzAU: like 2x2 or 2x4 or 4x4
+18:42 [Warning] [BoxLooters] Saved Boxlooters data
+18:42 [Info] [Better Chat] [Global] [Player] Hudson: oh i was thinkin 2x6
+18:42 [Info] [Better Chat] [Global] [Player] LO Mein: wyaaa
+18:42 [Info] [Better Chat] [Global] [Player] ZerkzAU: yall wanna team
+18:42 [Info] [Better Chat] [Global] [Player] LO Mein: where erbody att
+18:42 [Info] [Better Chat] [Global] [Player] LO Mein: i alr got a team
+18:42 [Info] [Better Chat] [Global] [Player] Hudson: im at light house
+18:42 [Info] [Better Chat] [Global] [Player] Hudson: yall wanna make a hotel?
+18:43 [Info] [Better Chat] [Global] [Player] ZerkzAU: sure
+18:43 [Info] [Better Chat] [Global] [Player] ZerkzAU: im not
+18:43 [Info] [Better Chat] [Global] [Player] Hudson: yoo nate
+18:43 [Info] [Better Chat] [Global] [Player] Hudson: u in chat?
+18:43 [Info] [Better Chat] [Global] [Player] Nate: YO
+18:43 [Info] [Better Chat] [Global] [Player] Hudson: yooo
+18:43 [Info] [Better Chat] [Global] [Player] Hudson: whats team limit?
+18:43 [Info] [Better Chat] [Global] [Player] Nate: 4
+18:44 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (215, 9, -979) grid area: L16
+18:44 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:44 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+18:46 [Info] [Advert Messages] Please treat everybody respectfully.
+18:46 [Info] [Better Chat] [Global] [Player] Hudson: goin to harber plz no aggresion
+18:49 [Info] [Better Chat] [Global] [Player] LO Mein: ez m2
+18:49 [Info] [Better Chat] [Global] [Player] Hudson: good shit
+18:50 [Info] [Better Chat] [Global] [Player] ZerkzAU: Nice
+18:50 [Info] [Better Chat] [Global] [Player] Hudson: is it 2x?
+18:50 [Info] [Better Chat] [Global] [Player] ZerkzAU: no 1.5
+18:50 [Info] [Better Chat] [Global] [Player] LO Mein: 1.5
+18:50 [Info] [Better Chat] [Global] [Player] Hudson: gotcha thx
+18:52 [Warning] [BoxLooters] Saved Boxlooters data
+18:57 [Info] [Admin Logger] [08/26/2022 18:57:43] 2k [76561198141581757] connected.
+18:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:57 [Info] [Admin Logger] [08/26/2022 18:57:47] 2k [76561198141581757] disabled Godmode.
+18:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:57 [Info] [Admin Logger] [08/26/2022 18:57:57] 2k [76561198141581757] enabled Noclip.
+18:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:58 [Info] [Admin Logger] [08/26/2022 18:58:12] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+18:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:58 [Info] [Admin Logger] [08/26/2022 18:58:13] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+18:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:58 [Info] [Admin Logger] [08/26/2022 18:58:16] 2k [76561198141581757] closed Padmin Menu.
+18:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+18:59 [Info] [Better Chat] [Global] [Player] Hudson: naaate
+18:59 [Info] [Better Chat] [Global] [Player] Hudson: cmon now
+19:01 [Info] [Better Chat] [Global] [Player] Nate: is that vgt
+19:01 [Info] [Better Chat] [Global] [Player] Nate: hudson
+19:01 [Info] [Better Chat] [Global] [Player] Nate: or diff
+19:01 [Info] [Better Chat] [Global] [Player] Hudson: im at outpost
+19:01 [Info] [Better Chat] [Global] [Player] Hudson: prolly not me
+19:01 [Info] [Better Chat] [Global] [Player] Nate: u play fivem?
+19:01 [Info] [Better Chat] [Global] [Player] Hudson: yea i do
+19:02 [Info] [Better Chat] [Global] [Player] Hudson: i used to play rp
+19:02 [Info] [Better Chat] [Global] [Player] Hudson: but it fell off so i stopped playing
+19:02 [Warning] [BoxLooters] Saved Boxlooters data
+19:03 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+19:06 [Info] [Admin Logger] [08/26/2022 19:06:07] 2k [76561198141581757] disabled Noclip.
+19:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:06 [Info] [Admin Logger] [08/26/2022 19:06:10] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+19:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:06 [Info] [Admin Logger] [08/26/2022 19:06:11] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+19:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:06 [Info] [Admin Logger] [08/26/2022 19:06:12] 2k [76561198141581757] closed Padmin Menu.
+19:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:12 [Warning] [BoxLooters] Saved Boxlooters data
+19:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (743.6, 29.0, -768.7)
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (743.3, 29.0, -767.2)
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (744.7, 29.0, -767.6)
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (743.3, 29.0, -767.2)
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (748.0, 29.0, -764.6)
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (750.9, 29.0, -765.5)
+19:19 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:19 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (749.8, 29.0, -766.5)
+19:20 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:20 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (746.9, 29.0, -765.6)
+19:20 [Info] [Better Chat] [Global] [Player] LO Mein: sada
+19:21 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+19:21 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (751.2, 29.0, -766.9)
+19:22 [Warning] [BoxLooters] Saved Boxlooters data
+19:23 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:23 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (752.0, 29.0, -764.4)
+19:23 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:23 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (752.6, 29.0, -767.4)
+19:23 [Info] [Better Chat] [Global] [Player] fluikas: my base!!
+19:23 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:23 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (741.8, 29.0, -766.8)
+19:23 [Info] [Better Chat] [Global] [Player] fluikas: where does ev1 live
+19:24 [Info] [Better Chat] [Global] [Player] fluikas: map is so much better omg
+19:24 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:24 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (752.0, 29.0, -764.4)
+19:24 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:24 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (752.0, 29.0, -764.4)
+19:25 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:25 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (741.4, 29.0, -770.7)
+19:26 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561198141581757
+19:26 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall.doorway owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (752.0, 29.0, -764.4)
+19:27 [Info] [Better Chat] [Global] [Player] fluikas: nate
+19:27 [Info] [Better Chat] [Team] [Player] Nate: yo
+19:27 [Info] [Better Chat] [Global] [Player] Nate: yo
+19:27 [Info] [Better Chat] [Global] [Player] MrGlass: yo
+19:27 [Info] [Better Chat] [Global] [Player] fluikas: yo
+19:27 [Info] [Better Chat] [Global] [Player] fluikas: where u live
+19:27 [Info] [Better Chat] [Global] [Player] Nate: whats good flux
+19:27 [Info] [Better Chat] [Global] [Player] Nate: idk
+19:27 [Info] [Better Chat] [Global] [Player] fluikas: i have gift for u
+19:27 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198141581757
+19:27 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (753.4, 27.5, -764.1)
+19:27 [Info] [Better Chat] [Global] [Player] MrGlass: d14
+19:27 [Info] [Better Chat] [Global] [Player] LO Mein: d14 on shore
+19:27 [Info] [Better Chat] [Global] [Player] Nate: d14
+19:27 [Info] [AdminHammer] This foundation.steps is owned by www.steamcommunity.com/profiles/76561198141581757
+19:27 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.steps owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (754.9, 27.6, -763.8)
+19:28 [Info] [Better Chat] [Global] [Player] Nate: u coming?
+19:28 [Info] [Better Chat] [Global] [Player] fluikas: sure
+19:28 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:28 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:28 [Info] [AdminHammer] This cupboard.tool.deployed is owned by www.steamcommunity.com/profiles/76561198141581757
+19:28 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a cupboard.tool.deployed owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (747.2, 29.1, -767.1)
+19:31 [Info] [Better Chat] [Global] [Player] fluikas: bag me
+19:31 [Info] [Better Chat] [Global] [Player] MrGlass: nah
+19:31 [Info] [Better Chat] [Global] [Player] fluikas: ytes!
+19:31 [Info] [Better Chat] [Global] [Player] Nate: nah u need the excerise
+19:31 [Info] [Better Chat] [Global] [Player] fluikas: ???
+19:31 [Info] [Better Chat] [Global] [Player] MrGlass: fatass
+19:31 [Info] [Better Chat] [Global] [Player] fluikas: ur a fatass
+19:32 [Warning] [BoxLooters] Saved Boxlooters data
+19:34 [Info] [Better Chat] [Global] [Player] fluikas: this server
+19:34 [Info] [Better Chat] [Global] [Player] fluikas: has rigged spawns
+19:34 [Info] [Better Chat] [Global] [Player] MrGlass: just get good
+19:34 [Info] [Better Chat] [Global] [Player] fluikas: bro ill get angel dunce on here
+19:34 [Info] [Better Chat] [Global] [Player] MrGlass: who?
+19:40 [Info] [Better Chat] [Global] [Player] Nate: tak u here?
+19:40 [Info] [Better Chat] [Global] [Player] Hudson: lets all hit a fleeca after this
+19:40 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:40 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:40 [Info] [AdminHammer] This cupboard.tool.deployed is owned by www.steamcommunity.com/profiles/76561198141581757
+19:40 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a cupboard.tool.deployed owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (747.2, 29.1, -767.1)
+19:41 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:41 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (743.6, 29.0, -768.7)
+19:42 [Warning] [BoxLooters] Saved Boxlooters data
+19:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+19:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (750.5, 29.0, -764.0)
+19:43 [Info] [Better Chat] [Global] [Player] fluikas: 2 AKS?
+19:43 [Info] [Better Chat] [Global] [Player] fluikas: thx void
+19:43 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (382, 12, 987) grid area: M3
+19:43 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+19:43 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+19:46 [Info] [Advert Messages] Welcome to our server, have fun!
+19:46 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:46 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:46 [Info] [AdminHammer] This cupboard.tool.deployed is owned by www.steamcommunity.com/profiles/76561198141581757
+19:46 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a cupboard.tool.deployed owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (747.2, 29.1, -767.1)
+19:46 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:46 [Info] [AdminHammer] 1. 76561198141581757 <color=green> garry </color> (76561198141581757)
+
+19:46 [Info] [AdminHammer] This cupboard.tool.deployed is owned by www.steamcommunity.com/profiles/76561198141581757
+19:46 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a cupboard.tool.deployed owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (747.2, 29.1, -767.1)
+19:47 [Info] [AdminHammer] This wall.doorway is owned by www.steamcommunity.com/profiles/76561198141581757
+19:47 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall.doorway owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (750.5, 29.0, -764.0)
+19:49 [Info] [Better Chat] [Global] [Player] fluikas: S1 GET CRATE
+19:49 [Info] [Better Chat] [Global] [Player] fluikas: ??
+19:51 [Info] [Better Chat] [Global] [Player] Hudson: im gonna down you and pick you back up
+19:51 [Info] [Better Chat] [Global] [Player] Hudson: nvm
+19:51 [Info] [Better Chat] [Global] [Player] MrGlass: a
+19:51 [Info] [Better Chat] [Global] [Player] Hudson: accident
+19:52 [Info] [Admin Logger] [08/26/2022 19:52:20] 2k [76561198141581757] gave themselves 1 x machete.
+19:52 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:52 [Warning] [BoxLooters] Saved Boxlooters data
+19:53 [Info] [Admin Logger] [08/26/2022 19:53:05] 2k [76561198141581757] gave themselves 1 x mace.
+19:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:53 [Info] [Better Chat] [Global] [Player] Hudson: we aint duumb bro
+19:53 [Info] [Admin Logger] [08/26/2022 19:53:27] 2k [76561198141581757] gave themselves 1 x salvaged.cleaver.
+19:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:53 [Info] [Better Chat] [Team] [Player] Justhelix: u have a nasty smell
+19:54 [Info] [Admin Logger] [08/26/2022 19:54:54] 2k [76561198141581757] gave themselves 1 x salvaged.sword.
+19:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:54 [Info] [Admin Logger] [08/26/2022 19:54:54] 2k [76561198141581757] gave themselves 1 x salvaged.sword.
+19:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:57 [Info] [Admin Logger] [08/26/2022 19:57:13] 2k [76561198141581757] gave themselves 1 x spear.stone.
+19:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:58 [Info] [Better Chat] [Global] [Player] LO Mein: TAK
+19:58 [Info] [Better Chat] [Global] [Player] LO Mein: ARE U IN
+19:58 [Info] [Admin Logger] [08/26/2022 19:58:51] 2k [76561198141581757] closed Padmin Menu.
+19:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:00 [Info] [AdminHammer] This block.stair.spiral.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:00 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a block.stair.spiral.triangle owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (746.1, 30.5, -768.1)
+20:00 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:00 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a wall owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (740.7, 29.0, -767.8)
+20:00 [Info] [AdminHammer] 1. 76561198141581757 <color=green> 2k </color> (76561198141581757)
+
+20:00 [Info] [AdminHammer] 1. 76561198141581757 <color=green> 2k </color> (76561198141581757)
+
+20:00 [Info] [AdminHammer] This cupboard.tool.deployed is owned by www.steamcommunity.com/profiles/76561198141581757
+20:00 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a cupboard.tool.deployed owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (746.2, 29.1, -765.8)
+20:02 [Warning] [BoxLooters] Saved Boxlooters data
+20:03 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+20:03 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:03 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a wall owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (745.4, 29.0, -770.6)
+20:08 [Info] [Better Chat] [Global] [Player] fluikas: chill
+20:08 [Info] [AdminHammer] This block.stair.spiral.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:08 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a block.stair.spiral.triangle owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (746.1, 29.0, -768.1)
+20:09 [Info] [Better Chat] [Global] [Player] fluikas: actually loser
+20:09 [Info] [Better Chat] [Global] [Player] fluikas: enjoy the farm bpt
+20:09 [Info] [Better Chat] [Global] [Player] fluikas: cya at the offline
+20:10 [Info] [AdminHammer] This wall.low is owned by www.steamcommunity.com/profiles/76561198141581757
+20:10 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a wall.low owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (746.1, 29.0, -768.1)
+20:10 [Info] [Better Chat] [Global] [Player] MrGlass: ok?
+20:10 [Info] [Better Chat] [Global] [Player] MrGlass: sounds like a you problem assfuck
+20:10 [Info] [Better Chat] [Global] [Player] fluikas: ?
+20:10 [Info] [Better Chat] [Global] [Player] fluikas: uncensor it
+20:10 [Info] [Better Chat] [Global] [Player] fluikas: pus1y
+20:10 [Info] [Better Chat] [Global] [Player] MrGlass: t
+20:10 [Info] [AdminHammer] No owner found for this entity.
+20:10 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a debris.wall owned by [SERVERSPAWN] [0] located at (746.9, 29.0, -765.6)
+20:11 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:11 [Info] [AdminHammer] 2k [76561198141581757] used AdminHammer on a wall owned by <color=green> 2k </color> (76561198141581757) [76561198141581757] located at (745.4, 29.0, -770.6)
+20:11 [Info] [Admin Logger] [08/26/2022 20:11:42] 2k [76561198141581757] gave themselves 1 x longsword.
+20:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:11 [Info] [Better Chat] [Global] [Player] Hudson: sorry
+20:12 [Info] [Admin Logger] [08/26/2022 20:12:23] 2k [76561198141581757] gave themselves 1 x longsword.
+20:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:12 [Warning] [BoxLooters] Saved Boxlooters data
+20:14 [Info] [Admin Logger] [08/26/2022 20:14:30] 2k [76561198141581757] gave themselves 1 x longsword.
+20:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:16 [Info] [Advert Messages] Please treat everybody respectfully.
+20:17 [Info] [Better Chat] [Team] [Player] Justhelix: Pressed?
+20:18 [Info] [Better Chat] [Global] [Player] Hudson: bro why are yall doi nthis
+20:18 [Info] [Better Chat] [Global] [Player] Hudson: pressed over 1 gun?
+20:19 [Info] [Better Chat] [Global] [Player] Hudson: ong werdos
+20:20 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:20 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a floor.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (750.4, 32.0, -769.4)
+20:22 [Warning] [BoxLooters] Saved Boxlooters data
+20:24 [Info] [Better Chat] [Global] [Player] MrGlass: welp youre dumb for letting me in blame your teamate bozo
+20:24 [Info] [Better Chat] [Global] [Player] Hudson: bro we werent trryna be toxic
+20:32 [Warning] [BoxLooters] Saved Boxlooters data
+20:34 [Info] [Better Chat] [Global] [Player] fluikas: SET TIME DAY
+20:36 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198141581757
+20:36 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (662.2, 21.2, -884.1)
+20:36 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:36 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (665.0, 21.2, -883.3)
+20:36 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198141581757
+20:36 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (668.4, 21.2, -887.6)
+20:36 [Info] [AdminHammer] This foundation.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:36 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (666.3, 21.2, -885.5)
+20:38 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:38 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (667.6, 21.2, -886.3)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (663.5, 21.2, -888.9)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (665.6, 21.2, -888.3)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (669.6, 21.2, -881.2)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (667.0, 21.2, -879.7)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (662.9, 21.2, -881.3)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (660.7, 21.2, -884.1)
+20:42 [Warning] [BoxLooters] Saved Boxlooters data
+20:42 [Info] [AdminHammer] This foundation is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a foundation owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (664.2, 21.2, -880.5)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (665.0, 21.2, -881.8)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (665.0, 21.2, -883.3)
+20:42 [Info] [AdminHammer] This wall is owned by www.steamcommunity.com/profiles/76561198141581757
+20:42 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a wall owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (666.3, 21.2, -882.5)
+20:42 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (325, 0, -829) grid area: M15
+20:42 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+20:42 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+20:44 [Info] [AdminHammer] This floor is owned by www.steamcommunity.com/profiles/76561198141581757
+20:44 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a floor owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (664.3, 24.2, -887.6)
+20:44 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:44 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a floor.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (665.5, 24.2, -879.7)
+20:44 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:44 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a floor.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (665.0, 24.2, -881.8)
+20:44 [Info] [AdminHammer] This floor.triangle is owned by www.steamcommunity.com/profiles/76561198141581757
+20:44 [Info] [AdminHammer] garry [76561198141581757] used AdminHammer on a floor.triangle owned by <color=green> garry </color> (76561198141581757) [76561198141581757] located at (666.3, 24.2, -882.5)
+20:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:47 [Info] [Admin Logger] [08/26/2022 20:47:47] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:47 [Info] [Admin Logger] [08/26/2022 20:47:48] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:47 [Info] [Admin Logger] [08/26/2022 20:47:49] 2k [76561198141581757] closed Padmin Menu.
+20:47 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:48 [Info] [FancyDrop] fluikas (76561198316740147) looted the Drop at: (325, 0, -829) grid area: M15
+20:49 [Info] [Admin Logger] [08/26/2022 20:49:39] 2k [76561198141581757] enabled Noclip.
+20:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:50 [Info] [Admin Logger] [08/26/2022 20:50:59] 2k [76561198141581757] disabled Noclip.
+20:50 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:52 [Warning] [BoxLooters] Saved Boxlooters data
+20:54 [Info] [Admin Logger] [08/26/2022 20:54:16] 2k [76561198141581757] disconnected.
+20:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:58 [Info] [Admin Logger] [08/26/2022 20:58:08] garry [76561198141581757] connected.
+20:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:58 [Info] [Admin Logger] [08/26/2022 20:58:10] garry [76561198141581757] disabled Godmode.
+20:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:59 [Info] [Admin Logger] [08/26/2022 20:59:28] 2k [76561198141581757] gave themselves 1 x door.hinged.metal.
+20:59 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+20:59 [Info] [Admin Logger] [08/26/2022 20:59:29] 2k [76561198141581757] gave themselves 1 x lock.code.
+20:59 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:02 [Info] [Better Chat] [Global] [Player] fluikas: where u at
+21:02 [Warning] [BoxLooters] Saved Boxlooters data
+21:03 [Info] [FancyDrop] SupplySignal thrown by 'Nate' at: (-526.0, 33.1, -134.0)
+21:04 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+21:05 [Info] [Admin Logger] [08/26/2022 21:05:16] 2k [76561198141581757] gave themselves 1 x sleepingbag.
+21:05 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:07 [Info] [FancyDrop] Nate (76561198301679972) looted the Drop at: (-525, 32, -126) grid area: G11
+21:09 [Info] [Better Chat] [Global] [Player] Hudson: why u play like a pussy when u got a gun wtf
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: who
+21:09 [Info] [Better Chat] [Global] [Player] Hudson: mr glass
+21:09 [Info] [Better Chat] [Global] [Player] Hudson: not u
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: i killed him
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: wya
+21:10 [Info] [Better Chat] [Global] [Player] Hudson: i like u
+21:10 [Info] [Better Chat] [Global] [Player] Hudson: i was J7
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: he just kill u now?
+21:10 [Info] [Better Chat] [Global] [Player] Hudson: yea
+21:10 [Info] [Better Chat] [Global] [Player] Hudson: JUST now
+21:12 [Info] [Better Chat] [Global] [Player] fluikas: u live near him
+21:12 [Warning] [BoxLooters] Saved Boxlooters data
+21:12 [Info] [Better Chat] [Global] [Player] Hudson: not any more
+21:12 [Info] [Better Chat] [Global] [Player] fluikas: where is he
+21:12 [Info] [Better Chat] [Global] [Player] Hudson: idk
+21:12 [Info] [Better Chat] [Global] [Player] Hudson: i moved
+21:15 [Info] [Admin Logger] [08/26/2022 21:15:57] 2k [76561198141581757] disconnected.
+21:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:16 [Info] [Advert Messages] Welcome to our server, have fun!
+21:18 [Info] [Better Chat] [Global] [Player] fluikas: so bad
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: LOL
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: i was behind that crate
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: u looted
+21:19 [Info] [Better Chat] [Global] [Player] Hudson: wya
+21:19 [Info] [Admin Logger] [08/26/2022 21:19:43] garry [76561198141581757] connected.
+21:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:19 [Info] [Admin Logger] [08/26/2022 21:19:45] garry [76561198141581757] disabled Godmode.
+21:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: 2v1
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: g10 is ther base
+21:20 [Info] [Admin Logger] [08/26/2022 21:20:04] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+21:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:20 [Info] [Admin Logger] [08/26/2022 21:20:05] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+21:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:20 [Info] [Admin Logger] [08/26/2022 21:20:07] 2k [76561198141581757] closed Padmin Menu.
+21:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:20 [Info] [Better Chat] [Global] [Player] fluikas: they took my horse
+21:21 [Info] [Better Chat] [Global] [Player] MrGlass: w
+21:21 [Info] [Better Chat] [Global] [Player] fluikas: ?
+21:21 [Info] [Better Chat] [Global] [Player] fluikas: wya
+21:22 [Info] [Better Chat] [Global] [Player] fluikas: come to my base
+21:22 [Info] [Better Chat] [Global] [Player] MrGlass: our base
+21:22 [Info] [Better Chat] [Global] [Player] fluikas: cap
+21:22 [Info] [Better Chat] [Global] [Player] fluikas: ur in gas
+21:22 [Info] [Better Chat] [Global] [Player] fluikas: prob
+21:22 [Info] [Admin Logger] [08/26/2022 21:22:20] 2k [76561198141581757] gave themselves 1 x explosive.timed.
+21:22 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:22 [Warning] [BoxLooters] Saved Boxlooters data
+21:23 [Info] [Better Chat] [Global] [Player] MrGlass: bro wym we in our base fam
+21:23 [Info] [Better Chat] [Global] [Player] MrGlass: lmao
+21:25 [Info] [Better Chat] [Global] [Player] fluikas: safe in bandit
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: gg lol
+21:26 [Info] [Better Chat] [Global] [Player] MrGlass: pussy'
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: hudson
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: we should meet up
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: and attack mr glass
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: LOL
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: dead 2 bandit
+21:28 [Info] [Better Chat] [Global] [Player] Hudson: thats my friend.....
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: rip
+21:28 [Info] [Better Chat] [Global] [Player] Hudson: hes very new
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: he ok?
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: glass is over there
+21:28 [Info] [Better Chat] [Global] [Player] Hudson: rip
+21:28 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (192, 16, -549) grid area: L14
+21:28 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+21:28 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+21:30 [Info] [Better Chat] [Global] [Player] Hudson: say 5 in chat
+21:30 [Info] [Better Chat] [Global] [Player] fluikas: 5
+21:30 [Info] [Better Chat] [Global] [Player] Hudson: fuck
+21:31 [Info] [Better Chat] [Global] [Player] Hudson: it was 20
+21:31 [Info] [Better Chat] [Global] [Player] fluikas: ?
+21:31 [Info] [Better Chat] [Global] [Player] Hudson: gamble
+21:32 [Warning] [BoxLooters] Saved Boxlooters data
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: thx for the base
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: lol
+21:38 [Info] [Better Chat] [Global] [Player] fluikas: only wood lol
+21:42 [Warning] [BoxLooters] Saved Boxlooters data
+21:43 [Info] [Better Chat] [Global] [Player] fluikas: hudson
+21:43 [Info] [Better Chat] [Global] [Player] Hudson: yea
+21:43 [Info] [Better Chat] [Global] [Player] fluikas: come mid g10
+21:45 [Info] [Better Chat] [Global] [Player] fluikas: HUDSON U GOING?
+21:45 [Info] [Better Chat] [Global] [Player] Hudson: i cant
+21:45 [Info] [Better Chat] [Global] [Player] fluikas: why
+21:45 [Info] [Better Chat] [Global] [Player] Hudson: im in the middle of a monument
+21:46 [Info] [Advert Messages] Please treat everybody respectfully.
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: i killed one
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: but his boyfriend
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: killed me
+21:49 [Info] [Better Chat] [Global] [Player] fluikas: nate
+21:49 [Info] [Better Chat] [Global] [Player] fluikas: fuck ur backyard
+21:52 [Warning] [BoxLooters] Saved Boxlooters data
+21:55 [Info] [Better Chat] [Global] [Player] fluikas: nate
+21:55 [Info] [Admin Logger] [08/26/2022 21:55:48] 2k [76561198141581757] disconnected.
+21:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:02 [Warning] [BoxLooters] Saved Boxlooters data
+22:04 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+22:12 [Warning] [BoxLooters] Saved Boxlooters data
+22:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:22 [Warning] [BoxLooters] Saved Boxlooters data
+22:27 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (506, 35, 917) grid area: N3
+22:27 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+22:27 [Info] [FancyDrop] Next timed Airdrop in 37 minutes
+22:31 [Info] [FancyDrop] Hudson (76561198295411254) looted the Drop at: (505, 35, 918) grid area: N3
+22:32 [Info] [Better Chat] [Global] [Player] fluikas: NATE
+22:32 [Info] [Better Chat] [Global] [Player] Hudson: air drop was awful
+22:32 [Warning] [BoxLooters] Saved Boxlooters data
+22:33 [Info] [Better Chat] [Global] [Player] fluikas: hudson
+22:33 [Info] [Better Chat] [Global] [Player] fluikas: bro
+22:33 [Info] [Better Chat] [Global] [Player] Hudson: yea
+22:33 [Info] [Better Chat] [Global] [Player] fluikas: come to ur bag
+22:33 [Info] [Better Chat] [Global] [Player] Hudson: timer
+22:34 [Info] [Better Chat] [Global] [Player] fluikas: ok
+22:35 [Info] [Better Chat] [Global] [Player] Aimer: sup mfs
+22:36 [Info] [Better Chat] [Global] [Player] fluikas: rip
+22:36 [Info] [Better Chat] [Global] [Player] fluikas: publisher banned
+22:38 [Info] [Better Chat] [Global] [Player] Hudson: i spawned in
+22:38 [Info] [Better Chat] [Global] [Player] fluikas: ok 1 sec
+22:39 [Info] [Better Chat] [Global] [Player] Hudson: hello
+22:39 [Info] [Better Chat] [Global] [Player] Hudson: i dont english
+22:40 [Info] [Better Chat] [Global] [Player] Hudson: bueno casa
+22:40 [Info] [Better Chat] [Global] [Player] Hudson: si
+22:40 [Info] [Better Chat] [Global] [Player] Hudson: yo juego juegos de rol'
+22:42 [Info] [Better Chat] [Global] [Player] Hudson: where he at?
+22:42 [Info] [Better Chat] [Global] [Player] fluikas: where r u
+22:42 [Info] [Better Chat] [Global] [Player] Hudson: there base
+22:42 [Warning] [BoxLooters] Saved Boxlooters data
+22:43 [Info] [Better Chat] [Global] [Player] Hudson: come out u mother bitch
+22:46 [Info] [Advert Messages] Welcome to our server, have fun!
+22:47 [Info] [Better Chat] [Global] [Player] fluikas: rip
+22:48 [Info] [Better Chat] [Global] [Player] fluikas: gtg
+22:48 [Info] [Better Chat] [Global] [Player] Hudson: cya broski
+22:52 [Warning] [BoxLooters] Saved Boxlooters data
+23:00 [Info] [Better Chat] [Global] [Player] Hudson: anyone else on?
+23:02 [Warning] [BoxLooters] Saved Boxlooters data
+23:04 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+23:04 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (109, 77, 541) grid area: L6
+23:04 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+23:04 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+23:12 [Warning] [BoxLooters] Saved Boxlooters data
+23:16 [Info] [Advert Messages] Please treat everybody respectfully.
+23:22 [Warning] [BoxLooters] Saved Boxlooters data
+23:32 [Warning] [BoxLooters] Saved Boxlooters data
+23:42 [Warning] [BoxLooters] Saved Boxlooters data
+23:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:49 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-917, 8, -500) grid area: D13
+23:49 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+23:49 [Info] [FancyDrop] Next timed Airdrop in 57 minutes
+23:52 [Warning] [BoxLooters] Saved Boxlooters data
+23:57 [Info] [Better Chat] [Global] [Player] Hudson: sorry bout taht

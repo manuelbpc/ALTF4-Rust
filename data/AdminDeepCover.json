@@ -1,3 +1,35 @@
 {
-  "PlayerData": {}
+  "PlayerData": {
+    "76561198977454718": {
+      "IsEnabled": true,
+      "IsRemoved": true,
+      "WasAdmin": true,
+      "Groups": [
+        "default",
+        "admin"
+      ],
+      "RestoreName": "Void",
+      "RestoreUserId": 76561198977454718,
+      "Profile": 1,
+      "Name": "garry",
+      "UserId": 76561197960279927,
+      "Better Chat Group": "default",
+      "Required Permission": "admindeepcover.use"
+    },
+    "76561198141581757": {
+      "IsEnabled": true,
+      "IsRemoved": true,
+      "WasAdmin": true,
+      "Groups": [
+        "default"
+      ],
+      "RestoreName": "2k",
+      "RestoreUserId": 76561198141581757,
+      "Profile": 1,
+      "Name": "garry",
+      "UserId": 76561197960279927,
+      "Better Chat Group": "default",
+      "Required Permission": "admindeepcover.use"
+    }
+  }
 }

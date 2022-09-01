@@ -1,0 +1,284 @@
+[12:08:21] INFO > Void: Opened the menu
+[12:08:25] INFO > You Stupid?: Teleported to admin Void
+[12:09:17] INFO > Void: Opened the menu
+[12:09:20] INFO > Void: Opened the menu
+[12:26:29] INFO > Void: Opened the menu
+[12:26:32] INFO > Void: Opened the menu
+[12:26:39] INFO > Void: Opened the menu
+[12:26:42] INFO > You Stupid?: Teleported to admin Void
+[12:27:21] INFO > Void: Opened the menu
+[12:27:24] INFO > You Stupid?: Teleported to admin Void
+[12:29:13] INFO > Void: Opened the menu
+[12:29:21] INFO > Void: Opened the menu
+[12:29:23] INFO > You Stupid?: Teleported to admin Void
+[12:31:47] INFO > Void: Opened the menu
+[12:38:53] INFO > Void: Opened the menu
+[12:38:56] INFO > Void: Healed user ID 76561199006288737 for 100 points
+[12:39:05] INFO > Void: Opened the menu
+[12:39:08] INFO > Void: Teleported to user ID 76561199006288737
+[12:40:07] INFO > Void: Opened the menu
+[12:40:10] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[12:40:12] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[12:41:00] INFO > Void: Opened the menu
+[12:43:13] INFO > Void: Opened the menu
+[12:43:17] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[12:49:31] INFO > Void: Opened the menu
+[12:49:34] INFO > Void: Healed user ID 76561198977454718 for 0 points
+[12:49:35] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[12:49:42] INFO > Void: Opened the menu
+[12:49:44] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[12:50:07] INFO > Void: Opened the menu
+[12:50:12] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[12:51:18] INFO > Void: Opened the menu
+[12:58:02] INFO > Void: Opened the menu
+[01:11:13] INFO > Void: Opened the menu
+[01:11:17] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[01:11:18] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[01:13:17] INFO > Void: Opened the menu
+[01:26:14] INFO > Void: Opened the menu
+[01:26:21] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[01:40:40] INFO > Void: Opened the menu
+[01:46:31] INFO > Void: Opened the menu
+[01:46:34] INFO > Void: Teleported to user ID 76561199006288737
+[01:46:43] INFO > Void: Opened the menu
+[01:46:45] INFO > Void: Teleported to user ID 76561199006288737
+[01:48:37] INFO > Void: Opened the menu
+[01:48:40] INFO > Void: Teleported to user ID 76561199065963062
+[01:48:54] INFO > Void: Opened the menu
+[01:48:59] INFO > Void: Teleported to user ID 76561199065963062
+[01:49:41] INFO > Void: Opened the menu
+[01:49:45] INFO > Void: Teleported to user ID 76561199065963062
+[01:50:00] INFO > Void: Opened the menu
+[01:50:23] INFO > Void: Opened the menu
+[01:50:27] INFO > RiRiTHC: Teleported to admin Void
+[01:51:01] INFO > Void: Opened the menu
+[01:51:03] INFO > Void: Teleported to user ID 76561199065963062
+[01:52:07] INFO > Void: Opened the menu
+[01:52:09] INFO > RiRiTHC: Teleported to admin Void
+[01:52:28] INFO > Void: Opened the menu
+[01:52:31] INFO > Void: Healed user ID 76561199065963062 for 100 points
+[01:52:32] INFO > Void: Recovered the metabolism of user ID 76561199065963062
+[01:52:42] INFO > Void: Opened the menu
+[01:52:45] INFO > Void: Recovered the metabolism of user ID 76561199065963062
+[01:52:45] INFO > Void: Healed user ID 76561199065963062 for 100 points
+[01:53:09] INFO > Void: Opened the menu
+[01:53:12] INFO > Void: Healed user ID 76561199065963062 for 100 points
+[01:53:13] INFO > Void: Recovered the metabolism of user ID 76561199065963062
+[01:53:17] INFO > Void: Opened the menu
+[01:53:21] INFO > You Stupid?: Teleported to admin Void
+[01:53:40] INFO > Void: Opened the menu
+[01:53:45] INFO > Void: Healed user ID 76561199006288737 for 100 points
+[01:53:46] INFO > Void: Recovered the metabolism of user ID 76561199006288737
+[01:54:44] INFO > Void: Opened the menu
+[01:54:47] INFO > You Stupid?: Teleported to admin Void
+[01:54:53] INFO > Void: Opened the menu
+[01:56:42] INFO > Void: Opened the menu
+[01:56:45] INFO > You Stupid?: Teleported to admin Void
+[01:57:02] INFO > Void: Opened the menu
+[01:57:07] INFO > Void: Healed user ID 76561199006288737 for 100 points
+[01:57:09] INFO > Void: Healed user ID 76561199205921376 for 100 points
+[01:57:10] INFO > Void: Recovered the metabolism of user ID 76561199205921376
+[02:05:49] INFO > Void: Opened the menu
+[02:37:12] INFO > Void: Opened the menu
+[02:37:15] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[02:37:17] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[02:38:18] INFO > Void: Opened the menu
+[02:38:20] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[02:38:21] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[02:45:31] INFO > Void: Opened the menu
+[02:45:34] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[02:45:34] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[02:45:39] INFO > Void: Opened the menu
+[02:45:48] INFO > Void: Healed user ID 76561199205921376 for 100 points
+[02:45:48] INFO > Void: Recovered the metabolism of user ID 76561199205921376
+[02:47:42] INFO > Void: Opened the menu
+[02:47:44] INFO > Void: Healed user ID 76561199205921376 for 50 points
+[02:47:47] INFO > Void: Recovered the metabolism of user ID 76561199205921376
+[02:47:47] INFO > Void: Healed user ID 76561199205921376 for 50 points
+[02:49:29] INFO > Void: Opened the menu
+[02:49:32] INFO > Void: Healed user ID 76561199205921376 for 50 points
+[02:49:38] INFO > Void: Opened the menu
+[02:49:40] INFO > Void: Healed user ID 76561199205921376 for 100 points
+[02:49:41] INFO > Void: Healed user ID 76561199205921376 for 0 points
+[02:50:17] INFO > Void: Opened the menu
+[02:50:20] INFO > Void: Healed user ID 76561199205921376 for 100 points
+[02:50:55] INFO > Void: Opened the menu
+[02:50:57] INFO > Void: Healed user ID 76561199205921376 for 100 points
+[02:50:57] INFO > Void: Healed user ID 76561199205921376 for 0 points
+[02:50:58] INFO > Void: Recovered the metabolism of user ID 76561199205921376
+[02:51:09] INFO > Void: Opened the menu
+[02:51:32] INFO > Void: Opened the menu
+[02:51:35] INFO > Void: Healed user ID 76561199205921376 for 100 points
+[02:51:36] INFO > Void: Recovered the metabolism of user ID 76561199205921376
+[02:51:38] INFO > Void: Opened the menu
+[02:51:41] INFO > Void: Teleported to user ID 76561199205921376
+[02:53:49] INFO > Void: Opened the menu
+[03:03:08] INFO > Void: Opened the menu
+[03:16:16] INFO > Void: Opened the menu
+[06:00:29] INFO > Void: Opened the menu
+[05:45:13] INFO > Void: Opened the menu
+[05:45:59] INFO > Void: Opened the menu
+[05:46:02] INFO > Void: Teleported to user ID 76561199033539852
+[05:51:57] INFO > Void: Opened the menu
+[05:52:05] INFO > unknown: Teleported to admin Void
+[05:52:57] INFO > Void: Opened the menu
+[05:53:41] INFO > Void: Opened the menu
+[05:54:04] INFO > 2k: Teleported to admin Void
+[05:55:01] INFO > Void: Opened the menu
+[05:55:15] INFO > Void: Opened the menu
+[05:55:19] INFO > 2k: Opened the menu
+[05:55:27] INFO > Void: Opened the menu
+[05:55:39] INFO > 2k: Froze user ID 76561198977454718
+[05:55:57] INFO > Void: Muted user ID 76561198141581757
+[05:55:58] INFO > Void: Unmuted user ID 76561198141581757
+[05:55:59] INFO > Void: Muted user ID 76561198141581757
+[05:56:00] INFO > Void: Unmuted user ID 76561198141581757
+[05:56:40] INFO > Void: Opened the menu
+[05:56:53] INFO > 2k: Opened the menu
+[05:58:24] INFO > Void: Opened the menu
+[05:58:37] INFO > BuildUserPage > player [76561199229119139] is null, no info
+[05:58:54] INFO > BuildUserPage > player [76561199198517976] is null, no info
+[05:59:21] INFO > Void: Opened the menu
+[05:59:24] INFO > Void: Teleported to user ID 76561199006288737
+[06:00:07] INFO > Void: Opened the menu
+[06:01:13] INFO > 2k: Opened the menu
+[06:01:16] INFO > Void: Opened the menu
+[06:01:17] INFO > 2k: Teleported to user ID 76561198977454718
+[06:03:32] INFO > 2k: Opened the menu
+[06:03:39] INFO > 2k: Healed user ID 76561198141581757 for 0 points
+[06:03:41] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[06:05:38] INFO > Void: Opened the menu
+[06:05:52] INFO > Void: Opened the menu
+[06:05:54] INFO > You Stupid?: Teleported to admin Void
+[06:06:24] INFO > Void: Opened the menu
+[06:06:27] INFO > Void: Teleported to user ID 76561198141581757
+[06:11:16] INFO > Void: Opened the menu
+[06:11:19] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[06:11:19] INFO > Void: Healed user ID 76561198977454718 for 0 points
+[06:11:20] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[06:12:00] INFO > 2k: Opened the menu
+[06:12:04] INFO > 2k: Teleported to user ID 76561198977454718
+[06:12:52] INFO > Void: Opened the menu
+[06:12:56] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[06:12:56] INFO > Void: Healed user ID 76561198977454718 for 0 points
+[06:12:57] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[06:14:39] INFO > Void: Opened the menu
+[06:18:30] INFO > Void: Opened the menu
+[06:19:02] INFO > Void: Opened the menu
+[06:19:08] INFO > You Stupid?: Teleported to admin Void
+[06:19:19] INFO > Void: Opened the menu
+[06:19:40] INFO > 2k: Opened the menu
+[06:19:44] INFO > 2k: Healed user ID 76561199006288737 for 0 points
+[06:19:44] INFO > 2k: Recovered the metabolism of user ID 76561199006288737
+[06:19:59] INFO > 2k: Opened the menu
+[06:21:36] INFO > 2k: Opened the menu
+[06:21:41] INFO > 2k: Teleported to user ID 76561198977454718
+[06:27:09] INFO > 2k: Opened the menu
+[06:27:13] INFO > 2k: Healed user ID 76561198141581757 for 0 points
+[06:27:20] INFO > Void: Opened the menu
+[06:27:30] INFO > 2k: Opened the menu
+[06:27:35] INFO > 2k: Healed user ID 76561198141581757 for 0 points
+[06:27:36] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[06:27:39] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[06:28:51] INFO > Void: Opened the menu
+[06:29:36] INFO > Void: Opened the menu
+[06:35:06] INFO > Void: Opened the menu
+[06:35:15] INFO > Void: Opened the menu
+[06:35:31] INFO > 2k: Opened the menu
+[06:37:03] INFO > 2k: Opened the menu
+[06:37:09] INFO > 2k: Teleported to user ID 76561198984796327
+[06:38:30] INFO > Void: Opened the menu
+[06:39:09] INFO > 2k: Opened the menu
+[06:40:39] INFO > Void: Opened the menu
+[06:42:21] INFO > Void: Opened the menu
+[06:44:52] INFO > 2k: Opened the menu
+[06:44:57] INFO > 2k: Healed user ID 76561198984796327 for 0 points
+[06:44:58] INFO > 2k: Recovered the metabolism of user ID 76561198984796327
+[06:51:53] INFO > Void: Opened the menu
+[06:54:34] INFO > Void: Opened the menu
+[07:06:56] INFO > Void: Opened the menu
+[07:10:30] INFO > Void: Opened the menu
+[07:10:33] INFO > Void: Teleported to user ID 76561198316740147
+[07:12:06] INFO > Void: Opened the menu
+[07:12:09] INFO > Void: Teleported to user ID 76561198984796327
+[07:16:20] INFO > Void: Opened the menu
+[07:16:22] INFO > Void: Teleported to user ID 76561198316740147
+[07:20:24] INFO > Void: Opened the menu
+[07:20:36] INFO > Void: Opened the menu
+[07:20:40] INFO > Void: Teleported to user ID 76561198984796327
+[07:22:14] INFO > Void: Opened the menu
+[07:22:24] INFO > Void: Opened the menu
+[07:27:52] INFO > Void: Opened the menu
+[07:28:20] INFO > Void: Opened the menu
+[07:28:23] INFO > Quandale Dingle: Teleported to admin Void
+[07:28:54] INFO > Void: Opened the menu
+[07:28:57] INFO > Void: Teleported to user ID 76561198968312819
+[07:34:54] INFO > Void: Opened the menu
+[07:34:58] INFO > Quandale Dingle: Teleported to admin Void
+[07:54:20] INFO > Void: Opened the menu
+[07:55:29] INFO > Void: Opened the menu
+[07:55:40] INFO > Void: Teleported to user ID 76561199119664159
+[07:56:38] INFO > Void: Opened the menu
+[07:56:41] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[08:30:05] INFO > Void: Opened the menu
+[08:34:57] INFO > Void: Opened the menu
+[08:35:07] INFO > Void: Teleported to user ID 76561199091778433
+[08:36:07] INFO > Void: Opened the menu
+[08:36:10] INFO > Void: Teleported to user ID 76561198968312819
+[08:44:06] INFO > Void: Opened the menu
+[09:05:57] INFO > Void: Opened the menu
+[09:18:13] INFO > Void: Opened the menu
+[09:18:17] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[09:18:18] INFO > Void: Healed user ID 76561198977454718 for 0 points
+[09:18:18] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[09:33:19] INFO > Void: Opened the menu
+[09:35:38] INFO > Void: Opened the menu
+[09:39:51] INFO > Void: Opened the menu
+[09:39:55] INFO > Void: Healed user ID 76561198977454718 for 0 points
+[09:39:56] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[09:39:56] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[09:42:25] INFO > Void: Opened the menu
+[09:42:29] INFO > Void: Healed user ID 76561198977454718 for 50 points
+[09:49:39] INFO > Void: Opened the menu
+[09:53:20] INFO > Void: Opened the menu
+[09:53:23] INFO > Void: Teleported to user ID 76561199205921376
+[09:53:30] INFO > Void: Opened the menu
+[10:24:34] INFO > Void: Opened the menu
+[10:24:37] INFO > Void: Teleported to user ID 76561199091150843
+[10:25:06] INFO > Void: Opened the menu
+[10:25:08] INFO > Void: Healed user ID 76561199091150843 for 100 points
+[10:25:09] INFO > Void: Healed user ID 76561199091150843 for 0 points
+[10:25:09] INFO > Void: Recovered the metabolism of user ID 76561199091150843
+[10:27:18] INFO > Void: Opened the menu
+[10:28:16] INFO > Void: Opened the menu
+[10:28:19] INFO > Purple: Teleported to admin Void
+[10:28:25] INFO > Void: Opened the menu
+[10:28:29] INFO > Void: Healed user ID 76561199091150843 for 100 points
+[10:28:29] INFO > Void: Healed user ID 76561199091150843 for 0 points
+[10:28:30] INFO > Void: Recovered the metabolism of user ID 76561199091150843
+[10:30:32] INFO > Void: Opened the menu
+[10:30:35] INFO > Void: Teleported to user ID 76561198984796327
+[10:43:58] INFO > Void: Opened the menu
+[10:46:56] INFO > Void: Opened the menu
+[10:50:38] INFO > Void: Opened the menu
+[10:57:19] INFO > Void: Opened the menu
+[11:02:08] INFO > Void: Opened the menu
+[11:02:11] INFO > MrGlass: Teleported to admin Void
+[11:02:13] INFO > Notwen: Teleported to admin Void
+[11:10:34] INFO > Void: Opened the menu
+[11:12:55] INFO > Void: Opened the menu
+[11:13:02] INFO > Void: Opened the menu
+[11:13:05] INFO > Void: Healed user ID 76561199012801721 for 100 points
+[11:13:05] INFO > Void: Healed user ID 76561199012801721 for 0 points
+[11:13:06] INFO > Void: Healed user ID 76561199012801721 for 100 points
+[11:13:06] INFO > Void: Healed user ID 76561199012801721 for 0 points
+[11:13:07] INFO > Void: Healed user ID 76561199012801721 for 100 points
+[11:13:07] INFO > Void: Healed user ID 76561199012801721 for 0 points
+[11:14:18] INFO > Void: Opened the menu
+[11:14:22] INFO > Void: Healed user ID 76561199012801721 for 0 points
+[11:14:23] INFO > Void: Recovered the metabolism of user ID 76561199012801721
+[11:16:17] INFO > Void: Opened the menu
+[11:16:19] INFO > Notwen: Teleported to admin Void
+[11:24:39] INFO > Void: Opened the menu
+[11:25:41] INFO > Void: Opened the menu
+[11:25:45] INFO > Void: Healed user ID 76561198977454718 for 100 points

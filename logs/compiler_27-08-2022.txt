@@ -2,17 +2,33 @@
 [SERVER v1.0.24] Running as service
 [SERVER v1.0.24] Got Message: Ready
 [SERVER v1.0.24] Got Message: Compile
-[SERVER v1.0.24] Console: AdminHammer.cs(51,22): warning CS0114: `Oxide.Plugins.AdminHammer.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
-C:\Users\admin\Rust\Oxide.Core.dll (Location of the symbol related to previous warning)
-BetterLoot.cs(348,27): warning CS0108: `Oxide.Plugins.BetterLoot.PluginConfig.ToJson()' hides inherited member `Oxide.Plugins.BetterLoot.SerializableConfiguration.ToJson()'. Use the new keyword if hiding was intended
-BetterLoot.cs(443,27): (Location of the symbol related to previous warning)
-BetterLoot.cs(349,47): warning CS0108: `Oxide.Plugins.BetterLoot.PluginConfig.ToDictionary()' hides inherited member `Oxide.Plugins.BetterLoot.SerializableConfiguration.ToDictionary()'. Use the new keyword if hiding was intended
-BetterLoot.cs(445,47): (Location of the symbol related to previous warning)
+[SERVER v1.0.24] Restarting: PlayerAdministration.cs(53,27): warning CS1692: Invalid number
+PlayerAdministration.cs(75,27): warning CS1692: Invalid number
+PlayerAdministration.cs(664,25): warning CS1692: Invalid number
+PlayerAdministration.cs(667,25): warning CS1692: Invalid number
+AdminMap.cs(10,22): error CS0246: The type or namespace name `HurtworldPlugin' could not be found. Are you missing an assembly reference?
+AdminHammer.cs(51,22): warning CS0114: `Oxide.Plugins.AdminHammer.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+C:\Rust\Rust-server\Oxide.Core.dll (Location of the symbol related to previous warning)
+AdminMap.cs(13,22): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+AdminMap.cs(30,33): error CS0115: `Oxide.Plugins.AdminMap.LoadDefaultMessages()' is marked as an override but no suitable method found to override
+AdminMap.cs(45,35): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+AdminMap.cs(69,36): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+AdminMap.cs(83,37): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+AdminMap.cs(96,43): error CS0246: The type or namespace name `PlayerSession' could not be found. Are you missing an assembly reference?
+Warning: restarting compilation
+
+[SERVER v1.0.24] Console: PlayerAdministration.cs(53,27): warning CS1692: Invalid number
+PlayerAdministration.cs(75,27): warning CS1692: Invalid number
+PlayerAdministration.cs(664,25): warning CS1692: Invalid number
+PlayerAdministration.cs(667,25): warning CS1692: Invalid number
+AdminHammer.cs(51,22): warning CS0114: `Oxide.Plugins.AdminHammer.LoadDefaultMessages()' hides inherited member `Oxide.Core.Plugins.Plugin.LoadDefaultMessages()'. To make the current member override that implementation, add the override keyword. Otherwise add the new keyword
+C:\Rust\Rust-server\Oxide.Core.dll (Location of the symbol related to previous warning)
 AdminLogger.cs(930,20): warning CS0219: The variable `command' is assigned but its value is never used
 AdminRadar.cs(2032,34): warning CS1717: Assignment made to same variable; did you mean to assign something else?
 FancyDrop.cs(625,20): warning CS0168: The variable `value' is declared but never used
 FancyDrop.cs(695,20): warning CS0168: The variable `value' is declared but never used
 NTeleportation.cs(4096,25): warning CS0219: The variable `num' is assigned but its value is never used
+PlayerAdministration.cs(666,17): warning CS0162: Unreachable code detected
 ServerRewards.cs(416,24): warning CS0219: The variable `categories' is assigned but its value is never used
 ServerRewards.cs(1721,17): warning CS0219: The variable `itemId' is assigned but its value is never used
 AdminHammer.cs(21,22): warning CS0414: The private field `Oxide.Plugins.AdminHammer.showCode' is assigned but its value is never used
@@ -64,9 +80,6 @@ ServerRewards.cs(39,29): warning CS0649: Field `Oxide.Plugins.ServerRewards.uiFa
 ServerRewards.cs(25,33): warning CS0169: The private field `Oxide.Plugins.ServerRewards.EventManager' is never used
 ServerRewards.cs(25,47): warning CS0169: The private field `Oxide.Plugins.ServerRewards.HumanNPC' is never used
 ServerRewards.cs(25,67): warning CS0169: The private field `Oxide.Plugins.ServerRewards.PlaytimeTracker' is never used
-StackSizeController.cs(20,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.GetToDaChoppa' is never assigned to, and will always have its default value `null'
-StackSizeController.cs(20,40): warning CS0649: Field `Oxide.Plugins.StackSizeController.VehicleVendorOptions' is never assigned to, and will always have its default value `null'
-StackSizeController.cs(80,25): warning CS0649: Field `Oxide.Plugins.StackSizeController.Configuration.HidePrefixWithPluginNameInMessages' is never assigned to, and will always have its default value `false'
 
 [SERVER v1.0.24] Got Message: Exit
 [SERVER v1.0.24] Exit received.

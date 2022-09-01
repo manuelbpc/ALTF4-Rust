@@ -4,7 +4,7 @@
     "Please treat everybody respectfully.",
     "Cheating will result in a [#red]permanent[/#] ban."
   ],
-  "Advert Interval (in Minutes)": 10.0,
+  "Advert Interval (in Minutes)": 30.0,
   "Broadcast to Console (true/false)": true,
   "Choose Message at Random (true/false)": false
 }

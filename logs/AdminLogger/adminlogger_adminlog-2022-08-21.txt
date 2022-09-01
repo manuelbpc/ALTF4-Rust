@@ -1,0 +1,209 @@
+[08/21/2022 20:00:43] Void [76561198977454718] connected.
+[08/21/2022 20:00:46] Void [76561198977454718] enabled Godmode.
+[08/21/2022 20:01:40] Void [76561198977454718] disconnected.
+[08/21/2022 20:03:31] 2k [76561198141581757] disconnected.
+[08/21/2022 21:55:43] Void [76561198977454718] opened Padmin Menu.
+[08/21/2022 22:15:43] Void [76561198977454718] disconnected.
+[08/21/2022 22:19:57] Void [76561198977454718] connected.
+[08/21/2022 22:20:01] Void [76561198977454718] enabled Godmode.
+[08/21/2022 22:20:15] Void [76561198977454718] gave themselves 1 x rifle.ak.
+[08/21/2022 22:20:21] Void [76561198977454718] enabled Noclip.
+[08/21/2022 22:20:56] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:24:07] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:25:16] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:27:00] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:33:00] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:34:28] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:41:32] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:43:50] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 22:43:52] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:44:40] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:45:43] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+[08/21/2022 22:45:44] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:48:42] Void [76561198977454718] disconnected.
+[08/21/2022 22:53:41] Void [76561198977454718] connected.
+[08/21/2022 22:53:41] Void [76561198977454718] enabled Noclip.
+[08/21/2022 22:53:41] Void [76561198977454718] enabled Godmode.
+[08/21/2022 22:53:57] Void [76561198977454718] disabled Noclip.
+[08/21/2022 22:54:02] Void [76561198977454718] enabled Noclip.
+[08/21/2022 22:54:37] Void [76561198977454718] disabled Noclip.
+[08/21/2022 22:54:53] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+[08/21/2022 22:54:54] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 0 points using Padmin.
+[08/21/2022 22:54:55] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:55:12] Void [76561198977454718] enabled Noclip.
+[08/21/2022 22:55:24] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/21/2022 22:55:25] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:55:40] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 0 points using Padmin.
+[08/21/2022 22:55:41] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+[08/21/2022 22:55:42] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:55:48] Void [76561198977454718] teleported to Kondog [76561199082517499] using Padmin.
+[08/21/2022 22:55:49] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 22:57:02] Void [76561198977454718] disabled Noclip.
+[08/21/2022 22:57:11] Void [76561198977454718] gave themselves 1 x furnace.
+[08/21/2022 22:57:19] Void [76561198977454718] gave themselves 100 x metal.ore.
+[08/21/2022 22:57:22] Void [76561198977454718] gave themselves 100 x wood.
+[08/21/2022 22:57:22] Void [76561198977454718] gave themselves 100 x wood.
+[08/21/2022 22:58:10] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:00:22] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:00:32] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:00:33] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:00:57] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:01:05] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+[08/21/2022 23:01:06] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:02:00] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:03] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:02:12] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:19] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:20] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:21] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:23] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:25] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:25] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:26] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:26] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:26] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:27] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:27] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:28] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:28] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:29] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:30] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:31] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:31] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:32] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:32] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:33] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:33] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:34] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:34] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:35] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:35] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:36] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:36] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:37] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:02:40] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:03:01] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:02] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:03:07] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:09] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:10] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:10] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:10] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:12] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:03:13] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:03:24] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/21/2022 23:05:04] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:05:18] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/21/2022 23:05:19] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:06:22] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:06:37] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:07:00] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:07:07] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:07:18] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:07:20] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:07:27] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:07:40] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+[08/21/2022 23:07:41] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+[08/21/2022 23:07:42] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+[08/21/2022 23:07:42] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:08:03] Void [76561198977454718] gave themselves 100 x antiradpills.
+[08/21/2022 23:08:19] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:08:20] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:09:26] Void [76561198977454718] gave themselves 1 x torch.
+[08/21/2022 23:09:31] Void [76561198977454718] gave themselves 1 x supply.signal.
+[08/21/2022 23:10:34] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/21/2022 23:10:35] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:10:42] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+[08/21/2022 23:10:43] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:10:55] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+[08/21/2022 23:10:56] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:11:23] Void [76561198977454718] gave themselves 1000 x surveycharge.
+[08/21/2022 23:11:53] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+[08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+[08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+[08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+[08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+[08/21/2022 23:11:57] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:12:17] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:12:31] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:12:32] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+[08/21/2022 23:12:33] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+[08/21/2022 23:12:34] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:12:39] Void [76561198977454718] hurt player irontweak6 [76561199205921376] for 50 points using Padmin.
+[08/21/2022 23:12:40] Void [76561198977454718] reset the metabolism of player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:12:46] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+[08/21/2022 23:12:47] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:12:48] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:13:09] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:13:10] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+[08/21/2022 23:13:11] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+[08/21/2022 23:13:11] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:13:53] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:13:54] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:14:04] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:14:07] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:14:29] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/21/2022 23:14:30] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/21/2022 23:14:30] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/21/2022 23:14:32] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:14:32] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:14:33] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:14:38] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:14:49] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:15:29] Void [76561198977454718] started spectating player RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:15:31] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:15:44] Void [76561198977454718] Froze player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:15:47] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:15:59] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:16:43] Void [76561198977454718] disabled Spectate mode.
+[08/21/2022 23:16:56] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:16:57] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:17:31] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 25 points using Padmin.
+[08/21/2022 23:17:32] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:22:33] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:25:55] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+[08/21/2022 23:25:56] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:32:25] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:32:26] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:32:33] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:34:38] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:35:03] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/21/2022 23:37:18] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:37:35] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:43:59] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:44:00] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:44:05] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+[08/21/2022 23:44:06] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:44:35] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+[08/21/2022 23:44:36] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:45:21] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+[08/21/2022 23:45:23] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:48:14] Void [76561198977454718] spawned bear at (1386.0, 3.3, 1578.0).
+[08/21/2022 23:48:40] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+[08/21/2022 23:48:40] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:49:04] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:53:44] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:53:49] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:53:54] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:54:09] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:54:19] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:54:29] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:55:09] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:55:14] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:55:19] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:55:29] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:55:34] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:55:39] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:55:59] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:56:04] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:56:18] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+[08/21/2022 23:56:19] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:57:49] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+[08/21/2022 23:57:52] Void [76561198977454718] closed Padmin Menu.
+[08/21/2022 23:57:59] Void [76561198977454718] disabled Noclip.
+[08/21/2022 23:58:14] Void [76561198977454718] enabled Noclip.
+[08/21/2022 23:58:44] Void [76561198977454718] disabled Noclip.

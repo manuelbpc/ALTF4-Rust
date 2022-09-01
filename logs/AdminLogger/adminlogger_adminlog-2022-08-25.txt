@@ -1,0 +1,450 @@
+[08/25/2022 17:21:54] Void [76561198977454718] connected.
+[08/25/2022 17:21:55] Void [76561198977454718] enabled Noclip.
+[08/25/2022 17:21:55] Void [76561198977454718] enabled Godmode.
+[08/25/2022 17:22:00] Void [76561198977454718] disabled Noclip.
+[08/25/2022 17:22:05] Void [76561198977454718] enabled Noclip.
+[08/25/2022 17:22:13] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:22:14] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:22:34] Void [76561198977454718] viewed Inventory of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:22:39] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:22:45] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:22:57] Void [76561198977454718] teleported to Kondog [76561199082517499] using Padmin.
+[08/25/2022 17:22:58] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:23:05] Void [76561198977454718] disabled Noclip.
+[08/25/2022 17:23:50] Void [76561198977454718] enabled Noclip.
+[08/25/2022 17:23:53] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:23:54] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:24:02] Void [76561198977454718] viewed Inventory of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:25:27] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:25:31] Void [76561198977454718] teleported to Kickswitch [76561198428236457] using Padmin.
+[08/25/2022 17:25:32] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:25:35] Void [76561198977454718] disabled Noclip.
+[08/25/2022 17:27:03] Void [76561198977454718] gave themselves 1 x smg.mp5.
+[08/25/2022 17:27:09] Void [76561198977454718] gave themselves 1 x hazmatsuit.
+[08/25/2022 17:27:12] Void [76561198977454718] gave themselves 1000 x ammo.pistol.
+[08/25/2022 17:27:50] Void [76561198977454718] enabled Noclip.
+[08/25/2022 17:27:53] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:27:54] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:28:32] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:28:33] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:31:20] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:32:13] Void [76561198977454718] viewed Inventory of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:32:26] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:32:43] Void [76561198977454718] viewed Inventory of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:36:32] Void [76561198977454718] teleported to coordinates (-200.4, 105.0, 791.0).
+[08/25/2022 17:38:16] Void [76561198977454718] used *kill* on ent: stag at position (64.2, 40.4, -157.2).
+[08/25/2022 17:38:38] Void [76561198977454718] teleported to coordinates (-200.4, 105.0, 791.0).
+[08/25/2022 17:41:23] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:41:34] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 17:41:37] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:41:46] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:41:47] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:42:11] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 17:42:12] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:42:31] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:42:32] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:43:36] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 17:43:37] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:43:46] Void [76561198977454718] gave themselves 1 x nightvisiongoggles.
+[08/25/2022 17:45:04] Void [76561198977454718] gave themselves 1 x stash.small.
+[08/25/2022 17:45:08] Void [76561198977454718] gave themselves 1 x rifle.ak.
+[08/25/2022 17:45:11] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/25/2022 17:45:13] Void [76561198977454718] gave themselves 1 x hazmatsuit.
+[08/25/2022 17:46:29] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:46:40] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:46:40] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:47:06] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 17:47:07] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:48:28] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:48:29] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:49:31] Void [76561198977454718] disabled Noclip.
+[08/25/2022 17:49:51] Void [76561198977454718] enabled Noclip.
+[08/25/2022 17:49:55] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 17:49:55] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:52:10] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:52:11] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:52:53] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:53:01] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 17:53:02] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:54:22] Void [76561198977454718] healed player igotfreecam too [76561199121232947] for 0 points using Padmin.
+[08/25/2022 17:54:24] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:55:37] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 17:55:38] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:56:38] Void [76561198977454718] teleported to Kondog [76561199082517499] using Padmin.
+[08/25/2022 17:56:38] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 17:58:56] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:08:01] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 18:08:02] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:11:56] Void [76561198977454718] disabled Noclip.
+[08/25/2022 18:13:06] Void [76561198977454718] enabled Noclip.
+[08/25/2022 18:13:11] Void [76561198977454718] disabled Noclip.
+[08/25/2022 18:15:51] Void [76561198977454718] healed player MR. Perfect [76561199091778433] for 100 points using Padmin.
+[08/25/2022 18:15:52] Void [76561198977454718] recovered the metabolism of player MR. Perfect [76561199091778433] using Padmin.
+[08/25/2022 18:15:52] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:17:29] Void [76561198977454718] teleported Miss Samou [76561198104600220] to themselves using Padmin.
+[08/25/2022 18:17:30] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:17:49] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:21:45] Void [76561198977454718] banned 2k [76561198141581757] using Padmin. Reason: Administrative decision.
+[08/25/2022 18:21:47] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:26:09] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:27:36] Void [76561198977454718] enabled Noclip.
+[08/25/2022 18:28:17] Void [76561198977454718] teleported Miss Samou [76561198104600220] to themselves using Padmin.
+[08/25/2022 18:28:18] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:28:26] Void [76561198977454718] disabled Noclip.
+[08/25/2022 18:28:59] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:33:44] 2k [76561198141581757] connected.
+[08/25/2022 18:33:46] 2k [76561198141581757] enabled Noclip.
+[08/25/2022 18:33:46] 2k [76561198141581757] disabled Godmode.
+[08/25/2022 18:33:56] 2k [76561198141581757] disabled Noclip.
+[08/25/2022 18:34:01] 2k [76561198141581757] enabled Noclip.
+[08/25/2022 18:34:17] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:34:27] 2k [76561198141581757] teleported to You Stupid? [76561199006288737] using Padmin.
+[08/25/2022 18:34:31] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:35:01] 2k [76561198141581757] gave themselves 1 x rifle.l96.
+[08/25/2022 18:35:08] 2k [76561198141581757] gave themselves 1 x weapon.mod.small.scope.
+[08/25/2022 18:35:15] 2k [76561198141581757] gave themselves 1 x weapon.mod.lasersight.
+[08/25/2022 18:35:24] 2k [76561198141581757] gave themselves 1 x metal.facemask.
+[08/25/2022 18:35:26] 2k [76561198141581757] gave themselves 1 x metal.plate.torso.
+[08/25/2022 18:35:45] 2k [76561198141581757] gave themselves 1000 x scrap.
+[08/25/2022 18:35:47] 2k [76561198141581757] gave themselves 100 x scrap.
+[08/25/2022 18:35:47] 2k [76561198141581757] gave themselves 100 x scrap.
+[08/25/2022 18:36:41] 2k [76561198141581757] disabled Noclip.
+[08/25/2022 18:37:01] 2k [76561198141581757] enabled Noclip.
+[08/25/2022 18:38:17] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:39:45] 2k [76561198141581757] teleported to Oregano [76561198107794246] using Padmin.
+[08/25/2022 18:39:48] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:39:58] 2k [76561198141581757] healed player 2k [76561198141581757] for 0 points using Padmin.
+[08/25/2022 18:39:59] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/25/2022 18:40:01] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:40:10] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:40:16] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:40:30] 2k [76561198141581757] healed player 2k [76561198141581757] for 0 points using Padmin.
+[08/25/2022 18:40:31] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/25/2022 18:40:33] 2k [76561198141581757] healed player 2k [76561198141581757] for 0 points using Padmin.
+[08/25/2022 18:40:33] 2k [76561198141581757] healed player 2k [76561198141581757] for 0 points using Padmin.
+[08/25/2022 18:40:34] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/25/2022 18:40:37] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:40:51] Void [76561198977454718] enabled Noclip.
+[08/25/2022 18:40:58] Void [76561198977454718] teleported to igotfreecam too [76561199121232947] using Padmin.
+[08/25/2022 18:40:58] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:42:37] Void [76561198977454718] teleported to Miss Samou [76561198104600220] using Padmin.
+[08/25/2022 18:42:38] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:49:03] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:03] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:03] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:04] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:04] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:05] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:05] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:06] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:06] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:07] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:08] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:08] 2k [76561198141581757] gave themselves 1000 x wood.
+[08/25/2022 18:49:41] 2k [76561198141581757] disabled Noclip.
+[08/25/2022 18:49:52] 2k [76561198141581757] healed player 2k [76561198141581757] for 100 points using Padmin.
+[08/25/2022 18:49:53] 2k [76561198141581757] recovered the metabolism of player 2k [76561198141581757] using Padmin.
+[08/25/2022 18:49:55] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:50:31] 2k [76561198141581757] enabled Noclip.
+[08/25/2022 18:51:02] Void [76561198977454718] teleported to LO Mein [76561199169977600] using Padmin.
+[08/25/2022 18:51:02] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:51:16] Void [76561198977454718] disabled Noclip.
+[08/25/2022 18:51:56] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:51:59] Void [76561198977454718] teleported iixjell0 [76561198929205548] to themselves using Padmin.
+[08/25/2022 18:51:59] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:52:04] 2k [76561198141581757] gave themselves 1 x smg.mp5.
+[08/25/2022 18:52:11] Void [76561198977454718] enabled Noclip.
+[08/25/2022 18:52:16] Void [76561198977454718] disabled Noclip.
+[08/25/2022 18:52:18] 2k [76561198141581757] gave themselves 1 x ammo.pistol.
+[08/25/2022 18:52:37] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 18:52:45] 2k [76561198141581757] gave themselves 100 x ammo.pistol.hv.
+[08/25/2022 18:52:46] 2k [76561198141581757] gave themselves 100 x ammo.pistol.
+[08/25/2022 18:52:55] Void [76561198977454718] teleported iixjell0 [76561198929205548] to themselves using Padmin.
+[08/25/2022 18:52:56] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:53:21] Void [76561198977454718] enabled Noclip.
+[08/25/2022 18:53:21] 2k [76561198141581757] disabled Noclip.
+[08/25/2022 18:53:51] 2k [76561198141581757] enabled Noclip.
+[08/25/2022 18:57:35] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 18:57:49] 2k [76561198141581757] gave themselves 1 x diving.wetsuit.
+[08/25/2022 18:57:51] 2k [76561198141581757] gave themselves 1 x attire.snowman.helmet.
+[08/25/2022 19:05:20] Void [76561198977454718] teleported to Miss Samou [76561198104600220] using Padmin.
+[08/25/2022 19:05:21] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:07:13] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 19:07:14] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:07:26] Void [76561198977454718] gave themselves 1 x hammer.
+[08/25/2022 19:08:02] 2k [76561198141581757] teleported to Miss Samou [76561198104600220] using Padmin.
+[08/25/2022 19:08:05] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 19:08:19] 2k [76561198141581757] teleported to Kondog [76561199082517499] using Padmin.
+[08/25/2022 19:08:21] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 19:09:03] 2k [76561198141581757] closed Padmin Menu.
+[08/25/2022 19:10:09] Void [76561198977454718] teleported to Miss Samou [76561198104600220] using Padmin.
+[08/25/2022 19:10:10] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:10:16] Void [76561198977454718] disabled Noclip.
+[08/25/2022 19:21:32] 2k [76561198141581757] disabled Noclip.
+[08/25/2022 19:21:36] 2k [76561198141581757] disconnected.
+[08/25/2022 19:29:07] Void [76561198977454718] enabled Noclip.
+[08/25/2022 19:30:37] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:42:44] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:45:18] Void [76561198977454718] gave themselves 1 x torch.
+[08/25/2022 19:45:50] Void [76561198977454718] spawned bear at (-1674.4, 4.3, -865.4).
+[08/25/2022 19:46:27] Void [76561198977454718] disabled Noclip.
+[08/25/2022 19:46:42] Void [76561198977454718] enabled Noclip.
+[08/25/2022 19:47:00] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:47:03] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+[08/25/2022 19:47:04] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:47:14] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+[08/25/2022 19:47:14] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:47:24] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+[08/25/2022 19:47:26] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:47:34] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+[08/25/2022 19:47:37] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:47:55] Void [76561198977454718] viewed Inventory of player irontweak6 [76561199205921376] using Padmin.
+[08/25/2022 19:47:59] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:48:42] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+[08/25/2022 19:48:45] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:49:30] Void [76561198977454718] used *kill* on sleepingbag_leather_deployed owned by grim | Wet [76561198197420215] at position (-1673.8, 2.4, -868.5).
+[08/25/2022 19:49:35] Void [76561198977454718] used *kill* on sleepingbag_leather_deployed owned by fluikas [76561198316740147] at position (-1674.4, 2.2, -867.1).
+[08/25/2022 19:50:21] Void [76561198977454718] added 1 x sleepingbag to their belt.
+[08/25/2022 19:52:45] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:52:53] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:53:31] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:53:44] Void [76561198977454718] used *kill* on foundation owned by Kickswitch [76561198428236457] at position (-1205.4, 25.6, -751.3).
+[08/25/2022 19:54:26] Void [76561198977454718] used *kill* on foundation owned by Kickswitch [76561198428236457] at position (-1204.0, 25.3, -750.0).
+[08/25/2022 19:54:51] Void [76561198977454718] used *kill* on foundation owned by Kickswitch [76561198428236457] at position (-1204.7, 25.6, -751.2).
+[08/25/2022 19:55:10] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 19:57:53] Void [76561198977454718] used *kill* on wall.window owned by Kickswitch [76561198428236457] at position (-1200.0, 31.6, -750.9).
+[08/25/2022 19:59:01] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:03:28] Void [76561198977454718] gave themselves 1 x halloween.mummysuit.
+[08/25/2022 20:04:22] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:05:12] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:05:16] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 20:05:17] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:05:42] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:06:07] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:06:32] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:07:01] Void [76561198977454718] gave themselves 1 x explosive.satchel.
+[08/25/2022 20:07:14] Void [76561198977454718] gave themselves 1000 x ammo.pistol.
+[08/25/2022 20:07:27] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:07:32] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:07:52] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:08:12] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:09:32] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:10:28] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:11:52] Void [76561198977454718] gave themselves 1 x building.planner.
+[08/25/2022 20:11:57] Void [76561198977454718] gave themselves 1000 x wood.
+[08/25/2022 20:12:26] Void [76561198977454718] gave themselves 1 x wood.
+[08/25/2022 20:12:26] Void [76561198977454718] gave themselves 1000 x wood.
+[08/25/2022 20:12:26] Void [76561198977454718] gave themselves 1000 x wood.
+[08/25/2022 20:12:27] Void [76561198977454718] gave themselves 1000 x wood.
+[08/25/2022 20:12:29] Void [76561198977454718] gave themselves 1000 x metal.refined.
+[08/25/2022 20:13:02] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:15:17] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:15:22] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:15:36] Void [76561198977454718] gave themselves 1 x explosive.timed.
+[08/25/2022 20:18:37] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:18:47] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:20:32] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:21:09] Void [76561198977454718] gave themselves 1 x door.hinged.wood.
+[08/25/2022 20:21:10] Void [76561198977454718] gave themselves 1 x lock.key.
+[08/25/2022 20:22:27] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:23:03] Void [76561198977454718] used *kill* on block.stair.lshape owned by Void [76561198977454718] at position (-1678.0, 3.8, -862.9).
+[08/25/2022 20:23:07] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-1678.0, 2.6, -862.9).
+[08/25/2022 20:23:09] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-1677.4, 2.6, -862.4).
+[08/25/2022 20:23:13] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-1675.4, 2.1, -861.8).
+[08/25/2022 20:23:15] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-1673.0, 2.2, -860.9).
+[08/25/2022 20:23:18] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-1673.0, 2.2, -860.9).
+[08/25/2022 20:23:20] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-1675.3, 2.2, -860.8).
+[08/25/2022 20:23:23] Void [76561198977454718] used *kill* on wall owned by Void [76561198977454718] at position (-1679.2, 2.3, -862.3).
+[08/25/2022 20:23:25] Void [76561198977454718] used *kill* on foundation owned by Void [76561198977454718] at position (-1678.5, 2.5, -859.7).
+[08/25/2022 20:23:55] Void [76561198977454718] teleported Sexipants [76561199172849729] to themselves using Padmin.
+[08/25/2022 20:23:56] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:25:15] Void [76561198977454718] gave themselves 1 x hoodie.
+[08/25/2022 20:25:20] Void [76561198977454718] gave themselves 1 x roadsign.kilt.
+[08/25/2022 20:25:20] Void [76561198977454718] gave themselves 1 x roadsign.jacket.
+[08/25/2022 20:25:20] Void [76561198977454718] gave themselves 1 x roadsign.gloves.
+[08/25/2022 20:25:26] Void [76561198977454718] gave themselves 1 x coffeecan.helmet.
+[08/25/2022 20:25:33] Void [76561198977454718] gave themselves 1 x shoes.boots.
+[08/25/2022 20:26:09] Void [76561198977454718] gave themselves 1 x smg.thompson.
+[08/25/2022 20:26:10] Void [76561198977454718] gave themselves 1 x weapon.mod.holosight.
+[08/25/2022 20:26:12] Void [76561198977454718] gave themselves 1 x weapon.mod.flashlight.
+[08/25/2022 20:26:33] Void [76561198977454718] gave themselves 1 x pants.
+[08/25/2022 20:26:53] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/25/2022 20:26:54] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/25/2022 20:26:54] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/25/2022 20:26:54] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/25/2022 20:26:54] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:55] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:55] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:55] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:55] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:55] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:55] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:56] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:26:56] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 20:27:02] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:27:07] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:27:17] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:27:36] Void [76561198977454718] gave themselves 1000 x stones.
+[08/25/2022 20:27:36] Void [76561198977454718] gave themselves 1000 x stones.
+[08/25/2022 20:28:44] Void [76561198977454718] teleported to Sexipants [76561199172849729] using Padmin.
+[08/25/2022 20:28:45] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:29:02] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:33:52] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:35:18] Void [76561198977454718] teleported fluikas [76561198316740147] to themselves using Padmin.
+[08/25/2022 20:35:18] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:36:07] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:36:18] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:20] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:20] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:20] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:21] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:21] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:21] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:21] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:21] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:21] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:22] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:22] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:22] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:22] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:22] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:22] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:23] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:23] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:23] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:24] Void [76561198977454718] spawned wolf at (-1675.1, 2.9, -860.6).
+[08/25/2022 20:36:57] Void [76561198977454718] spawned wolf at (-1680.0, 2.2, -856.3).
+[08/25/2022 20:36:58] Void [76561198977454718] spawned wolf at (-1680.4, 3.4, -855.0).
+[08/25/2022 20:36:58] Void [76561198977454718] spawned wolf at (-1680.4, 3.4, -855.0).
+[08/25/2022 20:36:58] Void [76561198977454718] spawned wolf at (-1680.4, 3.4, -855.0).
+[08/25/2022 20:36:58] Void [76561198977454718] spawned wolf at (-1680.4, 3.4, -855.0).
+[08/25/2022 20:36:58] Void [76561198977454718] spawned wolf at (-1680.4, 3.4, -855.0).
+[08/25/2022 20:36:59] Void [76561198977454718] spawned wolf at (-1680.3, 3.3, -855.1).
+[08/25/2022 20:36:59] Void [76561198977454718] spawned wolf at (-1680.2, 3.0, -855.4).
+[08/25/2022 20:36:59] Void [76561198977454718] spawned wolf at (-1680.3, 3.2, -855.3).
+[08/25/2022 20:36:59] Void [76561198977454718] spawned wolf at (-1680.1, 2.7, -855.7).
+[08/25/2022 20:36:59] Void [76561198977454718] spawned wolf at (-1680.3, 3.1, -855.3).
+[08/25/2022 20:37:00] Void [76561198977454718] spawned wolf at (-1680.3, 3.2, -855.2).
+[08/25/2022 20:37:22] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:38] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:39] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:39] Void [76561198977454718] spawned wolf at (-1332.8, 36.2, -754.0).
+[08/25/2022 20:37:39] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:39] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:39] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:39] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:40] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:40] Void [76561198977454718] spawned wolf at (-1332.9, 36.3, -754.0).
+[08/25/2022 20:37:40] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:40] Void [76561198977454718] spawned wolf at (-1331.8, 35.3, -753.8).
+[08/25/2022 20:37:40] Void [76561198977454718] spawned wolf at (-1332.8, 36.2, -754.0).
+[08/25/2022 20:37:47] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:38:02] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:38:08] Void [76561198977454718] spawned wolf at (-1330.5, 35.8, -744.8).
+[08/25/2022 20:38:09] Void [76561198977454718] spawned wolf at (-1331.6, 37.3, -744.6).
+[08/25/2022 20:38:09] Void [76561198977454718] spawned wolf at (-1331.6, 37.3, -744.6).
+[08/25/2022 20:38:09] Void [76561198977454718] spawned wolf at (-1331.6, 37.3, -744.6).
+[08/25/2022 20:38:09] Void [76561198977454718] spawned wolf at (-1331.6, 37.3, -744.6).
+[08/25/2022 20:38:09] Void [76561198977454718] spawned wolf at (-1331.6, 37.3, -744.6).
+[08/25/2022 20:38:17] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:38:22] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:38:57] Void [76561198977454718] teleported fluikas [76561198316740147] to themselves using Padmin.
+[08/25/2022 20:38:58] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:39:17] Void [76561198977454718] healed player fluikas [76561198316740147] for 100 points using Padmin.
+[08/25/2022 20:39:17] Void [76561198977454718] healed player fluikas [76561198316740147] for 0 points using Padmin.
+[08/25/2022 20:39:18] Void [76561198977454718] recovered the metabolism of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 20:39:19] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:41:58] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:42:25] Void [76561198977454718] healed player fluikas [76561198316740147] for 100 points using Padmin.
+[08/25/2022 20:42:25] Void [76561198977454718] healed player fluikas [76561198316740147] for 0 points using Padmin.
+[08/25/2022 20:42:26] Void [76561198977454718] recovered the metabolism of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 20:42:26] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:47:47] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:48:37] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:48:42] Void [76561198977454718] gave themselves 1 x rifle.l96.
+[08/25/2022 20:48:52] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:48:57] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:49:27] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:49:36] Void [76561198977454718] gave themselves 1 x rifle.ak.
+[08/25/2022 20:49:39] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+[08/25/2022 20:49:52] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:49:57] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:51:25] Void [76561198977454718] teleported Kondog [76561199082517499] to themselves using Padmin.
+[08/25/2022 20:51:25] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:51:55] Void [76561198977454718] teleported Kondog [76561199082517499] to themselves using Padmin.
+[08/25/2022 20:51:56] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:52:14] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:52:20] Void [76561198977454718] teleported Kondog [76561199082517499] to themselves using Padmin.
+[08/25/2022 20:52:20] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:56:17] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:56:32] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:56:57] Void [76561198977454718] enabled Noclip.
+[08/25/2022 20:57:25] Void [76561198977454718] teleported fluikas [76561198316740147] to themselves using Padmin.
+[08/25/2022 20:57:27] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 20:57:42] Void [76561198977454718] disabled Noclip.
+[08/25/2022 20:59:02] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:01:27] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:02:02] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:02:27] Void [76561198977454718] disabled Godmode.
+[08/25/2022 21:02:47] garry [76561198977454718] disabled Noclip.
+[08/25/2022 21:13:17] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:13:23] Void [76561198977454718] teleported to Kickswitch [76561198428236457] using Padmin.
+[08/25/2022 21:13:24] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:13:32] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:16:57] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:17:01] Void [76561198977454718] teleported to Miss Samou [76561198104600220] using Padmin.
+[08/25/2022 21:17:02] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:17:12] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:30:47] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:30:52] Void [76561198977454718] teleported to yabishwantme [76561199359724623] using Padmin.
+[08/25/2022 21:30:52] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:31:25] Void [76561198977454718] viewed Inventory of player Pop_botZ [76561199205171682] using Padmin.
+[08/25/2022 21:31:36] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:31:47] Void [76561198977454718] teleported to fluikas [76561198316740147] using Padmin.
+[08/25/2022 21:31:48] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:33:20] Void [76561198977454718] viewed Inventory of player fluikas [76561198316740147] using Padmin.
+[08/25/2022 21:36:37] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:37:52] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:37:57] Void [76561198977454718] enabled Godmode.
+[08/25/2022 21:38:02] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:39:32] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:39:40] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:39:46] Void [76561198977454718] teleported MR. Perfect [76561199091778433] to themselves using Padmin.
+[08/25/2022 21:39:46] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:39:52] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:42:35] Void [76561198977454718] gave themselves 100 x wall.external.high.
+[08/25/2022 21:44:19] Void [76561198977454718] gave themselves 1 x gates.external.high.wood.
+[08/25/2022 21:44:24] Void [76561198977454718] gave themselves 1 x gates.external.high.wood.
+[08/25/2022 21:50:05] Void [76561198977454718] used *kill* on gates.external.high.wood owned by Void [76561198977454718] at position (-1387.2, 30.5, -536.4).
+[08/25/2022 21:50:32] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:51:53] Void [76561198977454718] teleported MR. Perfect [76561199091778433] to themselves using Padmin.
+[08/25/2022 21:51:54] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 21:51:57] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:54:47] Void [76561198977454718] disabled Godmode.
+[08/25/2022 21:54:52] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:54:57] Void [76561198977454718] disabled Noclip.
+[08/25/2022 21:55:01] Void [76561198977454718] gave themselves 100 x ammo.pistol.
+[08/25/2022 21:58:12] Void [76561198977454718] enabled Noclip.
+[08/25/2022 21:59:07] Void [76561198977454718] disabled Noclip.
+[08/25/2022 22:01:57] Void [76561198977454718] enabled Noclip.
+[08/25/2022 22:01:59] Void [76561198977454718] healed player Void [76561198977454718] for 100 points using Padmin.
+[08/25/2022 22:02:00] Void [76561198977454718] recovered the metabolism of player Void [76561198977454718] using Padmin.
+[08/25/2022 22:02:00] Void [76561198977454718] closed Padmin Menu.
+[08/25/2022 22:02:25] Void [76561198977454718] gave themselves 1 x rifle.ak.
+[08/25/2022 22:02:27] Void [76561198977454718] gave themselves 100 x ammo.rifle.
+[08/25/2022 22:02:28] Void [76561198977454718] gave themselves 100 x ammo.rifle.
+[08/25/2022 22:02:36] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/25/2022 22:02:36] Void [76561198977454718] gave themselves 1 x syringe.medical.
+[08/25/2022 22:02:36] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 22:02:37] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 22:02:37] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 22:02:37] Void [76561198977454718] gave themselves 1 x bandage.
+[08/25/2022 22:02:42] Void [76561198977454718] disabled Noclip.
+[08/25/2022 22:09:24] Void [76561198977454718] gave themselves 1 x hammer.
+[08/25/2022 22:11:00] Void [76561198977454718] disconnected.

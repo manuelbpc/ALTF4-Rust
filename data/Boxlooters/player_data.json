@@ -1,3 +1,819 @@
 {
-  "players": {}
+  "players": {
+    "76561199085025175": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "26/8 @ 19:15:42",
+            "lastLoot": "26/8 @ 19:15:42"
+          }
+        ]
+      },
+      "lastAccess": 1661566542.8394165
+    },
+    "76561199152273261": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "26/8 @ 19:28:43",
+            "lastLoot": "27/8 @ 01:49:12"
+          }
+        ]
+      },
+      "lastAccess": 1661590152.0230637
+    },
+    "76561198316740147": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199152273261",
+            "userName": "Justhelix",
+            "firstLoot": "26/8 @ 19:54:08",
+            "lastLoot": "26/8 @ 19:54:08"
+          },
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "26/8 @ 19:54:08",
+            "lastLoot": "26/8 @ 19:54:11"
+          },
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "26/8 @ 22:01:41",
+            "lastLoot": "26/8 @ 22:01:53"
+          },
+          {
+            "userId": "76561198901309969",
+            "userName": "bde maka ska",
+            "firstLoot": "28/8 @ 19:16:05",
+            "lastLoot": "28/8 @ 19:16:09"
+          },
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 19:11:13",
+            "lastLoot": "30/8 @ 19:11:13"
+          },
+          {
+            "userId": "76561199190415457",
+            "userName": "Blueberry",
+            "firstLoot": "30/8 @ 19:10:46",
+            "lastLoot": "30/8 @ 19:12:46"
+          },
+          {
+            "userId": "76561198101204919",
+            "userName": "Torque",
+            "firstLoot": "30/8 @ 19:12:45",
+            "lastLoot": "30/8 @ 19:12:53"
+          }
+        ]
+      },
+      "lastAccess": 1661911973.2663488
+    },
+    "76561199012801721": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "26/8 @ 20:11:15",
+            "lastLoot": "26/8 @ 20:11:15"
+          },
+          {
+            "userId": "76561199152273261",
+            "userName": "Justhelix",
+            "firstLoot": "26/8 @ 20:11:20",
+            "lastLoot": "26/8 @ 20:11:20"
+          },
+          {
+            "userId": "76561198316740147",
+            "userName": "fluikas",
+            "firstLoot": "26/8 @ 21:04:17",
+            "lastLoot": "26/8 @ 21:17:21"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "26/8 @ 21:43:50",
+            "lastLoot": "26/8 @ 22:07:07"
+          },
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "26/8 @ 21:38:44",
+            "lastLoot": "27/8 @ 09:02:49"
+          }
+        ]
+      },
+      "lastAccess": 1661616169.1568308
+    },
+    "76561199169977600": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199012801721",
+            "userName": "MrGlass",
+            "firstLoot": "26/8 @ 20:12:39",
+            "lastLoot": "26/8 @ 21:17:42"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "26/8 @ 21:46:40",
+            "lastLoot": "26/8 @ 22:04:11"
+          },
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "26/8 @ 20:26:24",
+            "lastLoot": "27/8 @ 08:47:34"
+          }
+        ]
+      },
+      "lastAccess": 1661615254.7670703
+    },
+    "76561198929205548": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "28/8 @ 13:45:19",
+            "lastLoot": "28/8 @ 15:04:08"
+          },
+          {
+            "userId": "76561199012801721",
+            "userName": "MrGlass",
+            "firstLoot": "28/8 @ 19:33:21",
+            "lastLoot": "28/8 @ 19:33:21"
+          },
+          {
+            "userId": "76561199172849729",
+            "userName": "Sexipants",
+            "firstLoot": "28/8 @ 20:23:57",
+            "lastLoot": "28/8 @ 20:23:57"
+          },
+          {
+            "userId": "76561198316740147",
+            "userName": "fluikas",
+            "firstLoot": "26/8 @ 21:51:11",
+            "lastLoot": "29/8 @ 21:53:21"
+          },
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "30/8 @ 12:13:11",
+            "lastLoot": "30/8 @ 12:13:11"
+          },
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 17:48:24",
+            "lastLoot": "30/8 @ 17:48:24"
+          }
+        ]
+      },
+      "lastAccess": 1661906904.4105749
+    },
+    "76561199184574453": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "27/8 @ 01:24:30",
+            "lastLoot": "27/8 @ 01:24:30"
+          }
+        ]
+      },
+      "lastAccess": 1661588670.8687708
+    },
+    "76561198141581757": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561197989076939",
+            "userName": "Neil Enbob",
+            "firstLoot": "27/8 @ 01:38:40",
+            "lastLoot": "27/8 @ 01:38:40"
+          },
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "27/8 @ 20:40:44",
+            "lastLoot": "28/8 @ 00:16:22"
+          },
+          {
+            "userId": "76561199184574453",
+            "userName": "jermonster4",
+            "firstLoot": "29/8 @ 01:19:06",
+            "lastLoot": "29/8 @ 01:23:59"
+          }
+        ]
+      },
+      "lastAccess": 1661761439.0536778
+    },
+    "76561198984796327": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199028553807",
+            "userName": "Marine",
+            "firstLoot": "27/8 @ 11:49:33",
+            "lastLoot": "27/8 @ 11:49:33"
+          }
+        ]
+      },
+      "lastAccess": 1661626173.684221
+    },
+    "76561198448862802": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199205921376",
+            "userName": "irontweak6",
+            "firstLoot": "27/8 @ 19:05:05",
+            "lastLoot": "27/8 @ 19:05:15"
+          },
+          {
+            "userId": "76561198901309969",
+            "userName": "bde maka ska",
+            "firstLoot": "27/8 @ 20:29:20",
+            "lastLoot": "28/8 @ 20:39:44"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "29/8 @ 13:47:13",
+            "lastLoot": "29/8 @ 13:47:29"
+          },
+          {
+            "userId": "76561198107794246",
+            "userName": "Oregano",
+            "firstLoot": "29/8 @ 13:47:42",
+            "lastLoot": "29/8 @ 13:47:42"
+          },
+          {
+            "userId": "76561198101204919",
+            "userName": "Torque",
+            "firstLoot": "30/8 @ 13:20:25",
+            "lastLoot": "30/8 @ 13:22:15"
+          }
+        ]
+      },
+      "lastAccess": 1661890935.6907539
+    },
+    "76561199172849729": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198295411254",
+            "userName": "Hudson",
+            "firstLoot": "27/8 @ 20:17:04",
+            "lastLoot": "27/8 @ 20:17:11"
+          },
+          {
+            "userId": "76561198901309969",
+            "userName": "bde maka ska",
+            "firstLoot": "28/8 @ 03:32:03",
+            "lastLoot": "28/8 @ 03:37:44"
+          },
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "28/8 @ 17:30:11",
+            "lastLoot": "28/8 @ 17:30:25"
+          },
+          {
+            "userId": "76561198101204919",
+            "userName": "Torque",
+            "firstLoot": "27/8 @ 22:26:41",
+            "lastLoot": "28/8 @ 21:17:24"
+          },
+          {
+            "userId": "76561198391674705",
+            "userName": "VGTxSavage",
+            "firstLoot": "29/8 @ 23:11:54",
+            "lastLoot": "1/9 @ 05:46:34"
+          }
+        ]
+      },
+      "lastAccess": 1662036394.2145112
+    },
+    "76561199173415204": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "27/8 @ 20:23:19",
+            "lastLoot": "27/8 @ 20:23:19"
+          },
+          {
+            "userId": "76561199119664159",
+            "userName": "YouMadBro382",
+            "firstLoot": "30/8 @ 21:44:43",
+            "lastLoot": "30/8 @ 21:44:43"
+          }
+        ]
+      },
+      "lastAccess": 1661921083.866456
+    },
+    "76561199147645755": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199205171682",
+            "userName": "Pop_botZ",
+            "firstLoot": "27/8 @ 22:17:04",
+            "lastLoot": "27/8 @ 22:17:04"
+          },
+          {
+            "userId": "76561199205921376",
+            "userName": "irontweak6",
+            "firstLoot": "27/8 @ 23:22:12",
+            "lastLoot": "27/8 @ 23:22:12"
+          }
+        ]
+      },
+      "lastAccess": 1661667732.7870362
+    },
+    "76561198301679972": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199012801721",
+            "userName": "MrGlass",
+            "firstLoot": "27/8 @ 23:08:42",
+            "lastLoot": "27/8 @ 23:08:50"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "28/8 @ 11:32:18",
+            "lastLoot": "28/8 @ 20:11:02"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "30/8 @ 07:57:46",
+            "lastLoot": "30/8 @ 07:57:46"
+          },
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 21:33:57",
+            "lastLoot": "30/8 @ 21:34:01"
+          }
+        ]
+      },
+      "lastAccess": 1661920441.319454
+    },
+    "76561199205921376": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199205171682",
+            "userName": "Pop_botZ",
+            "firstLoot": "27/8 @ 23:42:53",
+            "lastLoot": "28/8 @ 00:17:12"
+          }
+        ]
+      },
+      "lastAccess": 1661671032.296566
+    },
+    "76561199065963062": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199205171682",
+            "userName": "Pop_botZ",
+            "firstLoot": "28/8 @ 00:00:42",
+            "lastLoot": "28/8 @ 00:17:02"
+          }
+        ]
+      },
+      "lastAccess": 1661671022.6542656
+    },
+    "76561198101204919": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198901309969",
+            "userName": "bde maka ska",
+            "firstLoot": "28/8 @ 03:32:06",
+            "lastLoot": "28/8 @ 04:07:05"
+          },
+          {
+            "userId": "76561199057993097",
+            "userName": "Javi",
+            "firstLoot": "28/8 @ 13:09:35",
+            "lastLoot": "28/8 @ 14:03:07"
+          },
+          {
+            "userId": "76561199172849729",
+            "userName": "Sexipants",
+            "firstLoot": "28/8 @ 12:09:09",
+            "lastLoot": "28/8 @ 14:10:18"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "29/8 @ 14:13:31",
+            "lastLoot": "29/8 @ 14:17:01"
+          }
+        ]
+      },
+      "lastAccess": 1661807821.7932036
+    },
+    "76561198104600220": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "28/8 @ 15:14:03",
+            "lastLoot": "28/8 @ 15:37:30"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "29/8 @ 14:40:12",
+            "lastLoot": "29/8 @ 14:40:19"
+          },
+          {
+            "userId": "76561198391674705",
+            "userName": "VGTxSavage",
+            "firstLoot": "29/8 @ 22:11:36",
+            "lastLoot": "29/8 @ 22:11:36"
+          }
+        ]
+      },
+      "lastAccess": 1661836296.1313188
+    },
+    "76561199215954686": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "28/8 @ 16:25:37",
+            "lastLoot": "28/8 @ 16:30:16"
+          }
+        ]
+      },
+      "lastAccess": 1661729416.8631876
+    },
+    "76561198053796338": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "28/8 @ 17:21:41",
+            "lastLoot": "28/8 @ 17:21:41"
+          },
+          {
+            "userId": "76561198901309969",
+            "userName": "bde maka ska",
+            "firstLoot": "28/8 @ 20:44:18",
+            "lastLoot": "28/8 @ 20:44:24"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "29/8 @ 16:45:43",
+            "lastLoot": "29/8 @ 16:45:43"
+          }
+        ]
+      },
+      "lastAccess": 1661816743.1335418
+    },
+    "76561198234281976": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "28/8 @ 18:36:14",
+            "lastLoot": "28/8 @ 19:08:24"
+          }
+        ]
+      },
+      "lastAccess": 1661738904.8473752
+    },
+    "76561198977454718": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198234281976",
+            "userName": "The Law",
+            "firstLoot": "28/8 @ 19:02:45",
+            "lastLoot": "28/8 @ 19:02:45"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "29/8 @ 14:40:14",
+            "lastLoot": "29/8 @ 14:40:28"
+          },
+          {
+            "userId": "76561199119664159",
+            "userName": "YouMadBro382",
+            "firstLoot": "30/8 @ 20:27:57",
+            "lastLoot": "30/8 @ 20:27:57"
+          }
+        ]
+      },
+      "lastAccess": 1661916477.1609523
+    },
+    "76561198295411254": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198234281976",
+            "userName": "The Law",
+            "firstLoot": "28/8 @ 19:10:30",
+            "lastLoot": "28/8 @ 19:10:34"
+          }
+        ]
+      },
+      "lastAccess": 1661739034.5328407
+    },
+    "76561199278283059": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "29/8 @ 11:55:22",
+            "lastLoot": "30/8 @ 14:39:37"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "30/8 @ 16:17:13",
+            "lastLoot": "30/8 @ 16:20:30"
+          },
+          {
+            "userId": "76561199006288737",
+            "userName": "You Stupid?",
+            "firstLoot": "30/8 @ 16:56:13",
+            "lastLoot": "30/8 @ 16:58:11"
+          },
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 21:29:15",
+            "lastLoot": "30/8 @ 21:29:15"
+          }
+        ]
+      },
+      "lastAccess": 1661920155.8513796
+    },
+    "76561198901309969": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "29/8 @ 13:47:09",
+            "lastLoot": "29/8 @ 13:47:09"
+          }
+        ]
+      },
+      "lastAccess": 1661806029.3502369
+    },
+    "76561198107794246": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "29/8 @ 14:53:05",
+            "lastLoot": "29/8 @ 14:53:05"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "29/8 @ 15:18:00",
+            "lastLoot": "29/8 @ 15:46:44"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "29/8 @ 14:35:43",
+            "lastLoot": "29/8 @ 16:50:39"
+          }
+        ]
+      },
+      "lastAccess": 1661817039.1229808
+    },
+    "76561198170128289": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199172849729",
+            "userName": "Sexipants",
+            "firstLoot": "29/8 @ 22:46:56",
+            "lastLoot": "29/8 @ 22:46:56"
+          },
+          {
+            "userId": "76561198391674705",
+            "userName": "VGTxSavage",
+            "firstLoot": "29/8 @ 22:54:44",
+            "lastLoot": "30/8 @ 00:23:51"
+          }
+        ]
+      },
+      "lastAccess": 1661844231.4681244
+    },
+    "76561199119664159": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198118985215",
+            "userName": "Faithless",
+            "firstLoot": "30/8 @ 07:50:24",
+            "lastLoot": "30/8 @ 07:50:24"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "30/8 @ 08:10:58",
+            "lastLoot": "30/8 @ 08:10:58"
+          },
+          {
+            "userId": "76561199028553807",
+            "userName": "Marine",
+            "firstLoot": "30/8 @ 16:08:17",
+            "lastLoot": "30/8 @ 16:08:17"
+          },
+          {
+            "userId": "76561198101204919",
+            "userName": "Torque",
+            "firstLoot": "30/8 @ 20:50:45",
+            "lastLoot": "30/8 @ 20:51:12"
+          },
+          {
+            "userId": "76561198977454718",
+            "userName": "Void",
+            "firstLoot": "30/8 @ 20:51:04",
+            "lastLoot": "30/8 @ 20:53:14"
+          },
+          {
+            "userId": "76561199190415457",
+            "userName": "Blueberry",
+            "firstLoot": "30/8 @ 20:51:13",
+            "lastLoot": "30/8 @ 20:54:41"
+          },
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 16:58:08",
+            "lastLoot": "30/8 @ 20:55:37"
+          },
+          {
+            "userId": "76561199172849729",
+            "userName": "Sexipants",
+            "firstLoot": "30/8 @ 20:51:22",
+            "lastLoot": "30/8 @ 20:56:12"
+          }
+        ]
+      },
+      "lastAccess": 1661918172.1831357
+    },
+    "76561198118985215": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199028553807",
+            "userName": "Marine",
+            "firstLoot": "30/8 @ 16:08:25",
+            "lastLoot": "30/8 @ 16:08:25"
+          }
+        ]
+      },
+      "lastAccess": 1661900905.9857168
+    },
+    "76561199190415457": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "30/8 @ 17:39:13",
+            "lastLoot": "30/8 @ 17:39:13"
+          },
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "30/8 @ 17:39:15",
+            "lastLoot": "30/8 @ 17:40:11"
+          },
+          {
+            "userId": "76561199119664159",
+            "userName": "YouMadBro382",
+            "firstLoot": "30/8 @ 22:32:53",
+            "lastLoot": "31/8 @ 00:09:56"
+          },
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 22:03:26",
+            "lastLoot": "31/8 @ 16:13:13"
+          }
+        ]
+      },
+      "lastAccess": 1661987593.1272404
+    },
+    "76561199006288737": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198929205548",
+            "userName": "iixjell0",
+            "firstLoot": "30/8 @ 17:59:48",
+            "lastLoot": "30/8 @ 17:59:48"
+          },
+          {
+            "userId": "76561198301679972",
+            "userName": "Nate",
+            "firstLoot": "30/8 @ 18:19:52",
+            "lastLoot": "30/8 @ 18:19:52"
+          },
+          {
+            "userId": "76561199278283059",
+            "userName": "Musman",
+            "firstLoot": "30/8 @ 18:06:36",
+            "lastLoot": "30/8 @ 18:33:10"
+          }
+        ]
+      },
+      "lastAccess": 1661909590.3199425
+    },
+    "76561199050072314": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199119664159",
+            "userName": "YouMadBro382",
+            "firstLoot": "30/8 @ 18:03:29",
+            "lastLoot": "30/8 @ 18:03:29"
+          }
+        ]
+      },
+      "lastAccess": 1661907809.7601666
+    },
+    "76561199028553807": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198118985215",
+            "userName": "Faithless",
+            "firstLoot": "30/8 @ 20:37:13",
+            "lastLoot": "30/8 @ 22:09:24"
+          }
+        ]
+      },
+      "lastAccess": 1661922564.8858459
+    },
+    "76561199205171682": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561199050072314",
+            "userName": "AkRecoil-",
+            "firstLoot": "30/8 @ 23:23:44",
+            "lastLoot": "30/8 @ 23:24:06"
+          },
+          {
+            "userId": "76561199119664159",
+            "userName": "YouMadBro382",
+            "firstLoot": "30/8 @ 23:28:42",
+            "lastLoot": "30/8 @ 23:28:42"
+          }
+        ]
+      },
+      "lastAccess": 1661927322.9211311
+    },
+    "76561199046800441": {
+      "lootList": {
+        "looters": [
+          {
+            "userId": "76561198357186088",
+            "userName": "VolumeZero1",
+            "firstLoot": "31/8 @ 00:03:57",
+            "lastLoot": "31/8 @ 00:04:12"
+          }
+        ]
+      },
+      "lastAccess": 1661929452.3391347
+    }
+  }
 }

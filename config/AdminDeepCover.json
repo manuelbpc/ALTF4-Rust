@@ -1,8 +1,8 @@
 {
   "Change Identity In Order": true,
   "Remain Deep Covered After Reconnect": true,
-  "Remain Deep Covered In Team Chat": false,
-  "Remove Admin Flag When Deep Covered": false,
+  "Remain Deep Covered In Team Chat": true,
+  "Remove Admin Flag When Deep Covered": true,
   "Discord - Enabled": false,
   "Discord - Webhook URL": null,
   "Discord - Embed Color": "#2F3136",
@@ -12,8 +12,8 @@
   "Fake Identities": [
     {
       "Profile": 1,
-      "Name": "garry",
-      "UserId": 76561197960279927,
+      "Name": "Tuong Do",
+      "UserId": 76561198064156757,
       "Better Chat Group": "default",
       "Required Permission": "admindeepcover.use"
     },
@@ -33,8 +33,8 @@
     },
     {
       "Profile": 4,
-      "Name": "Holmzy",
-      "UserId": 76561198002789398,
+      "Name": "Gabe",
+      "UserId": 76561198292316162,
       "Better Chat Group": "default",
       "Required Permission": "admindeepcover.use"
     }

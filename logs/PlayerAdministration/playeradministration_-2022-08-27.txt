@@ -1,0 +1,149 @@
+[10:25:44] INFO > 2k: Opened the menu
+[10:25:48] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[10:25:52] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[10:32:04] INFO > 2k: Opened the menu
+[10:32:06] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[10:32:07] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[10:38:38] INFO > 2k: Opened the menu
+[10:38:41] INFO > 2k: Healed user ID 76561198984796327 for 100 points
+[11:11:31] INFO > 2k: Opened the menu
+[11:11:34] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[11:11:34] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[12:02:04] INFO > 2k: Opened the menu
+[12:02:07] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[12:02:08] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[12:05:31] INFO > Void: Opened the menu
+[12:05:34] INFO > Void: Teleported to user ID 76561199028553807
+[12:08:38] INFO > Marine: Opened the menu
+[12:08:39] INFO > Void: Opened the menu
+[12:09:00] INFO > Marine: Opened the menu
+[12:09:05] INFO > Void: Opened the menu
+[12:09:05] INFO > Marine: Teleported to user ID 76561198141581757
+[12:09:07] INFO > Void: Teleported to user ID 76561198141581757
+[12:09:40] INFO > Void: Opened the menu
+[12:09:46] INFO > Marine: Opened the menu
+[12:10:27] INFO > Void: Opened the menu
+[12:11:35] INFO > Void: Opened the menu
+[12:11:37] INFO > Void: Teleported to user ID 76561198141581757
+[12:11:53] INFO > Marine: Opened the menu
+[12:11:57] INFO > Marine: Teleported to user ID 76561198141581757
+[12:12:45] INFO > Marine: Opened the menu
+[12:13:01] INFO > Marine: Teleported to user ID 76561198977454718
+[12:18:39] INFO > Marine: Opened the menu
+[12:19:08] INFO > Marine: Healed user ID 76561199028553807 for 75 points
+[12:19:18] INFO > Marine: Recovered the metabolism of user ID 76561199028553807
+[12:24:40] INFO > Void: Opened the menu
+[12:26:43] INFO > Void: Opened the menu
+[12:27:14] INFO > Marine: Opened the menu
+[12:27:17] INFO > Marine: Teleported to user ID 76561198141581757
+[12:28:02] INFO > Void: Opened the menu
+[12:28:07] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[12:28:08] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[12:28:08] INFO > Void: Healed user ID 76561198977454718 for 0 points
+[12:38:08] INFO > Marine: Opened the menu
+[12:38:11] INFO > Marine: Teleported to user ID 76561198141581757
+[12:48:58] INFO > Void: Opened the menu
+[12:53:51] INFO > Marine: Opened the menu
+[12:53:58] INFO > Marine: Recovered the metabolism of user ID 76561199028553807
+[12:54:02] INFO > Marine: Healed user ID 76561199028553807 for 100 points
+[01:05:25] INFO > Marine: Opened the menu
+[01:05:34] INFO > Marine: Opened the menu
+[01:05:38] INFO > Marine: Teleported to user ID 76561198977454718
+[01:08:13] INFO > Marine: Opened the menu
+[01:08:15] INFO > Marine: Teleported to user ID 76561198141581757
+[01:14:57] INFO > 2k: Opened the menu
+[01:15:00] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[01:15:01] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[01:47:06] INFO > Void: Opened the menu
+[01:47:11] INFO > Void: Opened the menu
+[01:47:13] INFO > Void: Teleported to user ID 76561198141581757
+[01:47:48] INFO > Void: Opened the menu
+[01:54:22] INFO > Void: Opened the menu
+[01:54:24] INFO > Void: Teleported to user ID 76561199173415204
+[01:54:38] INFO > Void: Opened the menu
+[01:54:56] INFO > Void: Opened the menu
+[01:54:59] INFO > Void: Teleported to user ID 76561198141581757
+[02:00:45] INFO > Void: Opened the menu
+[02:00:48] INFO > Void: Teleported to user ID 76561198295411254
+[02:03:46] INFO > Void: Opened the menu
+[02:03:49] INFO > Void: Teleported to user ID 76561198301679972
+[02:07:15] INFO > Void: Opened the menu
+[02:07:18] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[02:07:19] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[02:15:28] INFO > 2k: Opened the menu
+[02:15:32] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[02:15:33] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[02:19:08] INFO > 2k: Opened the menu
+[02:19:12] INFO > 2k: Teleported to user ID 76561198301679972
+[02:43:31] INFO > Void: Opened the menu
+[02:43:34] INFO > Void: Teleported to user ID 76561198295411254
+[02:43:39] INFO > Void: Opened the menu
+[02:43:42] INFO > Void: Teleported to user ID 76561198301679972
+[02:59:47] INFO > Void: Opened the menu
+[02:59:53] INFO > Void: Opened the menu
+[03:12:59] INFO > Void: Opened the menu
+[03:16:32] INFO > Void: Opened the menu
+[03:16:50] INFO > 2k: Opened the menu
+[03:16:55] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[03:16:56] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[03:17:39] INFO > Void: Opened the menu
+[03:17:41] INFO > Void: Teleported to user ID 76561198295411254
+[03:19:30] INFO > 2k: Opened the menu
+[03:19:32] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[03:19:38] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[04:27:16] INFO > 2k: Opened the menu
+[04:27:19] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[04:27:20] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[04:33:20] INFO > 2k: Opened the menu
+[04:37:39] INFO > 2k: Opened the menu
+[04:50:56] INFO > 2k: Opened the menu
+[05:23:06] INFO > 2k: Opened the menu
+[05:49:50] INFO > 2k: Opened the menu
+[05:49:56] INFO > 2k: Opened the menu
+[05:51:05] INFO > 2k: Opened the menu
+[05:51:08] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[05:51:09] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[05:55:12] INFO > 2k: Opened the menu
+[05:55:15] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[05:55:16] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[06:02:53] INFO > 2k: Opened the menu
+[06:02:55] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[06:02:56] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[06:13:02] INFO > Void: Opened the menu
+[06:13:06] INFO > Void: Teleported to user ID 76561199172849729
+[06:19:11] INFO > Void: Opened the menu
+[06:19:17] INFO > Void: Healed user ID 76561199172849729 for 50 points
+[06:19:17] INFO > Void: Recovered the metabolism of user ID 76561199172849729
+[06:23:37] INFO > Void: Opened the menu
+[06:23:41] INFO > Void: Opened the menu
+[06:23:46] INFO > Void: Teleported to user ID 76561198901309969
+[06:25:14] INFO > Void: Opened the menu
+[06:25:17] INFO > Void: Teleported to user ID 76561198104600220
+[06:27:57] INFO > Void: Opened the menu
+[06:28:00] INFO > ~q~Daisy: Teleported to admin Void
+[06:30:23] INFO > Void: Opened the menu
+[06:36:59] INFO > Void: Opened the menu
+[06:38:16] INFO > Void: Opened the menu
+[06:38:18] INFO > ~q~Daisy: Teleported to admin Void
+[06:38:28] INFO > 2k: Opened the menu
+[06:38:32] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[06:38:33] INFO > 2k: Recovered the metabolism of user ID 76561198141581757
+[06:40:17] INFO > Void: Opened the menu
+[06:40:19] INFO > ~q~Daisy: Teleported to admin Void
+[06:49:59] INFO > Void: Opened the menu
+[06:50:03] INFO > ~q~Daisy: Teleported to admin Void
+[07:26:36] INFO > Void: Opened the menu
+[07:46:18] INFO > Void: Opened the menu
+[07:46:23] INFO > Void: Teleported to user ID 76561199065963062
+[07:50:02] INFO > Void: Opened the menu
+[07:50:05] INFO > ~q~Daisy: Teleported to admin Void
+[08:08:23] INFO > Void: Opened the menu
+[08:08:29] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[08:08:30] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[08:10:23] INFO > Void: Opened the menu
+[08:10:27] INFO > Void: Healed user ID 76561198977454718 for 100 points
+[08:10:28] INFO > Void: Recovered the metabolism of user ID 76561198977454718
+[08:16:01] INFO > Void: Opened the menu
+[08:22:28] INFO > 2k: Opened the menu
+[08:22:33] INFO > 2k: Healed user ID 76561198141581757 for 100 points
+[08:22:34] INFO > 2k: Recovered the metabolism of user ID 76561198141581757

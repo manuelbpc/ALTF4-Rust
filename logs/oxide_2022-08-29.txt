@@ -1,0 +1,944 @@
+00:03 [Warning] [BoxLooters] Saved Boxlooters data
+00:10 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+00:10 [Info] [FancyDrop] Next timed Airdrop in 55 minutes
+00:13 [Warning] [BoxLooters] Saved Boxlooters data
+00:16 [Info] [Advert Messages] Welcome to our server, have fun!
+00:23 [Warning] [BoxLooters] Saved Boxlooters data
+00:33 [Warning] [BoxLooters] Saved Boxlooters data
+00:39 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+00:43 [Warning] [BoxLooters] Saved Boxlooters data
+00:46 [Info] [Advert Messages] Please treat everybody respectfully.
+00:53 [Warning] [BoxLooters] Saved Boxlooters data
+01:03 [Warning] [BoxLooters] Saved Boxlooters data
+01:05 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (507, 32, 399) grid area: N7
+01:05 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+01:05 [Info] [FancyDrop] Next timed Airdrop in 55 minutes
+01:13 [Warning] [BoxLooters] Saved Boxlooters data
+01:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+01:23 [Warning] [BoxLooters] Saved Boxlooters data
+01:33 [Warning] [BoxLooters] Saved Boxlooters data
+01:43 [Warning] [BoxLooters] Saved Boxlooters data
+01:46 [Info] [Advert Messages] Welcome to our server, have fun!
+01:53 [Warning] [BoxLooters] Saved Boxlooters data
+01:55 [Info] [Better Chat] [Global] [Player] jermonster4: hello
+02:00 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (102, 48, -48) grid area: K10
+02:00 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:00 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+02:01 [Info] [Better Chat] [Global] [Player] jermonster4: hello
+02:03 [Warning] [BoxLooters] Saved Boxlooters data
+02:13 [Warning] [BoxLooters] Saved Boxlooters data
+02:16 [Info] [Advert Messages] Please treat everybody respectfully.
+02:23 [Warning] [BoxLooters] Saved Boxlooters data
+02:26 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+02:33 [Warning] [BoxLooters] Saved Boxlooters data
+02:43 [Warning] [BoxLooters] Saved Boxlooters data
+02:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+02:48 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (753, 16, -885) grid area: P16
+02:48 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+02:48 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+02:53 [Warning] [BoxLooters] Saved Boxlooters data
+03:03 [Warning] [BoxLooters] Saved Boxlooters data
+03:13 [Warning] [BoxLooters] Saved Boxlooters data
+03:16 [Info] [Advert Messages] Welcome to our server, have fun!
+03:19 [Info] [Better Chat] [Global] [Player] jermonster4: hello
+03:23 [Warning] [BoxLooters] Saved Boxlooters data
+03:24 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (767, 29, 45) grid area: P9
+03:24 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+03:24 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+03:33 [Warning] [BoxLooters] Saved Boxlooters data
+03:33 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+03:39 [Info] [FancyDrop] jermonster4 (76561199184574453) looted the Drop at: (767, 29, 45) grid area: P9
+03:43 [Warning] [BoxLooters] Saved Boxlooters data
+03:46 [Info] [Advert Messages] Please treat everybody respectfully.
+03:53 [Warning] [BoxLooters] Saved Boxlooters data
+03:58 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (159, 30, -458) grid area: L13
+03:58 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+03:58 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+04:00 [Info] [Better Chat] [Global] [Player] jermonster4: hello
+04:00 [Info] [Better Chat] [Global] [Player] jermonster4: whos online
+04:01 [Info] [Better Chat] [Global] [Player] jermonster4: fuck uuuuuuuuuuu
+04:03 [Warning] [BoxLooters] Saved Boxlooters data
+04:05 [Info] [Better Chat] [Global] [Player] jermonster4: hellooooooooooooooooooooooo
+04:13 [Warning] [BoxLooters] Saved Boxlooters data
+04:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+04:23 [Warning] [BoxLooters] Saved Boxlooters data
+04:33 [Warning] [BoxLooters] Saved Boxlooters data
+04:43 [Warning] [BoxLooters] Saved Boxlooters data
+04:45 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (622, 18, -53) grid area: O10
+04:45 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+04:45 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+04:46 [Info] [Advert Messages] Welcome to our server, have fun!
+04:53 [Warning] [BoxLooters] Saved Boxlooters data
+05:03 [Warning] [BoxLooters] Saved Boxlooters data
+05:13 [Warning] [BoxLooters] Saved Boxlooters data
+05:16 [Info] [Advert Messages] Please treat everybody respectfully.
+05:23 [Warning] [BoxLooters] Saved Boxlooters data
+05:32 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+05:32 [Info] [FancyDrop] Next timed Airdrop in 57 minutes
+05:33 [Warning] [BoxLooters] Saved Boxlooters data
+05:43 [Warning] [BoxLooters] Saved Boxlooters data
+05:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+05:53 [Warning] [BoxLooters] Saved Boxlooters data
+06:03 [Warning] [BoxLooters] Saved Boxlooters data
+06:13 [Warning] [BoxLooters] Saved Boxlooters data
+06:16 [Info] [Advert Messages] Welcome to our server, have fun!
+06:23 [Warning] [BoxLooters] Saved Boxlooters data
+06:29 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+06:29 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+06:33 [Warning] [BoxLooters] Saved Boxlooters data
+06:36 [Info] [Better Chat] [Global] [Player] kaiwaites: Yo
+06:40 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+06:43 [Warning] [BoxLooters] Saved Boxlooters data
+06:46 [Info] [Advert Messages] Please treat everybody respectfully.
+06:48 [Info] [Better Chat] [Global] [Player] kaiwaites: how tf do i get cloth
+06:53 [Warning] [BoxLooters] Saved Boxlooters data
+07:03 [Warning] [BoxLooters] Saved Boxlooters data
+07:11 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:11 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+07:13 [Warning] [BoxLooters] Saved Boxlooters data
+07:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+07:23 [Warning] [BoxLooters] Saved Boxlooters data
+07:33 [Warning] [BoxLooters] Saved Boxlooters data
+07:43 [Warning] [BoxLooters] Saved Boxlooters data
+07:46 [Info] [Advert Messages] Welcome to our server, have fun!
+07:53 [Warning] [BoxLooters] Saved Boxlooters data
+07:53 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+07:53 [Info] [FancyDrop] Next timed Airdrop in 53 minutes
+08:03 [Warning] [BoxLooters] Saved Boxlooters data
+08:13 [Warning] [BoxLooters] Saved Boxlooters data
+08:15 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+08:16 [Info] [Advert Messages] Please treat everybody respectfully.
+08:22 [Info] [Better Chat] [Global] [Player] jermonster4: some1 online
+08:23 [Warning] [BoxLooters] Saved Boxlooters data
+08:33 [Warning] [BoxLooters] Saved Boxlooters data
+08:37 [Info] [Better Chat] [Global] [Player] brandonj71996: anyone on?
+08:38 [Info] [Better Chat] [Global] [Player] jermonster4: whos online
+08:38 [Info] [Better Chat] [Global] [Player] brandonj71996: yoo
+08:39 [Info] [Better Chat] [Global] [Player] jermonster4: danm som1 online no more peace full
+08:39 [Info] [Better Chat] [Global] [Player] jermonster4: rip
+08:39 [Info] [Better Chat] [Global] [Player] brandonj71996: xD
+08:39 [Info] [Better Chat] [Global] [Player] jermonster4: i dced just wen i come back some1 online im lick fuck
+08:39 [Info] [Better Chat] [Global] [Player] jermonster4: i realy dont want tp pvp ok
+08:40 [Info] [Better Chat] [Global] [Player] jermonster4: dont
+08:40 [Info] [Better Chat] [Global] [Player] brandonj71996: its onlys us i doubt while see each other
+08:40 [Info] [Better Chat] [Global] [Player] jermonster4: are you in a team brand
+08:40 [Info] [Better Chat] [Global] [Player] brandonj71996: nope just me
+08:40 [Info] [Better Chat] [Global] [Player] jermonster4: want to team?
+08:40 [Info] [Better Chat] [Global] [Player] jermonster4: im solo
+08:41 [Info] [Better Chat] [Global] [Player] brandonj71996: im down
+08:41 [Info] [Better Chat] [Global] [Player] jermonster4: dude wtf
+08:41 [Info] [Better Chat] [Global] [Player] jermonster4: locked crate open at power plant and 3
+08:41 [Info] [Better Chat] [Global] [Player] jermonster4: hml
+08:42 [Info] [Better Chat] [Global] [Player] jermonster4: bolty
+08:42 [Info] [Better Chat] [Global] [Player] brandonj71996: seshh
+08:42 [Info] [Better Chat] [Global] [Player] jermonster4: like wen we team dont back stabe me
+08:42 [Info] [Better Chat] [Global] [Player] jermonster4: some1 teamed whit me and stole my stuff
+08:43 [Warning] [BoxLooters] Saved Boxlooters data
+08:43 [Info] [Better Chat] [Global] [Player] brandonj71996: im still pretty new to rust
+08:43 [Info] [Better Chat] [Global] [Player] jermonster4: me two
+08:43 [Info] [Better Chat] [Global] [Player] jermonster4: 100+ hours i got
+08:43 [Info] [Better Chat] [Global] [Player] jermonster4: more or less
+08:44 [Info] [Better Chat] [Global] [Player] brandonj71996: i got probably 50 or less
+08:44 [Info] [Better Chat] [Global] [Player] jermonster4: nice
+08:44 [Info] [Better Chat] [Global] [Player] brandonj71996: but my homies play on here
+08:44 [Info] [Better Chat] [Global] [Player] jermonster4: ik
+08:45 [Info] [Better Chat] [Global] [Player] jermonster4: you know some2 named sexipants
+08:45 [Info] [Better Chat] [Global] [Player] brandonj71996: i dont know him but i seen him on here
+08:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+08:46 [Info] [Better Chat] [Global] [Player] jermonster4: today for me was no1 online
+08:46 [Info] [Better Chat] [Global] [Player] jermonster4: i got 4 locked crates today
+08:46 [Info] [Better Chat] [Global] [Player] jermonster4: or 3
+08:46 [Info] [Better Chat] [Global] [Player] brandonj71996: on snap
+08:46 [Info] [Better Chat] [Global] [Player] brandonj71996: thats dope
+08:46 [Info] [Better Chat] [Global] [Player] jermonster4: just from today
+08:46 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (71, 75, 562) grid area: K6
+08:46 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+08:46 [Info] [FancyDrop] Next timed Airdrop in 46 minutes
+08:50 [Info] [FancyDrop] jermonster4 (76561199184574453) looted the Drop at: (71, 75, 562) grid area: K6
+08:51 [Info] [Better Chat] [Global] [Player] jermonster4: i logged on like 30-45 min ago now i just got 5 guns ez
+08:53 [Warning] [BoxLooters] Saved Boxlooters data
+08:56 [Info] [Better Chat] [Global] [Player] jermonster4: where do  you want to meet?
+08:57 [Info] [Better Chat] [Global] [Player] jermonster4: brandon
+08:57 [Info] [Better Chat] [Global] [Player] brandonj71996: ohh
+08:57 [Info] [Better Chat] [Global] [Player] brandonj71996: lemme see
+08:57 [Info] [Better Chat] [Global] [Player] jermonster4: im near bandite
+08:57 [Info] [Better Chat] [Global] [Player] brandonj71996: i can go there
+08:57 [Info] [Better Chat] [Global] [Player] brandonj71996: im close
+08:57 [Info] [Better Chat] [Global] [Player] jermonster4: ok wen its day time
+08:57 [Info] [Better Chat] [Global] [Player] jermonster4: i can bring you to my base
+08:58 [Info] [Better Chat] [Global] [Player] brandonj71996: okay im at oxum
+08:58 [Info] [Better Chat] [Global] [Player] jermonster4: i live near stone qaury
+08:58 [Info] [Better Chat] [Global] [Player] jermonster4: i will give you a gun
+08:58 [Info] [Better Chat] [Global] [Player] brandonj71996: okay i came when its day
+08:58 [Info] [Better Chat] [Global] [Player] brandonj71996: and thank you
+08:58 [Info] [Better Chat] [Global] [Player] jermonster4: np
+08:58 [Info] [Better Chat] [Global] [Player] brandonj71996: i live near oxums
+08:59 [Info] [Better Chat] [Global] [Player] jermonster4: ok
+08:59 [Info] [Better Chat] [Global] [Player] jermonster4: i raided a 1by1 and it was lodded
+08:59 [Info] [Better Chat] [Global] [Player] jermonster4: but pls dont back stabe me
+09:00 [Info] [Better Chat] [Global] [Player] brandonj71996: i wont like i said im still new xD
+09:00 [Info] [Better Chat] [Global] [Player] jermonster4: alright
+09:03 [Warning] [BoxLooters] Saved Boxlooters data
+09:06 [Info] [Better Chat] [Global] [Player] jermonster4: are you at bandite
+09:07 [Info] [Better Chat] [Global] [Player] brandonj71996: not yet fixing base real quick then coming
+09:07 [Info] [Better Chat] [Global] [Player] jermonster4: you got raided
+09:07 [Info] [Better Chat] [Global] [Player] brandonj71996: no just depoing
+09:07 [Info] [Better Chat] [Global] [Player] jermonster4: a
+09:08 [Info] [Better Chat] [Global] [Player] brandonj71996: omw
+09:10 [Info] [Better Chat] [Global] [Player] brandonj71996: im here
+09:10 [Info] [Better Chat] [Global] [Player] jermonster4: im at the drones
+09:10 [Info] [Better Chat] [Global] [Player] brandonj71996: hey there
+09:13 [Warning] [BoxLooters] Saved Boxlooters data
+09:16 [Info] [Advert Messages] Welcome to our server, have fun!
+09:23 [Warning] [BoxLooters] Saved Boxlooters data
+09:28 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+09:32 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-254, 10, -949) grid area: I16
+09:32 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+09:32 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+09:33 [Warning] [BoxLooters] Saved Boxlooters data
+09:37 [Info] [Better Chat] [Team] [Player] jermonster4: wait up
+09:37 [Info] [Better Chat] [Team] [Player] brandonj71996: ok
+09:43 [Warning] [BoxLooters] Saved Boxlooters data
+09:46 [Info] [Advert Messages] Please treat everybody respectfully.
+09:50 [Info] [Better Chat] [Team] [Player] jermonster4: igtg mate cya ;D
+09:50 [Info] [Better Chat] [Team] [Player] jermonster4: bye
+09:53 [Warning] [BoxLooters] Saved Boxlooters data
+10:03 [Warning] [BoxLooters] Saved Boxlooters data
+10:13 [Warning] [BoxLooters] Saved Boxlooters data
+10:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+10:21 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (514, 24, 581) grid area: N6
+10:21 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+10:21 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+10:23 [Warning] [BoxLooters] Saved Boxlooters data
+10:25 [Info] [FancyDrop] Mayz (76561199013423444) looted the Drop at: (514, 24, 581) grid area: N6
+10:33 [Warning] [BoxLooters] Saved Boxlooters data
+10:43 [Warning] [BoxLooters] Saved Boxlooters data
+10:46 [Info] [Advert Messages] Welcome to our server, have fun!
+10:53 [Warning] [BoxLooters] Saved Boxlooters data
+11:03 [Warning] [BoxLooters] Saved Boxlooters data
+11:10 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+11:10 [Info] [FancyDrop] Next timed Airdrop in 48 minutes
+11:13 [Warning] [BoxLooters] Saved Boxlooters data
+11:16 [Info] [Advert Messages] Please treat everybody respectfully.
+11:23 [Warning] [BoxLooters] Saved Boxlooters data
+11:33 [Warning] [BoxLooters] Saved Boxlooters data
+11:43 [Warning] [BoxLooters] Saved Boxlooters data
+11:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+11:53 [Warning] [BoxLooters] Saved Boxlooters data
+11:58 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-890, 22, 396) grid area: E7
+11:58 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+11:58 [Info] [FancyDrop] Next timed Airdrop in 58 minutes
+12:03 [Warning] [BoxLooters] Saved Boxlooters data
+12:04 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+12:13 [Warning] [BoxLooters] Saved Boxlooters data
+12:16 [Info] [Advert Messages] Welcome to our server, have fun!
+12:23 [Warning] [BoxLooters] Saved Boxlooters data
+12:33 [Warning] [BoxLooters] Saved Boxlooters data
+12:36 [Info] [Better Chat] [Global] [Player] Nate: who that
+12:43 [Warning] [BoxLooters] Saved Boxlooters data
+12:46 [Info] [Advert Messages] Please treat everybody respectfully.
+12:53 [Warning] [BoxLooters] Saved Boxlooters data
+12:56 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-101, 64, -50) grid area: J10
+12:56 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+12:56 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+13:02 [Info] [FancyDrop] SupplySignal thrown by 'Musman' at: (-526.4, 33.1, -103.5)
+13:03 [Warning] [BoxLooters] Saved Boxlooters data
+13:06 [Info] [FancyDrop] Nate (76561198301679972) looted the Drop at: (-517, 35, -112) grid area: G11
+13:07 [Info] [Better Chat] [Global] [Player] Oregano: bag me nigga
+13:08 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+13:13 [Warning] [BoxLooters] Saved Boxlooters data
+13:14 [Info] [FancyDrop] Oregano (76561198107794246) looted the Drop at: (-101, 64, -50) grid area: J10
+13:14 [Info] [Better Chat] [Global] [Player] Oregano: fags
+13:15 [Info] [Better Chat] [Global] [Player] Nate: no
+13:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+13:18 [Info] [Better Chat] [Global] [Player] Oregano: postal?
+13:18 [Info] [Better Chat] [Global] [Player] Oregano: i got something for yall
+13:18 [Info] [Better Chat] [Global] [Player] Nate: theres other people in here
+13:18 [Info] [Better Chat] [Global] [Player] Nate: look at stream
+13:18 [Info] [Better Chat] [Global] [Player] Oregano: kk im in a meeting rn
+13:18 [Info] [Better Chat] [Global] [Player] Oregano: pause
+13:18 [Info] [Better Chat] [Global] [Player] Oregano: ciber got you some shit
+13:19 [Info] [Better Chat] [Global] [Player] Oregano: stay at base
+13:19 [Info] [Better Chat] [Global] [Player] Oregano: both of you
+13:20 [Info] [Better Chat] [Global] [Player] Oregano: best gambler
+13:20 [Info] [Better Chat] [Global] [Player] Oregano: 50 to 840
+13:20 [Info] [Better Chat] [Global] [Player] Oregano: give me my shotgun ammo
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: shotgun ammo
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: I can gamble more
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: and win
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: no
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: no
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: give me sar
+13:21 [Info] [Better Chat] [Global] [Player] Oregano: take me ciber
+13:22 [Info] [Better Chat] [Global] [Player] Oregano: ahhhhh
+13:22 [Info] [Better Chat] [Global] [Player] Oregano: ciber come back for me
+13:23 [Info] [Better Chat] [Global] [Player] Oregano: its old
+13:23 [Warning] [BoxLooters] Saved Boxlooters data
+13:23 [Info] [Better Chat] [Global] [Player] Oregano: how much
+13:23 [Info] [Better Chat] [Global] [Player] Oregano: inv
+13:24 [Info] [Better Chat] [Global] [Player] Oregano: 554
+13:24 [Info] [Better Chat] [Global] [Player] Oregano: need me 554
+13:26 [Info] [Better Chat] [Global] [Player] Oregano: hahah
+13:28 [Info] [Better Chat] [Global] [Player] Oregano: we got 554?
+13:30 [Info] [Better Chat] [Global] [Player] Oregano: make more
+13:31 [Info] [Better Chat] [Global] [Player] Oregano: I want to come
+13:32 [Info] [Better Chat] [Global] [Player] Oregano: so much coal
+13:32 [Info] [Better Chat] [Global] [Player] Oregano: soo much food
+13:33 [Warning] [BoxLooters] Saved Boxlooters data
+13:33 [Info] [Better Chat] [Global] [Player] Oregano: so much wood
+13:33 [Info] [Better Chat] [Global] [Player] Oregano: what did this dude just say
+13:33 [Info] [Better Chat] [Global] [Player] Oregano: nate need you here
+13:34 [Info] [Better Chat] [Global] [Player] Oregano: yes
+13:34 [Info] [Better Chat] [Global] [Player] Oregano: inv me
+13:34 [Info] [Better Chat] [Global] [Player] Oregano: just let me get on
+13:34 [Info] [Better Chat] [Global] [Player] Oregano: lol
+13:35 [Info] [Better Chat] [Team] [Player] Oregano: mg
+13:35 [Info] [Better Chat] [Team] [Player] Oregano: m39
+13:35 [Info] [Better Chat] [Team] [Player] Oregano: down
+13:35 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-296, 33, -67) grid area: I10
+13:35 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+13:35 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+13:36 [Info] [Better Chat] [Team] [Player] Oregano: at what
+13:38 [Info] [Better Chat] [Team] [Player] Oregano: home
+13:38 [Info] [Better Chat] [Team] [Player] Oregano: im full
+13:38 [Info] [Better Chat] [Team] [Player] Oregano: home
+13:38 [Info] [Better Chat] [Team] [Player] Oregano: airdrop left
+13:39 [Info] [Better Chat] [Team] [Player] Oregano: rpg
+13:39 [Info] [FancyDrop] Musman (76561199278283059) looted the Drop at: (-296, 33, -67) grid area: I10
+13:43 [Warning] [BoxLooters] Saved Boxlooters data
+13:43 [Info] [Better Chat] [Team] [Player] Oregano: any meds?
+13:45 [Info] [Better Chat] [Team] [Player] Oregano: wtf
+13:45 [Info] [Better Chat] [Team] [Player] Oregano: yea
+13:45 [Info] [Better Chat] [Team] [Player] Oregano: no
+13:45 [Info] [Better Chat] [Team] [Player] Oregano: sorry
+13:45 [Info] [Better Chat] [Team] [Player] Oregano: I didnt
+13:46 [Info] [Advert Messages] Welcome to our server, have fun!
+13:47 [Info] [Better Chat] [Team] [Player] Oregano: ahhhh
+13:47 [Info] [Better Chat] [Team] [Player] Oregano: im full
+13:47 [Info] [Better Chat] [Team] [Player] Oregano: hold on
+13:48 [Info] [Better Chat] [Team] [Player] Oregano: I can drive
+13:48 [Info] [Better Chat] [Team] [Player] Oregano: let me drive
+13:48 [Info] [Better Chat] [Team] [Player] Oregano: lol fuck that
+13:48 [Info] [Better Chat] [Team] [Player] Oregano: ahhhhhhhh
+13:48 [Info] [Better Chat] [Team] [Player] Oregano: lol
+13:49 [Info] [Better Chat] [Team] [Player] Oregano: want me to go gamble?
+13:49 [Info] [Better Chat] [Team] [Player] Oregano: ez
+13:49 [Info] [FancyDrop] SupplySignal thrown by 'Musman' at: (-526.8, 33.1, -104.5)
+13:50 [Info] [Better Chat] [Team] [Player] Oregano: ciber wood up here
+13:50 [Info] [Better Chat] [Team] [Player] Oregano: here
+13:51 [Info] [Better Chat] [Team] [Player] Oregano: drop me off at bandit ciber
+13:53 [Warning] [BoxLooters] Saved Boxlooters data
+13:53 [Info] [Better Chat] [Team] [Player] Oregano: pause
+13:53 [Info] [Better Chat] [Team] [Player] Oregano: stats
+13:54 [Info] [Better Chat] [Team] [Player] Oregano: we up 1k lol
+13:55 [Info] [Better Chat] [Team] [Player] Oregano: can I get a FL
+13:55 [Info] [FancyDrop] Musman (76561199278283059) looted the Drop at: (-521, 36, -110) grid area: G11
+13:55 [Info] [Better Chat] [Team] [Player] Oregano: -.-
+13:55 [Info] [Better Chat] [Team] [Player] Oregano: decayyyy
+13:56 [Info] [FancyDrop] SupplySignal thrown by 'Musman' at: (-525.5, 33.1, -103.3)
+13:57 [Info] [Better Chat] [Team] [Player] Oregano: FL please
+13:58 [Info] [Better Chat] [Team] [Player] Oregano: ty
+14:01 [Info] [FancyDrop] Nate (76561198301679972) looted the Drop at: (-511, 32, -118) grid area: G11
+14:01 [Info] [Better Chat] [Team] [Player] Oregano: can I take mini
+14:01 [Info] [Better Chat] [Team] [Player] Oregano: where am I going?
+14:02 [Info] [Better Chat] [Team] [Player] Oregano: do jack and alison play here
+14:02 [Info] [Better Chat] [Team] [Player] Oregano: am I not full
+14:03 [Warning] [BoxLooters] Saved Boxlooters data
+14:04 [Info] [Better Chat] [Team] [Player] Oregano: mask
+14:05 [Info] [Better Chat] [Team] [Player] Oregano: you fag you left me
+14:06 [Info] [Better Chat] [Team] [Player] Oregano: me
+14:06 [Info] [Better Chat] [Team] [Player] Oregano: yes
+14:10 [Info] [Better Chat] [Team] [Player] Oregano: as a pro thats a myth
+14:10 [Info] [Better Chat] [Team] [Player] Oregano: no
+14:10 [Info] [Better Chat] [Team] [Player] Oregano: I lived in a cave base
+14:10 [Info] [Better Chat] [Team] [Player] Oregano: not true
+14:11 [Info] [Better Chat] [Team] [Player] Oregano: bucket comes down always
+14:11 [Info] [Better Chat] [Team] [Player] Oregano: nate I got distracted now im halfway up the dome
+14:13 [Warning] [BoxLooters] Saved Boxlooters data
+14:13 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+14:16 [Info] [Advert Messages] Please treat everybody respectfully.
+14:18 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-541, 26, -63) grid area: G10
+14:18 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+14:18 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+14:19 [Info] [Better Chat] [Team] [Player] Oregano: crate at pp
+14:19 [Info] [Better Chat] [Team] [Player] Oregano: Imma stop by bandit camp
+14:20 [Info] [Better Chat] [Team] [Player] Oregano: what I do with diesel fuel
+14:21 [Info] [Better Chat] [Team] [Player] Oregano: where them nodes at
+14:22 [Info] [Better Chat] [Team] [Player] Musman: d
+14:23 [Warning] [BoxLooters] Saved Boxlooters data
+14:23 [Info] [Better Chat] [Team] [Player] Oregano: 1080 sulfer for 300
+14:23 [Info] [Better Chat] [Team] [Player] Oregano: its ez
+14:24 [Info] [Better Chat] [Team] [Player] Oregano: base on me
+14:24 [Info] [Better Chat] [Team] [Player] Oregano: 2x2 honeycomb
+14:24 [Info] [FancyDrop] Nate (76561198301679972) looted the Drop at: (-541, 26, -63) grid area: G10
+14:24 [Info] [Better Chat] [Team] [Player] Oregano: daisy
+14:24 [Info] [Better Chat] [Team] [Player] Oregano: idk who that is
+14:24 [Info] [Better Chat] [Team] [Player] Oregano: void
+14:24 [Info] [Better Chat] [Team] [Player] Oregano: its voids
+14:25 [Info] [Better Chat] [Team] [Player] Oregano: on my body
+14:25 [Info] [Better Chat] [Team] [Player] Oregano: stone
+14:26 [Info] [Better Chat] [Team] [Player] Oregano: jacket is not prime
+14:33 [Warning] [BoxLooters] Saved Boxlooters data
+14:33 [Info] [Better Chat] [Team] [Player] Oregano: imma take a break rq
+14:33 [Info] [Better Chat] [Team] [Player] Oregano: I think I did good work today
+14:34 [Info] [Better Chat] [Team] [Player] Oregano: thats gay
+14:43 [Warning] [BoxLooters] Saved Boxlooters data
+14:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+14:53 [Warning] [BoxLooters] Saved Boxlooters data
+15:01 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-104, 52, 135) grid area: J9
+15:01 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:01 [Info] [FancyDrop] Next timed Airdrop in 51 minutes
+15:03 [Warning] [BoxLooters] Saved Boxlooters data
+15:13 [Warning] [BoxLooters] Saved Boxlooters data
+15:16 [Info] [Advert Messages] Welcome to our server, have fun!
+15:19 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+15:23 [Warning] [BoxLooters] Saved Boxlooters data
+15:33 [Warning] [BoxLooters] Saved Boxlooters data
+15:43 [Warning] [BoxLooters] Saved Boxlooters data
+15:46 [Info] [Advert Messages] Please treat everybody respectfully.
+15:52 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (177, 25, -151) grid area: L11
+15:52 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+15:52 [Info] [FancyDrop] Next timed Airdrop in 53 minutes
+15:53 [Warning] [BoxLooters] Saved Boxlooters data
+16:03 [Warning] [BoxLooters] Saved Boxlooters data
+16:13 [Warning] [BoxLooters] Saved Boxlooters data
+16:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+16:19 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+16:23 [Warning] [BoxLooters] Saved Boxlooters data
+16:33 [Warning] [BoxLooters] Saved Boxlooters data
+16:36 [Info] [Better Chat] [Global] [Player] Musman: yoo
+16:43 [Warning] [BoxLooters] Saved Boxlooters data
+16:45 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (543, 11, -769) grid area: N15
+16:45 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+16:45 [Info] [FancyDrop] Next timed Airdrop in 36 minutes
+16:46 [Info] [Advert Messages] Welcome to our server, have fun!
+16:53 [Warning] [BoxLooters] Saved Boxlooters data
+16:54 [Info] [Better Chat] [Global] [Player] Nate: !skipnight (1/1)
+17:01 [Info] [FancyDrop] iixjell0 (76561198929205548) looted the Drop at: (543, 11, -769) grid area: N15
+17:03 [Warning] [BoxLooters] Saved Boxlooters data
+17:13 [Warning] [BoxLooters] Saved Boxlooters data
+17:16 [Info] [Advert Messages] Please treat everybody respectfully.
+17:21 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-76, 52, 146) grid area: J9
+17:21 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+17:21 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+17:23 [Warning] [BoxLooters] Saved Boxlooters data
+17:33 [Warning] [BoxLooters] Saved Boxlooters data
+17:34 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+17:43 [Warning] [BoxLooters] Saved Boxlooters data
+17:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+17:53 [Warning] [BoxLooters] Saved Boxlooters data
+18:03 [Warning] [BoxLooters] Saved Boxlooters data
+18:11 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (960, 4, 901) grid area: Q4
+18:11 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+18:11 [Info] [FancyDrop] Next timed Airdrop in 50 minutes
+18:13 [Warning] [BoxLooters] Saved Boxlooters data
+18:16 [Info] [Advert Messages] Welcome to our server, have fun!
+18:23 [Warning] [BoxLooters] Saved Boxlooters data
+18:33 [Warning] [BoxLooters] Saved Boxlooters data
+18:41 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+18:43 [Warning] [BoxLooters] Saved Boxlooters data
+18:46 [Info] [Advert Messages] Please treat everybody respectfully.
+18:53 [Warning] [BoxLooters] Saved Boxlooters data
+19:01 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+19:01 [Info] [FancyDrop] Next timed Airdrop in 54 minutes
+19:03 [Warning] [BoxLooters] Saved Boxlooters data
+19:13 [Warning] [BoxLooters] Saved Boxlooters data
+19:16 [Info] [Nav Mesh Error Fix] Located & Killed Stuck assets/rust.ai/agents/npcplayer/humannpc/underwaterdweller/npc_underwaterdweller.prefab at (1302.1, -50.0, -1461.0)
+19:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+19:18 [Info] [Admin Logger] [08/29/2022 19:18:04] ~q~Daisy [76561198104600220] connected.
+19:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:18 [Info] [Admin Logger] [08/29/2022 19:18:05] ~q~Daisy [76561198104600220] disabled Godmode.
+19:18 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:18 [Info] [Better Chat] [Team] [Player] iixjell0: heyy???
+19:18 [Info] [Better Chat] [Global] [Player] iixjell0: HEY
+19:21 [Info] [Better Chat] [Global] [Player] iixjell0: HELLO???
+19:23 [Warning] [BoxLooters] Saved Boxlooters data
+19:26 [Info] [Better Chat] [Global] [Player] iixjell0: hello?
+19:26 [Info] [Better Chat] [Global] [Player] iixjell0: talk to me pls
+19:26 [Info] [Better Chat] [Team] [Player] ~q~Daisy: yo
+19:26 [Info] [Better Chat] [Global] [Player] ~q~Daisy: yo
+19:26 [Info] [Better Chat] [Global] [Player] iixjell0: sooo pvp?
+19:27 [Info] [Better Chat] [Global] [Player] ~q~Daisy: I'm just farming
+19:27 [Info] [Better Chat] [Global] [Player] iixjell0: ok
+19:27 [Info] [Better Chat] [Global] [Player] Nate: yo
+19:28 [Info] [Better Chat] [Global] [Player] Nate: jello wya
+19:33 [Warning] [BoxLooters] Saved Boxlooters data
+19:33 [Info] [Better Chat] [Global] [Player] iixjell0: beating my dick
+19:33 [Info] [Better Chat] [Global] [Player] iixjell0: almost done
+19:33 [Info] [Better Chat] [Global] [Player] Nate: fim
+19:33 [Info] [Better Chat] [Global] [Player] Nate: fun
+19:33 [Info] [Better Chat] [Global] [Player] Nate: can i join
+19:33 [Info] [Better Chat] [Global] [Player] Nate: nvm
+19:33 [Info] [Better Chat] [Global] [Player] iixjell0: im 17?
+19:33 [Info] [Better Chat] [Global] [Player] Nate: forgot something
+19:34 [Info] [Better Chat] [Global] [Player] Nate: yea...
+19:34 [Info] [Better Chat] [Global] [Player] Nate: i forgot
+19:34 [Info] [Better Chat] [Global] [Player] Nate: forget this
+19:35 [Info] [Admin Logger] [08/29/2022 19:35:50] ~q~Daisy [76561198104600220] disconnected.
+19:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+19:35 [Info] [Better Chat] [Global] [Player] iixjell0: ahhh fuck me
+19:43 [Warning] [BoxLooters] Saved Boxlooters data
+19:46 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+19:46 [Info] [Advert Messages] Welcome to our server, have fun!
+19:47 [Info] [Better Chat] [Global] [Player] iixjell0: hey?
+19:47 [Info] [Better Chat] [Global] [Player] Nate: yo
+19:47 [Info] [Better Chat] [Global] [Player] Tactical Cadet: hi
+19:47 [Info] [Better Chat] [Global] [Player] iixjell0: whats popping gang
+19:47 [Info] [Better Chat] [Global] [Player] Nate: whats up
+19:50 [Info] [Better Chat] [Global] [Player] Nate: where u at tactoca;
+19:53 [Warning] [BoxLooters] Saved Boxlooters data
+19:54 [Info] [Better Chat] [Global] [Player] Nate: tactical wya
+19:54 [Info] [Better Chat] [Global] [Player] Nate: i have gifts
+19:54 [Info] [Better Chat] [Global] [Player] Tactical Cadet: wehat
+19:54 [Info] [Better Chat] [Global] [Player] Tactical Cadet: i am at r2
+19:55 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-712, 9, -489) grid area: F13
+19:55 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+19:55 [Info] [FancyDrop] Next timed Airdrop in 39 minutes
+19:59 [Info] [Better Chat] [Global] [Player] Nate: wya
+19:59 [Info] [Better Chat] [Global] [Player] Tactical Cadet: dont worry
+20:00 [Info] [Better Chat] [Global] [Player] Nate: cmon the more u resist the harder its gonna be
+20:00 [Info] [Better Chat] [Global] [Player] Nate: just give in
+20:00 [Info] [Better Chat] [Global] [Player] Tactical Cadet: nah brooo
+20:00 [Info] [Better Chat] [Global] [Player] Nate: itll be quick and painful
+20:03 [Warning] [BoxLooters] Saved Boxlooters data
+20:13 [Warning] [BoxLooters] Saved Boxlooters data
+20:16 [Info] [Advert Messages] Please treat everybody respectfully.
+20:23 [Warning] [BoxLooters] Saved Boxlooters data
+20:33 [Warning] [BoxLooters] Saved Boxlooters data
+20:33 [Info] [Better Chat] [Global] [Player] Nate: who here
+20:33 [Info] [Better Chat] [Global] [Player] Nate: this is a steppa world
+20:33 [Info] [Better Chat] [Global] [Player] Nate: u gotta ask to build on my land
+20:33 [Info] [Better Chat] [Global] [Player] YouMadBro382: steppaK
+20:34 [Info] [Better Chat] [Global] [Player] Nate: tactical u still here?
+20:34 [Info] [Better Chat] [Global] [Player] Nate: i have gift for u
+20:34 [Info] [Better Chat] [Global] [Player] Tactical Cadet: YOO
+20:34 [Info] [Better Chat] [Global] [Player] Faithless: im a gangster
+20:34 [Info] [Better Chat] [Global] [Player] Faithless: rp to find out
+20:34 [Info] [Better Chat] [Global] [Player] fluikas: rp?
+20:34 [Info] [Better Chat] [Global] [Player] Nate: ill erp it out
+20:34 [Info] [Better Chat] [Global] [Player] fluikas: im in dept
+20:34 [Info] [Better Chat] [Global] [Player] fluikas: nate
+20:34 [Info] [Better Chat] [Global] [Player] Nate: debt
+20:34 [Info] [Better Chat] [Global] [Player] fluikas: down 3k on rustypot
+20:34 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (536, 26, 657) grid area: N5
+20:34 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+20:34 [Info] [FancyDrop] Next timed Airdrop in 34 minutes
+20:34 [Info] [Better Chat] [Global] [Player] Nate: not dept
+20:35 [Info] [Better Chat] [Global] [Player] fluikas: typo
+20:35 [Info] [Better Chat] [Global] [Player] Nate: k all good dont make mistake again
+20:35 [Info] [Better Chat] [Global] [Player] fluikas: lost my big grin
+20:35 [Info] [Better Chat] [Global] [Player] fluikas: sike
+20:35 [Info] [Better Chat] [Global] [Player] fluikas: up 27k this month alone
+20:35 [Info] [Better Chat] [Global] [Player] fluikas: #gambler
+20:35 [Info] [Better Chat] [Global] [Player] fluikas: #sulfur is my currency
+20:35 [Info] [Better Chat] [Global] [Player] Nate: ur autisitc
+20:36 [Info] [Better Chat] [Global] [Player] fluikas: thx
+20:36 [Info] [Better Chat] [Global] [Player] Nate: i meant artistic
+20:36 [Info] [Better Chat] [Global] [Player] Nate: myb
+20:38 [Info] [Better Chat] [Global] [Player] fluikas: nate
+20:38 [Info] [Better Chat] [Global] [Player] fluikas: wheres ur base agaiN
+20:38 [Info] [Better Chat] [Global] [Player] Nate: z104
+20:38 [Info] [Better Chat] [Global] [Player] fluikas: is faithless with u
+20:38 [Info] [Better Chat] [Global] [Player] iixjell0: yeah
+20:38 [Info] [Better Chat] [Global] [Player] fluikas: ok
+20:38 [Info] [Better Chat] [Global] [Player] fluikas: so i shoot on spot
+20:38 [Info] [Better Chat] [Team] [Player] Faithless: ong im not
+20:38 [Info] [Better Chat] [Global] [Player] iixjell0: kos
+20:38 [Info] [Better Chat] [Global] [Player] Faithless: ong im not
+20:38 [Info] [Better Chat] [Global] [Player] iixjell0: 5mil wager
+20:39 [Info] [Better Chat] [Global] [Player] Nate: faithless is my hoe ong
+20:39 [Info] [Better Chat] [Global] [Player] Nate: i stick my jackhammer in their ass
+20:39 [Info] [Better Chat] [Global] [Player] fluikas: nah she got a boyfriend bro..
+20:39 [Info] [Better Chat] [Global] [Player] Faithless: LOL
+20:39 [Info] [Better Chat] [Global] [Player] fluikas: thats very rude
+20:39 [Info] [Better Chat] [Global] [Player] fluikas: have some respect
+20:39 [Info] [Better Chat] [Global] [Player] fluikas: anyways
+20:39 [Info] [Better Chat] [Global] [Player] fluikas: im 3 doors deepo
+20:39 [Info] [Better Chat] [Global] [Player] fluikas: #FREEGREGG
+20:40 [Info] [FancyDrop] YouMadBro382 (76561199119664159) looted the Drop at: (536, 32, 658) grid area: N5
+20:40 [Info] [Better Chat] [Global] [Player] YouMadBro382: clip it i wanna see that LMAO
+20:41 [Info] [Better Chat] [Global] [Player] iixjell0: ok
+20:41 [Info] [Better Chat] [Global] [Player] fluikas: steppas use eulen
+20:41 [Info] [Better Chat] [Global] [Player] fluikas: faithless would u vote to unban me?
+20:41 [Info] [Better Chat] [Global] [Player] YouMadBro382: did you see how fast i was spinning LMAO
+20:41 [Info] [Better Chat] [Global] [Player] iixjell0: mope
+20:41 [Info] [Better Chat] [Global] [Player] YouMadBro382: im not saying youre cheating but that shit had to look funny
+20:41 [Info] [Better Chat] [Global] [Player] Nate: steppas use eulen confirmed
+20:42 [Info] [Better Chat] [Global] [Player] YouMadBro382: ong they do i have clips of them getting packed for it LMAO
+20:42 [Info] [Better Chat] [Global] [Player] Nate: ?
+20:42 [Info] [Better Chat] [Global] [Player] Nate: ong
+20:42 [Info] [Better Chat] [Global] [Player] Nate: no cap kizzy my slatt
+20:42 [Info] [Better Chat] [Global] [Player] Nate: SteppasK RTM for life my blood
+20:42 [Info] [Better Chat] [Global] [Player] YouMadBro382: i promise the dude who was in steppas got packed
+20:43 [Info] [Better Chat] [Global] [Player] YouMadBro382: its a BD world RTMK
+20:43 [Info] [Better Chat] [Team] [Player] brandonj71996: damn raided by nate
+20:43 [Info] [Better Chat] [Global] [Player] fluikas: bd uses eulen more then steppas lol
+20:43 [Info] [Better Chat] [Team] [Player] brandonj71996: who woudla guessed XD
+20:43 [Warning] [BoxLooters] Saved Boxlooters data
+20:43 [Info] [Better Chat] [Global] [Player] YouMadBro382: cap
+20:43 [Info] [Better Chat] [Global] [Player] Nate: no cap slatt billy gang hopping too
+20:44 [Info] [Better Chat] [Global] [Player] brandonj71996: damn nate had to raid my lilltle 2 by 2 xD
+20:45 [Info] [Better Chat] [Global] [Player] Nate: nobody safe
+20:45 [Info] [Better Chat] [Global] [Player] Nate: this a steppa world
+20:45 [Info] [Better Chat] [Global] [Player] brandonj71996: heard
+20:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:46 [Info] [Better Chat] [Global] [Player] Nate: u heard that flux?
+20:46 [Info] [Better Chat] [Global] [Player] Nate: cheating will get u banned
+20:46 [Info] [Better Chat] [Global] [Player] fluikas: heard what
+20:46 [Info] [Better Chat] [Global] [Player] fluikas: idc
+20:46 [Info] [Better Chat] [Global] [Player] iixjell0: lmao
+20:46 [Info] [Better Chat] [Global] [Player] fluikas: mr indel foxtrot
+20:46 [Info] [Better Chat] [Global] [Player] fluikas: trottts
+20:49 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+20:50 [Info] [Better Chat] [Global] [Player] Faithless: how do you start a gang
+20:50 [Info] [Better Chat] [Global] [Player] Faithless: i want to be a gang leader
+20:50 [Info] [Better Chat] [Global] [Player] fluikas: need to fill out an appliation
+20:50 [Info] [Better Chat] [Global] [Player] fluikas: caliton
+20:50 [Info] [Better Chat] [Global] [Player] iixjell0: by sending me the codes to base
+20:50 [Info] [Better Chat] [Global] [Player] Faithless: can you just whitelist me
+20:50 [Info] [Better Chat] [Global] [Player] fluikas: sure
+20:51 [Info] [Better Chat] [Global] [Player] Faithless: opening my own vu at the top right of H7
+20:51 [Info] [Better Chat] [Global] [Player] Faithless: 50 scrap addmission
+20:51 [Info] [Better Chat] [Global] [Player] fluikas: ahem
+20:51 [Info] [Better Chat] [Global] [Player] fluikas: vu?
+20:51 [Info] [Better Chat] [Global] [Player] fluikas: u mean vr
+20:51 [Info] [Better Chat] [Global] [Player] Faithless: strip club
+20:51 [Info] [Better Chat] [Global] [Player] fluikas: oh ok
+20:52 [Info] [Better Chat] [Global] [Player] fluikas: omw
+20:52 [Info] [Better Chat] [Global] [Player] fluikas: sike
+20:52 [Info] [Better Chat] [Global] [Player] fluikas: i dont like rust women
+20:52 [Info] [Better Chat] [Global] [Player] Faithless: i dont trust rust men
+20:52 [Info] [Better Chat] [Global] [Player] fluikas: i dont fuck with modders
+20:52 [Info] [Better Chat] [Global] [Player] Faithless: even if they fuck with you?
+20:53 [Info] [Better Chat] [Global] [Player] fluikas: ye
+20:53 [Info] [Better Chat] [Global] [Player] fluikas: i ban them all!
+20:53 [Info] [Better Chat] [Global] [Player] fluikas: datadog i be on all day!
+20:53 [Warning] [BoxLooters] Saved Boxlooters data
+20:54 [Info] [Better Chat] [Global] [Player] Nate: tactical wya
+20:54 [Info] [Better Chat] [Global] [Player] Faithless: H7
+20:54 [Info] [Better Chat] [Global] [Player] Nate: i rlly need to give u this gift
+20:54 [Info] [Better Chat] [Global] [Player] Faithless: i seen him there
+20:54 [Info] [Better Chat] [Global] [Player] Nate: ok omw
+20:55 [Info] [Better Chat] [Global] [Player] fluikas: faithless
+20:55 [Info] [Better Chat] [Global] [Player] fluikas: will u do a staff vote to unban me?
+20:55 [Info] [Better Chat] [Global] [Player] Faithless: sup gangster
+20:55 [Info] [Better Chat] [Global] [Player] Faithless: did you fuck up bad
+20:55 [Info] [Better Chat] [Global] [Player] fluikas: bro its fluxy
+20:55 [Info] [Better Chat] [Global] [Player] Faithless: do you think you can get them to unban me from comments on ph?
+20:56 [Info] [Better Chat] [Global] [Player] fluikas: yes but how do u get banned on that
+20:56 [Info] [Better Chat] [Global] [Player] fluikas: who comments
+20:56 [Info] [Better Chat] [Global] [Player] fluikas: :smh:
+20:56 [Info] [Better Chat] [Global] [Player] VGTxSavage: yo
+20:56 [Info] [Better Chat] [Global] [Player] fluikas: oh boy
+20:56 [Info] [Better Chat] [Global] [Player] Faithless: you keep commenting on videos "come home mom and dad miss you we can save you from this life"
+20:56 [Info] [Better Chat] [Global] [Player] fluikas: ironic?
+20:57 [Info] [Better Chat] [Global] [Player] Faithless: ong
+20:57 [Info] [Better Chat] [Global] [Player] fluikas: where is mr marine
+20:57 [Info] [Better Chat] [Global] [Player] Faithless: his mom made him go to bed
+20:57 [Info] [Better Chat] [Global] [Player] fluikas: where is simon
+20:57 [Info] [Better Chat] [Global] [Player] VGTxSavage: whats going on?
+20:58 [Info] [Better Chat] [Global] [Player] Faithless: his mom made him go to bed too
+20:58 [Info] [Better Chat] [Global] [Player] fluikas: who is his mom
+20:58 [Info] [Better Chat] [Global] [Player] Nate: wats good hudson
+20:58 [Info] [Better Chat] [Global] [Player] Faithless: yo you tryna come to my vu i just upened up Savage?
+20:58 [Info] [Better Chat] [Global] [Player] Faithless: 50 scrap entry fee
+20:59 [Info] [Better Chat] [Global] [Player] fluikas: guess simon has no mom
+20:59 [Info] [Better Chat] [Global] [Player] Sexipants: i join and u talkin bout me
+20:59 [Info] [Better Chat] [Global] [Player] Sexipants: fannnnboy
+21:00 [Info] [Better Chat] [Global] [Player] fluikas: yeaH
+21:00 [Info] [Better Chat] [Global] [Player] VGTxSavage: damn
+21:00 [Info] [Better Chat] [Global] [Player] fluikas: call me rq
+21:00 [Info] [Better Chat] [Global] [Player] fluikas: very important
+21:00 [Info] [Better Chat] [Global] [Player] Sexipants: fuck u pussy
+21:00 [Info] [Better Chat] [Global] [Player] YouMadBro382: sexipants for mayor
+21:01 [Info] [Better Chat] [Global] [Player] Sexipants: yessir
+21:02 [Info] [Better Chat] [Global] [Player] fluikas: h7 is a empty square
+21:03 [Warning] [BoxLooters] Saved Boxlooters data
+21:04 [Info] [Better Chat] [Global] [Player] fluikas: where is u
+21:05 [Info] [Better Chat] [Global] [Player] fluikas: faithless where is nate
+21:05 [Info] [Better Chat] [Global] [Player] Faithless: who the fuck is nate
+21:05 [Info] [Better Chat] [Global] [Player] fluikas: where is u then
+21:05 [Info] [Better Chat] [Global] [Player] fluikas: im at ur base
+21:05 [Info] [Better Chat] [Global] [Player] Faithless: Literally top right of H7
+21:05 [Info] [Better Chat] [Global] [Player] fluikas: nvm wrong bsae
+21:05 [Info] [Better Chat] [Global] [Player] Faithless: bruh
+21:05 [Info] [Better Chat] [Global] [Player] Faithless: how long do i have to wait for you ong
+21:05 [Info] [Better Chat] [Global] [Player] fluikas: can gregg come too
+21:06 [Info] [Better Chat] [Global] [Player] Faithless: he can stay outside
+21:06 [Info] [Better Chat] [Global] [Player] fluikas: okay
+21:06 [Info] [Better Chat] [Global] [Player] Faithless: omg he can be my puppy
+21:06 [Info] [Better Chat] [Global] [Player] Tactical Cadet: BIG GREGGGG
+21:08 [Info] [Better Chat] [Global] [Player] fluikas: bro wya
+21:08 [Info] [Better Chat] [Global] [Player] fluikas: fucking scammer
+21:08 [Info] [Better Chat] [Global] [Player] Faithless: huh?
+21:08 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (696, 9, -421) grid area: P13
+21:08 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+21:08 [Info] [FancyDrop] Next timed Airdrop in 35 minutes
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: wya
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: im at the base
+21:09 [Info] [Better Chat] [Global] [Player] Faithless: wdym daddy
+21:09 [Info] [Better Chat] [Global] [Player] Faithless: im there
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: bro gregg is very angry
+21:09 [Info] [Better Chat] [Global] [Player] Faithless: bro i dont want greg he scares me
+21:09 [Info] [Better Chat] [Global] [Player] Faithless: he bit me last time
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: ok gregg is dead
+21:09 [Info] [Better Chat] [Global] [Player] Faithless: whats in it for me
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: dead
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: i need unban
+21:09 [Info] [Better Chat] [Global] [Player] fluikas: si habla
+21:10 [Info] [Better Chat] [Global] [Player] Faithless: ok but me telling you my base has no benifit to me gangster
+21:10 [Info] [Better Chat] [Global] [Player] Faithless: you wont even whitelist my rust gang
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: yes i will
+21:10 [Info] [Better Chat] [Global] [Player] Faithless: promise?
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: you just dont deserve it yet
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: maybe
+21:10 [Info] [Better Chat] [Global] [Player] Faithless: promise it
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: no i dont make promise with the oppositions
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: aka altf4 admins
+21:10 [Info] [Better Chat] [Global] [Player] Faithless: DIE
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: wow?
+21:10 [Info] [Better Chat] [Global] [Player] Faithless: BULLY
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: how?
+21:10 [Info] [Better Chat] [Global] [Player] fluikas: u bully me
+21:11 [Info] [Better Chat] [Global] [Player] Faithless: THE OPPOSITION
+21:11 [Info] [Better Chat] [Global] [Player] fluikas: open the base
+21:11 [Info] [Better Chat] [Global] [Player] Faithless: ong i aint even over there lol
+21:11 [Info] [Better Chat] [Global] [Player] fluikas: bro
+21:11 [Info] [Better Chat] [Global] [Player] fluikas: wya
+21:11 [Info] [Better Chat] [Global] [Player] Faithless: D4 rn
+21:12 [Info] [Better Chat] [Global] [Player] fluikas: whats with u and d
+21:12 [Info] [Better Chat] [Global] [Player] Faithless: i love d
+21:12 [Info] [Better Chat] [Global] [Player] Sexipants: ur weird dude
+21:12 [Info] [Better Chat] [Global] [Player] fluikas: no u always say u love moms
+21:12 [Info] [Better Chat] [Global] [Player] Faithless: Bro is your mom hot?
+21:12 [Info] [Better Chat] [Global] [Player] fluikas: wtf
+21:12 [Info] [Better Chat] [Global] [Player] fluikas: my mom is a minor
+21:12 [Info] [Better Chat] [Global] [Player] Faithless: asking for a friend
+21:13 [Info] [Better Chat] [Global] [Player] fluikas: IF I WAS ALTF4 U WOULD BE FUCKING BANNED
+21:13 [Warning] [BoxLooters] Saved Boxlooters data
+21:13 [Info] [Better Chat] [Global] [Player] Faithless: bro if I was a mermaid id be the ursala or something
+21:13 [Info] [Better Chat] [Global] [Player] fluikas: what is a ursala?
+21:13 [Info] [Better Chat] [Global] [Player] Faithless: shes like the big swamp thing
+21:14 [Info] [Better Chat] [Global] [Player] Sexipants: u do look like ursela
+21:14 [Info] [Better Chat] [Global] [Player] Faithless: ong i do
+21:14 [Info] [FancyDrop] YouMadBro382 (76561199119664159) looted the Drop at: (695, 9, -421) grid area: P13
+21:16 [Info] [Advert Messages] Welcome to our server, have fun!
+21:17 [Info] [Better Chat] [Global] [Player] Nate: faithless wya
+21:17 [Info] [Better Chat] [Global] [Player] Faithless: ask your mom
+21:18 [Info] [Better Chat] [Global] [Player] Tactical Cadet: Yoo simon prezz is coming
+21:18 [Info] [Better Chat] [Global] [Player] VGTxSavage: yo faith
+21:18 [Info] [Better Chat] [Global] [Player] Faithless: yo sup gangster
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: LOL
+21:19 [Info] [Better Chat] [Global] [Player] VGTxSavage: never mind I did from a stupid glich and it spawned me on the other side of the map
+21:19 [Info] [Better Chat] [Global] [Player] Faithless: r u hacking
+21:19 [Info] [Better Chat] [Global] [Player] fluikas: +2 KITS
+21:19 [Info] [Better Chat] [Global] [Player] VGTxSavage: what haha
+21:20 [Info] [Better Chat] [Global] [Player] VGTxSavage: no i died from a glich in the map and it spawned me on the other side
+21:20 [Info] [Better Chat] [Global] [Player] Faithless: oh do you want me to call ems?
+21:20 [Info] [Better Chat] [Global] [Player] fluikas: yes but send anyone but u
+21:20 [Info] [Better Chat] [Global] [Player] Faithless: yk what ong thats a vibe ill stay back
+21:20 [Info] [Better Chat] [Global] [Player] Faithless: meet me at d4
+21:20 [Info] [Better Chat] [Global] [Player] VGTxSavage: no i want you to tp me to where I was arnt you staff
+21:21 [Info] [Better Chat] [Global] [Player] Faithless: no lol
+21:21 [Info] [Better Chat] [Global] [Player] VGTxSavage: oh jk
+21:21 [Info] [Better Chat] [Global] [Player] Faithless: marine is
+21:21 [Info] [Better Chat] [Global] [Player] Sexipants: useless as always
+21:21 [Info] [Better Chat] [Global] [Player] VGTxSavage: oh yes my mad
+21:21 [Info] [Better Chat] [Global] [Player] VGTxSavage: bad
+21:21 [Info] [Better Chat] [Global] [Player] Sexipants: fuckin k9
+21:21 [Info] [Better Chat] [Global] [Player] Faithless: yo shut the fuck up sexipants you tryna fucking beef
+21:21 [Info] [Better Chat] [Global] [Player] Sexipants: slap dick
+21:21 [Info] [Better Chat] [Global] [Player] Sexipants: freak
+21:21 [Info] [Better Chat] [Global] [Player] fluikas: i heard she is good at that
+21:21 [Info] [Better Chat] [Global] [Player] Faithless: ong wheres your base
+21:21 [Info] [Better Chat] [Global] [Player] fluikas: is that true simon
+21:21 [Info] [Better Chat] [Global] [Player] Sexipants: what
+21:22 [Info] [Better Chat] [Global] [Player] Sexipants: ask marine
+21:22 [Info] [Better Chat] [Global] [Player] fluikas: lol
+21:22 [Info] [Better Chat] [Global] [Player] Faithless: bro ask marine about my piercings ong
+21:22 [Info] [Better Chat] [Global] [Player] Sexipants: bro what
+21:22 [Info] [Better Chat] [Global] [Player] fluikas: ive seen them
+21:23 [Info] [Better Chat] [Global] [Player] Sexipants: how????
+21:23 [Info] [Better Chat] [Global] [Player] Sexipants: wtfff
+21:23 [Info] [Better Chat] [Global] [Player] fluikas: her earings bro
+21:23 [Info] [Better Chat] [Global] [Player] fluikas: bro wym?
+21:23 [Info] [Better Chat] [Global] [Player] Faithless: LOL
+21:23 [Warning] [BoxLooters] Saved Boxlooters data
+21:23 [Info] [Better Chat] [Global] [Player] fluikas: oh
+21:23 [Info] [Better Chat] [Global] [Player] fluikas: ive seen those too
+21:25 [Info] [Better Chat] [Global] [Player] Nate: nobody safe rn cuz of flux
+21:25 [Info] [Better Chat] [Global] [Player] fluikas: lol
+21:25 [Info] [Better Chat] [Global] [Player] Nate: u all targets
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: lmfao
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: get wiped bum
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: just like the rp server
+21:26 [Info] [Better Chat] [Global] [Player] Nate: dw well get our get back
+21:26 [Info] [Better Chat] [Global] [Player] Sexipants: be careful flux they will offline u ahahah
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: i dont have a base
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: well i do
+21:26 [Info] [Better Chat] [Global] [Player] fluikas: but its glitched in a rock
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: #exploting
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: call it bedrock
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: if u say
+21:27 [Info] [Better Chat] [Global] [Player] Tactical Cadet: simon i got a base
+21:27 [Info] [Better Chat] [Global] [Player] fluikas: gregg is a fan of many people
+21:27 [Info] [Better Chat] [Global] [Player] Sexipants: ur my only fan
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: well thats not exactly true!
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: what about luna!
+21:28 [Info] [Better Chat] [Global] [Player] Sexipants: true
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: nate
+21:28 [Info] [Better Chat] [Global] [Player] fluikas: wheres ur base again?
+21:29 [Info] [Better Chat] [Global] [Player] fluikas: so faithless
+21:29 [Info] [Better Chat] [Global] [Player] fluikas: does this base have anything in it?
+21:29 [Info] [Better Chat] [Global] [Player] Faithless: huh?
+21:29 [Info] [Better Chat] [Global] [Player] fluikas: like the one u sent me to
+21:29 [Info] [Better Chat] [Global] [Player] fluikas: is the stacked?
+21:29 [Info] [Better Chat] [Global] [Player] Faithless: i just started playing an hour ago lol
+21:29 [Info] [Better Chat] [Global] [Player] fluikas: oh o
+21:29 [Info] [Better Chat] [Global] [Player] Faithless: wheres your base
+21:29 [Info] [Better Chat] [Global] [Player] Faithless: i wanna come visit
+21:29 [Info] [Better Chat] [Global] [Player] Faithless: ill bring a horse
+21:30 [Info] [Better Chat] [Global] [Player] Faithless: his name is roger
+21:33 [Info] [Better Chat] [Global] [Player] fluikas: oh mine
+21:33 [Warning] [BoxLooters] Saved Boxlooters data
+21:33 [Info] [Better Chat] [Global] [Player] fluikas: well i have people hunting me down
+21:33 [Info] [Better Chat] [Global] [Player] fluikas: pedofiles
+21:33 [Info] [Better Chat] [Global] [Player] fluikas: cant type right
+21:33 [Info] [Better Chat] [Global] [Player] fluikas: u can call em tenderlys
+21:33 [Info] [Better Chat] [Global] [Player] fluikas: if u wish
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: hey nate
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: nice base u got here
+21:37 [Info] [Better Chat] [Global] [Player] Prez ❤: pussys
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: come outside
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: prez!
+21:37 [Info] [Better Chat] [Global] [Player] Prez ❤: YOO
+21:37 [Info] [Better Chat] [Global] [Player] fluikas: shame simon is gatkeepingnme
+21:37 [Info] [Better Chat] [Global] [Player] Prez ❤: POP
+21:38 [Info] [Better Chat] [Global] [Player] Sexipants: pew
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: only 1 kit
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: still up on u
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: gg ez
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: nice pattern
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: u fucking loser
+21:42 [Info] [Better Chat] [Global] [Player] iixjell0: pattern??
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: spray pattern u retard
+21:42 [Info] [Better Chat] [Global] [Player] iixjell0: lmao was it bad?
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: simon
+21:42 [Info] [Better Chat] [Global] [Player] fluikas: no
+21:43 [Warning] [BoxLooters] Saved Boxlooters data
+21:43 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (859, 13, -215) grid area: Q11
+21:43 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+21:43 [Info] [FancyDrop] Next timed Airdrop in 47 minutes
+21:45 [Info] [Better Chat] [Global] [Player] fluikas: oh simon
+21:45 [Info] [Better Chat] [Global] [Player] Sexipants: wut
+21:45 [Info] [Better Chat] [Global] [Player] fluikas: u stupid pagen
+21:45 [Info] [Better Chat] [Global] [Player] Sexipants: u watching me???
+21:45 [Info] [Better Chat] [Global] [Player] fluikas: yes
+21:45 [Info] [Better Chat] [Global] [Player] fluikas: u and someone else
+21:45 [Info] [Better Chat] [Global] [Player] Sexipants: weird
+21:46 [Info] [Better Chat] [Global] [Player] Sexipants: im alone
+21:46 [Info] [Advert Messages] Please treat everybody respectfully.
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: how do u feel about the LGBTQ?
+21:46 [Info] [Better Chat] [Global] [Player] Sexipants: love it
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: that is a good answer
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: how about u nathanial
+21:46 [Info] [Better Chat] [Global] [Player] fluikas: or jello?
+21:47 [Info] [Better Chat] [Global] [Player] fluikas: dont say the wrong response
+21:47 [Info] [Better Chat] [Global] [Player] fluikas: faithless is apart of the low percent of lgbtq
+21:47 [Info] [Better Chat] [Global] [Player] Sexipants: i mean one of em was screaming fagggg at me the other day in there group
+21:47 [Info] [Better Chat] [Global] [Player] Faithless: ong
+21:47 [Info] [Better Chat] [Global] [Player] fluikas: faithless loves mothers!
+21:47 [Info] [Better Chat] [Global] [Player] Faithless: mothers are so much hotter than dads
+21:47 [Info] [FancyDrop] YouMadBro382 (76561199119664159) looted the Drop at: (859, 13, -215) grid area: Q11
+21:47 [Info] [Better Chat] [Global] [Player] Sexipants: poor marine
+21:47 [Info] [Better Chat] [Global] [Player] fluikas: which comes from her dark trauma of her mom leaving her at the firestation curb
+21:48 [Info] [Better Chat] [Global] [Player] Faithless: why poor marine
+21:48 [Info] [Better Chat] [Global] [Player] fluikas: is marian 6 foot?
+21:48 [Info] [Better Chat] [Global] [Player] fluikas: typo on his name
+21:48 [Info] [Better Chat] [Global] [Player] Faithless: taller than tha lol
+21:48 [Info] [Better Chat] [Global] [Player] fluikas: very tall man
+21:48 [Info] [Better Chat] [Global] [Player] Faithless: im taller than him
+21:48 [Info] [Better Chat] [Global] [Player] fluikas: red flag number one
+21:49 [Info] [Better Chat] [Global] [Player] Sexipants: does marine know u call flux daddy
+21:49 [Info] [Better Chat] [Global] [Player] fluikas: we dont talk about this
+21:50 [Info] [Better Chat] [Global] [Player] Faithless: you should hear what i call his dad lol
+21:50 [Info] [Better Chat] [Global] [Player] Sexipants: oh
+21:50 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+21:50 [Info] [Better Chat] [Global] [Player] fluikas: come outside jello
+21:51 [Info] [Better Chat] [Global] [Player] fluikas: im naked
+21:53 [Warning] [BoxLooters] Saved Boxlooters data
+21:53 [Info] [Better Chat] [Global] [Player] Faithless: help im lost
+21:54 [Info] [Better Chat] [Global] [Player] fluikas: free ak and mats
+21:54 [Info] [Better Chat] [Global] [Player] fluikas: got to love it
+21:58 [Info] [Better Chat] [Global] [Player] iixjell0: quit
+21:58 [Info] [Better Chat] [Global] [Player] iixjell0: oops
+21:59 [Info] [Better Chat] [Global] [Player] iixjell0: meant to say that in team to nate
+22:03 [Warning] [BoxLooters] Saved Boxlooters data
+22:10 [Info] [Better Chat] [Global] [Player] fluikas: nate
+22:10 [Info] [Better Chat] [Global] [Player] fluikas: anyways
+22:10 [Info] [Better Chat] [Global] [Player] fluikas: where is ev1
+22:11 [Info] [Better Chat] [Global] [Player] fluikas: faithless
+22:11 [Info] [Better Chat] [Global] [Player] fluikas: can i ask one question?
+22:11 [Info] [Better Chat] [Global] [Player] Faithless: sup
+22:11 [Info] [Better Chat] [Global] [Player] fluikas: its very important
+22:11 [Info] [Better Chat] [Global] [Player] fluikas: do u find datadog useful?
+22:11 [Info] [Better Chat] [Global] [Player] Faithless: whats that?
+22:11 [Info] [Better Chat] [Global] [Player] fluikas: bruh
+22:11 [Info] [Better Chat] [Global] [Player] fluikas: simon u there cuzzo
+22:11 [Info] [Better Chat] [Global] [Player] Sexipants: ?
+22:12 [Info] [Better Chat] [Global] [Player] fluikas: do u find datadog usefull?
+22:12 [Info] [Better Chat] [Global] [Player] Sexipants: no clue
+22:12 [Info] [Better Chat] [Global] [Player] fluikas: u fucking bastards
+22:13 [Info] [Better Chat] [Global] [Player] fluikas: yo
+22:13 [Info] [Better Chat] [Global] [Player] fluikas: nate
+22:13 [Warning] [BoxLooters] Saved Boxlooters data
+22:13 [Info] [Better Chat] [Global] [Player] fluikas: come raid me
+22:16 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:18 [Info] [Better Chat] [Global] [Player] fluikas: god tenderly is just so hot
+22:19 [Info] [Better Chat] [Global] [Player] YouMadBro382: ayoooooo
+22:19 [Info] [Better Chat] [Global] [Player] fluikas: its a joke
+22:19 [Info] [Better Chat] [Global] [Player] YouMadBro382: nah 4k
+22:19 [Info] [Better Chat] [Global] [Player] fluikas: sure
+22:20 [Info] [Better Chat] [Global] [Player] fluikas: 4k this
+22:20 [Info] [Better Chat] [Global] [Player] fluikas: she is also a pedo
+22:20 [Info] [Better Chat] [Global] [Player] fluikas: print it
+22:20 [Info] [Better Chat] [Global] [Player] fluikas: frame it
+22:20 [Info] [Better Chat] [Global] [Player] YouMadBro382: who
+22:20 [Info] [Better Chat] [Global] [Player] fluikas: and deliver it
+22:23 [Warning] [BoxLooters] Saved Boxlooters data
+22:30 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (353, 18, 966) grid area: M3
+22:30 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+22:30 [Info] [FancyDrop] Next timed Airdrop in 42 minutes
+22:33 [Warning] [BoxLooters] Saved Boxlooters data
+22:42 [Info] [Better Chat] [Global] [Player] fluikas: NATE
+22:43 [Warning] [BoxLooters] Saved Boxlooters data
+22:44 [Info] [Better Chat] [Global] [Player] fluikas: simon?
+22:44 [Info] [Better Chat] [Global] [Player] Sexipants: hi
+22:44 [Info] [Better Chat] [Global] [Player] fluikas: come raid me
+22:44 [Info] [Better Chat] [Global] [Player] Sexipants: no thx
+22:46 [Info] [Better Chat] [Global] [Player] fluikas: simon where r u
+22:46 [Info] [Advert Messages] Welcome to our server, have fun!
+22:46 [Info] [Better Chat] [Global] [Player] Sexipants: bout to go sleep
+22:46 [Info] [Better Chat] [Global] [Player] fluikas: loser
+22:46 [Info] [Better Chat] [Global] [Player] fluikas: u gonna watch what we saw lastnight again?
+22:46 [Info] [Better Chat] [Global] [Player] fluikas: that movie
+22:46 [Info] [Better Chat] [Global] [Player] Sexipants: fuck no
+22:46 [Info] [Better Chat] [Global] [Player] fluikas: it was good u said
+22:46 [Info] [Better Chat] [Global] [Player] Sexipants: cap
+22:47 [Info] [Better Chat] [Global] [Player] fluikas: dont it give u a warm vibe
+22:47 [Info] [Better Chat] [Global] [Player] Sexipants: no
+22:47 [Info] [Better Chat] [Global] [Player] fluikas: oh i see
+22:53 [Warning] [BoxLooters] Saved Boxlooters data
+23:03 [Warning] [BoxLooters] Saved Boxlooters data
+23:12 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (-958, 7, 732) grid area: D5
+23:12 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+23:12 [Info] [FancyDrop] Next timed Airdrop in 59 minutes
+23:13 [Warning] [BoxLooters] Saved Boxlooters data
+23:16 [Info] [Advert Messages] Please treat everybody respectfully.
+23:19 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+23:23 [Warning] [BoxLooters] Saved Boxlooters data
+23:29 [Info] [Better Chat] [Team] [Player] VGTxSavage: kill
+23:33 [Warning] [BoxLooters] Saved Boxlooters data
+23:43 [Warning] [BoxLooters] Saved Boxlooters data
+23:46 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:53 [Warning] [BoxLooters] Saved Boxlooters data

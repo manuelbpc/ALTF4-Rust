@@ -1,0 +1,769 @@
+20:23 [Info] IP address from external API: 54.39.130.194
+20:23 [Info] [BetterLoot] Using '54' active of '56' supported containertypes
+20:23 [Warning] [BetterLoot] Configuration changes saved to BetterLoot.json
+20:23 [Info] [BetterLoot] Updating internals ...
+20:23 [Warning] [BoxLooters] Attempting to remove old log entries
+20:23 [Warning] [BoxLooters] Removed 0 old records from BoxData
+20:23 [Warning] [BoxLooters] Removed 0 old records from PlayerData
+20:23 [Info] [FancyDrop] Map Highest Point: (500m) | Plane flying height: (~500m)
+20:23 [Info] [FancyDrop] Timed Airdrop activated with '1' players between '30' and '60' minutes
+20:23 [Info] [FancyDrop] Builtin Airdrop removed
+20:23 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+20:23 [Warning] Calling 'OnServerInitialized' on 'FancyDrop v3.2.2' took 210ms
+20:23 [Warning] Calling 'OnServerInitialized' on 'GatherManager v2.2.78' took 243ms
+20:23 [Info] [NTeleportation] Rust was upgraded or map changed - clearing homes and all locations!
+20:23 [Warning] Calling 'OnServerInitialized' on 'NTeleportation v1.7.0' took 342ms
+20:23 [Warning] [Server Rewards] Image Library not detected, unloading ServerRewards
+20:23 [Info] Unloaded plugin Server Rewards v0.4.73 by k1lly0u
+20:23 [Info] [BetterLoot] No stacked LootContainer found.
+20:23 [Info] [BetterLoot] Populated '810' supported containers.
+20:23 [Info] [Auto Stash Traps] 150 Traps Generated
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Error] Failed to call hook 'OnPlayerSleepEnd' on plugin 'ZoneManager v3.0.23' (NullReferenceException: Object reference not set to an instance of an object)
+  at Oxide.Plugins.ZoneManager.OnPlayerSleepEnd (BasePlayer player) [0x00000] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.ZoneManager.DirectCallHook (System.String name, System.Object& ret, System.Object[] args) [0x00731] in <13b04d5d266b400e9b8d9a65c77d914c>:0 
+  at Oxide.Plugins.CSharpPlugin.InvokeMethod (Oxide.Core.Plugins.HookMethod method, System.Object[] args) [0x00079] in <b6af59acae274e5a94fb209dfc179b8f>:0 
+  at Oxide.Core.Plugins.CSPlugin.OnCallHook (System.String name, System.Object[] args) [0x000d8] in <bae5f1223fce49c493b01571c99dce02>:0 
+  at Oxide.Core.Plugins.Plugin.CallHook (System.String hook, System.Object[] args) [0x00060] in <bae5f1223fce49c493b01571c99dce02>:0 
+20:23 [Info] [Admin Radar] Cached 4890/103677 entities in 19.3322011 seconds!
+20:26 [Info] Unloaded plugin Zone Manager v3.0.23 by k1lly0u
+20:28 [Info] [Advert Messages] Welcome to our server, have fun!
+20:33 [Warning] [BoxLooters] Saved Boxlooters data
+20:38 [Info] [Advert Messages] Please treat everybody respectfully.
+20:43 [Warning] [BoxLooters] Saved Boxlooters data
+20:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+20:53 [Warning] [BoxLooters] Saved Boxlooters data
+20:58 [Info] [Advert Messages] Welcome to our server, have fun!
+21:03 [Warning] [BoxLooters] Saved Boxlooters data
+21:08 [Info] [Advert Messages] Please treat everybody respectfully.
+21:12 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+21:12 [Info] [FancyDrop] Next timed Airdrop in 43 minutes
+21:13 [Warning] [BoxLooters] Saved Boxlooters data
+21:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:23 [Warning] [BoxLooters] Saved Boxlooters data
+21:28 [Info] [Advert Messages] Welcome to our server, have fun!
+21:33 [Warning] [BoxLooters] Saved Boxlooters data
+21:38 [Info] [Advert Messages] Please treat everybody respectfully.
+21:43 [Warning] [BoxLooters] Saved Boxlooters data
+21:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+21:48 [Info] [Advert Messages] Welcome to our server, have fun!
+21:55 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (851, 47, -1208) grid area: V23
+21:55 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+21:55 [Info] [FancyDrop] Next timed Airdrop in 54 minutes
+21:55 [Warning] [BoxLooters] Saved Boxlooters data
+21:55 [Info] Player 'Void (76561198977454718)' granted permission 'playeradministration.access.show'
+21:55 [Info] [Admin Logger] [08/21/2022 21:55:43] Void [76561198977454718] opened Padmin Menu.
+21:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+21:56 [Info] Group 'admin' granted permission 'playeradministration.access.show'
+22:05 [Warning] [BoxLooters] Saved Boxlooters data
+22:08 [Info] [Advert Messages] Please treat everybody respectfully.
+22:15 [Info] [Admin Logger] [08/21/2022 22:15:43] Void [76561198977454718] disconnected.
+22:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:18 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:19 [Info] [Admin Logger] [08/21/2022 22:19:57] Void [76561198977454718] connected.
+22:19 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:20 [Info] [Admin Logger] [08/21/2022 22:20:01] Void [76561198977454718] enabled Godmode.
+22:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:20 [Warning] [BoxLooters] Saved Boxlooters data
+22:20 [Info] [Admin Logger] [08/21/2022 22:20:15] Void [76561198977454718] gave themselves 1 x rifle.ak.
+22:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:20 [Info] [Admin Logger] [08/21/2022 22:20:21] Void [76561198977454718] enabled Noclip.
+22:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:20 [Info] [Admin Logger] [08/21/2022 22:20:56] Void [76561198977454718] closed Padmin Menu.
+22:20 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:24 [Info] [Admin Logger] [08/21/2022 22:24:07] Void [76561198977454718] closed Padmin Menu.
+22:24 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:25 [Info] [Admin Logger] [08/21/2022 22:25:16] Void [76561198977454718] closed Padmin Menu.
+22:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:25 [Info] [Better Chat] [Global] [Player] Kondog: lets get racist
+22:26 [Info] [Better Chat] [Global] [Player] Void: lol
+22:26 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+22:26 [Info] [Better Chat] [Global] [Player] Kondog: make it full daytime
+22:27 [Info] [Admin Logger] [08/21/2022 22:27:00] Void [76561198977454718] closed Padmin Menu.
+22:27 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:27 [Info] [Better Chat] [Global] [Player] Kondog: night sux
+22:27 [Info] [Better Chat] [Global] [Player] Void: gotchu
+22:27 [Info] [Better Chat] [Global] [Player] Kondog: bless
+22:28 [Info] [Advert Messages] Welcome to our server, have fun!
+22:28 [Info] [Better Chat] [Global] [Player] Kondog: idk if box's supposed to be like this ngl
+22:28 [Info] [Better Chat] [Global] [Player] Kondog: i got 2 revvys from one crate
+22:28 [Info] [Better Chat] [Global] [Player] Void: SMH
+22:28 [Info] [Better Chat] [Global] [Player] Void: well ima jus let it slide
+22:29 [Info] [Better Chat] [Global] [Player] Kondog: and 3x suppressors
+22:29 [Info] [Better Chat] [Global] [Player] Void: i tested mili crates 100 times and elite it should only b the regular crates FUCKED
+22:29 [Info] [Better Chat] [Global] [Player] Kondog: you multiplied every loot by 3x
+22:29 [Info] [Better Chat] [Global] [Player] Kondog: i just got 3x helmets and 3x maces
+22:29 [Info] [Better Chat] [Global] [Player] Void: lmao its the brown crate loot mutiplied by 3 atm
+22:29 [Info] [Better Chat] [Global] [Player] Kondog: yeah
+22:30 [Info] [Better Chat] [Global] [Player] Void: i gotta fix that without restart
+22:30 [Warning] [BoxLooters] Saved Boxlooters data
+22:30 [Info] [Better Chat] [Global] [Player] Kondog: all the components imo should be like that not every item tho
+22:32 [Info] [Better Chat] [Global] [Player] Void: yeaaaaa
+22:32 [Info] [Admin Logger] [08/21/2022 22:32:59] Void [76561198977454718] closed Padmin Menu.
+22:33 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:33 [Info] Group 'admin' granted permission 'playeradministration.access.allowfreeze'
+22:33 [Info] Group 'admin' granted permission 'playeradministration.access.kick'
+22:34 [Info] Group 'admin' granted permission 'playeradministration.protect.*'
+22:34 [Info] [Admin Logger] [08/21/2022 22:34:28] Void [76561198977454718] closed Padmin Menu.
+22:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:34 [Info] Group 'admin' granted permission 'playeradministration.access.ban'
+22:34 [Info] Group 'admin' granted permission 'playeradministration.access.kill'
+22:35 [Info] Group 'admin' granted permission 'playeradministration.access.clearinventory'
+22:35 [Info] Group 'admin' granted permission 'playeradministration.access.resetblueprint'
+22:36 [Info] Group 'admin' granted permission 'playeradministration.access.resetmetabolism'
+22:36 [Info] Group 'admin' granted permission 'playeradministration.access.recovermetabolism'
+22:36 [Info] Group 'admin' granted permission 'playeradministration.access.hurt'
+22:36 [Info] Group 'admin' granted permission 'playeradministration.access.heal'
+22:36 [Info] Group 'admin' granted permission 'playeradministration.access.mute'
+22:37 [Info] Group 'admin' granted permission 'playeradministration.access.perms'
+22:37 [Info] Group 'admin' already has permission 'playeradministration.access.allowfreeze'
+22:38 [Info] Group 'admin' granted permission 'playeradministration.access.teleport'
+22:38 [Info] [Advert Messages] Please treat everybody respectfully.
+22:38 [Info] [Better Chat] [Global] [Player] Kondog: no
+22:38 [Info] Group 'admin' granted permission 'playeradministration.access.spectate'
+22:38 [Info] Group 'admin' granted permission 'playeradministration.access.detailedinfo'
+22:38 [Info] Group 'admin' already has permission 'playeradministration.protect.ban'
+22:38 [Info] Group 'admin' already has permission 'playeradministration.protect.hurt'
+22:39 [Info] Group 'admin' already has permission 'playeradministration.protect.kick'
+22:39 [Info] Group 'admin' already has permission 'playeradministration.protect.kill'
+22:39 [Info] Group 'admin' already has permission 'playeradministration.protect.reset'
+22:39 [Info] [Better Chat] [Global] [Player] Void: lol
+22:40 [Warning] [BoxLooters] Saved Boxlooters data
+22:41 [Info] InventoryViewer was compiled successfully in 1966ms
+22:41 [Warning] [Inventory Viewer] Configuration changes saved to InventoryViewer.json
+22:41 [Info] Loaded plugin Inventory Viewer v4.0.5 by Whispers88
+22:41 [Info] Freeze was compiled successfully in 270ms
+22:41 [Warning] [Freeze] Configuration changes saved to Freeze.json
+22:41 [Info] Loaded plugin Freeze v3.0.2 by Wulf
+22:41 [Info] [Admin Logger] [08/21/2022 22:41:32] Void [76561198977454718] closed Padmin Menu.
+22:41 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:41 [Info] [Better Chat] [Global] [Player] RiRiTHC: 2nd?
+22:41 [Info] [Better Chat] [Global] [Player] Kondog: nope
+22:41 [Info] [Better Chat] [Global] [Player] RiRiTHC: 3rd?
+22:41 [Info] [Better Chat] [Global] [Player] Void: rishad
+22:41 [Info] [Better Chat] [Global] [Player] Kondog: 3mb
+22:41 [Info] [Better Chat] [Global] [Player] RiRiTHC: HOG RIDAAAA
+22:42 [Info] [Better Chat] [Global] [Player] Void: void.
+22:42 [Info] [Better Chat] [Global] [Player] RiRiTHC: yes void
+22:42 [Info] [Better Chat] [Global] [Player] RiRiTHC: im teaming with 2-5
+22:42 [Info] [Better Chat] [Global] [Player] Void: ik lol
+22:42 [Info] [Better Chat] [Global] [Player] Void: im ina call wit him
+22:42 [Info] [Better Chat] [Global] [Player] RiRiTHC: ye i joined it
+22:42 [Info] [Better Chat] [Global] [Player] RiRiTHC: 1.5x feels fire
+22:42 [Info] [Better Chat] [Global] [Player] RiRiTHC: i love it
+22:43 [Info] [Better Chat] [Global] [Player] Void: yea brown boxes as a hint will boost you a fuck ton bc its loot tables are fucked atm
+22:43 [Info] [Better Chat] [Global] [Player] RiRiTHC: ok onto mining outpost i go
+22:43 [Info] [Better Chat] [Global] [Player] Void: absolutely fcked
+22:43 [Info] [Admin Logger] [08/21/2022 22:43:50] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+22:43 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:43 [Info] [Admin Logger] [08/21/2022 22:43:52] Void [76561198977454718] closed Padmin Menu.
+22:43 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:44 [Info] [Better Chat] [Global] [Player] RiRiTHC: yo barrels are 3x
+22:44 [Info] [Better Chat] [Global] [Player] RiRiTHC: why
+22:44 [Info] [Admin Logger] [08/21/2022 22:44:40] Void [76561198977454718] closed Padmin Menu.
+22:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:45 [Info] [Better Chat] [Global] [Player] Void: TESTING how people like 3x loot 1.5x ressources for now
+22:45 [Info] [Better Chat] [Global] [Player] RiRiTHC: 3x loot is crazy
+22:45 [Info] [Better Chat] [Global] [Player] RiRiTHC: 2x is alright
+22:45 [Info] [Better Chat] [Global] [Player] Void: this is all going to change within the testing period before full release
+22:45 [Info] [Admin Logger] [08/21/2022 22:45:43] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+22:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:45 [Info] [Admin Logger] [08/21/2022 22:45:44] Void [76561198977454718] closed Padmin Menu.
+22:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:48 [Info] [Admin Logger] [08/21/2022 22:48:42] Void [76561198977454718] disconnected.
+22:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:48 [Info] [Advert Messages] Welcome to our server, have fun!
+22:48 [Info] [Advert Messages] Please treat everybody respectfully.
+22:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+22:48 [Info] [Advert Messages] Welcome to our server, have fun!
+22:48 [Info] [Advert Messages] Please treat everybody respectfully.
+22:49 [Info] [FancyDrop] Timed Airdrop skipped, not enough Players
+22:49 [Info] [FancyDrop] Next timed Airdrop in 49 minutes
+22:52 [Warning] [BoxLooters] Saved Boxlooters data
+22:53 [Info] [Admin Logger] [08/21/2022 22:53:41] Void [76561198977454718] connected.
+22:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:53 [Info] [Admin Logger] [08/21/2022 22:53:41] Void [76561198977454718] enabled Noclip.
+22:53 [Info] [Admin Logger] [08/21/2022 22:53:41] Void [76561198977454718] enabled Godmode.
+22:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:53 [Info] [Admin Logger] [08/21/2022 22:53:57] Void [76561198977454718] disabled Noclip.
+22:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:54 [Info] [Admin Logger] [08/21/2022 22:54:02] Void [76561198977454718] enabled Noclip.
+22:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:54 [Info] [Admin Logger] [08/21/2022 22:54:37] Void [76561198977454718] disabled Noclip.
+22:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:54 [Info] [Admin Logger] [08/21/2022 22:54:53] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+22:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:54 [Info] [Admin Logger] [08/21/2022 22:54:54] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 0 points using Padmin.
+22:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:54 [Info] [Admin Logger] [08/21/2022 22:54:55] Void [76561198977454718] closed Padmin Menu.
+22:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:12] Void [76561198977454718] enabled Noclip.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:24] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:25] Void [76561198977454718] closed Padmin Menu.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:40] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 0 points using Padmin.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:41] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:42] Void [76561198977454718] closed Padmin Menu.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:48] Void [76561198977454718] teleported to Kondog [76561199082517499] using Padmin.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:55 [Info] [Admin Logger] [08/21/2022 22:55:49] Void [76561198977454718] closed Padmin Menu.
+22:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:56 [Info] [Better Chat] [Global] [Player] Kondog: crafting times need lowered too my boy
+22:56 [Info] [Better Chat] [Global] [Player] Void: they should be normal no?
+22:56 [Info] [Better Chat] [Global] [Player] Kondog: little quicker tbh
+22:56 [Info] [Better Chat] [Global] [Player] RiRiTHC: maybe smelting can be lowered
+22:56 [Info] [Better Chat] [Global] [Player] Void: smelting is normal
+22:56 [Info] [Better Chat] [Global] [Player] RiRiTHC: small furnaces take so long
+22:57 [Info] [Admin Logger] [08/21/2022 22:57:02] Void [76561198977454718] disabled Noclip.
+22:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:57 [Info] [Admin Logger] [08/21/2022 22:57:11] Void [76561198977454718] gave themselves 1 x furnace.
+22:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:57 [Info] [Admin Logger] [08/21/2022 22:57:19] Void [76561198977454718] gave themselves 100 x metal.ore.
+22:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:57 [Info] [Admin Logger] [08/21/2022 22:57:22] Void [76561198977454718] gave themselves 100 x wood.
+22:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:57 [Info] [Admin Logger] [08/21/2022 22:57:22] Void [76561198977454718] gave themselves 100 x wood.
+22:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+22:58 [Info] [Admin Logger] [08/21/2022 22:58:10] Void [76561198977454718] closed Padmin Menu.
+22:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:00 [Info] [Admin Logger] [08/21/2022 23:00:22] Void [76561198977454718] enabled Noclip.
+23:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:00 [Info] [Admin Logger] [08/21/2022 23:00:32] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+23:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:00 [Info] [Admin Logger] [08/21/2022 23:00:33] Void [76561198977454718] closed Padmin Menu.
+23:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:00 [Info] [Admin Logger] [08/21/2022 23:00:57] Void [76561198977454718] disabled Noclip.
+23:00 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:01 [Info] [Admin Logger] [08/21/2022 23:01:05] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+23:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:01 [Info] [Admin Logger] [08/21/2022 23:01:06] Void [76561198977454718] closed Padmin Menu.
+23:01 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:00] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:03] Void [76561198977454718] closed Padmin Menu.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:12] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Warning] [BoxLooters] Saved Boxlooters data
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:19] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:20] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:21] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:23] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:25] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:25] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:26] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:26] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:26] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:27] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:27] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:28] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:28] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:29] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:30] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:31] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:31] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:32] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:32] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:33] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:33] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:34] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:34] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:35] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:35] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:36] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:36] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:37] Void [76561198977454718] reset the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:02 [Info] [Admin Logger] [08/21/2022 23:02:40] Void [76561198977454718] closed Padmin Menu.
+23:02 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:01] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:02] Void [76561198977454718] closed Padmin Menu.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:07] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:09] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:10] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:10] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:10] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:12] Void [76561198977454718] Froze player RiRiTHC [76561199065963062] using Padmin.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:13] Void [76561198977454718] closed Padmin Menu.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:03 [Info] [Admin Logger] [08/21/2022 23:03:24] Void [76561198977454718] gave themselves 1000 x ammo.rifle.
+23:03 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:04 [Info] [Better Chat] [Global] [Player] Kondog: day time ?
+23:05 [Info] [Admin Logger] [08/21/2022 23:05:04] Void [76561198977454718] closed Padmin Menu.
+23:05 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:05 [Info] [Admin Logger] [08/21/2022 23:05:18] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+23:05 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:05 [Info] [Admin Logger] [08/21/2022 23:05:19] Void [76561198977454718] closed Padmin Menu.
+23:05 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:06 [Warning] [Auto Stash Traps] Void[76561198977454718] S24
+23:06 [Info] [Admin Logger] [08/21/2022 23:06:22] Void [76561198977454718] enabled Noclip.
+23:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:06 [Info] [Admin Logger] [08/21/2022 23:06:37] Void [76561198977454718] disabled Noclip.
+23:06 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:06 [Info] [Better Chat] [Global] [Player] RiRiTHC: 2-4
+23:06 [Info] [Better Chat] [Global] [Player] RiRiTHC: 2-5 where u at
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:00] Void [76561198977454718] closed Padmin Menu.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:07] Void [76561198977454718] enabled Noclip.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:18] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:20] Void [76561198977454718] closed Padmin Menu.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Better Chat] [Global] [Player] RiRiTHC: come to outpost
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:27] Void [76561198977454718] disabled Noclip.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Better Chat] [Global] [Player] RiRiTHC: im loaded
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:40] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:41] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:42] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:07 [Info] [Admin Logger] [08/21/2022 23:07:42] Void [76561198977454718] closed Padmin Menu.
+23:07 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:08 [Info] [Admin Logger] [08/21/2022 23:08:03] Void [76561198977454718] gave themselves 100 x antiradpills.
+23:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:08 [Info] [Admin Logger] [08/21/2022 23:08:19] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+23:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:08 [Info] [Admin Logger] [08/21/2022 23:08:20] Void [76561198977454718] closed Padmin Menu.
+23:08 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:09 [Info] [Admin Logger] [08/21/2022 23:09:26] Void [76561198977454718] gave themselves 1 x torch.
+23:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:09 [Info] [Admin Logger] [08/21/2022 23:09:31] Void [76561198977454718] gave themselves 1 x supply.signal.
+23:09 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:10 [Info] [Admin Logger] [08/21/2022 23:10:34] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+23:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:10 [Info] [Admin Logger] [08/21/2022 23:10:35] Void [76561198977454718] closed Padmin Menu.
+23:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:10 [Info] [Admin Logger] [08/21/2022 23:10:42] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+23:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:10 [Info] [Admin Logger] [08/21/2022 23:10:43] Void [76561198977454718] closed Padmin Menu.
+23:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:10 [Info] [Admin Logger] [08/21/2022 23:10:55] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+23:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:10 [Info] [Admin Logger] [08/21/2022 23:10:56] Void [76561198977454718] closed Padmin Menu.
+23:10 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:23] Void [76561198977454718] gave themselves 1000 x surveycharge.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:53] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:55] Void [76561198977454718] cleared the inventory of player Void [76561198977454718] using Padmin.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:11 [Info] [Admin Logger] [08/21/2022 23:11:57] Void [76561198977454718] closed Padmin Menu.
+23:11 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Warning] [BoxLooters] Saved Boxlooters data
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:17] Void [76561198977454718] enabled Noclip.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:31] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:32] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:33] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:34] Void [76561198977454718] closed Padmin Menu.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:39] Void [76561198977454718] hurt player irontweak6 [76561199205921376] for 50 points using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:40] Void [76561198977454718] reset the metabolism of player irontweak6 [76561199205921376] using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:46] Void [76561198977454718] healed player RiRiTHC [76561199065963062] for 100 points using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:47] Void [76561198977454718] recovered the metabolism of player RiRiTHC [76561199065963062] using Padmin.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:12 [Info] [Admin Logger] [08/21/2022 23:12:48] Void [76561198977454718] closed Padmin Menu.
+23:12 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:13 [Info] [Admin Logger] [08/21/2022 23:13:09] Void [76561198977454718] recovered the metabolism of player irontweak6 [76561199205921376] using Padmin.
+23:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:13 [Info] [Admin Logger] [08/21/2022 23:13:10] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 100 points using Padmin.
+23:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:13 [Info] [Admin Logger] [08/21/2022 23:13:11] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 0 points using Padmin.
+23:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:13 [Info] [Admin Logger] [08/21/2022 23:13:11] Void [76561198977454718] closed Padmin Menu.
+23:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:13 [Info] [Admin Logger] [08/21/2022 23:13:53] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+23:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:13 [Info] [Admin Logger] [08/21/2022 23:13:54] Void [76561198977454718] closed Padmin Menu.
+23:13 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:04] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:07] Void [76561198977454718] closed Padmin Menu.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:29] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:30] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:30] Void [76561198977454718] teleported RiRiTHC [76561199065963062] to themselves using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:32] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:32] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:33] Void [76561198977454718] closed Padmin Menu.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:38] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:14 [Info] [Admin Logger] [08/21/2022 23:14:49] Void [76561198977454718] closed Padmin Menu.
+23:14 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:15 [Info] [Admin Logger] [08/21/2022 23:15:29] Void [76561198977454718] started spectating player RiRiTHC [76561199065963062] using Padmin.
+23:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:15 [Info] [Admin Logger] [08/21/2022 23:15:31] Void [76561198977454718] closed Padmin Menu.
+23:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:15 [Info] [Admin Logger] [08/21/2022 23:15:44] Void [76561198977454718] Froze player irontweak6 [76561199205921376] using Padmin.
+23:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:15 [Info] [Admin Logger] [08/21/2022 23:15:47] Void [76561198977454718] started spectating player irontweak6 [76561199205921376] using Padmin.
+23:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:15 [Info] [Admin Logger] [08/21/2022 23:15:59] Void [76561198977454718] closed Padmin Menu.
+23:15 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:16 [Info] [Admin Logger] [08/21/2022 23:16:43] Void [76561198977454718] disabled Spectate mode.
+23:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:16 [Info] [Admin Logger] [08/21/2022 23:16:56] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+23:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:16 [Info] [Admin Logger] [08/21/2022 23:16:57] Void [76561198977454718] closed Padmin Menu.
+23:16 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:17 [Info] [Admin Logger] [08/21/2022 23:17:31] Void [76561198977454718] healed player irontweak6 [76561199205921376] for 25 points using Padmin.
+23:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:17 [Info] [Admin Logger] [08/21/2022 23:17:32] Void [76561198977454718] closed Padmin Menu.
+23:17 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:22 [Warning] [BoxLooters] Saved Boxlooters data
+23:22 [Info] [Better Chat] [Global] [Player] RiRiTHC: who wanna pvp
+23:22 [Info] [Admin Logger] [08/21/2022 23:22:33] Void [76561198977454718] closed Padmin Menu.
+23:22 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:25 [Info] [Admin Logger] [08/21/2022 23:25:55] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+23:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:25 [Info] [Admin Logger] [08/21/2022 23:25:56] Void [76561198977454718] closed Padmin Menu.
+23:25 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:27 [Warning] 'GatherManager v2.2.78' is using deprecated hook 'OnCollectiblePickup', which will stop working on Saturday, 31 December 2022. Please ask the author to update to 'OnCollectiblePickup(CollectibleEntity collectible, BasePlayer player)'
+23:32 [Warning] [BoxLooters] Saved Boxlooters data
+23:32 [Info] [Admin Logger] [08/21/2022 23:32:25] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+23:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:32 [Info] [Admin Logger] [08/21/2022 23:32:26] Void [76561198977454718] closed Padmin Menu.
+23:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:32 [Info] [Admin Logger] [08/21/2022 23:32:33] Void [76561198977454718] disabled Noclip.
+23:32 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:34 [Info] [Admin Logger] [08/21/2022 23:34:38] Void [76561198977454718] enabled Noclip.
+23:34 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:34 [Info] [Better Chat] [Team] [Player] Kondog: IM LOST
+23:35 [Info] [Admin Logger] [08/21/2022 23:35:03] Void [76561198977454718] disabled Noclip.
+23:35 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:36 [Info] [Better Chat] [Team] [Player] Kondog: IM LOGGING OUT
+23:36 [Info] [Admin Logger] [08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+23:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:36 [Info] [Admin Logger] [08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+23:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:36 [Info] [Admin Logger] [08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+23:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:36 [Info] [Admin Logger] [08/21/2022 23:36:17] Void [76561198977454718] gave themselves 1 x syringe.medical.
+23:36 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:36 [Info] [Better Chat] [Global] [Player] Kondog: abuse
+23:36 [Info] [Better Chat] [Global] [Player] RiRiTHC: ONG
+23:36 [Info] [Better Chat] [Global] [Player] Void: lol
+23:36 [Info] [Better Chat] [Global] [Player] RiRiTHC: hes tryna trade me a med for my bolty
+23:36 [Info] [Better Chat] [Global] [Player] Void: no
+23:37 [Info] [Better Chat] [Global] [Player] Void: false heal command not working
+23:37 [Info] [Admin Logger] [08/21/2022 23:37:18] Void [76561198977454718] enabled Noclip.
+23:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:37 [Info] [Admin Logger] [08/21/2022 23:37:35] Void [76561198977454718] closed Padmin Menu.
+23:37 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:38 [Info] [FancyDrop] Random Airdrop of type 'regular' incoming at: (246, 39, 1001) grid area: R8
+23:38 [Info] [FancyDrop] Timed Airdrop initiated with command 'ad.random'
+23:38 [Info] [FancyDrop] Next timed Airdrop in 45 minutes
+23:39 [Info] NoGiveNotices was compiled successfully in 1651ms
+23:39 [Info] Loaded plugin No Give Notices v0.3.0 by Wulf
+23:41 [Info] [Better Chat] [Team] [Player] Kondog: THEIRS A BEAR OUTSIDE OUR BASE
+23:42 [Warning] [BoxLooters] Saved Boxlooters data
+23:43 [Info] LootMultiplier was compiled successfully in 1837ms
+23:43 [Warning] [Loot Multiplier] Creating a new configuration file
+23:43 [Info] Loaded plugin Loot Multiplier v1.2.2 by Orange
+23:43 [Info] [Admin Logger] [08/21/2022 23:43:59] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+23:43 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:44 [Info] [Admin Logger] [08/21/2022 23:44:00] Void [76561198977454718] closed Padmin Menu.
+23:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:44 [Info] [Admin Logger] [08/21/2022 23:44:05] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+23:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:44 [Info] [Admin Logger] [08/21/2022 23:44:06] Void [76561198977454718] closed Padmin Menu.
+23:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:44 [Info] [Admin Logger] [08/21/2022 23:44:35] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+23:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:44 [Info] [Admin Logger] [08/21/2022 23:44:36] Void [76561198977454718] closed Padmin Menu.
+23:44 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:45 [Info] [Admin Logger] [08/21/2022 23:45:21] Void [76561198977454718] teleported to irontweak6 [76561199205921376] using Padmin.
+23:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:45 [Info] [Admin Logger] [08/21/2022 23:45:23] Void [76561198977454718] closed Padmin Menu.
+23:45 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:46 [Info] [FancyDrop] SupplySignal thrown by 'irontweak6' at: (1411.6, 0.2, 1555.4)
+23:48 [Info] [Admin Logger] [08/21/2022 23:48:14] Void [76561198977454718] spawned bear at (1386.0, 3.3, 1578.0).
+23:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:48 [Info] [Advert Messages] Cheating will result in a permanent ban.
+23:48 [Info] [Admin Logger] [08/21/2022 23:48:40] Void [76561198977454718] teleported irontweak6 [76561199205921376] to themselves using Padmin.
+23:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:48 [Info] [Admin Logger] [08/21/2022 23:48:40] Void [76561198977454718] closed Padmin Menu.
+23:48 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:49 [Info] [Admin Logger] [08/21/2022 23:49:04] Void [76561198977454718] closed Padmin Menu.
+23:49 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:51 [Info] [FancyDrop] RiRiTHC (76561199065963062) looted the Drop at: (1416, 0, 1547) grid area: Z4
+23:52 [Warning] [BoxLooters] Saved Boxlooters data
+23:53 [Info] [Admin Logger] [08/21/2022 23:53:44] Void [76561198977454718] disabled Noclip.
+23:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:53 [Info] [Admin Logger] [08/21/2022 23:53:49] Void [76561198977454718] enabled Noclip.
+23:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:53 [Info] [Admin Logger] [08/21/2022 23:53:54] Void [76561198977454718] disabled Noclip.
+23:53 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:54 [Info] [Admin Logger] [08/21/2022 23:54:09] Void [76561198977454718] enabled Noclip.
+23:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:54 [Info] [Admin Logger] [08/21/2022 23:54:19] Void [76561198977454718] disabled Noclip.
+23:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:54 [Info] [Admin Logger] [08/21/2022 23:54:29] Void [76561198977454718] enabled Noclip.
+23:54 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:09] Void [76561198977454718] disabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:14] Void [76561198977454718] enabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:19] Void [76561198977454718] disabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:29] Void [76561198977454718] enabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:34] Void [76561198977454718] disabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:39] Void [76561198977454718] enabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:55 [Info] [Admin Logger] [08/21/2022 23:55:59] Void [76561198977454718] disabled Noclip.
+23:55 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:56 [Info] [Admin Logger] [08/21/2022 23:56:04] Void [76561198977454718] enabled Noclip.
+23:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:56 [Info] [Admin Logger] [08/21/2022 23:56:18] Void [76561198977454718] teleported to Notwen [76561198984796327] using Padmin.
+23:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:56 [Info] [Admin Logger] [08/21/2022 23:56:19] Void [76561198977454718] closed Padmin Menu.
+23:56 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:57 [Info] [Admin Logger] [08/21/2022 23:57:49] Void [76561198977454718] teleported to RiRiTHC [76561199065963062] using Padmin.
+23:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:57 [Info] [Admin Logger] [08/21/2022 23:57:52] Void [76561198977454718] closed Padmin Menu.
+23:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:57 [Info] [Admin Logger] [08/21/2022 23:57:59] Void [76561198977454718] disabled Noclip.
+23:57 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:58 [Info] [Advert Messages] Welcome to our server, have fun!
+23:58 [Info] [Admin Logger] [08/21/2022 23:58:14] Void [76561198977454718] enabled Noclip.
+23:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
+23:58 [Info] [Admin Logger] [08/21/2022 23:58:44] Void [76561198977454718] disabled Noclip.
+23:58 [Info] [Admin Logger] Failed to post Discord webhook message: Malformed URL
